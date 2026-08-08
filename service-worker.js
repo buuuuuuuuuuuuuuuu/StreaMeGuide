@@ -1,4 +1,4 @@
-const APP_VERSION = "0.2.0";
+const APP_VERSION = "0.3.0";
 const CACHE_NAME = `streamguide-v${APP_VERSION}`;
 const SHELL_FILES = [
   "./",
@@ -14,7 +14,13 @@ self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => cache.addAll(SHELL_FILES))
   );
-  self.skipWaiting();
+  // Kein self.skipWaiting() hier: der neue Service Worker soll erst
+  // aktiv werden, wenn der Nutzer im "Neue Version verfügbar"-Banner
+  // auf "Jetzt laden" tippt (siehe app.js + message-Listener unten).
+});
+
+self.addEventListener("message", (event) => {
+  if (event.data === "SKIP_WAITING") self.skipWaiting();
 });
 
 self.addEventListener("activate", (event) => {

@@ -1,4 +1,4 @@
-const APP_VERSION = "0.2.0";
+const APP_VERSION = "0.3.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -551,9 +551,52 @@ async function init() {
 
   render();
 
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("service-worker.js").catch(() => {});
-  }
+  document.getElementById("footer-version").textContent = "v" + APP_VERSION;
+  registerServiceWorker();
+}
+
+// ---------- Service Worker / Update-Check ----------
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) return;
+
+  let reloading = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (reloading) return;
+    reloading = true;
+    window.location.reload();
+  });
+
+  navigator.serviceWorker.register("service-worker.js").then((reg) => {
+    // Falls beim Laden schon ein Update wartet (z.B. Tab war lange offen)
+    if (reg.waiting && navigator.serviceWorker.controller) {
+      showUpdateBanner(reg);
+    }
+
+    reg.addEventListener("updatefound", () => {
+      const newWorker = reg.installing;
+      if (!newWorker) return;
+      newWorker.addEventListener("statechange", () => {
+        if (newWorker.state === "installed" && navigator.serviceWorker.controller) {
+          showUpdateBanner(reg);
+        }
+      });
+    });
+
+    // Aktiv nach Update suchen: beim Öffnen und wenn die App wieder
+    // in den Vordergrund kommt (Browser prüft sonst nur sporadisch)
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible") reg.update().catch(() => {});
+    });
+  }).catch(() => {});
+}
+
+function showUpdateBanner(reg) {
+  const banner = document.getElementById("update-banner");
+  banner.classList.add("show");
+  document.getElementById("update-reload").onclick = () => {
+    banner.querySelector("button").disabled = true;
+    (reg.waiting || reg.installing)?.postMessage("SKIP_WAITING");
+  };
 }
 
 document.addEventListener("DOMContentLoaded", init);
