@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>StreamGuide</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0F1115">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <div class="topbar">
+    <div class="brand"><span class="dot">●</span> StreamGuide</div>
+    <div class="date" id="generated-at">wird geladen…</div>
+  </div>
+
+  <div class="panel" id="onboarding-panel">
+    <h3>Profile einrichten</h3>
+    <p>Nutze den Onboarding-Prompt in einem beliebigen LLM-Chat (Claude, ChatGPT …),
+      um dein Geschmacksprofil im Dialog zu ermitteln. Lade das Ergebnis (eine .json-Datei)
+      anschließend hier hoch – für bis zu zwei Personen.</p>
+
+    <button class="btn secondary small" id="copy-prompt" style="margin-bottom:14px;">Onboarding-Prompt kopieren</button>
+
+    <div class="upload-row">
+      <label class="btn" for="file-A">Profil A hochladen</label>
+      <input type="file" id="file-A" accept="application/json">
+      <label class="btn" for="file-B">Profil B hochladen</label>
+      <input type="file" id="file-B" accept="application/json">
+      <button class="btn secondary small" id="export-A">A exportieren</button>
+      <button class="btn secondary small" id="export-B">B exportieren</button>
+    </div>
+
+    <div class="status-row">
+      <span class="status-pill" id="status-A">Profil A: kein Upload</span>
+      <span class="status-pill" id="status-B">Profil B: kein Upload</span>
+    </div>
+  </div>
+
+  <div class="profile-switch" id="profile-switch"></div>
+
+  <div id="hero"></div>
+  <div id="list"></div>
+
+  <footer>StreamGuide v0.1.0 · Daten: TMDb, MediathekViewWeb</footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
