@@ -1,0 +1,89 @@
+{
+  "generated_at": null,
+  "items": [
+    {
+      "tmdb_id": 1396,
+      "title": "Breaking Bad",
+      "type": "tv",
+      "overview": "Ein Chemielehrer wird nach einer Krebsdiagnose zum Drogenkoch und gerät immer tiefer in die kriminelle Unterwelt.",
+      "genres": ["Drama", "Crime"],
+      "keywords": ["anti-hero", "meth", "familie"],
+      "rating": 8.9,
+      "vote_count": 14000,
+      "poster_path": null,
+      "providers": { "netflix": "flatrate", "prime": null, "mediathek": null }
+    },
+    {
+      "tmdb_id": 66732,
+      "title": "Stranger Things",
+      "type": "tv",
+      "overview": "In einer Kleinstadt verschwindet ein Junge spurlos, während übernatürliche Kräfte und ein geheimes Regierungsexperiment ans Licht kommen.",
+      "genres": ["Sci-Fi", "Horror", "Drama"],
+      "keywords": ["1980er", "übernatürlich", "freundschaft"],
+      "rating": 8.6,
+      "vote_count": 17000,
+      "poster_path": null,
+      "providers": { "netflix": "flatrate", "prime": null, "mediathek": null }
+    },
+    {
+      "tmdb_id": 42009,
+      "title": "The Marvelous Mrs. Maisel",
+      "type": "tv",
+      "overview": "Eine New Yorker Hausfrau entdeckt Anfang der 1960er ihr Talent für Stand-up-Comedy, nachdem ihre Ehe zerbricht.",
+      "genres": ["Comedy", "Drama"],
+      "keywords": ["1960er", "comedy", "emanzipation"],
+      "rating": 8.4,
+      "vote_count": 3200,
+      "poster_path": null,
+      "providers": { "netflix": null, "prime": "flatrate", "mediathek": null }
+    },
+    {
+      "tmdb_id": 87739,
+      "title": "The Grand Tour",
+      "type": "tv",
+      "overview": "Drei Moderatoren reisen um die Welt und testen Autos an ungewöhnlichen Orten.",
+      "genres": ["Reality", "Comedy"],
+      "keywords": ["autos", "reise"],
+      "rating": 8.1,
+      "vote_count": 1400,
+      "poster_path": null,
+      "providers": { "netflix": null, "prime": "flatrate", "mediathek": null }
+    },
+    {
+      "tmdb_id": 900001,
+      "title": "Terra X: Der Aufstieg der Menschheit",
+      "type": "tv",
+      "overview": "Wissenschaftliche Dokumentation über die Evolution des Menschen, mit aufwendigen Rekonstruktionen und aktuellen Forschungserkenntnissen.",
+      "genres": ["Documentary"],
+      "keywords": ["wissenschaft", "geschichte"],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "providers": { "netflix": null, "prime": null, "mediathek": "ZDF" }
+    },
+    {
+      "tmdb_id": 900002,
+      "title": "Tatort: Kalter Engel",
+      "type": "tv",
+      "overview": "Die Kommissare ermitteln in einem Mordfall, der ins Milieu der Stadtverwaltung führt.",
+      "genres": ["Crime"],
+      "keywords": ["krimi", "sonntagabend"],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "providers": { "netflix": null, "prime": null, "mediathek": "ARD" }
+    },
+    {
+      "tmdb_id": 500001,
+      "title": "Trash Island Love",
+      "type": "tv",
+      "overview": "Singles kämpfen auf einer Insel um Aufmerksamkeit und Rosen.",
+      "genres": ["Reality"],
+      "keywords": ["dating", "trash"],
+      "rating": 3.2,
+      "vote_count": 900,
+      "poster_path": null,
+      "providers": { "netflix": "flatrate", "prime": null, "mediathek": null }
+    }
+  ]
+}
