@@ -101,43 +101,57 @@ async function collectTmdbItems(genreMap) {
 }
 
 async function collectMediathekItems() {
-  // Grober Heuristik-Filter: Dokus/Reportagen der letzten 48h, Mindestlänge
-  // 20 Minuten, damit News-Häppchen und Trailer rausfallen. Anpassbar.
-  const body = {
-    queries: [{ fields: ["topic"], query: "" }],
-    sortBy: "timestamp",
-    sortOrder: "desc",
-    future: false,
-    offset: 0,
-    size: 30,
-    duration_min: 1200
-  };
-  try {
-    const res = await fetch("https://mediathekviewweb.de/api/query", {
-      method: "POST",
-      headers: { "Content-Type": "text/plain" },
-      body: JSON.stringify(body)
-    });
-    const data = await res.json();
-    const results = data.result?.results || [];
-    return results
-      .filter(r => ["ARD", "ZDF"].includes(r.channel))
-      .map(r => ({
-        tmdb_id: null,
-        title: r.title,
-        type: "tv",
-        overview: r.description || "",
-        genres: [],
-        keywords: [r.topic].filter(Boolean),
-        rating: null,
-        vote_count: 0,
-        poster_path: null,
-        providers: { netflix: null, prime: null, mediathek: r.channel }
-      }));
-  } catch (e) {
-    console.warn("MediathekViewWeb nicht erreichbar:", e.message);
-    return [];
+  // Deckt ARD, ZDF, ZDFneo und arte ab. Pro Sender einzeln abgefragt (statt
+  // einer generischen Suche), damit kleinere Sender wie arte/ZDFneo nicht
+  // von der Menge an ARD/ZDF-Inhalten verdrängt werden.
+  const channels = ["ARD", "ZDF", "ZDFneo", "arte"];
+  const collected = [];
+
+  for (const channel of channels) {
+    const body = {
+      queries: [{ fields: ["channel"], query: channel }],
+      sortBy: "timestamp",
+      sortOrder: "desc",
+      future: false,
+      offset: 0,
+      size: 20,
+      duration_min: 1200 // ab 20 Minuten, filtert News-Häppchen/Trailer raus
+    };
+    try {
+      const res = await fetch("https://mediathekviewweb.de/api/query", {
+        method: "POST",
+        headers: { "Content-Type": "text/plain" },
+        body: JSON.stringify(body)
+      });
+      const data = await res.json();
+      const results = (data.result?.results || []).filter(r => r.channel === channel);
+      results.forEach(r => {
+        collected.push({
+          tmdb_id: null,
+          title: r.title,
+          type: "tv",
+          overview: r.description || "",
+          genres: [],
+          keywords: [r.topic].filter(Boolean),
+          rating: null,
+          vote_count: 0,
+          poster_path: null,
+          providers: { netflix: null, prime: null, mediathek: r.channel }
+        });
+      });
+    } catch (e) {
+      console.warn(`MediathekViewWeb (${channel}) nicht erreichbar:`, e.message);
+    }
   }
+
+  // Duplikate (gleicher Titel + Sender, z.B. durch mehrere Ausstrahlungen) entfernen
+  const seen = new Set();
+  return collected.filter(it => {
+    const key = `${it.providers.mediathek}::${it.title}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 async function main() {
