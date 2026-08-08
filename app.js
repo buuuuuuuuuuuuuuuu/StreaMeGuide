@@ -1,7 +1,15 @@
-const APP_VERSION = "0.1.0";
+const APP_VERSION = "0.2.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
+const SWIPE_THRESHOLD = 80;
+
+const REASONS = {
+  like: ["Figuren", "Atmosphäre/Stimmung", "Spannung/Plot", "Humor", "Optik/Machart", "Thema", "Schauspieler:innen", "Sonstiges"],
+  dislike: ["Zu langsam", "Vorhersehbar", "Charaktere unsympathisch", "Thema nicht meins", "Humor passt nicht", "Schlechte Machart", "Zu aufwendig/lang", "Sonstiges"],
+  not_interested: ["Genre nicht meins", "Thema nicht meins", "Kenn ich schon", "Zu gehypt", "Falscher Zeitpunkt", "Sonstiges"]
+};
+const CATEGORY_LABEL = { like: "Gut bewertet", dislike: "Nicht gut bewertet", not_interested: "Sowas nicht" };
 
 let state = {
   profiles: { A: null, B: null }, // preferences.json content per slot
@@ -31,13 +39,38 @@ async function loadRecommendations() {
   return { generated_at: null, items: [] };
 }
 
+// ---------- item identity (tmdb_id when available, title fallback for Mediathek) ----------
+function itemKey(item) {
+  return item.tmdb_id != null ? "t:" + item.tmdb_id : "n:" + (item.title || "").toLowerCase();
+}
+
+function ensureLists(prefs) {
+  prefs.seen_liked = prefs.seen_liked || [];
+  prefs.seen_disliked = prefs.seen_disliked || [];
+  prefs.not_interested = prefs.not_interested || [];
+  prefs.loved_titles = prefs.loved_titles || [];
+}
+
+function excludedKeySet(prefs) {
+  ensureLists(prefs);
+  const s = new Set();
+  [...prefs.seen_liked, ...prefs.seen_disliked, ...prefs.not_interested].forEach(e => {
+    s.add(e.tmdb_id != null ? "t:" + e.tmdb_id : "n:" + (e.title || "").toLowerCase());
+  });
+  return s;
+}
+
 // ---------- scoring ----------
 function buildLovedGenreWeights(prefs, items) {
   const weights = {};
-  if (!prefs || !prefs.loved_titles) return weights;
-  const lovedIds = new Set(prefs.loved_titles.map(t => t.tmdb_id).filter(Boolean));
+  if (!prefs) return weights;
+  ensureLists(prefs);
+  const lovedKeys = new Set([
+    ...prefs.loved_titles.map(t => t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase()),
+    ...prefs.seen_liked.map(t => t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase())
+  ]);
   items.forEach(it => {
-    if (lovedIds.has(it.tmdb_id)) {
+    if (lovedKeys.has(itemKey(it))) {
       (it.genres || []).forEach(g => { weights[g] = (weights[g] || 0) + 1; });
     }
   });
@@ -53,8 +86,9 @@ function qualifyingProviders(item) {
   return out;
 }
 
-function scoreForProfile(item, prefs, lovedWeights) {
+function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
   if (!prefs) return { pass: true, score: item.rating || 0 };
+  if (excludedKeys && excludedKeys.has(itemKey(item))) return { pass: false };
   const genres = item.genres || [];
   const keywords = (item.keywords || []).map(k => k.toLowerCase());
   const hay = ((item.title || "") + " " + (item.overview || "")).toLowerCase();
@@ -85,11 +119,11 @@ function computeList() {
   if (view === "both") {
     const A = state.profiles.A, B = state.profiles.B;
     if (!A || !B) return [];
-    const wA = buildLovedGenreWeights(A, items);
-    const wB = buildLovedGenreWeights(B, items);
+    const wA = buildLovedGenreWeights(A, items), wB = buildLovedGenreWeights(B, items);
+    const exA = excludedKeySet(A), exB = excludedKeySet(B);
     return items.map(it => {
-      const sa = scoreForProfile(it, A, wA);
-      const sb = scoreForProfile(it, B, wB);
+      const sa = scoreForProfile(it, A, wA, exA);
+      const sb = scoreForProfile(it, B, wB, exB);
       if (!sa.pass || !sb.pass) return null;
       return { item: it, score: Math.min(sa.score, sb.score) };
     }).filter(Boolean).sort((a, b) => b.score - a.score);
@@ -97,8 +131,9 @@ function computeList() {
 
   const prefs = state.profiles[view];
   const w = buildLovedGenreWeights(prefs, items);
+  const ex = prefs ? excludedKeySet(prefs) : null;
   return items.map(it => {
-    const s = scoreForProfile(it, prefs, w);
+    const s = scoreForProfile(it, prefs, w, ex);
     if (!s.pass) return null;
     return { item: it, score: s.score };
   }).filter(Boolean).sort((a, b) => b.score - a.score);
@@ -168,16 +203,21 @@ function render() {
   }
 
   const [top, ...rest] = list;
-  const prefsForLove = state.profiles[state.activeView === "both" ? "A" : state.activeView];
+  const singleProfile = state.activeView !== "both" ? state.activeView : null;
+  const prefsForLove = state.profiles[singleProfile || "A"];
 
   heroSlot.innerHTML = `
-    <div class="ticket">
-      <div class="eyebrow">Heute Abend</div>
-      <h2>${escapeHtml(top.item.title)}</h2>
-      <p class="overview">${escapeHtml((top.item.overview || "").slice(0, 180))}${(top.item.overview || "").length > 180 ? "…" : ""}</p>
-      <div class="stub">
-        <span>${badgeHtml(top.item)}</span>
-        <span>${top.item.rating ? "★ " + top.item.rating.toFixed(1) : ""}</span>
+    <div class="swipe-wrap" data-key="${itemKey(top.item)}">
+      <div class="swipe-hint hint-left">👀 Gesehen?</div>
+      <div class="swipe-hint hint-right">🚫 Nicht interessiert</div>
+      <div class="swipe-surface ticket">
+        <div class="eyebrow">Heute Abend</div>
+        <h2>${escapeHtml(top.item.title)}</h2>
+        <p class="overview">${escapeHtml((top.item.overview || "").slice(0, 180))}${(top.item.overview || "").length > 180 ? "…" : ""}</p>
+        <div class="stub">
+          <span>${badgeHtml(top.item)}</span>
+          <span>${top.item.rating ? "★ " + top.item.rating.toFixed(1) : ""}</span>
+        </div>
       </div>
     </div>
   `;
@@ -185,7 +225,7 @@ function render() {
   const groups = { netflix: [], prime: [], mediathek: [] };
   rest.forEach(entry => {
     qualifyingProviders(entry.item).forEach(p => {
-      if (!groups[p.key].some(e => e.item.tmdb_id === entry.item.tmdb_id)) groups[p.key].push(entry);
+      if (!groups[p.key].some(e => itemKey(e.item) === itemKey(entry.item))) groups[p.key].push(entry);
     });
   });
 
@@ -197,14 +237,18 @@ function render() {
     groups[key].forEach((entry, i) => {
       const loved = isLoved(entry.item, prefsForLove);
       html += `
-        <div class="card">
-          <div class="rank">${String(i + 1).padStart(2, "0")}</div>
-          <div class="body">
-            <h3>${escapeHtml(entry.item.title)}</h3>
-            <div class="genres">${(entry.item.genres || []).join(" · ")}</div>
-            <div class="badges">${badgeHtml(entry.item)}</div>
+        <div class="swipe-wrap" data-key="${itemKey(entry.item)}">
+          <div class="swipe-hint hint-left">👀 Gesehen?</div>
+          <div class="swipe-hint hint-right">🚫 Nicht interessiert</div>
+          <div class="swipe-surface card">
+            <div class="rank">${String(i + 1).padStart(2, "0")}</div>
+            <div class="body">
+              <h3>${escapeHtml(entry.item.title)}</h3>
+              <div class="genres">${(entry.item.genres || []).join(" · ")}</div>
+              <div class="badges">${badgeHtml(entry.item)}</div>
+            </div>
+            <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id ?? ""}" title="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
           </div>
-          <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id}" title="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
         </div>
       `;
     });
@@ -212,10 +256,212 @@ function render() {
   listSlot.innerHTML = html;
 
   listSlot.querySelectorAll(".love-btn").forEach(btn => {
-    btn.onclick = () => {
-      const id = Number(btn.dataset.id);
+    btn.onclick = (ev) => {
+      ev.stopPropagation();
+      const id = btn.dataset.id ? Number(btn.dataset.id) : null;
       const it = (state.recs.items || []).find(x => x.tmdb_id === id);
       if (it) toggleLove(it);
+    };
+  });
+
+  if (singleProfile) {
+    [heroSlot, listSlot].forEach(container => {
+      container.querySelectorAll(".swipe-wrap").forEach(wrap => attachSwipe(wrap, singleProfile));
+    });
+  }
+}
+
+// ---------- swipe gestures ----------
+function findItemByKey(key) {
+  return (state.recs.items || []).find(it => itemKey(it) === key);
+}
+
+function attachSwipe(wrapEl, profileKey) {
+  const surface = wrapEl.querySelector(".swipe-surface");
+  const hintLeft = wrapEl.querySelector(".hint-left");
+  const hintRight = wrapEl.querySelector(".hint-right");
+  let startX = 0, startY = 0, dx = 0, dragging = false, locked = null;
+
+  function reset() {
+    surface.style.transition = "transform .2s ease";
+    surface.style.transform = "translateX(0)";
+    hintLeft.style.opacity = 0;
+    hintRight.style.opacity = 0;
+  }
+
+  wrapEl.addEventListener("pointerdown", (e) => {
+    dragging = true; locked = null; startX = e.clientX; startY = e.clientY; dx = 0;
+    surface.style.transition = "none";
+    wrapEl.setPointerCapture(e.pointerId);
+  });
+
+  wrapEl.addEventListener("pointermove", (e) => {
+    if (!dragging) return;
+    const dy = e.clientY - startY;
+    dx = e.clientX - startX;
+    if (locked === null) locked = Math.abs(dx) > Math.abs(dy) ? "h" : "v";
+    if (locked === "v") return;
+    surface.style.transform = `translateX(${dx}px)`;
+    hintLeft.style.opacity = dx < 0 ? Math.min(Math.abs(dx) / SWIPE_THRESHOLD, 1) : 0;
+    hintRight.style.opacity = dx > 0 ? Math.min(dx / SWIPE_THRESHOLD, 1) : 0;
+  });
+
+  function onEnd() {
+    if (!dragging) return;
+    dragging = false;
+    if (locked !== "h") { reset(); return; }
+    const item = findItemByKey(wrapEl.dataset.key);
+    if (dx <= -SWIPE_THRESHOLD && item) {
+      surface.style.transition = "transform .15s ease";
+      surface.style.transform = `translateX(-${SWIPE_THRESHOLD + 10}px)`;
+      openThumbChoice(item, profileKey, () => reset());
+    } else if (dx >= SWIPE_THRESHOLD && item) {
+      surface.style.transition = "transform .15s ease";
+      surface.style.transform = `translateX(${SWIPE_THRESHOLD + 10}px)`;
+      openReasonStep({
+        headline: `Nicht interessiert an „${item.title}“`,
+        reasonOptions: REASONS.not_interested,
+        onSave: (reasons) => { finalizeClassification(profileKey, item, "not_interested", reasons); },
+        onCancel: () => reset()
+      });
+    } else {
+      reset();
+    }
+  }
+  wrapEl.addEventListener("pointerup", onEnd);
+  wrapEl.addEventListener("pointercancel", onEnd);
+}
+
+function finalizeClassification(profileKey, item, category, reasons) {
+  const prefs = state.profiles[profileKey];
+  if (!prefs) return;
+  ensureLists(prefs);
+  const entry = { tmdb_id: item.tmdb_id ?? null, title: item.title, genres: item.genres || [], reasons, rated_at: new Date().toISOString() };
+  const key = category === "like" ? "seen_liked" : category === "dislike" ? "seen_disliked" : "not_interested";
+  prefs[key] = prefs[key].filter(e => (e.tmdb_id ?? null) !== (item.tmdb_id ?? null) || e.title !== item.title);
+  prefs[key].push(entry);
+  saveProfiles();
+  closeModal();
+  render();
+}
+
+// ---------- modal ----------
+function closeModal() {
+  document.getElementById("modal-overlay").classList.remove("open");
+  document.getElementById("modal-content").innerHTML = "";
+}
+
+function openThumbChoice(item, profileKey, onCancel) {
+  const content = document.getElementById("modal-content");
+  content.innerHTML = `
+    <div class="modal-headline">Wie fandest du „${escapeHtml(item.title)}“?</div>
+    <div class="thumb-row">
+      <button class="thumb-btn up" id="thumb-up">👍 Mehr davon</button>
+      <button class="thumb-btn down" id="thumb-down">👎 Sowas nicht</button>
+    </div>
+    <button class="btn secondary small modal-cancel">Abbrechen</button>
+  `;
+  document.getElementById("modal-overlay").classList.add("open");
+  content.querySelector(".modal-cancel").onclick = () => { closeModal(); onCancel && onCancel(); };
+  content.querySelector("#thumb-up").onclick = () => openReasonStep({
+    headline: `Was hat dir an „${item.title}“ gefallen?`,
+    reasonOptions: REASONS.like,
+    onSave: (reasons) => finalizeClassification(profileKey, item, "like", reasons),
+    onCancel
+  });
+  content.querySelector("#thumb-down").onclick = () => openReasonStep({
+    headline: `Was hat dir an „${item.title}“ nicht gefallen?`,
+    reasonOptions: REASONS.dislike,
+    onSave: (reasons) => finalizeClassification(profileKey, item, "dislike", reasons),
+    onCancel
+  });
+}
+
+function openReasonStep({ headline, reasonOptions, initialSelected = [], onSave, onCancel, onRemove }) {
+  const selected = new Set(initialSelected);
+  const content = document.getElementById("modal-content");
+  content.innerHTML = `
+    <div class="modal-headline">${escapeHtml(headline)}</div>
+    <div class="chip-grid">
+      ${reasonOptions.map(r => `<button class="chip reason-chip ${selected.has(r) ? "active" : ""}" data-r="${escapeHtml(r)}">${escapeHtml(r)}</button>`).join("")}
+    </div>
+    <div class="modal-actions">
+      <button class="btn small" id="reason-save">Speichern</button>
+      ${onRemove ? `<button class="btn secondary small" id="reason-remove">Aus Liste entfernen</button>` : ""}
+      <button class="btn secondary small modal-cancel">Abbrechen</button>
+    </div>
+  `;
+  document.getElementById("modal-overlay").classList.add("open");
+  content.querySelectorAll(".reason-chip").forEach(chip => {
+    chip.onclick = () => {
+      const r = chip.dataset.r;
+      if (selected.has(r)) { selected.delete(r); chip.classList.remove("active"); }
+      else { selected.add(r); chip.classList.add("active"); }
+    };
+  });
+  content.querySelector("#reason-save").onclick = () => onSave([...selected]);
+  if (onRemove) content.querySelector("#reason-remove").onclick = onRemove;
+  content.querySelector(".modal-cancel").onclick = () => { closeModal(); onCancel && onCancel(); };
+}
+
+// ---------- Profil verfeinern ----------
+function renderRefineView() {
+  const view = document.getElementById("refine-view");
+  const profileKey = state.activeView !== "both" ? state.activeView : "A";
+  const prefs = state.profiles[profileKey];
+  if (!prefs) {
+    view.querySelector("#refine-body").innerHTML = `<div class="empty">Für dieses Profil wurde noch nichts bewertet.</div>`;
+    return;
+  }
+  ensureLists(prefs);
+  view.querySelector("#refine-title").textContent = `Profil verfeinern – ${prefs.profile_name}`;
+
+  const sections = [
+    ["like", prefs.seen_liked],
+    ["dislike", prefs.seen_disliked],
+    ["not_interested", prefs.not_interested]
+  ];
+  let html = "";
+  sections.forEach(([cat, entries]) => {
+    html += `<div class="section-label">${CATEGORY_LABEL[cat]} (${entries.length})</div>`;
+    if (!entries.length) { html += `<div class="empty">Noch keine Einträge.</div>`; return; }
+    entries.slice().reverse().forEach((e, idx) => {
+      const realIdx = entries.length - 1 - idx;
+      html += `
+        <div class="card refine-row" data-cat="${cat}" data-idx="${realIdx}">
+          <div class="body">
+            <h3>${escapeHtml(e.title)}</h3>
+            <div class="genres">${(e.reasons || []).join(" · ") || "Kein Grund angegeben"}</div>
+          </div>
+        </div>
+      `;
+    });
+  });
+  view.querySelector("#refine-body").innerHTML = html;
+
+  view.querySelectorAll(".refine-row").forEach(row => {
+    row.onclick = () => {
+      const cat = row.dataset.cat;
+      const idx = Number(row.dataset.idx);
+      const entry = prefs[cat === "like" ? "seen_liked" : cat === "dislike" ? "seen_disliked" : "not_interested"][idx];
+      openReasonStep({
+        headline: `Grund bearbeiten: „${entry.title}“`,
+        reasonOptions: REASONS[cat],
+        initialSelected: entry.reasons || [],
+        onSave: (reasons) => {
+          entry.reasons = reasons;
+          saveProfiles();
+          closeModal();
+          renderRefineView();
+        },
+        onRemove: () => {
+          const list = prefs[cat === "like" ? "seen_liked" : cat === "dislike" ? "seen_disliked" : "not_interested"];
+          list.splice(idx, 1);
+          saveProfiles();
+          closeModal();
+          renderRefineView();
+        }
+      });
     };
   });
 }
@@ -272,6 +518,21 @@ async function init() {
   setupUpload("B");
   document.getElementById("export-A").onclick = () => exportProfile("A");
   document.getElementById("export-B").onclick = () => exportProfile("B");
+
+  document.getElementById("refine-btn").onclick = () => {
+    if (state.activeView === "both") {
+      alert("Zum Verfeinern bitte oben ein einzelnes Profil (A oder B) wählen.");
+      return;
+    }
+    renderRefineView();
+    document.getElementById("refine-view").classList.add("open");
+  };
+  document.getElementById("refine-close").onclick = () => {
+    document.getElementById("refine-view").classList.remove("open");
+  };
+  document.getElementById("modal-overlay").addEventListener("click", (e) => {
+    if (e.target.id === "modal-overlay") closeModal();
+  });
 
   document.getElementById("copy-prompt").onclick = async () => {
     const res = await fetch("onboarding-prompt.md");

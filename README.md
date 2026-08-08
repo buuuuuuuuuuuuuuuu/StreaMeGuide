@@ -36,9 +36,10 @@ nach zwei individuellen Geschmacksprofilen.
 - Netflix/Prime haben keine offizielle Katalog-API. Die Verfügbarkeits­daten
   kommen über TMDb (Quelle: JustWatch) und spiegeln die *regionale*
   Verfügbarkeit – nicht zwingend exakt deinen individuellen Tarif.
-- Die Mediathek-Auswahl ist aktuell ein einfacher Heuristik-Filter (Sender
-  ARD/ZDF, Mindestlänge 20 Min., letzte 48h) – Feintuning in
-  `scripts/fetch-recommendations.mjs` möglich.
+- Die Mediathek-Auswahl deckt ARD, ZDF, ZDFneo und arte ab (einfacher
+  Heuristik-Filter: Mindestlänge 20 Min., aktuellste Einträge je Sender) –
+  Feintuning in `scripts/fetch-recommendations.mjs` möglich, z. B. weitere
+  Sender wie 3sat oder KiKA per `channels`-Array ergänzen.
 - Lieblingstitel-Ergänzung ohne LLM: In der App bei einem Titel auf das Herz
   tippen, das trägt ihn direkt in `loved_titles` des aktiven Profils ein.
   Über "Profil exportieren" lässt sich die aktualisierte Datei sichern.

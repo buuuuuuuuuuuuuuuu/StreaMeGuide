@@ -333,3 +333,99 @@ footer{
   color: var(--text-dim);
   font-family:'IBM Plex Mono', monospace;
 }
+
+/* ---------- swipe ---------- */
+.swipe-wrap{
+  position: relative;
+  overflow: hidden;
+  touch-action: pan-y;
+  margin-bottom: 2px;
+}
+.swipe-hint{
+  position: absolute;
+  top: 0; bottom: 0;
+  width: 55%;
+  display:flex;
+  align-items:center;
+  font-size: 13px;
+  font-family:'IBM Plex Mono', monospace;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+.hint-left{ left:0; justify-content:flex-start; padding-left: 16px; color: var(--teal); }
+.hint-right{ right:0; justify-content:flex-end; padding-right: 16px; color: var(--danger); }
+.swipe-surface{
+  position: relative;
+  z-index: 1;
+  background: var(--bg);
+  will-change: transform;
+}
+.swipe-surface.card{ margin-bottom: 0; }
+
+/* ---------- modal ---------- */
+.overlay{
+  display:none;
+  position: fixed;
+  inset: 0;
+  background: rgba(6,7,10,0.72);
+  z-index: 50;
+  align-items: flex-end;
+  justify-content: center;
+}
+.overlay.open{ display:flex; }
+.overlay.full{ align-items: stretch; }
+
+.modal{
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 16px 16px 0 0;
+  padding: 20px 18px calc(20px + env(safe-area-inset-bottom));
+  width: 100%;
+  max-width: 720px;
+}
+.modal-headline{
+  font-family:'Fraunces', serif;
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+.thumb-row{ display:flex; gap: 10px; margin-bottom: 14px; }
+.thumb-btn{
+  flex:1;
+  padding: 14px 10px;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 14px;
+}
+.thumb-btn.up:active{ border-color: var(--teal); }
+.thumb-btn.down:active{ border-color: var(--danger); }
+
+.chip-grid{
+  display:flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.modal-actions{ display:flex; gap: 10px; flex-wrap: wrap; }
+
+/* ---------- refine view ---------- */
+.refine-panel{
+  background: var(--bg);
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+  overflow-y: auto;
+}
+.refine-header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom: 10px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--line);
+}
+.refine-row{ cursor: pointer; }
+.refine-row:active{ background: var(--surface); }

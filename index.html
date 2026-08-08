@@ -41,10 +41,30 @@
 
   <div class="profile-switch" id="profile-switch"></div>
 
+  <button class="btn secondary small" id="refine-btn" style="margin-bottom:18px;">✎ Profil verfeinern</button>
+
   <div id="hero"></div>
   <div id="list"></div>
 
-  <footer>StreamGuide v0.1.0 · Daten: TMDb, MediathekViewWeb</footer>
+  <footer>StreamGuide v0.2.0 · Daten: TMDb, MediathekViewWeb</footer>
+</div>
+
+<!-- Reaktions-Modal (Daumen hoch/runter, Gründe) -->
+<div id="modal-overlay" class="overlay">
+  <div class="modal">
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+<!-- Profil verfeinern: Übersicht aller bewerteten Titel -->
+<div id="refine-view" class="overlay full">
+  <div class="refine-panel">
+    <div class="refine-header">
+      <h3 id="refine-title">Profil verfeinern</h3>
+      <button class="btn secondary small" id="refine-close">Schließen</button>
+    </div>
+    <div id="refine-body"></div>
+  </div>
 </div>
 
 <script src="app.js"></script>
