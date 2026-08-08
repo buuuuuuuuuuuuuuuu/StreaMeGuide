@@ -1,4 +1,4 @@
-const APP_VERSION = "0.3.0";
+const APP_VERSION = "0.4.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -192,13 +192,13 @@ function render() {
 
   if (uploadNeeded) {
     heroSlot.innerHTML = "";
-    listSlot.innerHTML = `<div class="empty">Noch kein Profil hinterlegt. Lade oben deine Vorlieben-Datei hoch, um Empfehlungen zu sehen.</div>`;
+    listSlot.innerHTML = `<div class="empty">Noch kein Profil da. Lade oben deine Vorlieben-Datei hoch – dann wird hier sortiert.</div>`;
     return;
   }
 
   if (!list.length) {
     heroSlot.innerHTML = "";
-    listSlot.innerHTML = `<div class="empty">Nichts, was zu diesem Geschmack passt – schau später wieder rein.</div>`;
+    listSlot.innerHTML = `<div class="empty">Heute passt nichts. Morgen gibt es frische Vorschläge.</div>`;
     return;
   }
 
@@ -207,17 +207,19 @@ function render() {
   const prefsForLove = state.profiles[singleProfile || "A"];
 
   heroSlot.innerHTML = `
-    <div class="swipe-wrap" data-key="${itemKey(top.item)}">
-      <div class="swipe-hint hint-left">👀 Gesehen?</div>
-      <div class="swipe-hint hint-right">🚫 Nicht interessiert</div>
-      <div class="swipe-surface ticket">
-        <div class="eyebrow">Heute Abend</div>
-        <h2>${escapeHtml(top.item.title)}</h2>
-        <p class="overview">${escapeHtml((top.item.overview || "").slice(0, 180))}${(top.item.overview || "").length > 180 ? "…" : ""}</p>
-        <div class="stub">
-          <span>${badgeHtml(top.item)}</span>
-          <span>${top.item.rating ? "★ " + top.item.rating.toFixed(1) : ""}</span>
-        </div>
+    <div class="stack">
+      <div class="swipe-wrap" data-key="${itemKey(top.item)}">
+        <div class="swipe-hint hint-left">👀 Gesehen?</div>
+        <div class="swipe-hint hint-right">🙅 Nicht mein Ding</div>
+        <article class="swipe-surface hero-card">
+          <span class="eyebrow">Heute Abend</span>
+          <h2>${escapeHtml(top.item.title)}</h2>
+          <p class="overview">${escapeHtml((top.item.overview || "").slice(0, 180))}${(top.item.overview || "").length > 180 ? "…" : ""}</p>
+          <div class="hero-foot">
+            <span class="badges">${badgeHtml(top.item)}</span>
+            ${top.item.rating ? `<span class="score">★ ${top.item.rating.toFixed(1)}</span>` : ""}
+          </div>
+        </article>
       </div>
     </div>
   `;
@@ -239,16 +241,16 @@ function render() {
       html += `
         <div class="swipe-wrap" data-key="${itemKey(entry.item)}">
           <div class="swipe-hint hint-left">👀 Gesehen?</div>
-          <div class="swipe-hint hint-right">🚫 Nicht interessiert</div>
-          <div class="swipe-surface card">
-            <div class="rank">${String(i + 1).padStart(2, "0")}</div>
+          <div class="swipe-hint hint-right">🙅 Nicht mein Ding</div>
+          <article class="swipe-surface card">
+            <span class="rank">${String(i + 1).padStart(2, "0")}</span>
             <div class="body">
               <h3>${escapeHtml(entry.item.title)}</h3>
               <div class="genres">${(entry.item.genres || []).join(" · ")}</div>
               <div class="badges">${badgeHtml(entry.item)}</div>
             </div>
-            <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id ?? ""}" title="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
-          </div>
+            <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id ?? ""}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
+          </article>
         </div>
       `;
     });
@@ -356,8 +358,8 @@ function openThumbChoice(item, profileKey, onCancel) {
   content.innerHTML = `
     <div class="modal-headline">Wie fandest du „${escapeHtml(item.title)}“?</div>
     <div class="thumb-row">
-      <button class="thumb-btn up" id="thumb-up">👍 Mehr davon</button>
-      <button class="thumb-btn down" id="thumb-down">👎 Sowas nicht</button>
+      <button class="thumb-btn up" id="thumb-up"><span class="emo">👍</span>Mehr davon</button>
+      <button class="thumb-btn down" id="thumb-down"><span class="emo">👎</span>Sowas nicht</button>
     </div>
     <button class="btn secondary small modal-cancel">Abbrechen</button>
   `;
@@ -410,7 +412,7 @@ function renderRefineView() {
   const profileKey = state.activeView !== "both" ? state.activeView : "A";
   const prefs = state.profiles[profileKey];
   if (!prefs) {
-    view.querySelector("#refine-body").innerHTML = `<div class="empty">Für dieses Profil wurde noch nichts bewertet.</div>`;
+    view.querySelector("#refine-body").innerHTML = `<div class="empty">Für dieses Profil wurde noch nichts bewertet. Wisch dich durch die Vorschläge.</div>`;
     return;
   }
   ensureLists(prefs);
@@ -428,11 +430,12 @@ function renderRefineView() {
     entries.slice().reverse().forEach((e, idx) => {
       const realIdx = entries.length - 1 - idx;
       html += `
-        <div class="card refine-row" data-cat="${cat}" data-idx="${realIdx}">
+        <div class="card refine-row" data-cat="${cat}" data-idx="${realIdx}" role="button" tabindex="0">
           <div class="body">
             <h3>${escapeHtml(e.title)}</h3>
             <div class="genres">${(e.reasons || []).join(" · ") || "Kein Grund angegeben"}</div>
           </div>
+          <span class="rank">✎</span>
         </div>
       `;
     });

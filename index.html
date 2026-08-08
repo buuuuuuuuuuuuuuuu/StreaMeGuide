@@ -5,69 +5,68 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>StreamGuide</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#0F1115">
+<meta name="theme-color" content="#F4F0FF">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div id="app">
+<main id="app">
 
-  <div class="topbar">
-    <div class="brand"><span class="dot">●</span> StreamGuide</div>
-    <div class="date" id="generated-at">wird geladen…</div>
-  </div>
+  <header class="topbar">
+    <div class="brand"><span class="blob" aria-hidden="true"></span> StreamGuide</div>
+    <div class="date" id="generated-at">lädt…</div>
+  </header>
 
-  <div class="panel" id="onboarding-panel">
-    <h3>Profile einrichten</h3>
-    <p>Nutze den Onboarding-Prompt in einem beliebigen LLM-Chat (Claude, ChatGPT …),
-      um dein Geschmacksprofil im Dialog zu ermitteln. Lade das Ergebnis (eine .json-Datei)
-      anschließend hier hoch – für bis zu zwei Personen.</p>
+  <section class="panel" id="onboarding-panel">
+    <h3>Erst der Geschmack, dann der Abend</h3>
+    <p>Hol dir den Onboarding-Prompt, führ das Gespräch in einem beliebigen
+      LLM-Chat und lade die fertige Datei hier hoch. Für bis zu zwei Personen.</p>
 
-    <button class="btn secondary small" id="copy-prompt" style="margin-bottom:14px;">Onboarding-Prompt kopieren</button>
+    <button class="btn bubble small" id="copy-prompt" style="margin-bottom:14px;">📋 Prompt kopieren</button>
 
     <div class="upload-row">
-      <label class="btn" for="file-A">Profil A hochladen</label>
+      <label class="btn" for="file-A">Profil A laden</label>
       <input type="file" id="file-A" accept="application/json">
-      <label class="btn" for="file-B">Profil B hochladen</label>
+      <label class="btn" for="file-B">Profil B laden</label>
       <input type="file" id="file-B" accept="application/json">
-      <button class="btn secondary small" id="export-A">A exportieren</button>
-      <button class="btn secondary small" id="export-B">B exportieren</button>
+      <button class="btn secondary small" id="export-A">A sichern</button>
+      <button class="btn secondary small" id="export-B">B sichern</button>
     </div>
 
     <div class="status-row">
-      <span class="status-pill" id="status-A">Profil A: kein Upload</span>
-      <span class="status-pill" id="status-B">Profil B: kein Upload</span>
+      <span class="status-pill" id="status-A">Profil A: leer</span>
+      <span class="status-pill" id="status-B">Profil B: leer</span>
     </div>
-  </div>
+  </section>
 
-  <div class="profile-switch" id="profile-switch"></div>
+  <nav class="profile-switch" id="profile-switch" aria-label="Profil wählen"></nav>
 
-  <button class="btn secondary small" id="refine-btn" style="margin-bottom:18px;">✎ Profil verfeinern</button>
+  <button class="btn mint small" id="refine-btn" style="margin-bottom:20px;">✎ Profil verfeinern</button>
 
   <div id="hero"></div>
   <div id="list"></div>
 
-  <footer>StreamGuide <span id="footer-version">v…</span> · Daten: TMDb, MediathekViewWeb</footer>
-</div>
+  <footer>StreamGuide <span id="footer-version">v…</span> · TMDb &amp; MediathekViewWeb</footer>
+</main>
 
-<!-- Update-Banner -->
 <div id="update-banner" class="update-banner">
-  <span>Neue Version verfügbar</span>
+  <span>✨ Neue Version da</span>
   <button id="update-reload" class="btn small">Jetzt laden</button>
 </div>
 
-<!-- Reaktions-Modal (Daumen hoch/runter, Gründe) -->
 <div id="modal-overlay" class="overlay">
   <div class="modal">
     <div id="modal-content"></div>
   </div>
 </div>
 
-<!-- Profil verfeinern: Übersicht aller bewerteten Titel -->
 <div id="refine-view" class="overlay full">
   <div class="refine-panel">
     <div class="refine-header">
       <h3 id="refine-title">Profil verfeinern</h3>
-      <button class="btn secondary small" id="refine-close">Schließen</button>
+      <button class="btn secondary small" id="refine-close">Fertig</button>
     </div>
     <div id="refine-body"></div>
   </div>
