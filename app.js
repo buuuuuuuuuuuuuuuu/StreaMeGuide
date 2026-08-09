@@ -1,4 +1,4 @@
-const APP_VERSION = "1.0.0";
+const APP_VERSION = "1.1.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -256,6 +256,12 @@ function renderProfileSwitch() {
   });
 }
 
+function metaLine(item) {
+  const parts = [...(item.genres || [])];
+  if (item.duration) parts.push(Math.round(item.duration / 60) + " Min");
+  return parts.join(" · ");
+}
+
 function watchLinkHtml(item) {
   if (!item.url) return "";
   return `<a class="watch-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">▸ Ansehen</a>`;
@@ -354,7 +360,7 @@ function render() {
             <span class="rank">${String(i + 1).padStart(2, "0")}</span>
             <div class="body">
               <h3>${escapeHtml(entry.item.title)}</h3>
-              <div class="genres">${(entry.item.genres || []).join(" · ")}</div>
+              <div class="genres">${metaLine(entry.item)}</div>
               <div class="badges">${badgeHtml(entry.item)}${watchLinkHtml(entry.item)}</div>
             </div>
             <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id ?? ""}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
