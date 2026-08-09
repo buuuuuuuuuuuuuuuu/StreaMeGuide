@@ -1,5 +1,6 @@
 {
-  "generated_at": "2026-08-09T06:32:10.623Z",
+  "schema": 2,
+  "generated_at": "2026-08-09T07:19:44.860Z",
   "items": [
     {
       "tmdb_id": 1284041,
@@ -17,8 +18,8 @@
         "sea creature",
         "dangerous rain"
       ],
-      "rating": 6.527,
-      "vote_count": 186,
+      "rating": 6.545,
+      "vote_count": 191,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "providers": {
         "netflix": "flatrate",
@@ -85,8 +86,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.661,
-      "vote_count": 6863,
+      "rating": 8.662,
+      "vote_count": 6866,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "providers": {
         "netflix": null,
@@ -155,9 +156,33 @@
         "roommates' relationship",
         "former criminal"
       ],
-      "rating": 7.6,
-      "vote_count": 7,
+      "rating": 6.7,
+      "vote_count": 8,
       "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 300480,
+      "title": "Ricky Gervais Alley Cats",
+      "type": "tv",
+      "overview": "Als verwilderte Katzen in dieser schonungslosen animierten Comedyserie von Ricky Gervais auf den Straßen Chaos stiften, kommt es zu wilden Missgeschicken.",
+      "genres": [
+        "Animation",
+        "Komödie"
+      ],
+      "keywords": [
+        "cat",
+        "sitcom",
+        "animation",
+        "hilarious"
+      ],
+      "rating": 6.9,
+      "vote_count": 15,
+      "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -203,23 +228,28 @@
       }
     },
     {
-      "tmdb_id": 300480,
-      "title": "Ricky Gervais Alley Cats",
+      "tmdb_id": 207333,
+      "title": "Hundert Jahre Einsamkeit",
       "type": "tv",
-      "overview": "Als verwilderte Katzen in dieser schonungslosen animierten Comedyserie von Ricky Gervais auf den Straßen Chaos stiften, kommt es zu wilden Missgeschicken.",
+      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
       "genres": [
-        "Animation",
-        "Komödie"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "cat",
-        "sitcom",
-        "animation",
-        "hilarious"
+        "based on novel or book",
+        "affectation",
+        "miniseries",
+        "magic realism",
+        "nostalgic",
+        "latin american history",
+        "political",
+        "period piece",
+        "intimate"
       ],
-      "rating": 6.9,
-      "vote_count": 15,
-      "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+      "rating": 7.9,
+      "vote_count": 225,
+      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -259,6 +289,39 @@
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller",
+        "suspenseful",
+        "appreciative",
+        "compassionate",
+        "earnest",
+        "empathetic",
+        "urgent"
+      ],
+      "rating": 8.019,
+      "vote_count": 1306,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -304,35 +367,6 @@
       }
     },
     {
-      "tmdb_id": 207333,
-      "title": "Hundert Jahre Einsamkeit",
-      "type": "tv",
-      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "affectation",
-        "miniseries",
-        "magic realism",
-        "nostalgic",
-        "latin american history",
-        "political",
-        "period piece",
-        "intimate"
-      ],
-      "rating": 7.9,
-      "vote_count": 225,
-      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 37854,
       "title": "One Piece",
       "type": "tv",
@@ -367,39 +401,6 @@
       "rating": 8.752,
       "vote_count": 5469,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller",
-        "suspenseful",
-        "appreciative",
-        "compassionate",
-        "earnest",
-        "empathetic",
-        "urgent"
-      ],
-      "rating": 8.018,
-      "vote_count": 1306,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -537,8 +538,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.545,
-      "vote_count": 3446,
+      "rating": 8.546,
+      "vote_count": 3447,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "providers": {
         "netflix": "flatrate",
@@ -686,8 +687,8 @@
         "cruel",
         "pretentious"
       ],
-      "rating": 8.5,
-      "vote_count": 4120,
+      "rating": 8.501,
+      "vote_count": 4121,
       "poster_path": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "providers": {
         "netflix": null,
