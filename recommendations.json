@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-09T08:34:17.758Z",
+  "generated_at": "2026-08-09T17:51:05.694Z",
   "items": [
     {
       "tmdb_id": 1284041,
@@ -18,9 +18,44 @@
         "sea creature",
         "dangerous rain"
       ],
-      "rating": 6.545,
-      "vote_count": 191,
+      "rating": 6.589,
+      "vote_count": 230,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1679730,
+      "title": "THE RIBBON HERO",
+      "type": "movie",
+      "overview": "Nachdem Nergal ihr Königreich verwüstet hat, erwacht Prinzessin Sapphire als „Ribbon Hero“ und kämpft, um ihre neue Heimat vor demselben Schicksal zu bewahren.",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama",
+        "Action"
+      ],
+      "keywords": [
+        "princess",
+        "friendship",
+        "kingdom",
+        "sword",
+        "trauma",
+        "calamity",
+        "based on manga",
+        "new home",
+        "prosthetic limb",
+        "anime",
+        "overcoming loss"
+      ],
+      "rating": 6.75,
+      "vote_count": 4,
+      "poster_path": "/sV2HxWbEn4J0Y9CKyZqG4pLmjOP.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1679730-the-ribbon-hero/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -49,9 +84,10 @@
         "futuro distópico",
         "dying race"
       ],
-      "rating": 5.797,
-      "vote_count": 32,
+      "rating": 5.947,
+      "vote_count": 38,
       "poster_path": "/2bzIygGnua4tlLo7qTyMSUsME3d.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1263532-corrida-dos-bichos/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -86,9 +122,10 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.662,
-      "vote_count": 6866,
+      "rating": 8.66,
+      "vote_count": 6883,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -125,12 +162,47 @@
         "inspirational",
         "instructive"
       ],
-      "rating": 7.217,
-      "vote_count": 1684,
+      "rating": 7.21,
+      "vote_count": 1696,
       "poster_path": "/c4hwwylwgo5lBO2O2WSBxxQF2kC.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/454639-masters-of-the-universe/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller",
+        "suspenseful",
+        "appreciative",
+        "compassionate",
+        "earnest",
+        "empathetic",
+        "urgent"
+      ],
+      "rating": 8,
+      "vote_count": 1308,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -156,33 +228,10 @@
         "roommates' relationship",
         "former criminal"
       ],
-      "rating": 6.7,
-      "vote_count": 8,
+      "rating": 7.045,
+      "vote_count": 11,
       "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 300480,
-      "title": "Ricky Gervais Alley Cats",
-      "type": "tv",
-      "overview": "Als verwilderte Katzen in dieser schonungslosen animierten Comedyserie von Ricky Gervais auf den Straßen Chaos stiften, kommt es zu wilden Missgeschicken.",
-      "genres": [
-        "Animation",
-        "Komödie"
-      ],
-      "keywords": [
-        "cat",
-        "sitcom",
-        "animation",
-        "hilarious"
-      ],
-      "rating": 6.9,
-      "vote_count": 15,
-      "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/291496/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -218,9 +267,10 @@
         "cliché",
         "pretentious"
       ],
-      "rating": 8.186,
-      "vote_count": 2388,
+      "rating": 8.184,
+      "vote_count": 2394,
       "poster_path": "/pAxeLxVzeCTqJhvYPPdNDhMsHcI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/125988-silo/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -228,115 +278,24 @@
       }
     },
     {
-      "tmdb_id": 207333,
-      "title": "Hundert Jahre Einsamkeit",
+      "tmdb_id": 300480,
+      "title": "Ricky Gervais Alley Cats",
       "type": "tv",
-      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
+      "overview": "Als verwilderte Katzen in dieser schonungslosen animierten Comedyserie von Ricky Gervais auf den Straßen Chaos stiften, kommt es zu wilden Missgeschicken.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "affectation",
-        "miniseries",
-        "magic realism",
-        "nostalgic",
-        "latin american history",
-        "political",
-        "period piece",
-        "intimate"
-      ],
-      "rating": 7.9,
-      "vote_count": 225,
-      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 97546,
-      "title": "Ted Lasso",
-      "type": "tv",
-      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
-      "genres": [
-        "Drama",
+        "Animation",
         "Komödie"
       ],
       "keywords": [
-        "england",
-        "male friendship",
-        "friendship",
-        "fish out of water",
-        "football (soccer)",
-        "american abroad",
-        "teammate",
-        "professional sports",
-        "football (soccer) team",
-        "workplace comedy",
-        "team owner",
-        "football (soccer) coach",
-        "optimist",
-        "coaching",
-        "nice guy",
-        "premier league"
+        "cat",
+        "sitcom",
+        "animation",
+        "hilarious"
       ],
-      "rating": 8.344,
-      "vote_count": 2507,
-      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller",
-        "suspenseful",
-        "appreciative",
-        "compassionate",
-        "earnest",
-        "empathetic",
-        "urgent"
-      ],
-      "rating": 8.019,
-      "vote_count": 1306,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 284753,
-      "title": "ऑपरेशन सफ़ेद सागर",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [],
-      "rating": 2,
-      "vote_count": 1,
-      "poster_path": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+      "rating": 7,
+      "vote_count": 15,
+      "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/300480-ricky-gervais-alley-cats/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -357,9 +316,10 @@
         "cliché",
         "embarrassed"
       ],
-      "rating": 7.4,
-      "vote_count": 14,
+      "rating": 7.735,
+      "vote_count": 17,
       "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -401,6 +361,93 @@
       "rating": 8.752,
       "vote_count": 5469,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 97546,
+      "title": "Ted Lasso",
+      "type": "tv",
+      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "england",
+        "male friendship",
+        "friendship",
+        "fish out of water",
+        "football (soccer)",
+        "american abroad",
+        "teammate",
+        "professional sports",
+        "football (soccer) team",
+        "workplace comedy",
+        "team owner",
+        "football (soccer) coach",
+        "optimist",
+        "coaching",
+        "nice guy",
+        "premier league"
+      ],
+      "rating": 8.344,
+      "vote_count": 2508,
+      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 284753,
+      "title": "ऑपरेशन सफ़ेद सागर",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [],
+      "rating": 2,
+      "vote_count": 1,
+      "poster_path": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/284753/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 207333,
+      "title": "Hundert Jahre Einsamkeit",
+      "type": "tv",
+      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "affectation",
+        "miniseries",
+        "magic realism",
+        "nostalgic",
+        "latin american history",
+        "political",
+        "period piece",
+        "intimate"
+      ],
+      "rating": 7.956,
+      "vote_count": 226,
+      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -431,9 +478,10 @@
         "inspirational",
         "survival thriller"
       ],
-      "rating": 6.566,
-      "vote_count": 513,
+      "rating": 6.562,
+      "vote_count": 515,
       "poster_path": "/hRM5XAiMvwoAGhyrFou7P42jb0J.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -463,6 +511,7 @@
       "rating": 8.374,
       "vote_count": 4518,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
@@ -506,6 +555,7 @@
       "rating": 7.958,
       "vote_count": 4310,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -538,9 +588,10 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.546,
-      "vote_count": 3447,
+      "rating": 8.545,
+      "vote_count": 3448,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -573,40 +624,7 @@
       "rating": 8.1,
       "vote_count": 4636,
       "poster_path": "/2gIfJXgcz6N2wgOZ4qXoNKh0qFZ.jpg",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 60625,
-      "title": "Rick and Morty",
-      "type": "tv",
-      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
-      "genres": [
-        "Animation",
-        "Komödie",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "keywords": [
-        "time travel",
-        "grandfather",
-        "alcoholism",
-        "alien",
-        "dysfunctional family",
-        "mad scientist",
-        "scientist",
-        "adult animation",
-        "father figure",
-        "machinist",
-        "multiple dimensions",
-        "spaceship"
-      ],
-      "rating": 8.681,
-      "vote_count": 11246,
-      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -652,9 +670,45 @@
       "rating": 8.313,
       "vote_count": 8582,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 60625,
+      "title": "Rick and Morty",
+      "type": "tv",
+      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
+      "genres": [
+        "Animation",
+        "Komödie",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "time travel",
+        "grandfather",
+        "alcoholism",
+        "alien",
+        "dysfunctional family",
+        "mad scientist",
+        "scientist",
+        "adult animation",
+        "father figure",
+        "machinist",
+        "multiple dimensions",
+        "spaceship"
+      ],
+      "rating": 8.681,
+      "vote_count": 11247,
+      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -687,9 +741,10 @@
         "cruel",
         "pretentious"
       ],
-      "rating": 8.501,
-      "vote_count": 4121,
+      "rating": 8.498,
+      "vote_count": 4123,
       "poster_path": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/124364-from/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -697,125 +752,26 @@
       }
     },
     {
-      "tmdb_id": 680,
-      "title": "Pulp Fiction",
-      "type": "movie",
-      "overview": "Vincent Vega und Jules Winnfield holen für ihren Boss Marsellus Wallace eine schwarze Aktentasche aus einer Wohnung ab. Drei Jungs, die ihnen dabei im Weg stehen, lassen ihr Leben. Die Killer machen sich mit einem vierten Jungen als Geisel auf den Weg ins Hauptquartier. Doch als das Auto über eine Straßenerhöhung schaukelt, erschießt Vincent aus Versehen die Geisel. Um den blutverspritzten Wagen zu reinigen, machen die beiden einen Abstecher zu Jules's Freund Jimmie, wo auf Befehl vom Boss ein Spezialist für schwierige Aufträge zu ihnen stößt: The Wolf...",
-      "genres": [
-        "Thriller",
-        "Krimi",
-        "Komödie"
-      ],
-      "keywords": [
-        "drug dealer",
-        "drug crime",
-        "gangster",
-        "dark comedy",
-        "stolen money",
-        "crime boss",
-        "redemption",
-        "los angeles, california",
-        "theft",
-        "couple",
-        "nonlinear timeline",
-        "multiple storylines",
-        "disturbed",
-        "aggressive",
-        "neo-noir",
-        "suspenseful"
-      ],
-      "rating": 8.481,
-      "vote_count": 30585,
-      "poster_path": "/hOg9USqmQmglmr5kGvpyg1XkhqN.jpg",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000216142.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 475557,
-      "title": "Joker",
-      "type": "movie",
-      "overview": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt …",
+      "tmdb_id": null,
+      "title": "Tatort: Deine Mutter",
+      "type": "tv",
+      "overview": "Ein toter Rapstar zieht Eisner und Fellner in eine Welt aus Ruhm, Drogen und zerstörerischer Loyalität. Ted Candy gilt als Hoffnungsträger der Wiener Rap-Szene, kämpft jedoch zunehmend mit Angstzuständen und Kokainsucht. Nachdem er einen Auftritt abrupt abbricht und verschwindet, wird er tags darauf tot in einer Garage gefunden....",
       "genres": [
         "Krimi",
-        "Thriller",
         "Drama"
       ],
       "keywords": [
-        "society",
-        "based on comic",
-        "social commentary",
-        "psychological thriller",
-        "criminal mastermind",
-        "mental illness",
-        "anarchy",
-        "character study",
-        "clown makeup",
-        "outsider",
-        "prophetic",
-        "social realism",
-        "tv host",
-        "1980s",
-        "mother son relationship",
-        "origin story",
-        "falling into madness",
-        "anti-capitalist"
+        "Tatort aus Österreich"
       ],
-      "rating": 8.12,
-      "vote_count": 28040,
-      "poster_path": "/t3ZtGpIqoQgMY5hMHSLJSD8aguU.jpg",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000216761.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "blunt",
-        "reboot",
-        "doubtful"
-      ],
-      "rating": 8.078,
-      "vote_count": 2999,
-      "poster_path": "/vComTg8O9m22c7jG9jHbeKJBz5Q.jpg",
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14334553/tatort-deine-mutter",
+      "duration": 5358,
       "providers": {
         "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000216825.html",
-        "mentions": 2
+        "prime": null,
+        "mediathek": "ORF"
       }
     },
     {
@@ -1065,29 +1021,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NDkyNzctNDI5NzAy",
       "duration": 5267,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Was ihr nicht seht",
-      "type": "tv",
-      "overview": "Eine Frau erwacht orientierungslos, mit einem Messer in der Hand, neben ihrem erstochenen Freund. Kommissarin Winkler erkennt in der Frau die Schulfreundin Sarah Monet. Die Ermittlungen deuten auf eine Beziehungstat hin.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC81MzkxNjctNTE4ODc4",
-      "duration": 5225,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1988,6 +1921,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Azuchi - Die Burg des Samurai",
+      "type": "tv",
+      "overview": "Im Japan des 16. Jh. entsteht eine Burg wie keine andere. Azuchi ist das Symbol einer neuen Zeit, die Japan für immer verändert. Wie sah das legendäre Bauwerk aus? Terra X nimmt sich des Rätsels an.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-112/terra-x-azuchi-die-burg-des-samurai-doku-100",
+      "duration": 2629,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Longevity - für immer jung?",
       "type": "tv",
       "overview": "Longevity: Alle wollen lange leben, aber alt sein will niemand. Biohacking verspricht ewige Jugend. Super-Ager setzen auf ein positives Mindset. Psychologe Leon Windscheid ist dem Hype auf der Spur.",
@@ -2134,28 +2089,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/reportagen/terra-xplore-lust-auf-sex-wie-oft-ist-normal-movie-100",
       "duration": 2608,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Glaube: Was gibt uns das?",
-      "type": "tv",
-      "overview": "Glaube an Gott, Religion oder Spiritualität begleitet Menschen seit Jahrtausenden. Doch brauchen wir Glauben? Leon Windscheid sucht Antworten in der Wissenschaft.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra Xplore"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/glaube-was-gibt-uns-das-movie-100",
-      "duration": 2601,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2604,6 +2537,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Studio 54",
+      "type": "tv",
+      "overview": "”Studio 54” erzählt die Geschichte des 19-jährige Shane O’Shea, dem es Ende der 1970er Jahre gelingt,  in den New Yorker Elite Club reingelassen zu werden. Dort “entdeckt” ihn der Clubbesitzer Steve Rubell und und gibt ihm einen Job. Shane steigt in der Hierarchie des Clubs auf, der von Drogen, Sex und anderen Exzessen geprägt ist. Ein auf wahren Begebenheiten basierendes Drama von Mark Christopher.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/132050-000-A/studio-54/",
+      "duration": 5251,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Eine Frage der Würde",
       "type": "tv",
       "overview": "Witwe Blaga wird Opfer eines Telefonbetrugs und verliert das Geld, das sie für das Grab ihres verstorbenen Mannes und sich gespart hatte. Als alle Versuche scheitern, die Summe wieder zusammenzubekommen, nimmt sie Kontakt zu den Kriminellen auf und gerät bald in Gefahr, all ihre Prinzipien aufzugeben. – Starkes Drama, angetrieben von einer ausgezeichneten Hauptdarstellerin.",
@@ -2728,28 +2683,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/109722-000-A/charlotte-eine-von-uns/",
       "duration": 7023,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Stille und Schrei (Originalversion)",
-      "type": "tv",
-      "overview": "Im Ungarn des Jahres 1919, kurz nach dem Bürgerkrieg, findet ein von den Behörden gesuchter ehemaliger Revolutionär Zuflucht auf einem abgelegenen Bauernhof, wo Angst, Misstrauen und Gewalt herrschen. Inmitten bedrückender Stille und Ausbrüchen von Brutalität versucht jeder, in einem Klima politischer Unterdrückung zu überleben.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/133822-000-A/stille-und-schrei/",
-      "duration": 4469,
       "providers": {
         "netflix": null,
         "prime": null,
