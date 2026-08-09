@@ -1,4 +1,4 @@
-const APP_VERSION = "1.6.0";
+const APP_VERSION = "1.6.1";
 const CACHE_NAME = `streamguide-v${APP_VERSION}`;
 const SHELL_FILES = [
   "./",
@@ -35,6 +35,11 @@ self.addEventListener("activate", (event) => {
 
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
+
+  // Fremde Domains (z. B. Supabase-Sync) und alles außer GET gar nicht
+  // anfassen. Sonst landen Sync-Fehler als "FetchEvent.respondWith received
+  // an error" in der App, statt die eigentliche Ursache zu zeigen.
+  if (url.origin !== self.location.origin || event.request.method !== "GET") return;
 
   // recommendations.json: network-first, so daily updates land immediately when online
   if (url.pathname.endsWith("recommendations.json")) {

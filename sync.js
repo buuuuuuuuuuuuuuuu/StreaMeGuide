@@ -43,6 +43,18 @@ function syncHeaders(extra = {}) {
   };
 }
 
+// Häufige Tippfehler abfangen, bevor eine Anfrage rausgeht – die
+// Browser-Meldung ("Load failed") sagt sonst nicht, was wirklich fehlt.
+function checkSyncUrl(url) {
+  const u = (url || "").trim();
+  if (!/^https:\/\//i.test(u)) return "Die Projekt-URL muss mit https:// beginnen.";
+  if (/\.supabase\.com/i.test(u)) return "Die Adresse endet auf .supabase.co – nicht .supabase.com.";
+  if (!/\.supabase\.(co|in)\b/i.test(u) && !/localhost/i.test(u)) {
+    return "Das sieht nicht nach einer Supabase-Projekt-URL aus (erwartet: https://xxxx.supabase.co).";
+  }
+  return null;
+}
+
 function syncBaseUrl() {
   return sync.config.url.replace(/\/+$/, "") + "/rest/v1/sg_profiles";
 }
@@ -240,20 +252,28 @@ function openSyncDialog() {
   content.querySelector("#sync-save").onclick = () => {
     const cfg = readForm();
     if (!cfg.url || !cfg.anonKey || !cfg.household) return say("Bitte alle drei Felder ausfüllen.", false);
+    const urlProblem = checkSyncUrl(cfg.url);
+    if (urlProblem) return say(urlProblem, false);
     saveSyncConfig(cfg);
     updateSyncStatus();
     say("Gespeichert.", true);
   };
 
   content.querySelector("#sync-now-push").onclick = async () => {
-    saveSyncConfig(readForm());
+    const cfg = readForm();
+    const p = checkSyncUrl(cfg.url);
+    if (p) return say(p, false);
+    saveSyncConfig(cfg);
     say("Lade hoch …");
     const r = await syncPush();
     say(r.message, r.ok);
   };
 
   content.querySelector("#sync-now-pull").onclick = async () => {
-    saveSyncConfig(readForm());
+    const cfg = readForm();
+    const p = checkSyncUrl(cfg.url);
+    if (p) return say(p, false);
+    saveSyncConfig(cfg);
     say("Hole Daten …");
     const r = await syncPull({ force: true });
     say(r.message, r.ok);
