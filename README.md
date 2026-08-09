@@ -89,3 +89,18 @@ keine Bewertungen und sind von der Stimmen-Schwelle ausgenommen, müssen ab
 
 Angezeigt werden die besten 50 Treffer; der Rest ist über einen Button am
 Listenende erreichbar.
+
+## Presse-Feeds als Entdeckungsquelle
+Zusätzlich werden RSS-Feeds von Serienjunkies, Filmstarts und Filmdienst
+ausgewertet. Dabei wird **kein Artikeltext übernommen**: Aus den
+Schlagzeilen werden nur die erwähnten Werktitel extrahiert (die deutsche
+Filmpresse setzt sie zuverlässig in typografische Anführungszeichen). Diese
+Kandidaten laufen anschließend durch dieselbe Prüfung wie alles andere –
+TMDb-Abgleich, Verfügbarkeit im Abo, Bewertung, Genre-Passung. Was das
+nicht besteht, fliegt raus.
+
+Titel, die mehrfach erwähnt werden, gelten als relevanter und bekommen
+einen kleinen Bonus. In der App tragen sie ein Badge mit der Quelle und
+einen Link zum Artikel.
+
+Feeds anpassen: `PRESS_FEEDS` in `scripts/fetch-recommendations.mjs`.

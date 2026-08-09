@@ -1,4 +1,4 @@
-const APP_VERSION = "1.1.0";
+const APP_VERSION = "1.2.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -206,6 +206,9 @@ function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
 
   // Viele Bewertungen sprechen für Verlässlichkeit, aber nur leicht
   if (!isMediathek && (item.vote_count || 0) > 3000) score += 0.4;
+  // Aktuell besprochene Titel leicht bevorzugen – aber nur, wenn sie
+  // ohnehin alle Qualitäts- und Genre-Prüfungen bestanden haben
+  if (item.buzz) score += 0.6 + Math.min(item.buzz.mentions || 1, 3) * 0.3;
 
   return { pass: true, score };
 }
@@ -263,14 +266,24 @@ function metaLine(item) {
 }
 
 function watchLinkHtml(item) {
-  if (!item.url) return "";
-  return `<a class="watch-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">▸ Ansehen</a>`;
+  let html = "";
+  if (item.url) {
+    html += `<a class="watch-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">▸ Ansehen</a>`;
+  }
+  if (item.buzz && item.buzz.url) {
+    html += `<a class="watch-link press" href="${escapeHtml(item.buzz.url)}" target="_blank" rel="noopener">✎ Artikel</a>`;
+  }
+  return html;
 }
 
 function badgeHtml(item) {
-  return qualifyingProviders(item).map(p =>
+  let html = qualifyingProviders(item).map(p =>
     `<span class="badge ${p.key}">${p.label}</span>`
   ).join("");
+  if (item.buzz) {
+    html += `<span class="badge buzz">🔥 ${escapeHtml(item.buzz.source)}</span>`;
+  }
+  return html;
 }
 
 function isLoved(item, prefs) {

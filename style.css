@@ -358,6 +358,7 @@ input[type=file]{ display:none; }
 .badge.netflix{ background: var(--peach); }
 .badge.prime{ background: var(--sky); }
 .badge.mediathek{ background: var(--mint); }
+.badge.buzz{ background: var(--peach); }
 
 /* ---------- Sektionen ---------- */
 .section-label{
@@ -452,7 +453,11 @@ input[type=file]{ display:none; }
 .swipe-surface{ position: relative; z-index: 2; will-change: transform; }
 
 /* Nach einer Wischgeste keine Links auslösen */
-.swipe-wrap[data-dragged] .watch-link{ pointer-events: none; }
+.swipe-wrap[data-dragged] .watch-link.press{ background: var(--lavender); }
+
+.watch-link{ pointer-events: none; }
+
+.watch-link.press{ background: var(--lavender); }
 
 .watch-link{
   display:inline-flex;
