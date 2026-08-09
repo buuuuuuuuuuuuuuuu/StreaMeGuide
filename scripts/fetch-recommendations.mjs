@@ -42,14 +42,16 @@ async function watchProviders(type, id) {
   try {
     const data = await tmdb(`/${type}/${id}/watch/providers`);
     const de = data.results?.DE;
-    if (!de) return { netflix: null, prime: null };
+    if (!de) return { netflix: null, prime: null, link: null };
     const flat = (de.flatrate || []).map(p => p.provider_name);
     return {
       netflix: flat.some(n => n.includes("Netflix")) ? "flatrate" : null,
-      prime: flat.some(n => n.includes("Amazon Prime Video")) ? "flatrate" : null
+      prime: flat.some(n => n.includes("Amazon Prime Video")) ? "flatrate" : null,
+      // JustWatch-Seite zum Titel: zeigt alle Anbieter inkl. Direktlinks
+      link: de.link || null
     };
   } catch {
-    return { netflix: null, prime: null };
+    return { netflix: null, prime: null, link: null };
   }
 }
 
@@ -93,6 +95,7 @@ async function collectTmdbItems(genreMap) {
         rating: raw.vote_average || null,
         vote_count: raw.vote_count || 0,
         poster_path: raw.poster_path || null,
+        justwatch: providers.link,
         providers: { netflix: providers.netflix, prime: providers.prime, mediathek: null }
       });
     }
@@ -411,6 +414,7 @@ async function collectPressItems(genreMap, existingKeys) {
         rating: hit.vote_average || null,
         vote_count: hit.vote_count || 0,
         poster_path: hit.poster_path || null,
+        justwatch: providers.link,
         providers: { netflix: providers.netflix, prime: providers.prime, mediathek: null },
         buzz: { source: cand.source, url: cand.url, mentions: cand.mentions }
       });
