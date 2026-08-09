@@ -1,4 +1,4 @@
-const APP_VERSION = "0.4.0";
+const APP_VERSION = "0.6.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -10,6 +10,11 @@ const REASONS = {
   not_interested: ["Genre nicht meins", "Thema nicht meins", "Kenn ich schon", "Zu gehypt", "Falscher Zeitpunkt", "Sonstiges"]
 };
 const CATEGORY_LABEL = { like: "Gut bewertet", dislike: "Nicht gut bewertet", not_interested: "Sowas nicht" };
+const GENRE_POOL = [
+  "Drama", "Crime", "Comedy", "Sci-Fi", "Mystery", "Thriller", "Action",
+  "Documentary", "Fantasy", "Horror", "Romance", "Animation", "Family",
+  "History", "War", "Western", "Adventure", "Music"
+];
 
 let state = {
   profiles: { A: null, B: null }, // preferences.json content per slot
@@ -24,8 +29,16 @@ function loadProfiles() {
     if (raw) state.profiles = JSON.parse(raw);
   } catch (e) { console.warn("Konnte Profile nicht laden", e); }
 }
-function saveProfiles() {
+function saveProfiles(changedSlot = null) {
+  // Zeitstempel nur für das geänderte Profil – sonst würde eine Änderung an A
+  // auch B als "neuer" markieren und beim Sync eine fremde Fassung überschreiben.
+  const now = new Date().toISOString();
+  const slots = changedSlot ? [changedSlot] : ["A", "B"];
+  slots.forEach(slot => {
+    if (state.profiles[slot]) state.profiles[slot]._updated_at = now;
+  });
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state.profiles));
+  if (typeof schedulePush === "function") schedulePush(changedSlot);
 }
 
 // ---------- data loading ----------
@@ -65,15 +78,29 @@ function buildLovedGenreWeights(prefs, items) {
   const weights = {};
   if (!prefs) return weights;
   ensureLists(prefs);
-  const lovedKeys = new Set([
-    ...prefs.loved_titles.map(t => t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase()),
-    ...prefs.seen_liked.map(t => t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase())
-  ]);
+
+  // Genres direkt aus den gespeicherten Einträgen nehmen – so wirken auch
+  // Titel, die gerade nicht im Angebot stehen (z. B. manuell ergänzte).
+  prefs.seen_liked.forEach(e => {
+    (e.genres || []).forEach(g => { weights[g] = (weights[g] || 0) + 1; });
+  });
+
+  // Negativ bewertete Titel dämpfen die betroffenen Genres.
+  prefs.seen_disliked.forEach(e => {
+    (e.genres || []).forEach(g => { weights[g] = (weights[g] || 0) - 0.8; });
+  });
+
+  // loved_titles (Herz-Button / Onboarding) haben oft nur eine ID –
+  // Genres dafür aus dem aktuellen Datenbestand nachschlagen.
+  const lovedIdKeys = new Set(
+    prefs.loved_titles.map(t => t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase())
+  );
   items.forEach(it => {
-    if (lovedKeys.has(itemKey(it))) {
+    if (lovedIdKeys.has(itemKey(it))) {
       (it.genres || []).forEach(g => { weights[g] = (weights[g] || 0) + 1; });
     }
   });
+
   return weights;
 }
 
@@ -177,7 +204,7 @@ function toggleLove(item) {
   const idx = prefs.loved_titles.findIndex(t => t.tmdb_id === item.tmdb_id);
   if (idx >= 0) prefs.loved_titles.splice(idx, 1);
   else prefs.loved_titles.push({ title: item.title, tmdb_id: item.tmdb_id, year: null });
-  saveProfiles();
+  saveProfiles(key);
   render();
 }
 
@@ -342,7 +369,7 @@ function finalizeClassification(profileKey, item, category, reasons) {
   const key = category === "like" ? "seen_liked" : category === "dislike" ? "seen_disliked" : "not_interested";
   prefs[key] = prefs[key].filter(e => (e.tmdb_id ?? null) !== (item.tmdb_id ?? null) || e.title !== item.title);
   prefs[key].push(entry);
-  saveProfiles();
+  saveProfiles(profileKey);
   closeModal();
   render();
 }
@@ -406,6 +433,121 @@ function openReasonStep({ headline, reasonOptions, initialSelected = [], onSave,
   content.querySelector(".modal-cancel").onclick = () => { closeModal(); onCancel && onCancel(); };
 }
 
+// ---------- Titel manuell hinzufügen ----------
+function openAddTitleDialog(profileKey) {
+  const content = document.getElementById("modal-content");
+  content.innerHTML = `
+    <div class="modal-headline">Serie oder Film hinzufügen</div>
+    <input type="text" id="add-search" class="text-input" placeholder="Titel eingeben, z. B. Dark" autocomplete="off">
+    <div id="add-results" class="add-results"></div>
+    <div class="modal-actions">
+      <button class="btn secondary small modal-cancel">Abbrechen</button>
+    </div>
+  `;
+  document.getElementById("modal-overlay").classList.add("open");
+  content.querySelector(".modal-cancel").onclick = () => closeModal();
+
+  const input = content.querySelector("#add-search");
+  const results = content.querySelector("#add-results");
+
+  function renderResults() {
+    const q = input.value.trim().toLowerCase();
+    if (!q) { results.innerHTML = `<div class="add-hint">Tippe los – passende Titel aus dem aktuellen Angebot erscheinen hier. Alles andere kannst du frei eintragen.</div>`; return; }
+
+    const matches = (state.recs.items || [])
+      .filter(it => (it.title || "").toLowerCase().includes(q))
+      .slice(0, 6);
+
+    let html = "";
+    matches.forEach(it => {
+      html += `
+        <button class="add-result" data-key="${itemKey(it)}">
+          <span class="add-result-title">${escapeHtml(it.title)}</span>
+          <span class="add-result-meta">${(it.genres || []).join(" · ") || "ohne Genre-Angabe"}</span>
+        </button>
+      `;
+    });
+    html += `
+      <button class="add-result manual" id="add-manual">
+        <span class="add-result-title">„${escapeHtml(input.value.trim())}" frei eintragen</span>
+        <span class="add-result-meta">Genres wählst du im nächsten Schritt</span>
+      </button>
+    `;
+    results.innerHTML = html;
+
+    results.querySelectorAll(".add-result[data-key]").forEach(btn => {
+      btn.onclick = () => {
+        const it = findItemByKey(btn.dataset.key);
+        if (!it) return;
+        openReasonStep({
+          headline: `Was magst du an „${it.title}"?`,
+          reasonOptions: REASONS.like,
+          onSave: (reasons) => {
+            addLikedTitle(profileKey, { title: it.title, tmdb_id: it.tmdb_id ?? null, genres: it.genres || [] }, reasons);
+          },
+          onCancel: () => closeModal()
+        });
+      };
+    });
+
+    const manualBtn = results.querySelector("#add-manual");
+    if (manualBtn) manualBtn.onclick = () => openGenrePicker(profileKey, input.value.trim());
+  }
+
+  input.addEventListener("input", renderResults);
+  renderResults();
+  setTimeout(() => input.focus(), 120);
+}
+
+function openGenrePicker(profileKey, title) {
+  const selected = new Set();
+  const content = document.getElementById("modal-content");
+  content.innerHTML = `
+    <div class="modal-headline">Welche Genres passen zu „${escapeHtml(title)}"?</div>
+    <p class="modal-sub">Danach fließen diese Genres in deine Empfehlungen ein.</p>
+    <div class="chip-grid">
+      ${GENRE_POOL.map(g => `<button class="chip genre-chip" data-g="${g}">${g}</button>`).join("")}
+    </div>
+    <div class="modal-actions">
+      <button class="btn small" id="genre-next">Weiter</button>
+      <button class="btn secondary small modal-cancel">Abbrechen</button>
+    </div>
+  `;
+  content.querySelectorAll(".genre-chip").forEach(chip => {
+    chip.onclick = () => {
+      const g = chip.dataset.g;
+      if (selected.has(g)) { selected.delete(g); chip.classList.remove("active"); }
+      else { selected.add(g); chip.classList.add("active"); }
+    };
+  });
+  content.querySelector(".modal-cancel").onclick = () => closeModal();
+  content.querySelector("#genre-next").onclick = () => {
+    openReasonStep({
+      headline: `Was magst du an „${title}"?`,
+      reasonOptions: REASONS.like,
+      onSave: (reasons) => {
+        addLikedTitle(profileKey, { title, tmdb_id: null, genres: [...selected] }, reasons);
+      },
+      onCancel: () => closeModal()
+    });
+  };
+}
+
+function addLikedTitle(profileKey, { title, tmdb_id, genres }, reasons) {
+  const prefs = state.profiles[profileKey];
+  if (!prefs) return;
+  ensureLists(prefs);
+  // Falls schon in einer anderen Liste, dort entfernen
+  ["seen_liked", "seen_disliked", "not_interested"].forEach(k => {
+    prefs[k] = prefs[k].filter(e => !(e.title === title && (e.tmdb_id ?? null) === (tmdb_id ?? null)));
+  });
+  prefs.seen_liked.push({ tmdb_id: tmdb_id ?? null, title, genres: genres || [], reasons, rated_at: new Date().toISOString() });
+  saveProfiles(profileKey);
+  closeModal();
+  renderRefineView();
+  render();
+}
+
 // ---------- Profil verfeinern ----------
 function renderRefineView() {
   const view = document.getElementById("refine-view");
@@ -423,7 +565,7 @@ function renderRefineView() {
     ["dislike", prefs.seen_disliked],
     ["not_interested", prefs.not_interested]
   ];
-  let html = "";
+  let html = `<button class="btn bubble" id="add-title-btn" style="margin: 14px 0 4px;">＋ Serie oder Film hinzufügen</button>`;
   sections.forEach(([cat, entries]) => {
     html += `<div class="section-label">${CATEGORY_LABEL[cat]} (${entries.length})</div>`;
     if (!entries.length) { html += `<div class="empty">Noch keine Einträge.</div>`; return; }
@@ -442,6 +584,9 @@ function renderRefineView() {
   });
   view.querySelector("#refine-body").innerHTML = html;
 
+  const addBtn = view.querySelector("#add-title-btn");
+  if (addBtn) addBtn.onclick = () => openAddTitleDialog(profileKey);
+
   view.querySelectorAll(".refine-row").forEach(row => {
     row.onclick = () => {
       const cat = row.dataset.cat;
@@ -453,14 +598,14 @@ function renderRefineView() {
         initialSelected: entry.reasons || [],
         onSave: (reasons) => {
           entry.reasons = reasons;
-          saveProfiles();
+          saveProfiles(profileKey);
           closeModal();
           renderRefineView();
         },
         onRemove: () => {
           const list = prefs[cat === "like" ? "seen_liked" : cat === "dislike" ? "seen_disliked" : "not_interested"];
           list.splice(idx, 1);
-          saveProfiles();
+          saveProfiles(profileKey);
           closeModal();
           renderRefineView();
         }
@@ -484,7 +629,7 @@ function setupUpload(slot) {
       const json = JSON.parse(text);
       if (!json.profile_name) throw new Error("Feld profile_name fehlt");
       state.profiles[slot] = json;
-      saveProfiles();
+      saveProfiles(slot);
       updateStatusPills();
       state.activeView = slot;
       render();
@@ -547,6 +692,8 @@ async function init() {
     setTimeout(() => { btn.textContent = original; }, 1600);
   };
 
+  document.getElementById("sync-btn").onclick = () => openSyncDialog();
+
   state.recs = await loadRecommendations();
   document.getElementById("generated-at").textContent = state.recs.generated_at
     ? "Stand: " + new Date(state.recs.generated_at).toLocaleString("de-DE")
@@ -555,6 +702,17 @@ async function init() {
   render();
 
   document.getElementById("footer-version").textContent = "v" + APP_VERSION;
+
+  // Sync: Konfiguration laden und im Hintergrund abgleichen
+  loadSyncConfig();
+  updateSyncStatus();
+  if (syncReady()) {
+    syncPull();
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible") syncPull();
+    });
+  }
+
   registerServiceWorker();
 }
 

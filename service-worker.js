@@ -1,10 +1,11 @@
-const APP_VERSION = "0.4.0";
+const APP_VERSION = "0.6.0";
 const CACHE_NAME = `streamguide-v${APP_VERSION}`;
 const SHELL_FILES = [
   "./",
   "index.html",
   "style.css",
   "app.js",
+  "sync.js",
   "manifest.json",
   "onboarding-prompt.md",
   "recommendations.sample.json"

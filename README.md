@@ -44,6 +44,13 @@ nach zwei individuellen Geschmacksprofilen.
   tippen, das trägt ihn direkt in `loved_titles` des aktiven Profils ein.
   Über "Profil exportieren" lässt sich die aktualisierte Datei sichern.
 
+## Geräte-Sync (optional)
+Profile lassen sich ohne Konto zwischen Geräten teilen – siehe
+`SYNC-SETUP.md`. Zugriff regelt ein gemeinsames Haushalts-Token, das
+serverseitig per Row Level Security geprüft wird. Ohne Sync bleibt alles
+rein lokal im Browser (localStorage); dann sind die Export-Buttons das
+Backup.
+
 ## Versionierung
 `APP_VERSION` in `app.js` und `service-worker.js` synchron halten, wie bei
 den anderen Projekten.
