@@ -1,4 +1,4 @@
-const APP_VERSION = "0.9.0";
+const APP_VERSION = "1.0.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -16,9 +16,43 @@ const GENRE_POOL = [
   "History", "War", "Western", "Adventure", "Music"
 ];
 
+const VISIBLE_LIMIT = 50;
+const STRICTNESS_KEY = "streamguide:strictness";
+
+// Qualitätsstufen. min_votes verhindert Titel, die nur eine Handvoll
+// Bewertungen haben; requireGenre verlangt eine echte Überschneidung mit
+// den Vorlieben statt nur "nicht ausgeschlossen".
+const STRICTNESS = {
+  locker: {
+    label: "Locker",
+    minVotes: 50,
+    ratingFloor: 0,
+    requireGenre: false,
+    genreOrRating: 0,
+    note: "Breite Auswahl, wenig gefiltert"
+  },
+  normal: {
+    label: "Normal",
+    minVotes: 300,
+    ratingFloor: 6.5,
+    requireGenre: false,
+    genreOrRating: 7.5,   // ohne Genre-Treffer muss die Wertung stimmen
+    note: "Genre-Treffer oder gute Bewertung"
+  },
+  streng: {
+    label: "Streng",
+    minVotes: 1000,
+    ratingFloor: 7.2,
+    requireGenre: true,
+    genreOrRating: 0,
+    note: "Nur Genre-Treffer mit starker Bewertung"
+  }
+};
+
 let state = {
   profiles: { A: null, B: null }, // preferences.json content per slot
   activeView: "A", // "A" | "B" | "both"
+  showAll: false,
   recs: null
 };
 
@@ -113,28 +147,65 @@ function qualifyingProviders(item) {
   return out;
 }
 
+function currentStrictness() {
+  const key = localStorage.getItem(STRICTNESS_KEY) || "normal";
+  return STRICTNESS[key] ? key : "normal";
+}
+
 function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
   if (!prefs) return { pass: true, score: item.rating || 0 };
   if (excludedKeys && excludedKeys.has(itemKey(item))) return { pass: false };
+
+  const rules = STRICTNESS[currentStrictness()];
   const genres = item.genres || [];
   const keywords = (item.keywords || []).map(k => k.toLowerCase());
   const hay = ((item.title || "") + " " + (item.overview || "")).toLowerCase();
+  const isMediathek = !!(item.providers && item.providers.mediathek);
 
+  // --- harte Ausschlüsse ---
   if ((prefs.excluded_genres || []).some(g => genres.includes(g))) return { pass: false };
   if ((prefs.keyword_blocks || []).some(k => keywords.includes(k.toLowerCase()) || hay.includes(k.toLowerCase()))) {
     return { pass: false };
   }
-  if (typeof item.rating === "number" && item.rating > 0 && item.rating < (prefs.min_rating ?? 0)) {
-    return { pass: false };
-  }
   if (!qualifyingProviders(item).length) return { pass: false };
 
-  let score = item.rating || 5;
-  (prefs.preferred_genres || []).forEach(g => { if (genres.includes(g)) score += 2; });
+  // --- Qualitätsschwelle ---
+  // Mediathek-Titel haben keine Bewertungen und werden davon ausgenommen,
+  // müssen dafür aber (ab "Normal") thematisch passen.
+  const floor = Math.max(prefs.min_rating ?? 0, rules.ratingFloor);
+  if (!isMediathek) {
+    if (typeof item.rating !== "number" || item.rating <= 0) return { pass: false };
+    if (item.rating < floor) return { pass: false };
+    if ((item.vote_count || 0) < rules.minVotes) return { pass: false };
+  }
+
+  // --- Relevanz: passt es überhaupt zum Geschmack? ---
+  const preferred = prefs.preferred_genres || [];
+  const genreHits = genres.filter(g => preferred.includes(g)).length;
+  const lovedHits = genres.filter(g => (lovedWeights[g] || 0) > 0).length;
+  const relevant = genreHits > 0 || lovedHits > 0;
+
+  if (rules.requireGenre && !relevant) return { pass: false };
+  if (!rules.requireGenre && rules.genreOrRating > 0 && !relevant) {
+    // Ohne thematischen Treffer nur durchlassen, wenn die Wertung überzeugt
+    if (isMediathek) return { pass: false };
+    if ((item.rating || 0) < rules.genreOrRating) return { pass: false };
+  }
+
+  // Genres, die aus abgelehnten Titeln stammen, führen zum Ausschluss
+  const negative = genres.reduce((sum, g) => sum + Math.min(lovedWeights[g] || 0, 0), 0);
+  if (negative <= -1.5) return { pass: false };
+
+  // --- Punktevergabe ---
+  let score = item.rating || 6;
+  score += genreHits * 2;
   (prefs.keyword_boosts || []).forEach(k => {
     if (keywords.includes(k.toLowerCase()) || hay.includes(k.toLowerCase())) score += 1.5;
   });
-  genres.forEach(g => { if (lovedWeights[g]) score += lovedWeights[g] * 0.8; });
+  genres.forEach(g => { score += (lovedWeights[g] || 0) * 0.8; });
+
+  // Viele Bewertungen sprechen für Verlässlichkeit, aber nur leicht
+  if (!isMediathek && (item.vote_count || 0) > 3000) score += 0.4;
 
   return { pass: true, score };
 }
@@ -180,7 +251,7 @@ function renderProfileSwitch() {
     b.textContent = o.label;
     if (o.cls) b.classList.add(o.cls);
     if (state.activeView === o.key) b.classList.add("active");
-    b.onclick = () => { state.activeView = o.key; render(); };
+    b.onclick = () => { state.activeView = o.key; state.showAll = false; render(); };
     el.appendChild(b);
   });
 }
@@ -256,8 +327,13 @@ function render() {
     </div>
   `;
 
+  // Auf die besten Treffer begrenzen; der Rest ist über einen Button
+  // erreichbar. rest ist bereits nach Punktzahl sortiert.
+  const shown = state.showAll ? rest : rest.slice(0, VISIBLE_LIMIT);
+  const hiddenCount = rest.length - shown.length;
+
   const groups = { netflix: [], prime: [], mediathek: [] };
-  rest.forEach(entry => {
+  shown.forEach(entry => {
     qualifyingProviders(entry.item).forEach(p => {
       if (!groups[p.key].some(e => itemKey(e.item) === itemKey(entry.item))) groups[p.key].push(entry);
     });
@@ -287,7 +363,20 @@ function render() {
       `;
     });
   });
+  if (hiddenCount > 0) {
+    html += `<button class="btn secondary show-more" id="show-more">Weitere ${hiddenCount} Vorschläge anzeigen</button>`;
+  } else if (state.showAll && rest.length > VISIBLE_LIMIT) {
+    html += `<button class="btn secondary show-more" id="show-more">Auf die besten ${VISIBLE_LIMIT} zurück</button>`;
+  }
+
   listSlot.innerHTML = html;
+
+  const moreBtn = listSlot.querySelector("#show-more");
+  if (moreBtn) moreBtn.onclick = () => {
+    state.showAll = !state.showAll;
+    render();
+    if (!state.showAll) window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   listSlot.querySelectorAll(".love-btn").forEach(btn => {
     btn.onclick = (ev) => {
@@ -624,6 +713,26 @@ function renderRefineView() {
   });
 }
 
+function renderStrictness() {
+  const row = document.getElementById("strictness-row");
+  const note = document.getElementById("strictness-note");
+  if (!row) return;
+  const current = currentStrictness();
+  row.innerHTML = Object.entries(STRICTNESS).map(([key, cfg]) =>
+    `<button class="chip strictness-chip ${key === current ? "active" : ""}" data-k="${key}">${cfg.label}</button>`
+  ).join("");
+  note.textContent = STRICTNESS[current].note;
+
+  row.querySelectorAll(".strictness-chip").forEach(chip => {
+    chip.onclick = () => {
+      localStorage.setItem(STRICTNESS_KEY, chip.dataset.k);
+      state.showAll = false;
+      renderStrictness();
+      render();
+    };
+  });
+}
+
 // ---------- Setup-Kachel auf-/zuklappen ----------
 const PANEL_KEY = "streamguide:panelOpen";
 
@@ -749,6 +858,7 @@ async function init() {
   document.getElementById("sync-btn").onclick = () => openSyncDialog();
 
   initPanel();
+  renderStrictness();
 
   state.recs = await loadRecommendations();
   document.getElementById("generated-at").textContent = state.recs.generated_at

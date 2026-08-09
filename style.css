@@ -737,6 +737,28 @@ footer{
   color: var(--ink-soft);
 }
 
+/* ---------- Strenge-Regler ---------- */
+.strictness{
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 2.5px dashed var(--lavender);
+}
+.filters{ display:flex; gap: 8px; flex-wrap: wrap; }
+.strictness-note{
+  margin: 10px 0 0 !important;
+  font-family:'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--ink-soft);
+}
+
+/* ---------- Mehr anzeigen ---------- */
+.show-more{
+  display: flex;
+  width: 100%;
+  margin-top: 22px;
+  background: var(--lavender);
+}
+
 /* ---------- Zugänglichkeit ---------- */
 :focus-visible{
   outline: 3px solid var(--ink);

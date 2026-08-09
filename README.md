@@ -70,3 +70,20 @@ Drei Varianten liegen unter `icons/varianten/`:
 Wechseln: gewünschte Dateien nach `icons/icon-192.png` bzw.
 `icons/icon-512.png` kopieren. Neu erzeugen lassen sie sich mit
 `python3 icons/make_icons.py` (benötigt Pillow).
+
+## Filterstrenge
+Im Setup-Panel lässt sich einstellen, wie hart gefiltert wird:
+
+- **Locker** – breite Auswahl, nur Ausschlüsse aus dem Profil greifen
+- **Normal** (Standard) – mindestens 300 Bewertungen, Wertung ab 6,5; ohne
+  Genre-Treffer muss die Wertung mindestens 7,5 betragen
+- **Streng** – mindestens 1000 Bewertungen, Wertung ab 7,2, und ein echter
+  Genre-Treffer ist Pflicht
+
+Zusätzlich gilt in allen Stufen: Titel, deren Genres überwiegend aus
+abgelehnten Sendungen stammen, werden ausgeschlossen. Mediathek-Titel haben
+keine Bewertungen und sind von der Stimmen-Schwelle ausgenommen, müssen ab
+"Normal" aber thematisch passen.
+
+Angezeigt werden die besten 50 Treffer; der Rest ist über einen Button am
+Listenende erreichbar.
