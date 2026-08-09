@@ -1,4 +1,4 @@
-const APP_VERSION = "0.6.0";
+const APP_VERSION = "0.7.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -185,6 +185,11 @@ function renderProfileSwitch() {
   });
 }
 
+function watchLinkHtml(item) {
+  if (!item.url) return "";
+  return `<a class="watch-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">▸ Ansehen</a>`;
+}
+
 function badgeHtml(item) {
   return qualifyingProviders(item).map(p =>
     `<span class="badge ${p.key}">${p.label}</span>`
@@ -243,7 +248,7 @@ function render() {
           <h2>${escapeHtml(top.item.title)}</h2>
           <p class="overview">${escapeHtml((top.item.overview || "").slice(0, 180))}${(top.item.overview || "").length > 180 ? "…" : ""}</p>
           <div class="hero-foot">
-            <span class="badges">${badgeHtml(top.item)}</span>
+            <span class="badges">${badgeHtml(top.item)}${watchLinkHtml(top.item)}</span>
             ${top.item.rating ? `<span class="score">★ ${top.item.rating.toFixed(1)}</span>` : ""}
           </div>
         </article>
@@ -274,7 +279,7 @@ function render() {
             <div class="body">
               <h3>${escapeHtml(entry.item.title)}</h3>
               <div class="genres">${(entry.item.genres || []).join(" · ")}</div>
-              <div class="badges">${badgeHtml(entry.item)}</div>
+              <div class="badges">${badgeHtml(entry.item)}${watchLinkHtml(entry.item)}</div>
             </div>
             <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id ?? ""}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
           </article>
@@ -338,6 +343,11 @@ function attachSwipe(wrapEl, profileKey) {
   function onEnd() {
     if (!dragging) return;
     dragging = false;
+    // Nach einer Wischgeste keinen versehentlichen Link-Klick auslösen
+    if (locked === "h" && Math.abs(dx) > 6) {
+      wrapEl.dataset.dragged = "1";
+      setTimeout(() => { delete wrapEl.dataset.dragged; }, 320);
+    }
     if (locked !== "h") { reset(); return; }
     const item = findItemByKey(wrapEl.dataset.key);
     if (dx <= -SWIPE_THRESHOLD && item) {
