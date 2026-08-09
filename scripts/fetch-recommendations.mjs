@@ -402,6 +402,7 @@ async function main() {
   const mediathekItems = await collectMediathekItems();
 
   const output = {
+    schema: 2,                       // Kennzeichnet den überarbeiteten Abgleich
     generated_at: new Date().toISOString(),
     items: [...tmdbItems, ...pressItems, ...mediathekItems]
   };
