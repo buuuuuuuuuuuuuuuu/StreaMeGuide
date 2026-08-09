@@ -1,4 +1,4 @@
-const APP_VERSION = "1.5.0";
+const APP_VERSION = "1.6.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -29,7 +29,7 @@ const STRICTNESS = {
     ratingFloor: 0,
     requireGenre: false,
     genreOrRating: 0,
-    note: "Breite Auswahl, wenig gefiltert"
+    note: "Breite Auswahl · Mediathek nur mit Genre-Treffer"
   },
   normal: {
     label: "Normal",
@@ -37,7 +37,7 @@ const STRICTNESS = {
     ratingFloor: 6.5,
     requireGenre: false,
     genreOrRating: 7.5,   // ohne Genre-Treffer muss die Wertung stimmen
-    note: "Genre-Treffer oder gute Bewertung"
+    note: "Genre-Treffer oder starke Bewertung"
   },
   streng: {
     label: "Streng",
@@ -45,7 +45,7 @@ const STRICTNESS = {
     ratingFloor: 7.2,
     requireGenre: true,
     genreOrRating: 0,
-    note: "Nur Genre-Treffer mit starker Bewertung"
+    note: "Nur Genre-Treffer, hohe Schwellen"
   }
 };
 
@@ -268,9 +268,15 @@ function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
     if ((item.vote_count || 0) < rules.minVotes) return { pass: false, hard: false, score };
   }
 
+  // Mediathek-Titel tragen keine Bewertung. Ohne Genre-Treffer gibt es damit
+  // KEIN einziges Signal, dass sie zum Geschmack passen – deshalb ist der
+  // thematische Anker hier in jeder Stufe Pflicht, auch bei "Locker".
+  // (Sonst landen z. B. Konzertmitschnitte in der Liste, nur weil "Musik"
+  // nicht ausdrücklich ausgeschlossen wurde.)
+  if (isMediathek && !relevant) return { pass: false, hard: false, score };
+
   if (rules.requireGenre && !relevant) return { pass: false, hard: false, score };
   if (!rules.requireGenre && rules.genreOrRating > 0 && !relevant) {
-    if (isMediathek) return { pass: false, hard: false, score };
     if ((item.rating || 0) < rules.genreOrRating) return { pass: false, hard: false, score };
   }
 
@@ -359,18 +365,27 @@ function badgeHtml(item) {
 
 function isLoved(item, prefs) {
   if (!prefs) return false;
-  return (prefs.loved_titles || []).some(t => t.tmdb_id === item.tmdb_id);
+  // Über itemKey vergleichen: Mediathek-Titel haben tmdb_id === null, ein
+  // direkter Vergleich würde bei jedem Eintrag ohne ID "wahr" ergeben und
+  // damit alle Mediathek-Titel als markiert anzeigen.
+  const key = itemKey(item);
+  return (prefs.loved_titles || []).some(t =>
+    (t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase()) === key
+  );
 }
 
 function toggleLove(item) {
-  const key = state.activeView === "both" ? "A" : state.activeView;
-  const prefs = state.profiles[key];
+  const slot = state.activeView === "both" ? "A" : state.activeView;
+  const prefs = state.profiles[slot];
   if (!prefs) return;
   prefs.loved_titles = prefs.loved_titles || [];
-  const idx = prefs.loved_titles.findIndex(t => t.tmdb_id === item.tmdb_id);
+  const target = itemKey(item);
+  const idx = prefs.loved_titles.findIndex(t =>
+    (t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase()) === target
+  );
   if (idx >= 0) prefs.loved_titles.splice(idx, 1);
-  else prefs.loved_titles.push({ title: item.title, tmdb_id: item.tmdb_id, year: null });
-  saveProfiles(key);
+  else prefs.loved_titles.push({ title: item.title, tmdb_id: item.tmdb_id ?? null, year: null, genres: item.genres || [] });
+  saveProfiles(slot);
   render();
 }
 
@@ -408,7 +423,7 @@ function cardHtml(entry, index, prefsForLove) {
           <div class="genres">${metaLine(entry.item)}</div>
           <div class="badges">${badgeHtml(entry.item)}${entry.relaxed ? `<span class="badge relaxed-badge">🔓 gelockert</span>` : ""}${watchLinkHtml(entry.item)}</div>
         </div>
-        <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id ?? ""}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
+        <button class="love-btn ${loved ? "loved" : ""}" data-key="${itemKey(entry.item)}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
       </article>
     </div>
   `;
@@ -556,8 +571,9 @@ function render() {
   listSlot.querySelectorAll(".love-btn").forEach(btn => {
     btn.onclick = (ev) => {
       ev.stopPropagation();
-      const id = btn.dataset.id ? Number(btn.dataset.id) : null;
-      const it = (state.recs.items || []).find(x => x.tmdb_id === id);
+      // Über itemKey suchen, nicht über tmdb_id: Mediathek-Titel haben keine
+      // und würden sonst alle auf denselben Eintrag zeigen.
+      const it = findItemByKey(btn.dataset.key);
       if (it) toggleLove(it);
     };
   });
