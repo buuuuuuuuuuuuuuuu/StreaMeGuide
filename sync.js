@@ -156,6 +156,9 @@ function generateHousehold() {
 // ---------- UI ----------
 function updateSyncStatus() {
   const el = document.getElementById("sync-status");
+  if (typeof updatePanelSummary === "function" && document.getElementById("panel-title")) {
+    updatePanelSummary();
+  }
   if (!el) return;
   if (!syncReady()) {
     el.textContent = "Sync: aus";

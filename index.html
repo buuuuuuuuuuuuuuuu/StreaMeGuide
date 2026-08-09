@@ -20,29 +20,38 @@
   </header>
 
   <section class="panel" id="onboarding-panel">
-    <h3>Erst der Geschmack, dann der Abend</h3>
-    <p>Hol dir den Onboarding-Prompt, führ das Gespräch in einem beliebigen
-      LLM-Chat und lade die fertige Datei hier hoch. Für bis zu zwei Personen.</p>
+    <button class="panel-toggle" id="panel-toggle" aria-expanded="true" aria-controls="panel-body">
+      <span class="panel-toggle-text">
+        <span class="panel-title" id="panel-title">Erst der Geschmack, dann der Abend</span>
+        <span class="panel-sub" id="panel-sub"></span>
+      </span>
+      <span class="panel-chevron" aria-hidden="true">▾</span>
+    </button>
 
-    <button class="btn bubble small" id="copy-prompt" style="margin-bottom:14px;">📋 Prompt kopieren</button>
+    <div id="panel-body">
+      <p>Hol dir den Onboarding-Prompt, führ das Gespräch in einem beliebigen
+        LLM-Chat und lade die fertige Datei hier hoch. Für bis zu zwei Personen.</p>
 
-    <div class="upload-row">
-      <label class="btn" for="file-A">Profil A laden</label>
-      <input type="file" id="file-A" accept="application/json">
-      <label class="btn" for="file-B">Profil B laden</label>
-      <input type="file" id="file-B" accept="application/json">
-      <button class="btn secondary small" id="export-A">A sichern</button>
-      <button class="btn secondary small" id="export-B">B sichern</button>
-    </div>
+      <button class="btn bubble small" id="copy-prompt" style="margin-bottom:14px;">📋 Prompt kopieren</button>
 
-    <div class="status-row">
-      <span class="status-pill" id="status-A">Profil A: leer</span>
-      <span class="status-pill" id="status-B">Profil B: leer</span>
-      <span class="status-pill" id="sync-status">Sync: aus</span>
-    </div>
+      <div class="upload-row">
+        <label class="btn" for="file-A">Profil A laden</label>
+        <input type="file" id="file-A" accept="application/json">
+        <label class="btn" for="file-B">Profil B laden</label>
+        <input type="file" id="file-B" accept="application/json">
+        <button class="btn secondary small" id="export-A">A sichern</button>
+        <button class="btn secondary small" id="export-B">B sichern</button>
+      </div>
 
-    <div class="upload-row" style="margin-top:14px;">
-      <button class="btn secondary small" id="sync-btn">☁︎ Geräte-Sync</button>
+      <div class="status-row">
+        <span class="status-pill" id="status-A">Profil A: leer</span>
+        <span class="status-pill" id="status-B">Profil B: leer</span>
+        <span class="status-pill" id="sync-status">Sync: aus</span>
+      </div>
+
+      <div class="upload-row" style="margin-top:14px;">
+        <button class="btn secondary small" id="sync-btn">☁︎ Geräte-Sync</button>
+      </div>
     </div>
   </section>
 

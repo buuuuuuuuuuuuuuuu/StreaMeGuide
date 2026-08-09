@@ -1,4 +1,4 @@
-const APP_VERSION = "0.8.0";
+const APP_VERSION = "0.9.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -624,6 +624,48 @@ function renderRefineView() {
   });
 }
 
+// ---------- Setup-Kachel auf-/zuklappen ----------
+const PANEL_KEY = "streamguide:panelOpen";
+
+function setPanelOpen(open, remember = true) {
+  const panel = document.getElementById("onboarding-panel");
+  const toggle = document.getElementById("panel-toggle");
+  panel.classList.toggle("collapsed", !open);
+  toggle.setAttribute("aria-expanded", String(open));
+  if (remember) localStorage.setItem(PANEL_KEY, open ? "1" : "0");
+  updatePanelSummary();
+}
+
+function updatePanelSummary() {
+  const panel = document.getElementById("onboarding-panel");
+  const title = document.getElementById("panel-title");
+  const sub = document.getElementById("panel-sub");
+  const names = ["A", "B"].map(s => state.profiles[s]?.profile_name).filter(Boolean);
+
+  if (panel.classList.contains("collapsed")) {
+    title.textContent = "Profile & Einstellungen";
+    sub.textContent = names.length
+      ? names.join(" · ") + (syncReady() ? " · Sync an" : "")
+      : "Noch kein Profil geladen";
+  } else {
+    title.textContent = "Erst der Geschmack, dann der Abend";
+    sub.textContent = "";
+  }
+}
+
+function initPanel() {
+  const stored = localStorage.getItem(PANEL_KEY);
+  const hasProfile = !!(state.profiles.A || state.profiles.B);
+  // Nach dem Setup standardmäßig eingeklappt; eine bewusste Wahl gewinnt.
+  const open = stored !== null ? stored === "1" : !hasProfile;
+  setPanelOpen(open, false);
+
+  document.getElementById("panel-toggle").onclick = () => {
+    const isOpen = !document.getElementById("onboarding-panel").classList.contains("collapsed");
+    setPanelOpen(!isOpen);
+  };
+}
+
 function escapeHtml(s) {
   return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
@@ -642,6 +684,7 @@ function setupUpload(slot) {
       saveProfiles(slot);
       updateStatusPills();
       state.activeView = slot;
+      setPanelOpen(false);
       render();
     } catch (e) {
       alert("Konnte Datei nicht lesen: " + e.message);
@@ -650,6 +693,7 @@ function setupUpload(slot) {
 }
 
 function updateStatusPills() {
+  if (document.getElementById("panel-title")) updatePanelSummary();
   ["A", "B"].forEach(slot => {
     const pill = document.getElementById(`status-${slot}`);
     const p = state.profiles[slot];
@@ -703,6 +747,8 @@ async function init() {
   };
 
   document.getElementById("sync-btn").onclick = () => openSyncDialog();
+
+  initPanel();
 
   state.recs = await loadRecommendations();
   document.getElementById("generated-at").textContent = state.recs.generated_at

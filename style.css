@@ -135,6 +135,74 @@ a{ color: inherit; }
   margin: 0 0 16px;
 }
 
+/* ---------- Aufklappbares Setup-Panel ---------- */
+.panel-toggle{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap: 12px;
+  width: 100%;
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  color: var(--ink);
+}
+.panel-toggle-text{
+  display:flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 0;
+}
+.panel-title{
+  font-family:'Syne', sans-serif;
+  font-weight: 800;
+  font-size: var(--t-head);
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+.panel-sub{
+  font-family:'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--ink-soft);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.panel-sub:empty{ display: none; }
+
+.panel-chevron{
+  flex-shrink: 0;
+  width: 32px; height: 32px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background: var(--butter);
+  border: var(--line);
+  border-radius: 50%;
+  box-shadow: var(--pop-sm);
+  font-size: 0.9rem;
+  line-height: 1;
+  transition: transform var(--base) var(--spring);
+}
+.panel.collapsed .panel-chevron{ transform: rotate(-90deg); }
+
+#panel-body{
+  overflow: hidden;
+  max-height: 900px;
+  opacity: 1;
+  transition: max-height var(--base) var(--smooth), opacity var(--fast) var(--smooth), margin-top var(--base) var(--smooth);
+  margin-top: 16px;
+}
+.panel.collapsed #panel-body{
+  max-height: 0;
+  opacity: 0;
+  margin-top: 0;
+  pointer-events: none;
+}
+.panel.collapsed{ padding: 16px 18px; }
+
 /* ---------- Buttons ---------- */
 .btn{
   display:inline-flex;
