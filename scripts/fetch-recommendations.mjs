@@ -100,54 +100,69 @@ async function collectTmdbItems(genreMap) {
   return [...seen.values()];
 }
 
-// Sendergruppen. Wichtig: In der MediathekView-Filmliste heisst arte
-// "ARTE.DE", und ZDFneo existiert NICHT als eigener Sender – diese Inhalte
-// laufen unter "ZDF". "ARD" ist nur Das Erste, die Dritten sind eigene
-// Sender. Deshalb wird pro Gruppe eine Liste von Sendernamen abgefragt und
-// case-insensitiv verglichen statt strikt auf Gleichheit geprüft.
-const MEDIATHEK_GROUPS = [
-  { label: "ARD", channels: ["ARD", "BR", "NDR", "WDR", "SWR", "MDR", "HR", "RBB", "SR"] },
-  { label: "ZDF", channels: ["ZDF"] },
-  { label: "arte", channels: ["ARTE.DE"] },
-  { label: "3sat", channels: ["3Sat"] }
+// ---------------------------------------------------------------
+// Mediathek
+//
+// Wichtig: Die neuesten Beiträge je Sender abzugreifen liefert vor allem
+// Regionalmagazine, Nachrichten und Sport – also genau das, was hier nicht
+// gewünscht ist. Stattdessen wird gezielt nach Inhaltstypen ("Reihen")
+// gesucht. Das hat zwei Vorteile: die Treffer sind kuratiert, und die
+// Genres stehen fest, statt aus Beschreibungstexten geraten zu werden.
+// ---------------------------------------------------------------
+
+// Welche Sender zu welcher Anzeige-Gruppe gehören
+const CHANNEL_LABELS = {
+  "ard": "ARD", "br": "ARD", "ndr": "ARD", "wdr": "ARD", "swr": "ARD",
+  "mdr": "ARD", "hr": "ARD", "rbb": "ARD", "sr": "ARD", "rbtv": "ARD",
+  "zdf": "ZDF",
+  "arte.de": "arte",
+  "3sat": "3sat"
+};
+
+// Gesuchte Reihen mit festen Genres. Erweiterbar.
+const MEDIATHEK_CATEGORIES = [
+  { topic: "Tatort",           genres: ["Crime", "Drama"],        size: 12 },
+  { topic: "Polizeiruf 110",   genres: ["Crime", "Drama"],        size: 6 },
+  { topic: "Filme im Ersten",  genres: ["Drama"],                 size: 10 },
+  { topic: "Spielfilm",        genres: ["Drama"],                 size: 10 },
+  { topic: "Fernsehfilm",      genres: ["Drama"],                 size: 8 },
+  { topic: "Herzkino",         genres: ["Romance", "Drama"],      size: 6 },
+  { topic: "Terra X",          genres: ["Documentary"],           size: 8 },
+  { topic: "Dokumentation",    genres: ["Documentary"],           size: 12 },
+  { topic: "Doku",             genres: ["Documentary"],           size: 10 },
+  { topic: "Die Story",        genres: ["Documentary"],           size: 6 },
+  { topic: "Kino",             genres: ["Drama"],                 size: 8 },
+  { topic: "Krimi",            genres: ["Crime"],                 size: 8 },
+  { topic: "Comedy",           genres: ["Comedy"],                size: 6 },
+  { topic: "Kabarett",         genres: ["Comedy"],                size: 5 },
+  { topic: "Konzert",          genres: ["Music"],                 size: 5 },
+  { topic: "Geschichte",       genres: ["History", "Documentary"], size: 8 }
 ];
 
-// Grober Themen-zu-Genre-Mapper, damit Mediathek-Titel im Scoring
-// überhaupt mit den Vorlieben abgeglichen werden können.
-const TOPIC_GENRE_HINTS = [
-  [/tatort|polizeiruf|krimi|mord|kommissar|fahnder/i, ["Crime", "Drama"]],
-  [/doku|reportage|geschichte|terra x|wissen|universum|planet|natur/i, ["Documentary"]],
-  [/comedy|satire|kabarett|heute-show|humor/i, ["Comedy"]],
-  [/thriller|spannung/i, ["Thriller"]],
-  [/liebe|romanze|herzkino/i, ["Romance"]],
-  [/kinder|kika|maus|sandmännchen/i, ["Family", "Animation"]],
-  [/konzert|musik|oper|klassik/i, ["Music"]],
-  [/sci-?fi|science.?fiction|zukunft/i, ["Sci-Fi"]],
-  [/krieg|weltkrieg|ns-|nationalsozial/i, ["History", "War"]],
-  [/film|spielfilm|drama/i, ["Drama"]]
-];
+// Ballast, der trotz Themensuche durchrutschen kann
+const MEDIATHEK_JUNK = new RegExp([
+  "audiodeskription", "hörfassung", "gebärdensprache", "mit untertitel",
+  "livestream", "live aus", "trailer", "vorschau", "making of",
+  "nachrichten", "tagesschau", "tagesthemen", "heute journal", "heute xpress",
+  "wetter", "börse", "sportschau", "sportstudio", "bundesliga", "fußball",
+  "olympia", "tour de france", "etappe", "spieltag", "wahlarena",
+  "mittagsmagazin", "morgenmagazin", "brisant", "landesschau", "sachsenspiegel",
+  "aktuell", "regional", "markt", "servicezeit", "um 4", "um vier"
+].join("|"), "i");
 
-function guessGenres(topic, title, description) {
-  const hay = [topic, title, description].filter(Boolean).join(" ");
-  const found = new Set();
-  TOPIC_GENRE_HINTS.forEach(([re, genres]) => {
-    if (re.test(hay)) genres.forEach(g => found.add(g));
-  });
-  return [...found];
-}
+// Titel wie "… vom 7. August" oder "… vom 07.08.2026" kennzeichnen
+// Ausgaben täglicher Sendungen – keine Empfehlung wert.
+const DATED_TITLE = /vom\s+\d{1,2}\.\s*(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember|\d{1,2}\.)/i;
 
-// Offensichtlicher Ballast, der keine Empfehlung wert ist
-const MEDIATHEK_JUNK = /audiodeskription|hörfassung|gebärdensprache|livestream|tagesschau in 100|wetter|nachrichten|kurzfassung|trailer|vorschau|höraufnahme/i;
-
-async function mvwQuery(channel, size = 25) {
+async function mvwQuery(topic, size) {
   const body = {
-    queries: [{ fields: ["channel"], query: channel }],
+    queries: [{ fields: ["topic"], query: topic }],
     sortBy: "timestamp",
     sortOrder: "desc",
     future: false,
     offset: 0,
-    size,
-    duration_min: 1500 // ab 25 Minuten: filtert Beitraege und Haeppchen raus
+    size: size * 3,        // Puffer, da anschließend hart gefiltert wird
+    duration_min: 2400     // ab 40 Minuten: Filme, Krimis, lange Dokus
   };
   const res = await fetch("https://mediathekviewweb.de/api/query", {
     method: "POST",
@@ -163,61 +178,66 @@ async function mvwQuery(channel, size = 25) {
   return data.result?.results || [];
 }
 
+function isJunk(r) {
+  const title = r.title || "";
+  const topic = r.topic || "";
+  if (!title.trim()) return true;
+  if (DATED_TITLE.test(title)) return true;
+  if (MEDIATHEK_JUNK.test(title)) return true;
+  if (MEDIATHEK_JUNK.test(topic)) return true;
+  return false;
+}
+
 async function collectMediathekItems() {
   const collected = [];
-  let queried = 0, failed = 0;
+  let failed = 0;
 
-  for (const group of MEDIATHEK_GROUPS) {
-    for (const channel of group.channels) {
-      queried++;
-      try {
-        const results = await mvwQuery(channel);
+  for (const cat of MEDIATHEK_CATEGORIES) {
+    try {
+      const results = await mvwQuery(cat.topic, cat.size);
+      let kept = 0;
 
-        // Case-insensitiver Abgleich: die Suche ist unscharf und liefert
-        // auch benachbarte Sender zurueck.
-        const wanted = channel.toLowerCase();
-        const matching = results.filter(r => (r.channel || "").toLowerCase() === wanted);
+      for (const r of results) {
+        if (kept >= cat.size) break;
+        const label = CHANNEL_LABELS[(r.channel || "").toLowerCase()];
+        if (!label) continue;          // fremde Sender (ORF, SRF, DW …) überspringen
+        if (isJunk(r)) continue;
 
-        matching.forEach(r => {
-          const title = (r.title || "").trim();
-          if (!title) return;
-          if (MEDIATHEK_JUNK.test(title) || MEDIATHEK_JUNK.test(r.topic || "")) return;
-
-          collected.push({
-            tmdb_id: null,
-            title,
-            type: "tv",
-            overview: r.description || "",
-            genres: guessGenres(r.topic, title, r.description),
-            keywords: [r.topic].filter(Boolean),
-            rating: null,
-            vote_count: 0,
-            poster_path: null,
-            url: r.url_website || null,
-            providers: { netflix: null, prime: null, mediathek: group.label }
-          });
+        collected.push({
+          tmdb_id: null,
+          title: r.title.trim(),
+          type: "tv",
+          overview: r.description || "",
+          genres: cat.genres,          // fest, nicht geraten
+          keywords: [r.topic].filter(Boolean),
+          rating: null,
+          vote_count: 0,
+          poster_path: null,
+          url: r.url_website || null,
+          duration: r.duration || null,
+          providers: { netflix: null, prime: null, mediathek: label }
         });
-
-        console.log(`  ${channel} -> ${matching.length} Treffer (von ${results.length})`);
-      } catch (e) {
-        failed++;
-        console.warn(`  ${channel} -> FEHLER: ${e.message}`);
+        kept++;
       }
+      console.log(`  "${cat.topic}" -> ${kept} übernommen (von ${results.length})`);
+    } catch (e) {
+      failed++;
+      console.warn(`  "${cat.topic}" -> FEHLER: ${e.message}`);
     }
   }
 
-  // Duplikate entfernen (gleiche Sendung mehrfach ausgestrahlt)
+  // Duplikate entfernen
   const seen = new Set();
   const unique = collected.filter(it => {
-    const key = `${it.providers.mediathek}::${it.title.toLowerCase()}`;
+    const key = it.title.toLowerCase().replace(/\s+/g, " ");
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
   });
 
-  console.log(`Mediathek: ${unique.length} Titel aus ${queried} Abfragen (${failed} fehlgeschlagen)`);
+  console.log(`Mediathek: ${unique.length} Titel (${failed} Abfragen fehlgeschlagen)`);
   if (!unique.length) {
-    console.warn("WARNUNG: Keine Mediathek-Inhalte gefunden. API erreichbar? Sendernamen korrekt?");
+    console.warn("WARNUNG: Keine Mediathek-Inhalte gefunden.");
   }
   return unique;
 }
