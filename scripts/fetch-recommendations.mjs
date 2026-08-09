@@ -153,7 +153,7 @@ async function mvwQuery(channel, size = 25) {
     method: "POST",
     headers: {
       "Content-Type": "text/plain",
-      "User-Agent": "StreamGuide/1.0 (personal use)"
+      "User-Agent": "StreaMeGuide/1.0 (personal use)"
     },
     body: JSON.stringify(body)
   });
