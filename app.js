@@ -1,4 +1,4 @@
-const APP_VERSION = "1.3.0";
+const APP_VERSION = "1.4.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -172,6 +172,46 @@ function isJunkItem(item) {
   return false;
 }
 
+// Genres kommen je nach Quelle deutsch oder englisch an (TMDb liefert bei
+// language=de-DE deutsche Namen, ältere Datenstände englische). Der
+// Vergleich läuft deshalb über eine normalisierte Form.
+const GENRE_SYNONYMS = {
+  "crime": "krimi", "krimi": "krimi",
+  "drama": "drama",
+  "comedy": "komoedie", "komödie": "komoedie", "komodie": "komoedie",
+  "documentary": "doku", "dokumentarfilm": "doku", "dokumentation": "doku",
+  "romance": "romantik", "liebesfilm": "romantik", "romantik": "romantik",
+  "music": "musik", "musik": "musik",
+  "history": "historie", "historie": "historie",
+  "science fiction": "scifi", "sci-fi": "scifi", "sci-fi & fantasy": "scifi",
+  "scifi": "scifi", "fantasy": "fantasy",
+  "thriller": "thriller",
+  "horror": "horror",
+  "action": "action", "action & adventure": "action",
+  "adventure": "abenteuer", "abenteuer": "abenteuer",
+  "animation": "animation",
+  "family": "familie", "familie": "familie", "kids": "familie",
+  "mystery": "mystery",
+  "war": "krieg", "kriegsfilm": "krieg", "krieg & politik": "krieg",
+  "western": "western",
+  "reality": "reality", "reality-tv": "reality",
+  "tv movie": "tvfilm", "tv-film": "tvfilm"
+};
+
+function normGenre(g) {
+  const k = (g || "").toLowerCase().trim();
+  return GENRE_SYNONYMS[k] || k;
+}
+
+function genreSet(list) {
+  return new Set((list || []).map(normGenre));
+}
+
+function genreOverlap(itemGenres, listGenres) {
+  const target = genreSet(listGenres);
+  return (itemGenres || []).filter(g => target.has(normGenre(g))).length;
+}
+
 function currentStrictness() {
   const key = localStorage.getItem(STRICTNESS_KEY) || "normal";
   return STRICTNESS[key] ? key : "normal";
@@ -179,8 +219,10 @@ function currentStrictness() {
 
 function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
   if (!prefs) return { pass: true, score: item.rating || 0 };
-  if (excludedKeys && excludedKeys.has(itemKey(item))) return { pass: false };
-  if (isJunkItem(item)) return { pass: false };
+
+  // --- harte Ausschlüsse: nie anzeigen, auch nicht gelockert ---
+  if (excludedKeys && excludedKeys.has(itemKey(item))) return { pass: false, hard: true };
+  if (isJunkItem(item)) return { pass: false, hard: true };
 
   const rules = STRICTNESS[currentStrictness()];
   const genres = item.genres || [];
@@ -188,53 +230,48 @@ function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
   const hay = ((item.title || "") + " " + (item.overview || "")).toLowerCase();
   const isMediathek = !!(item.providers && item.providers.mediathek);
 
-  // --- harte Ausschlüsse ---
-  if ((prefs.excluded_genres || []).some(g => genres.includes(g))) return { pass: false };
+  if (genreOverlap(genres, prefs.excluded_genres || []) > 0) return { pass: false, hard: true };
   if ((prefs.keyword_blocks || []).some(k => keywords.includes(k.toLowerCase()) || hay.includes(k.toLowerCase()))) {
-    return { pass: false };
+    return { pass: false, hard: true };
   }
-  if (!qualifyingProviders(item).length) return { pass: false };
+  if (!qualifyingProviders(item).length) return { pass: false, hard: true };
 
-  // --- Qualitätsschwelle ---
-  // Mediathek-Titel haben keine Bewertungen und werden davon ausgenommen,
-  // müssen dafür aber (ab "Normal") thematisch passen.
-  const floor = Math.max(prefs.min_rating ?? 0, rules.ratingFloor);
-  if (!isMediathek) {
-    if (typeof item.rating !== "number" || item.rating <= 0) return { pass: false };
-    if (item.rating < floor) return { pass: false };
-    if ((item.vote_count || 0) < rules.minVotes) return { pass: false };
-  }
-
-  // --- Relevanz: passt es überhaupt zum Geschmack? ---
-  const preferred = prefs.preferred_genres || [];
-  const genreHits = genres.filter(g => preferred.includes(g)).length;
-  const lovedHits = genres.filter(g => (lovedWeights[g] || 0) > 0).length;
+  // --- Punktevergabe (unabhängig davon, ob die weichen Hürden halten) ---
+  const genreHits = genreOverlap(genres, prefs.preferred_genres || []);
+  const lovedNorm = {};
+  Object.entries(lovedWeights).forEach(([g, w]) => {
+    const k = normGenre(g);
+    lovedNorm[k] = (lovedNorm[k] || 0) + w;
+  });
+  const lovedHits = genres.filter(g => (lovedNorm[normGenre(g)] || 0) > 0).length;
   const relevant = genreHits > 0 || lovedHits > 0;
 
-  if (rules.requireGenre && !relevant) return { pass: false };
-  if (!rules.requireGenre && rules.genreOrRating > 0 && !relevant) {
-    // Ohne thematischen Treffer nur durchlassen, wenn die Wertung überzeugt
-    if (isMediathek) return { pass: false };
-    if ((item.rating || 0) < rules.genreOrRating) return { pass: false };
-  }
-
-  // Genres, die aus abgelehnten Titeln stammen, führen zum Ausschluss
-  const negative = genres.reduce((sum, g) => sum + Math.min(lovedWeights[g] || 0, 0), 0);
-  if (negative <= -1.5) return { pass: false };
-
-  // --- Punktevergabe ---
   let score = item.rating || 6;
   score += genreHits * 2;
   (prefs.keyword_boosts || []).forEach(k => {
     if (keywords.includes(k.toLowerCase()) || hay.includes(k.toLowerCase())) score += 1.5;
   });
-  genres.forEach(g => { score += (lovedWeights[g] || 0) * 0.8; });
-
-  // Viele Bewertungen sprechen für Verlässlichkeit, aber nur leicht
+  genres.forEach(g => { score += (lovedNorm[normGenre(g)] || 0) * 0.8; });
   if (!isMediathek && (item.vote_count || 0) > 3000) score += 0.4;
-  // Aktuell besprochene Titel leicht bevorzugen – aber nur, wenn sie
-  // ohnehin alle Qualitäts- und Genre-Prüfungen bestanden haben
   if (item.buzz) score += 0.6 + Math.min(item.buzz.mentions || 1, 3) * 0.3;
+
+  // Genres aus abgelehnten Titeln: deutlicher Ausschluss
+  const negative = genres.reduce((sum, g) => sum + Math.min(lovedNorm[normGenre(g)] || 0, 0), 0);
+  if (negative <= -1.5) return { pass: false, hard: true };
+
+  // --- weiche Hürden: bei zu wenig Treffern darf gelockert werden ---
+  const floor = Math.max(prefs.min_rating ?? 0, rules.ratingFloor);
+  if (!isMediathek) {
+    if (typeof item.rating !== "number" || item.rating <= 0) return { pass: false, hard: false, score };
+    if (item.rating < floor) return { pass: false, hard: false, score };
+    if ((item.vote_count || 0) < rules.minVotes) return { pass: false, hard: false, score };
+  }
+
+  if (rules.requireGenre && !relevant) return { pass: false, hard: false, score };
+  if (!rules.requireGenre && rules.genreOrRating > 0 && !relevant) {
+    if (isMediathek) return { pass: false, hard: false, score };
+    if ((item.rating || 0) < rules.genreOrRating) return { pass: false, hard: false, score };
+  }
 
   return { pass: true, score };
 }
@@ -242,28 +279,35 @@ function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
 function computeList() {
   const items = (state.recs && state.recs.items) || [];
   const view = state.activeView;
+  const pass = [], soft = [];
 
   if (view === "both") {
     const A = state.profiles.A, B = state.profiles.B;
-    if (!A || !B) return [];
+    if (!A || !B) return { pass, soft };
     const wA = buildLovedGenreWeights(A, items), wB = buildLovedGenreWeights(B, items);
     const exA = excludedKeySet(A), exB = excludedKeySet(B);
-    return items.map(it => {
+    items.forEach(it => {
       const sa = scoreForProfile(it, A, wA, exA);
       const sb = scoreForProfile(it, B, wB, exB);
-      if (!sa.pass || !sb.pass) return null;
-      return { item: it, score: Math.min(sa.score, sb.score) };
-    }).filter(Boolean).sort((a, b) => b.score - a.score);
+      if (sa.hard || sb.hard) return;                       // einer lehnt hart ab
+      const score = Math.min(sa.score ?? 0, sb.score ?? 0);
+      if (sa.pass && sb.pass) pass.push({ item: it, score });
+      else soft.push({ item: it, score, relaxed: true });    // nur weich gescheitert
+    });
+  } else {
+    const prefs = state.profiles[view];
+    const w = buildLovedGenreWeights(prefs, items);
+    const ex = prefs ? excludedKeySet(prefs) : null;
+    items.forEach(it => {
+      const s = scoreForProfile(it, prefs, w, ex);
+      if (s.hard) return;
+      if (s.pass) pass.push({ item: it, score: s.score });
+      else soft.push({ item: it, score: s.score ?? 0, relaxed: true });
+    });
   }
 
-  const prefs = state.profiles[view];
-  const w = buildLovedGenreWeights(prefs, items);
-  const ex = prefs ? excludedKeySet(prefs) : null;
-  return items.map(it => {
-    const s = scoreForProfile(it, prefs, w, ex);
-    if (!s.pass) return null;
-    return { item: it, score: s.score };
-  }).filter(Boolean).sort((a, b) => b.score - a.score);
+  const bySc = (a, b) => b.score - a.score;
+  return { pass: pass.sort(bySc), soft: soft.sort(bySc) };
 }
 
 // ---------- rendering ----------
@@ -329,9 +373,46 @@ function toggleLove(item) {
   render();
 }
 
+const MIN_PER_SECTION = 2;
+const SECTION_KEY = "streamguide:sections";
+const SECTION_TITLES = {
+  netflix: "Netflix",
+  prime: "Prime – gratis enthalten",
+  mediathek: "Öffentlich-rechtliche Mediathek"
+};
+
+function collapsedSections() {
+  try { return new Set(JSON.parse(localStorage.getItem(SECTION_KEY) || "[]")); }
+  catch { return new Set(); }
+}
+function toggleSection(key) {
+  const set = collapsedSections();
+  set.has(key) ? set.delete(key) : set.add(key);
+  localStorage.setItem(SECTION_KEY, JSON.stringify([...set]));
+}
+
+function cardHtml(entry, index, prefsForLove) {
+  const loved = isLoved(entry.item, prefsForLove);
+  return `
+    <div class="swipe-wrap" data-key="${itemKey(entry.item)}">
+      <div class="swipe-hint hint-left">👀 Gesehen?</div>
+      <div class="swipe-hint hint-right">🙅 Nicht mein Ding</div>
+      <article class="swipe-surface card${entry.relaxed ? " relaxed" : ""}">
+        <span class="rank">${String(index + 1).padStart(2, "0")}</span>
+        <div class="body">
+          <h3>${escapeHtml(entry.item.title)}</h3>
+          <div class="genres">${metaLine(entry.item)}</div>
+          <div class="badges">${badgeHtml(entry.item)}${entry.relaxed ? `<span class="badge relaxed-badge">🔓 gelockert</span>` : ""}${watchLinkHtml(entry.item)}</div>
+        </div>
+        <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id ?? ""}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
+      </article>
+    </div>
+  `;
+}
+
 function render() {
   renderProfileSwitch();
-  const list = computeList();
+  const { pass, soft } = computeList();
   const heroSlot = document.getElementById("hero");
   const listSlot = document.getElementById("list");
   const uploadNeeded = state.activeView === "both"
@@ -344,13 +425,15 @@ function render() {
     return;
   }
 
-  if (!list.length) {
+  if (!pass.length && !soft.length) {
     heroSlot.innerHTML = "";
     listSlot.innerHTML = `<div class="empty">Heute passt nichts. Morgen gibt es frische Vorschläge.</div>`;
     return;
   }
 
-  const [top, ...rest] = list;
+  // Wenn nichts die Prüfung besteht, wird der beste Reservetitel zum Tagestipp
+  const ranked = pass.length ? pass : soft;
+  const [top, ...restPass] = ranked;
   const singleProfile = state.activeView !== "both" ? state.activeView : null;
   const prefsForLove = state.profiles[singleProfile || "A"];
 
@@ -372,49 +455,68 @@ function render() {
     </div>
   `;
 
-  // Auf die besten Treffer begrenzen; der Rest ist über einen Button
-  // erreichbar. rest ist bereits nach Punktzahl sortiert.
-  const shown = state.showAll ? rest : rest.slice(0, VISIBLE_LIMIT);
-  const hiddenCount = rest.length - shown.length;
+  const shown = state.showAll ? restPass : restPass.slice(0, VISIBLE_LIMIT);
+  const hiddenCount = restPass.length - shown.length;
+  const usedKeys = new Set([itemKey(top.item)]);
 
   const groups = { netflix: [], prime: [], mediathek: [] };
   shown.forEach(entry => {
+    usedKeys.add(itemKey(entry.item));
     qualifyingProviders(entry.item).forEach(p => {
       if (!groups[p.key].some(e => itemKey(e.item) === itemKey(entry.item))) groups[p.key].push(entry);
     });
   });
 
-  const sectionTitles = { netflix: "Netflix", prime: "Prime – gratis enthalten", mediathek: "Öffentlich-rechtliche Mediathek" };
+  // Jeder Bereich bekommt mindestens MIN_PER_SECTION Einträge. Fehlen welche,
+  // wird aus der Reserve aufgefüllt (nur weich gescheiterte Titel, nie hart
+  // ausgeschlossene) und sichtbar als "gelockert" gekennzeichnet.
+  Object.keys(groups).forEach(key => {
+    if (groups[key].length >= MIN_PER_SECTION) return;
+    for (const entry of soft) {
+      if (groups[key].length >= MIN_PER_SECTION) break;
+      if (usedKeys.has(itemKey(entry.item))) continue;
+      if (!qualifyingProviders(entry.item).some(p => p.key === key)) continue;
+      groups[key].push(entry);
+      usedKeys.add(itemKey(entry.item));
+    }
+  });
+
+  const collapsed = collapsedSections();
   let html = "";
   Object.keys(groups).forEach(key => {
     if (!groups[key].length) return;
-    html += `<div class="section-label">${sectionTitles[key]}</div>`;
-    groups[key].forEach((entry, i) => {
-      const loved = isLoved(entry.item, prefsForLove);
-      html += `
-        <div class="swipe-wrap" data-key="${itemKey(entry.item)}">
-          <div class="swipe-hint hint-left">👀 Gesehen?</div>
-          <div class="swipe-hint hint-right">🙅 Nicht mein Ding</div>
-          <article class="swipe-surface card">
-            <span class="rank">${String(i + 1).padStart(2, "0")}</span>
-            <div class="body">
-              <h3>${escapeHtml(entry.item.title)}</h3>
-              <div class="genres">${metaLine(entry.item)}</div>
-              <div class="badges">${badgeHtml(entry.item)}${watchLinkHtml(entry.item)}</div>
-            </div>
-            <button class="love-btn ${loved ? "loved" : ""}" data-id="${entry.item.tmdb_id ?? ""}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
-          </article>
-        </div>
-      `;
-    });
+    const isCollapsed = collapsed.has(key);
+    html += `
+      <button class="section-label section-toggle${isCollapsed ? " collapsed" : ""}" data-section="${key}" aria-expanded="${!isCollapsed}">
+        <span>${SECTION_TITLES[key]}</span>
+        <span class="section-count">${groups[key].length}</span>
+        <span class="section-chevron" aria-hidden="true">▾</span>
+      </button>
+    `;
+    html += `<div class="section-body${isCollapsed ? " hidden" : ""}" data-body="${key}">`;
+    groups[key].forEach((entry, i) => { html += cardHtml(entry, i, prefsForLove); });
+    html += `</div>`;
   });
+
   if (hiddenCount > 0) {
     html += `<button class="btn secondary show-more" id="show-more">Weitere ${hiddenCount} Vorschläge anzeigen</button>`;
-  } else if (state.showAll && rest.length > VISIBLE_LIMIT) {
+  } else if (state.showAll && restPass.length > VISIBLE_LIMIT) {
     html += `<button class="btn secondary show-more" id="show-more">Auf die besten ${VISIBLE_LIMIT} zurück</button>`;
   }
 
   listSlot.innerHTML = html;
+
+  listSlot.querySelectorAll(".section-toggle").forEach(btn => {
+    btn.onclick = () => {
+      toggleSection(btn.dataset.section);
+      const key = btn.dataset.section;
+      const body = listSlot.querySelector(`[data-body="${key}"]`);
+      const nowCollapsed = !btn.classList.contains("collapsed");
+      btn.classList.toggle("collapsed", nowCollapsed);
+      btn.setAttribute("aria-expanded", String(!nowCollapsed));
+      if (body) body.classList.toggle("hidden", nowCollapsed);
+    };
+  });
 
   const moreBtn = listSlot.querySelector("#show-more");
   if (moreBtn) moreBtn.onclick = () => {

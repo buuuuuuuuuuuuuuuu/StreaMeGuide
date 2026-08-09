@@ -90,6 +90,19 @@ keine Bewertungen und sind von der Stimmen-Schwelle ausgenommen, müssen ab
 Angezeigt werden die besten 50 Treffer; der Rest ist über einen Button am
 Listenende erreichbar.
 
+**Mindestbelegung:** Jeder Bereich (Netflix, Prime, Mediathek) zeigt
+mindestens zwei Titel. Reicht die reguläre Auswahl nicht, wird aus der
+Reserve aufgefüllt – also aus Titeln, die nur an einer *weichen* Hürde
+gescheitert sind (Bewertung, Stimmenzahl, Genre-Passung). Harte
+Ausschlüsse (abgelehnte Genres, Sperrwörter, bereits bewertet, Füllmaterial)
+werden nie aufgeweicht. Aufgefüllte Titel tragen ein Badge „🔓 gelockert"
+und eine gestrichelte Umrandung.
+
+**Genre-Namen:** TMDb liefert bei `language=de-DE` deutsche Genre-Namen
+(„Krimi", „Dokumentarfilm"). Die Mediathek-Kategorien verwenden dieselben
+Bezeichnungen. Zusätzlich normalisiert die App den Vergleich über eine
+Synonymtabelle, damit ältere Profile und Datenstände weiter funktionieren.
+
 ## Presse-Feeds als Entdeckungsquelle
 Zusätzlich werden RSS-Feeds von Serienjunkies, Filmstarts und Filmdienst
 ausgewertet. Dabei wird **kein Artikeltext übernommen**: Aus den
