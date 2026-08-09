@@ -127,3 +127,18 @@ einen kleinen Bonus. In der App tragen sie ein Badge mit der Quelle und
 einen Link zum Artikel.
 
 Feeds anpassen: `PRESS_FEEDS` in `scripts/fetch-recommendations.mjs`.
+
+## Details zu einem Titel
+Ein Tipp auf eine Karte öffnet ein Detailblatt: vollständige Beschreibung,
+Poster (sofern TMDb eines liefert), Genres, Laufzeit, Bewertung mit
+Stimmenzahl sowie die passenden Links – Mediathek-Seite, TMDb-Seite und,
+falls der Titel über einen Presse-Feed gefunden wurde, der Artikel.
+
+Die Beschreibungen stecken bereits in `recommendations.json`
+(`overview`), es entsteht also kein zusätzlicher Abruf. Poster werden bei
+Bedarf direkt von `image.tmdb.org` nachgeladen.
+
+Wischen bleibt unverändert: nach links bewerten, nach rechts aussortieren.
+Ein Tipp ohne Bewegung öffnet die Details – in der "Beide"-Ansicht ist nur
+das Antippen aktiv, weil eine Bewertung immer einer Person zugeordnet sein
+muss.

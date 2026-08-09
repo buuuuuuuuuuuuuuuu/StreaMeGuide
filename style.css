@@ -621,6 +621,46 @@ input[type=file]{ display:none; }
   margin: -10px 0 16px;
 }
 
+/* ---------- Detailansicht ---------- */
+.detail-top{
+  display:flex;
+  gap: 14px;
+  align-items: flex-start;
+  margin-bottom: 16px;
+}
+.detail-poster{
+  width: 96px;
+  flex-shrink: 0;
+  border: var(--line);
+  border-radius: 14px;
+  box-shadow: var(--pop-sm);
+  background: var(--lavender);
+  display: block;
+}
+.detail-head{ flex: 1; min-width: 0; }
+.detail-facts{
+  font-family:'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+.detail-overview{
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--paper-2);
+  border: var(--line);
+  border-radius: var(--r);
+  padding: 14px 15px;
+  margin: 0 0 16px;
+}
+.badge.info-badge{
+  background: transparent;
+  border-style: dashed;
+  color: var(--ink-soft);
+}
+.detail-top .modal-headline{ font-size: 1.15rem; line-height: 1.2; }
+
 /* ---------- Titel hinzufügen ---------- */
 .text-input{
   width: 100%;

@@ -1,4 +1,4 @@
-const APP_VERSION = "1.6.1";
+const APP_VERSION = "1.7.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -421,7 +421,7 @@ function cardHtml(entry, index, prefsForLove) {
         <div class="body">
           <h3>${escapeHtml(entry.item.title)}</h3>
           <div class="genres">${metaLine(entry.item)}</div>
-          <div class="badges">${badgeHtml(entry.item)}${entry.relaxed ? `<span class="badge relaxed-badge">🔓 gelockert</span>` : ""}${watchLinkHtml(entry.item)}</div>
+          <div class="badges">${badgeHtml(entry.item)}${entry.relaxed ? `<span class="badge relaxed-badge">🔓 gelockert</span>` : ""}${watchLinkHtml(entry.item)}<span class="badge info-badge">ⓘ Details</span></div>
         </div>
         <button class="love-btn ${loved ? "loved" : ""}" data-key="${itemKey(entry.item)}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
       </article>
@@ -578,9 +578,70 @@ function render() {
     };
   });
 
-  if (singleProfile) {
-    [heroSlot, listSlot].forEach(container => {
-      container.querySelectorAll(".swipe-wrap").forEach(wrap => attachSwipe(wrap, singleProfile));
+  // Immer anhängen: Antippen öffnet die Details auch in der "Beide"-Ansicht.
+  // Bewerten per Wisch bleibt Einzelprofilen vorbehalten (eine Bewertung muss
+  // einer Person zuzuordnen sein).
+  [heroSlot, listSlot].forEach(container => {
+    container.querySelectorAll(".swipe-wrap").forEach(wrap => attachSwipe(wrap, singleProfile));
+  });
+}
+
+// ---------- Detailansicht ----------
+function tmdbLink(item) {
+  if (item.tmdb_id == null) return null;
+  const type = item.type === "movie" ? "movie" : "tv";
+  return `https://www.themoviedb.org/${type}/${item.tmdb_id}?language=de-DE`;
+}
+
+function openDetail(item, profileKey) {
+  const content = document.getElementById("modal-content");
+  const poster = item.poster_path
+    ? `https://image.tmdb.org/t/p/w342${item.poster_path}`
+    : null;
+
+  const facts = [];
+  if (item.genres && item.genres.length) facts.push(item.genres.join(" · "));
+  if (item.duration) facts.push(Math.round(item.duration / 60) + " Min");
+  if (typeof item.rating === "number" && item.rating > 0) {
+    facts.push(`★ ${item.rating.toFixed(1)}${item.vote_count ? ` (${item.vote_count.toLocaleString("de-DE")} Stimmen)` : ""}`);
+  }
+
+  const links = [];
+  if (item.url) links.push(`<a class="btn small" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">▸ In der Mediathek ansehen</a>`);
+  const tl = tmdbLink(item);
+  if (tl) links.push(`<a class="btn secondary small" href="${escapeHtml(tl)}" target="_blank" rel="noopener">ⓘ Mehr bei TMDb</a>`);
+  if (item.buzz && item.buzz.url) links.push(`<a class="btn secondary small" href="${escapeHtml(item.buzz.url)}" target="_blank" rel="noopener">✎ Artikel bei ${escapeHtml(item.buzz.source)}</a>`);
+
+  content.innerHTML = `
+    <div class="detail-top">
+      ${poster ? `<img class="detail-poster" src="${escapeHtml(poster)}" alt="" loading="lazy">` : ""}
+      <div class="detail-head">
+        <div class="modal-headline" style="margin-bottom:8px;">${escapeHtml(item.title)}</div>
+        <div class="detail-facts">${escapeHtml(facts.join("  ·  "))}</div>
+        <div class="badges" style="margin-top:10px;">${badgeHtml(item)}</div>
+      </div>
+    </div>
+
+    <p class="detail-overview">${item.overview ? escapeHtml(item.overview) : "Für diesen Titel liegt keine Beschreibung vor."}</p>
+
+    ${links.length ? `<div class="modal-actions" style="margin-bottom:14px;">${links.join("")}</div>` : ""}
+
+    <div class="modal-actions">
+      ${profileKey ? `<button class="btn mint small" id="detail-rate">👀 Gesehen – bewerten</button>
+      <button class="btn bubble small" id="detail-skip">🙅 Nicht mein Ding</button>` : ""}
+      <button class="btn secondary small modal-cancel">Schließen</button>
+    </div>
+  `;
+  document.getElementById("modal-overlay").classList.add("open");
+  content.querySelector(".modal-cancel").onclick = () => closeModal();
+
+  if (profileKey) {
+    content.querySelector("#detail-rate").onclick = () => openThumbChoice(item, profileKey, null);
+    content.querySelector("#detail-skip").onclick = () => openReasonStep({
+      headline: `Nicht interessiert an „${item.title}“`,
+      reasonOptions: REASONS.not_interested,
+      onSave: (reasons) => finalizeClassification(profileKey, item, "not_interested", reasons),
+      onCancel: () => closeModal()
     });
   }
 }
@@ -594,7 +655,7 @@ function attachSwipe(wrapEl, profileKey) {
   const surface = wrapEl.querySelector(".swipe-surface");
   const hintLeft = wrapEl.querySelector(".hint-left");
   const hintRight = wrapEl.querySelector(".hint-right");
-  let startX = 0, startY = 0, dx = 0, dragging = false, locked = null;
+  let startX = 0, startY = 0, dx = 0, dy = 0, dragging = false, locked = null;
 
   function reset() {
     surface.style.transition = "transform .2s ease";
@@ -604,14 +665,14 @@ function attachSwipe(wrapEl, profileKey) {
   }
 
   wrapEl.addEventListener("pointerdown", (e) => {
-    dragging = true; locked = null; startX = e.clientX; startY = e.clientY; dx = 0;
+    dragging = true; locked = null; startX = e.clientX; startY = e.clientY; dx = 0; dy = 0;
     surface.style.transition = "none";
     wrapEl.setPointerCapture(e.pointerId);
   });
 
   wrapEl.addEventListener("pointermove", (e) => {
     if (!dragging) return;
-    const dy = e.clientY - startY;
+    dy = e.clientY - startY;
     dx = e.clientX - startX;
     if (locked === null) locked = Math.abs(dx) > Math.abs(dy) ? "h" : "v";
     if (locked === "v") return;
@@ -628,8 +689,18 @@ function attachSwipe(wrapEl, profileKey) {
       wrapEl.dataset.dragged = "1";
       setTimeout(() => { delete wrapEl.dataset.dragged; }, 320);
     }
-    if (locked !== "h") { reset(); return; }
     const item = findItemByKey(wrapEl.dataset.key);
+
+    // Kurzes Antippen ohne nennenswerte Bewegung: Details öffnen
+    if (Math.abs(dx) < 8 && Math.abs(dy) < 8 && item) {
+      reset();
+      openDetail(item, profileKey);
+      return;
+    }
+
+    if (locked !== "h") { reset(); return; }
+    if (!profileKey) { reset(); return; }
+
     if (dx <= -SWIPE_THRESHOLD && item) {
       surface.style.transition = "transform .15s ease";
       surface.style.transform = `translateX(-${SWIPE_THRESHOLD + 10}px)`;
