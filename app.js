@@ -1,4 +1,4 @@
-const APP_VERSION = "1.7.0";
+const APP_VERSION = "1.8.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -353,9 +353,13 @@ function watchLinkHtml(item) {
   return html;
 }
 
-function badgeHtml(item) {
+function badgeHtml(item, linked = false) {
+  const urls = {};
+  if (linked) providerLinks(item).forEach(l => { urls[l.key] = l.url; });
   let html = qualifyingProviders(item).map(p =>
-    `<span class="badge ${p.key}">${p.label}</span>`
+    urls[p.key]
+      ? `<a class="badge ${p.key} badge-link" href="${escapeHtml(urls[p.key])}" target="_blank" rel="noopener">▶ ${p.label}</a>`
+      : `<span class="badge ${p.key}">${p.label}</span>`
   ).join("");
   if (item.buzz) {
     html += `<span class="badge buzz">🔥 ${escapeHtml(item.buzz.source)}</span>`;
@@ -421,7 +425,7 @@ function cardHtml(entry, index, prefsForLove) {
         <div class="body">
           <h3>${escapeHtml(entry.item.title)}</h3>
           <div class="genres">${metaLine(entry.item)}</div>
-          <div class="badges">${badgeHtml(entry.item)}${entry.relaxed ? `<span class="badge relaxed-badge">🔓 gelockert</span>` : ""}${watchLinkHtml(entry.item)}<span class="badge info-badge">ⓘ Details</span></div>
+          <div class="badges">${badgeHtml(entry.item, true)}${entry.relaxed ? `<span class="badge relaxed-badge">🔓 gelockert</span>` : ""}${watchLinkHtml(entry.item)}<span class="badge info-badge">ⓘ Details</span></div>
         </div>
         <button class="love-btn ${loved ? "loved" : ""}" data-key="${itemKey(entry.item)}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
       </article>
@@ -469,7 +473,7 @@ function render() {
           <h2>${escapeHtml(top.item.title)}</h2>
           <p class="overview">${escapeHtml((top.item.overview || "").slice(0, 180))}${(top.item.overview || "").length > 180 ? "…" : ""}</p>
           <div class="hero-foot">
-            <span class="badges">${badgeHtml(top.item)}${watchLinkHtml(top.item)}</span>
+            <span class="badges">${badgeHtml(top.item, true)}${watchLinkHtml(top.item)}</span>
             ${top.item.rating ? `<span class="score">★ ${top.item.rating.toFixed(1)}</span>` : ""}
           </div>
         </article>
@@ -586,6 +590,32 @@ function render() {
   });
 }
 
+// Direktlinks zu den Anbietern.
+//
+// Wichtig: Weder TMDb noch die Provider-Daten liefern Netflix- oder
+// Prime-interne Titel-IDs. Ein Link direkt auf die Detailseite ist damit
+// nicht konstruierbar – möglich ist die Suche innerhalb des Anbieters.
+// Auf iOS/Android öffnen diese Adressen die jeweilige App, sofern sie
+// installiert ist (Universal Links), sonst die Webseite.
+function providerLinks(item) {
+  const p = item.providers || {};
+  const q = encodeURIComponent(item.title || "");
+  const out = [];
+  if (p.netflix === "flatrate") {
+    out.push({ key: "netflix", label: "Netflix öffnen", url: `https://www.netflix.com/search?q=${q}` });
+  }
+  if (p.prime === "flatrate") {
+    out.push({ key: "prime", label: "Prime Video öffnen", url: `https://www.primevideo.com/search?phrase=${q}` });
+  }
+  if (p.mediathek && item.url) {
+    out.push({ key: "mediathek", label: `${p.mediathek} öffnen`, url: item.url });
+  }
+  if (item.justwatch) {
+    out.push({ key: "justwatch", label: "Wo läuft es sonst?", url: item.justwatch });
+  }
+  return out;
+}
+
 // ---------- Detailansicht ----------
 function tmdbLink(item) {
   if (item.tmdb_id == null) return null;
@@ -606,8 +636,11 @@ function openDetail(item, profileKey) {
     facts.push(`★ ${item.rating.toFixed(1)}${item.vote_count ? ` (${item.vote_count.toLocaleString("de-DE")} Stimmen)` : ""}`);
   }
 
+  const watchBtns = providerLinks(item).map(l =>
+    `<a class="btn small provider-btn ${l.key}" href="${escapeHtml(l.url)}" target="_blank" rel="noopener">▶ ${escapeHtml(l.label)}</a>`
+  );
+
   const links = [];
-  if (item.url) links.push(`<a class="btn small" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">▸ In der Mediathek ansehen</a>`);
   const tl = tmdbLink(item);
   if (tl) links.push(`<a class="btn secondary small" href="${escapeHtml(tl)}" target="_blank" rel="noopener">ⓘ Mehr bei TMDb</a>`);
   if (item.buzz && item.buzz.url) links.push(`<a class="btn secondary small" href="${escapeHtml(item.buzz.url)}" target="_blank" rel="noopener">✎ Artikel bei ${escapeHtml(item.buzz.source)}</a>`);
@@ -624,6 +657,8 @@ function openDetail(item, profileKey) {
 
     <p class="detail-overview">${item.overview ? escapeHtml(item.overview) : "Für diesen Titel liegt keine Beschreibung vor."}</p>
 
+    ${watchBtns.length ? `<div class="modal-actions" style="margin-bottom:10px;">${watchBtns.join("")}</div>` : ""}
+    ${watchBtns.length ? `<p class="link-note">Öffnet die App, falls installiert – sonst die Webseite. Bei Netflix und Prime führt der Link zur Suche nach dem Titel, weil die Anbieter keine direkten Titel-Adressen bereitstellen.</p>` : ""}
     ${links.length ? `<div class="modal-actions" style="margin-bottom:14px;">${links.join("")}</div>` : ""}
 
     <div class="modal-actions">
@@ -655,7 +690,7 @@ function attachSwipe(wrapEl, profileKey) {
   const surface = wrapEl.querySelector(".swipe-surface");
   const hintLeft = wrapEl.querySelector(".hint-left");
   const hintRight = wrapEl.querySelector(".hint-right");
-  let startX = 0, startY = 0, dx = 0, dy = 0, dragging = false, locked = null;
+  let startX = 0, startY = 0, dx = 0, dy = 0, dragging = false, locked = null, onControl = false;
 
   function reset() {
     surface.style.transition = "transform .2s ease";
@@ -665,6 +700,9 @@ function attachSwipe(wrapEl, profileKey) {
   }
 
   wrapEl.addEventListener("pointerdown", (e) => {
+    // Wurde ein Link oder Button berührt, darf das Antippen nicht zusätzlich
+    // die Detailansicht öffnen – sonst würde beides gleichzeitig passieren.
+    onControl = !!(e.target.closest && e.target.closest("a, button"));
     dragging = true; locked = null; startX = e.clientX; startY = e.clientY; dx = 0; dy = 0;
     surface.style.transition = "none";
     wrapEl.setPointerCapture(e.pointerId);
@@ -692,7 +730,7 @@ function attachSwipe(wrapEl, profileKey) {
     const item = findItemByKey(wrapEl.dataset.key);
 
     // Kurzes Antippen ohne nennenswerte Bewegung: Details öffnen
-    if (Math.abs(dx) < 8 && Math.abs(dy) < 8 && item) {
+    if (!onControl && Math.abs(dx) < 8 && Math.abs(dy) < 8 && item) {
       reset();
       openDetail(item, profileKey);
       return;

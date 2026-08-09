@@ -142,3 +142,18 @@ Wischen bleibt unverändert: nach links bewerten, nach rechts aussortieren.
 Ein Tipp ohne Bewegung öffnet die Details – in der "Beide"-Ansicht ist nur
 das Antippen aktiv, weil eine Bewertung immer einer Person zugeordnet sein
 muss.
+
+## Links zu den Anbietern
+Jede Karte trägt den Anbieter-Badge als anklickbaren Link; im Detailblatt
+stehen zusätzlich große Buttons.
+
+- **Mediathek** – führt direkt auf die Sendungsseite (`url_website` aus der
+  MediathekViewWeb-Antwort). Auf iOS/Android öffnet sich die ARD- bzw.
+  ZDF-App, wenn sie installiert ist.
+- **Netflix / Prime Video** – führen zur **Suche nach dem Titel** innerhalb
+  des Anbieters, nicht auf die Detailseite. Grund: Weder TMDb noch die
+  Provider-Daten liefern die anbieterinternen Titel-IDs, ohne die sich eine
+  Detailseiten-Adresse nicht bilden lässt. Über Universal Links öffnet sich
+  die App, sofern installiert.
+- **„Wo läuft es sonst?"** – JustWatch-Seite zum Titel, kommt als `link` aus
+  der TMDb-Provider-Antwort und listet alle Anbieter inklusive Direktlinks.

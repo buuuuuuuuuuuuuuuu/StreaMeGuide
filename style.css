@@ -654,6 +654,28 @@ input[type=file]{ display:none; }
   padding: 14px 15px;
   margin: 0 0 16px;
 }
+.badge-link{
+  text-decoration: none;
+  font-weight: 700;
+  box-shadow: var(--pop-sm);
+  transition: transform var(--fast) var(--spring), box-shadow var(--fast) var(--spring);
+}
+.badge-link:active{ transform: translate(2px,2px); box-shadow: 0 0 0 var(--ink); }
+
+.provider-btn.netflix{ background: var(--peach); }
+.provider-btn.prime{ background: var(--sky); }
+.provider-btn.mediathek{ background: var(--mint); }
+.provider-btn.justwatch{ background: var(--paper-2); }
+.provider-btn{ text-decoration: none; }
+
+.link-note{
+  font-family:'Space Mono', monospace;
+  font-size: 10px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  margin: 0 0 14px;
+}
+
 .badge.info-badge{
   background: transparent;
   border-style: dashed;
