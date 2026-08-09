@@ -100,66 +100,137 @@ async function collectTmdbItems(genreMap) {
   return [...seen.values()];
 }
 
-async function collectMediathekItems() {
-  // Deckt ARD, ZDF, ZDFneo und arte ab. Pro Sender einzeln abgefragt (statt
-  // einer generischen Suche), damit kleinere Sender wie arte/ZDFneo nicht
-  // von der Menge an ARD/ZDF-Inhalten verdrängt werden.
-  const channels = ["ARD", "ZDF", "ZDFneo", "arte"];
-  const collected = [];
+// Sendergruppen. Wichtig: In der MediathekView-Filmliste heisst arte
+// "ARTE.DE", und ZDFneo existiert NICHT als eigener Sender – diese Inhalte
+// laufen unter "ZDF". "ARD" ist nur Das Erste, die Dritten sind eigene
+// Sender. Deshalb wird pro Gruppe eine Liste von Sendernamen abgefragt und
+// case-insensitiv verglichen statt strikt auf Gleichheit geprüft.
+const MEDIATHEK_GROUPS = [
+  { label: "ARD", channels: ["ARD", "BR", "NDR", "WDR", "SWR", "MDR", "HR", "RBB", "SR"] },
+  { label: "ZDF", channels: ["ZDF"] },
+  { label: "arte", channels: ["ARTE.DE"] },
+  { label: "3sat", channels: ["3Sat"] }
+];
 
-  for (const channel of channels) {
-    const body = {
-      queries: [{ fields: ["channel"], query: channel }],
-      sortBy: "timestamp",
-      sortOrder: "desc",
-      future: false,
-      offset: 0,
-      size: 20,
-      duration_min: 1200 // ab 20 Minuten, filtert News-Häppchen/Trailer raus
-    };
-    try {
-      const res = await fetch("https://mediathekviewweb.de/api/query", {
-        method: "POST",
-        headers: { "Content-Type": "text/plain" },
-        body: JSON.stringify(body)
-      });
-      const data = await res.json();
-      const results = (data.result?.results || []).filter(r => r.channel === channel);
-      results.forEach(r => {
-        collected.push({
-          tmdb_id: null,
-          title: r.title,
-          type: "tv",
-          overview: r.description || "",
-          genres: [],
-          keywords: [r.topic].filter(Boolean),
-          rating: null,
-          vote_count: 0,
-          poster_path: null,
-          providers: { netflix: null, prime: null, mediathek: r.channel }
+// Grober Themen-zu-Genre-Mapper, damit Mediathek-Titel im Scoring
+// überhaupt mit den Vorlieben abgeglichen werden können.
+const TOPIC_GENRE_HINTS = [
+  [/tatort|polizeiruf|krimi|mord|kommissar|fahnder/i, ["Crime", "Drama"]],
+  [/doku|reportage|geschichte|terra x|wissen|universum|planet|natur/i, ["Documentary"]],
+  [/comedy|satire|kabarett|heute-show|humor/i, ["Comedy"]],
+  [/thriller|spannung/i, ["Thriller"]],
+  [/liebe|romanze|herzkino/i, ["Romance"]],
+  [/kinder|kika|maus|sandmännchen/i, ["Family", "Animation"]],
+  [/konzert|musik|oper|klassik/i, ["Music"]],
+  [/sci-?fi|science.?fiction|zukunft/i, ["Sci-Fi"]],
+  [/krieg|weltkrieg|ns-|nationalsozial/i, ["History", "War"]],
+  [/film|spielfilm|drama/i, ["Drama"]]
+];
+
+function guessGenres(topic, title, description) {
+  const hay = [topic, title, description].filter(Boolean).join(" ");
+  const found = new Set();
+  TOPIC_GENRE_HINTS.forEach(([re, genres]) => {
+    if (re.test(hay)) genres.forEach(g => found.add(g));
+  });
+  return [...found];
+}
+
+// Offensichtlicher Ballast, der keine Empfehlung wert ist
+const MEDIATHEK_JUNK = /audiodeskription|hörfassung|gebärdensprache|livestream|tagesschau in 100|wetter|nachrichten|kurzfassung|trailer|vorschau|höraufnahme/i;
+
+async function mvwQuery(channel, size = 25) {
+  const body = {
+    queries: [{ fields: ["channel"], query: channel }],
+    sortBy: "timestamp",
+    sortOrder: "desc",
+    future: false,
+    offset: 0,
+    size,
+    duration_min: 1500 // ab 25 Minuten: filtert Beitraege und Haeppchen raus
+  };
+  const res = await fetch("https://mediathekviewweb.de/api/query", {
+    method: "POST",
+    headers: {
+      "Content-Type": "text/plain",
+      "User-Agent": "StreamGuide/1.0 (personal use)"
+    },
+    body: JSON.stringify(body)
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  if (data.err) throw new Error(JSON.stringify(data.err).slice(0, 200));
+  return data.result?.results || [];
+}
+
+async function collectMediathekItems() {
+  const collected = [];
+  let queried = 0, failed = 0;
+
+  for (const group of MEDIATHEK_GROUPS) {
+    for (const channel of group.channels) {
+      queried++;
+      try {
+        const results = await mvwQuery(channel);
+
+        // Case-insensitiver Abgleich: die Suche ist unscharf und liefert
+        // auch benachbarte Sender zurueck.
+        const wanted = channel.toLowerCase();
+        const matching = results.filter(r => (r.channel || "").toLowerCase() === wanted);
+
+        matching.forEach(r => {
+          const title = (r.title || "").trim();
+          if (!title) return;
+          if (MEDIATHEK_JUNK.test(title) || MEDIATHEK_JUNK.test(r.topic || "")) return;
+
+          collected.push({
+            tmdb_id: null,
+            title,
+            type: "tv",
+            overview: r.description || "",
+            genres: guessGenres(r.topic, title, r.description),
+            keywords: [r.topic].filter(Boolean),
+            rating: null,
+            vote_count: 0,
+            poster_path: null,
+            url: r.url_website || null,
+            providers: { netflix: null, prime: null, mediathek: group.label }
+          });
         });
-      });
-    } catch (e) {
-      console.warn(`MediathekViewWeb (${channel}) nicht erreichbar:`, e.message);
+
+        console.log(`  ${channel} -> ${matching.length} Treffer (von ${results.length})`);
+      } catch (e) {
+        failed++;
+        console.warn(`  ${channel} -> FEHLER: ${e.message}`);
+      }
     }
   }
 
-  // Duplikate (gleicher Titel + Sender, z.B. durch mehrere Ausstrahlungen) entfernen
+  // Duplikate entfernen (gleiche Sendung mehrfach ausgestrahlt)
   const seen = new Set();
-  return collected.filter(it => {
-    const key = `${it.providers.mediathek}::${it.title}`;
+  const unique = collected.filter(it => {
+    const key = `${it.providers.mediathek}::${it.title.toLowerCase()}`;
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
   });
+
+  console.log(`Mediathek: ${unique.length} Titel aus ${queried} Abfragen (${failed} fehlgeschlagen)`);
+  if (!unique.length) {
+    console.warn("WARNUNG: Keine Mediathek-Inhalte gefunden. API erreichbar? Sendernamen korrekt?");
+  }
+  return unique;
 }
 
 async function main() {
   const genreMap = await genreMaps();
-  const [tmdbItems, mediathekItems] = await Promise.all([
-    collectTmdbItems(genreMap),
-    collectMediathekItems()
-  ]);
+
+  console.log("Hole TMDb-Titel (Netflix/Prime im Abo) …");
+  const tmdbItems = await collectTmdbItems(genreMap);
+  console.log(`TMDb: ${tmdbItems.length} Titel im Abo verfügbar`);
+
+  console.log("Hole Mediathek-Inhalte …");
+  const mediathekItems = await collectMediathekItems();
 
   const output = {
     generated_at: new Date().toISOString(),
@@ -167,7 +238,19 @@ async function main() {
   };
 
   await writeFile("recommendations.json", JSON.stringify(output, null, 2));
-  console.log(`recommendations.json geschrieben: ${output.items.length} Titel`);
+
+  const perProvider = { netflix: 0, prime: 0, mediathek: 0 };
+  output.items.forEach(it => {
+    if (it.providers.netflix === "flatrate") perProvider.netflix++;
+    if (it.providers.prime === "flatrate") perProvider.prime++;
+    if (it.providers.mediathek) perProvider.mediathek++;
+  });
+
+  console.log("---");
+  console.log(`Gesamt: ${output.items.length} Titel`);
+  console.log(`  Netflix:   ${perProvider.netflix}`);
+  console.log(`  Prime:     ${perProvider.prime}`);
+  console.log(`  Mediathek: ${perProvider.mediathek}`);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
