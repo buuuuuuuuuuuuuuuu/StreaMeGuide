@@ -263,10 +263,29 @@ async function collectMediathekItems() {
 // besteht, fliegt raus – lieber keine Treffer als Müll.
 // ---------------------------------------------------------------
 
+// Pro Quelle mehrere Kandidaten-URLs: Feed-Adressen ändern sich gelegentlich.
+// Es wird die erste genommen, die tatsächlich Einträge liefert – im Log ist
+// sichtbar, welche das war.
 const PRESS_FEEDS = [
-  { label: "Serienjunkies", url: "https://www.serienjunkies.de/rss/neuigkeiten.xml" },
-  { label: "Filmstarts",    url: "https://www.filmstarts.de/rss/news.xml" },
-  { label: "Filmdienst",    url: "https://www.filmdienst.de/rss/artikel" }
+  { label: "Serienjunkies", urls: [
+      "https://www.serienjunkies.de/rss/neuigkeiten.xml",
+      "https://www.serienjunkies.de/feed/",
+      "https://www.serienjunkies.de/rss/news.xml"
+  ]},
+  { label: "Filmstarts", urls: [
+      "https://www.filmstarts.de/rss/news.xml",
+      "https://www.filmstarts.de/rss/nachrichten.xml",
+      "https://www.filmstarts.de/rss/"
+  ]},
+  { label: "Filmdienst", urls: [
+      "https://www.filmdienst.de/rss/artikel",
+      "https://www.filmdienst.de/rss",
+      "https://www.filmdienst.de/feed"
+  ]},
+  { label: "Moviepilot", urls: [
+      "https://www.moviepilot.de/news.rss",
+      "https://www.moviepilot.de/news/feed"
+  ]}
 ];
 
 const MAX_PRESS_CANDIDATES = 40; // begrenzt die Zahl der TMDb-Abfragen
@@ -298,12 +317,27 @@ function extractQuotedTitles(text) {
   return out;
 }
 
+async function fetchFeedXml(feed) {
+  const errors = [];
+  for (const url of feed.urls) {
+    try {
+      const res = await fetch(url, {
+        headers: { "User-Agent": "StreaMeGuide/1.0 (personal use)", "Accept": "application/rss+xml, application/xml, text/xml, */*" }
+      });
+      if (!res.ok) { errors.push(`${url} -> HTTP ${res.status}`); continue; }
+      const xml = await res.text();
+      if (!/<item[\s>]/i.test(xml)) { errors.push(`${url} -> keine <item>-Einträge`); continue; }
+      console.log(`  ${feed.label}: Feed ok (${url})`);
+      return xml;
+    } catch (e) {
+      errors.push(`${url} -> ${e.message}`);
+    }
+  }
+  throw new Error(errors.join(" | "));
+}
+
 async function fetchFeedTitles(feed) {
-  const res = await fetch(feed.url, {
-    headers: { "User-Agent": "StreaMeGuide/1.0 (personal use)" }
-  });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const xml = await res.text();
+  const xml = await fetchFeedXml(feed);
 
   const items = xml.split(/<item[\s>]/i).slice(1);
   const found = [];
