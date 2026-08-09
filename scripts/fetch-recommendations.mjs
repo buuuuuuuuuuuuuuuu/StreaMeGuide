@@ -126,23 +126,27 @@ const CHANNEL_LABELS = {
 };
 
 // Gesuchte Reihen mit festen Genres. Erweiterbar.
+// Gesuchte Reihen mit festen Genres. WICHTIG: Die Genre-Namen müssen exakt
+// denen entsprechen, die TMDb bei language=de-DE liefert ("Krimi", nicht
+// "Crime") – sonst matchen Mediathek-Titel nie gegen die Vorlieben und
+// werden ab Strenge "Normal" komplett aussortiert.
 const MEDIATHEK_CATEGORIES = [
-  { topic: "Tatort",           genres: ["Crime", "Drama"],        size: 12 },
-  { topic: "Polizeiruf 110",   genres: ["Crime", "Drama"],        size: 6 },
-  { topic: "Filme im Ersten",  genres: ["Drama"],                 size: 10 },
-  { topic: "Spielfilm",        genres: ["Drama"],                 size: 10 },
-  { topic: "Fernsehfilm",      genres: ["Drama"],                 size: 8 },
-  { topic: "Herzkino",         genres: ["Romance", "Drama"],      size: 6 },
-  { topic: "Terra X",          genres: ["Documentary"],           size: 8 },
-  { topic: "Dokumentation",    genres: ["Documentary"],           size: 12 },
-  { topic: "Doku",             genres: ["Documentary"],           size: 10 },
-  { topic: "Die Story",        genres: ["Documentary"],           size: 6 },
-  { topic: "Kino",             genres: ["Drama"],                 size: 8 },
-  { topic: "Krimi",            genres: ["Crime"],                 size: 8 },
-  { topic: "Comedy",           genres: ["Comedy"],                size: 6 },
-  { topic: "Kabarett",         genres: ["Comedy"],                size: 5 },
-  { topic: "Konzert",          genres: ["Music"],                 size: 5 },
-  { topic: "Geschichte",       genres: ["History", "Documentary"], size: 8 }
+  { topic: "Tatort",           genres: ["Krimi", "Drama"],             size: 12 },
+  { topic: "Polizeiruf 110",   genres: ["Krimi", "Drama"],             size: 6 },
+  { topic: "Filme im Ersten",  genres: ["Drama"],                      size: 10 },
+  { topic: "Spielfilm",        genres: ["Drama"],                      size: 10 },
+  { topic: "Fernsehfilm",      genres: ["Drama"],                      size: 8 },
+  { topic: "Herzkino",         genres: ["Liebesfilm", "Drama"],        size: 6 },
+  { topic: "Terra X",          genres: ["Dokumentarfilm"],             size: 8 },
+  { topic: "Dokumentation",    genres: ["Dokumentarfilm"],             size: 12 },
+  { topic: "Doku",             genres: ["Dokumentarfilm"],             size: 10 },
+  { topic: "Die Story",        genres: ["Dokumentarfilm"],             size: 6 },
+  { topic: "Kino",             genres: ["Drama"],                      size: 8 },
+  { topic: "Krimi",            genres: ["Krimi"],                      size: 8 },
+  { topic: "Comedy",           genres: ["Komödie"],                    size: 6 },
+  { topic: "Kabarett",         genres: ["Komödie"],                    size: 5 },
+  { topic: "Konzert",          genres: ["Musik"],                      size: 5 },
+  { topic: "Geschichte",       genres: ["Historie", "Dokumentarfilm"], size: 8 }
 ];
 
 // Ballast, der trotz Themensuche durchrutschen kann
