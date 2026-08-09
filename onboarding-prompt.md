@@ -1,7 +1,7 @@
-# StreamGuide – Onboarding-Prompt (in einen beliebigen LLM-Chat kopieren)
+# StreaMeGuide – Onboarding-Prompt (in einen beliebigen LLM-Chat kopieren)
 
 Kopiere den folgenden Block komplett in einen Chat mit Claude, ChatGPT o. ä.
-Am Ende bekommst du eine Datei, die du direkt in die StreamGuide-PWA hochlädst.
+Am Ende bekommst du eine Datei, die du direkt in die StreaMeGuide-PWA hochlädst.
 
 ---
 
@@ -39,7 +39,7 @@ Genres/Ton sind ok):
 }
 
 Speichere die Antwort als Datei mit der Endung .json (z. B. `profil-anna.json`)
-und lade sie in der StreamGuide-App unter "Profil hochladen" hoch.
+und lade sie in der StreaMeGuide-App unter "Profil hochladen" hoch.
 
 ---
 

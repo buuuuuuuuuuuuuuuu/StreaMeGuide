@@ -64,7 +64,7 @@ Policy aus Schritt 2 plus deinem Token.
 
 ## 4. In der App eintragen
 
-1. StreamGuide öffnen → **☁︎ Geräte-Sync**.
+1. StreaMeGuide öffnen → **☁︎ Geräte-Sync**.
 2. Projekt-URL und Anon-Key einfügen.
 3. **🎲 Neues Token** antippen → **Speichern** → **↑ Hochladen**.
 4. Token kopieren (Button daneben) und sicher an das zweite Gerät schicken.

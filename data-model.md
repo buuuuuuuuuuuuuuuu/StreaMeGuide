@@ -1,4 +1,4 @@
-# StreamGuide – Datenmodelle (intern, zur Referenz)
+# StreaMeGuide – Datenmodelle (intern, zur Referenz)
 
 ## preferences.json (pro Profil, Upload durch Nutzer)
 {

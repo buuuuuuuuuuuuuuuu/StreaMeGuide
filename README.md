@@ -1,4 +1,4 @@
-# StreamGuide
+# StreaMeGuide
 
 Tägliche Streaming-Empfehlungen aus Netflix, Amazon Prime (nur wirklich im
 Abo enthaltene Titel) und den öffentlich-rechtlichen Mediatheken – gefiltert
@@ -58,3 +58,15 @@ Backup.
 ## Versionierung
 `APP_VERSION` in `app.js` und `service-worker.js` synchron halten, wie bei
 den anderen Projekten.
+
+## Icons
+Drei Varianten liegen unter `icons/varianten/`:
+
+- **a-stapel** – aufgefächerte Sticker-Karten, greift das Signature-Element
+  der Oberfläche auf (aktuell aktiv)
+- **b-blob** – Marken-Blob mit Play-Zeichen, maximal reduziert
+- **c-sorbet** – drei Kugeln für die drei Quellen, am verspieltesten
+
+Wechseln: gewünschte Dateien nach `icons/icon-192.png` bzw.
+`icons/icon-512.png` kopieren. Neu erzeugen lassen sie sich mit
+`python3 icons/make_icons.py` (benötigt Pillow).

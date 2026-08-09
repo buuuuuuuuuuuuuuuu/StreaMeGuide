@@ -1,6 +1,6 @@
 {
-  "name": "StreamGuide",
-  "short_name": "StreamGuide",
+  "name": "StreaMeGuide",
+  "short_name": "StreaMeGuide",
   "description": "Tägliche Streaming-Empfehlungen aus deinen Abos, gefiltert nach deinem Geschmack.",
   "start_url": "./index.html",
   "scope": "./",

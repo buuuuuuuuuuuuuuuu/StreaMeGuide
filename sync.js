@@ -1,5 +1,5 @@
 /* ===========================================================
-   StreamGuide — Sync
+   StreaMeGuide — Sync
    Geräteübergreifende Profile über Supabase, ohne Login.
    Zugriff regelt ein geteiltes Haushalts-Token, das serverseitig
    per Row Level Security geprüft wird (siehe SYNC-SETUP.md).

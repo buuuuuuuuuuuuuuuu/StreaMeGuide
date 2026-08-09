@@ -1,4 +1,4 @@
-const APP_VERSION = "0.7.0";
+const APP_VERSION = "0.8.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
