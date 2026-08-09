@@ -110,13 +110,19 @@ async function collectTmdbItems(genreMap) {
 // Genres stehen fest, statt aus Beschreibungstexten geraten zu werden.
 // ---------------------------------------------------------------
 
-// Welche Sender zu welcher Anzeige-Gruppe gehören
+// Welche Sender zu welcher Anzeige-Gruppe gehören.
+// Auch nicht-deutsche Öffentlich-Rechtliche sind zugelassen – die
+// Qualitätsprüfung passiert ohnehin über Kategorie und Sperrliste.
 const CHANNEL_LABELS = {
   "ard": "ARD", "br": "ARD", "ndr": "ARD", "wdr": "ARD", "swr": "ARD",
   "mdr": "ARD", "hr": "ARD", "rbb": "ARD", "sr": "ARD", "rbtv": "ARD",
   "zdf": "ZDF",
   "arte.de": "arte",
-  "3sat": "3sat"
+  "3sat": "3sat",
+  "orf": "ORF",
+  "srf": "SRF",
+  "phoenix": "Phoenix",
+  "dw": "DW"
 };
 
 // Gesuchte Reihen mit festen Genres. Erweiterbar.
@@ -242,6 +248,144 @@ async function collectMediathekItems() {
   return unique;
 }
 
+// ---------------------------------------------------------------
+// Presse-Feeds als Entdeckungsquelle
+//
+// Ansatz: Es wird KEIN Artikeltext übernommen. Stattdessen werden die in
+// Schlagzeilen erwähnten Werktitel extrahiert – die deutsche Filmpresse
+// setzt sie zuverlässig in typografische Anführungszeichen („…"). Diese
+// Kandidaten laufen anschließend durch dieselbe Prüfung wie alles andere:
+// TMDb-Abgleich, Verfügbarkeit im Abo, Bewertung, Genre. Was das nicht
+// besteht, fliegt raus – lieber keine Treffer als Müll.
+// ---------------------------------------------------------------
+
+const PRESS_FEEDS = [
+  { label: "Serienjunkies", url: "https://www.serienjunkies.de/rss/neuigkeiten.xml" },
+  { label: "Filmstarts",    url: "https://www.filmstarts.de/rss/news.xml" },
+  { label: "Filmdienst",    url: "https://www.filmdienst.de/rss/artikel" }
+];
+
+const MAX_PRESS_CANDIDATES = 40; // begrenzt die Zahl der TMDb-Abfragen
+
+function stripTags(s) {
+  return (s || "")
+    .replace(/<!\[CDATA\[|\]\]>/g, "")
+    .replace(/<[^>]*>/g, "")
+    .replace(/&amp;/g, "&").replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+    .trim();
+}
+
+// Werktitel aus einer Schlagzeile ziehen: „Titel" oder "Titel" oder »Titel«
+function extractQuotedTitles(text) {
+  const out = [];
+  const patterns = [/[„»"']([^"„»"']{2,60})["«"']/g, /"([^"]{2,60})"/g];
+  patterns.forEach(re => {
+    let m;
+    while ((m = re.exec(text)) !== null) {
+      const t = m[1].trim();
+      // Offensichtliche Nicht-Titel aussortieren
+      if (!t) continue;
+      if (t.split(/\s+/).length > 8) continue;
+      if (/^(staffel|season|folge|teil)\b/i.test(t)) continue;
+      out.push(t);
+    }
+  });
+  return out;
+}
+
+async function fetchFeedTitles(feed) {
+  const res = await fetch(feed.url, {
+    headers: { "User-Agent": "StreaMeGuide/1.0 (personal use)" }
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const xml = await res.text();
+
+  const items = xml.split(/<item[\s>]/i).slice(1);
+  const found = [];
+  items.slice(0, 40).forEach(chunk => {
+    const titleMatch = chunk.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
+    const linkMatch = chunk.match(/<link[^>]*>([\s\S]*?)<\/link>/i);
+    if (!titleMatch) return;
+    const headline = stripTags(titleMatch[1]);
+    const link = linkMatch ? stripTags(linkMatch[1]) : null;
+    extractQuotedTitles(headline).forEach(name => {
+      found.push({ name, source: feed.label, url: link });
+    });
+  });
+  return found;
+}
+
+async function tmdbSearch(name) {
+  const data = await tmdb("/search/multi", { query: name, include_adult: "false" });
+  const hits = (data.results || []).filter(r => r.media_type === "movie" || r.media_type === "tv");
+  if (!hits.length) return null;
+  // Bestes Ergebnis: exakter Namenstreffer bevorzugt, sonst populärstes
+  const exact = hits.find(h => (h.title || h.name || "").toLowerCase() === name.toLowerCase());
+  return exact || hits[0];
+}
+
+async function collectPressItems(genreMap, existingKeys) {
+  const candidates = [];
+  for (const feed of PRESS_FEEDS) {
+    try {
+      const found = await fetchFeedTitles(feed);
+      candidates.push(...found);
+      console.log(`  ${feed.label} -> ${found.length} erwähnte Titel`);
+    } catch (e) {
+      console.warn(`  ${feed.label} -> FEHLER: ${e.message}`);
+    }
+  }
+
+  // Nach Häufigkeit sortieren: was mehrfach erwähnt wird, ist relevanter
+  const counts = new Map();
+  candidates.forEach(c => {
+    const key = c.name.toLowerCase();
+    if (!counts.has(key)) counts.set(key, { ...c, mentions: 0 });
+    counts.get(key).mentions++;
+  });
+  const ranked = [...counts.values()]
+    .sort((a, b) => b.mentions - a.mentions)
+    .slice(0, MAX_PRESS_CANDIDATES);
+
+  console.log(`  ${ranked.length} Kandidaten werden bei TMDb geprüft`);
+
+  const items = [];
+  for (const cand of ranked) {
+    try {
+      const hit = await tmdbSearch(cand.name);
+      if (!hit) continue;
+
+      const type = hit.media_type;
+      if (existingKeys.has(`${type}-${hit.id}`)) continue; // schon über TMDb-Listen drin
+
+      const providers = await watchProviders(type, hit.id);
+      if (!providers.netflix && !providers.prime) continue; // nicht im Abo -> raus
+
+      const kw = await keywords(type, hit.id);
+      items.push({
+        tmdb_id: hit.id,
+        title: hit.title || hit.name,
+        type,
+        overview: hit.overview || "",
+        genres: (hit.genre_ids || []).map(id => genreMap[id]).filter(Boolean),
+        keywords: kw,
+        rating: hit.vote_average || null,
+        vote_count: hit.vote_count || 0,
+        poster_path: hit.poster_path || null,
+        providers: { netflix: providers.netflix, prime: providers.prime, mediathek: null },
+        buzz: { source: cand.source, url: cand.url, mentions: cand.mentions }
+      });
+      existingKeys.add(`${type}-${hit.id}`);
+    } catch (e) {
+      // einzelne Fehlschläge stillschweigend überspringen
+    }
+  }
+
+  console.log(`Presse: ${items.length} Titel im Abo verfügbar`);
+  return items;
+}
+
 async function main() {
   const genreMap = await genreMaps();
 
@@ -249,21 +393,27 @@ async function main() {
   const tmdbItems = await collectTmdbItems(genreMap);
   console.log(`TMDb: ${tmdbItems.length} Titel im Abo verfügbar`);
 
+  const existingKeys = new Set(tmdbItems.map(it => `${it.type}-${it.tmdb_id}`));
+
+  console.log("Werte Presse-Feeds aus …");
+  const pressItems = await collectPressItems(genreMap, existingKeys);
+
   console.log("Hole Mediathek-Inhalte …");
   const mediathekItems = await collectMediathekItems();
 
   const output = {
     generated_at: new Date().toISOString(),
-    items: [...tmdbItems, ...mediathekItems]
+    items: [...tmdbItems, ...pressItems, ...mediathekItems]
   };
 
   await writeFile("recommendations.json", JSON.stringify(output, null, 2));
 
-  const perProvider = { netflix: 0, prime: 0, mediathek: 0 };
+  const perProvider = { netflix: 0, prime: 0, mediathek: 0, buzz: 0 };
   output.items.forEach(it => {
     if (it.providers.netflix === "flatrate") perProvider.netflix++;
     if (it.providers.prime === "flatrate") perProvider.prime++;
     if (it.providers.mediathek) perProvider.mediathek++;
+    if (it.buzz) perProvider.buzz++;
   });
 
   console.log("---");
@@ -271,6 +421,7 @@ async function main() {
   console.log(`  Netflix:   ${perProvider.netflix}`);
   console.log(`  Prime:     ${perProvider.prime}`);
   console.log(`  Mediathek: ${perProvider.mediathek}`);
+  console.log(`  davon aus der Presse entdeckt: ${perProvider.buzz}`);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
