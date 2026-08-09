@@ -789,19 +789,29 @@ footer{
   color: var(--ink-soft);
 }
 
-/* ---------- Strenge-Regler ---------- */
-.strictness{
-  margin-top: 18px;
-  padding-top: 16px;
-  border-top: 2.5px dashed var(--lavender);
+/* ---------- Steuerleiste ---------- */
+.tuning{
+  background: var(--paper-2);
+  border: var(--line);
+  border-radius: var(--r);
+  box-shadow: var(--pop-sm);
+  padding: 13px 15px;
+  margin-bottom: 20px;
 }
-.filters{ display:flex; gap: 8px; flex-wrap: wrap; }
-.strictness-note{
-  margin: 10px 0 0 !important;
+.tuning-head{
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.tuning-note{
   font-family:'Space Mono', monospace;
   font-size: 10px;
   color: var(--ink-soft);
+  text-align: right;
 }
+.filters{ display:flex; gap: 8px; flex-wrap: wrap; }
 
 /* ---------- Mehr anzeigen ---------- */
 .show-more{

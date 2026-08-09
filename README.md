@@ -90,6 +90,16 @@ keine Bewertungen und sind von der Stimmen-Schwelle ausgenommen, müssen ab
 Angezeigt werden die besten 50 Treffer; der Rest ist über einen Button am
 Listenende erreichbar.
 
+**Regeln lockern:** Am Listenende sitzt ein Button „🔓 Regeln lockern" mit
+der Anzahl der Titel in der Reserve. Ein Tipp darauf zeigt sie alle an, nach
+Punktzahl einsortiert. Harte Ausschlüsse bleiben auch dann draußen.
+
+**Steuerleiste:** Der Strenge-Regler (Locker/Normal/Streng) steht direkt
+über der Liste, nicht mehr im eingeklappten Setup-Panel.
+
+**Presse-Treffer** stehen in einer eigenen Sektion „🔥 Gerade besprochen"
+ganz oben, damit sie nicht zwischen den Anbieterlisten untergehen.
+
 **Mindestbelegung:** Jeder Bereich (Netflix, Prime, Mediathek) zeigt
 mindestens zwei Titel. Reicht die reguläre Auswahl nicht, wird aus der
 Reserve aufgefüllt – also aus Titeln, die nur an einer *weichen* Hürde

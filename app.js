@@ -1,4 +1,4 @@
-const APP_VERSION = "1.4.0";
+const APP_VERSION = "1.5.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -53,6 +53,7 @@ let state = {
   profiles: { A: null, B: null }, // preferences.json content per slot
   activeView: "A", // "A" | "B" | "both"
   showAll: false,
+  relaxAll: false,
   recs: null
 };
 
@@ -376,10 +377,13 @@ function toggleLove(item) {
 const MIN_PER_SECTION = 2;
 const SECTION_KEY = "streamguide:sections";
 const SECTION_TITLES = {
+  buzz: "🔥 Gerade besprochen",
   netflix: "Netflix",
   prime: "Prime – gratis enthalten",
   mediathek: "Öffentlich-rechtliche Mediathek"
 };
+// Reihenfolge der Bereiche in der Liste
+const SECTION_ORDER = ["buzz", "netflix", "prime", "mediathek"];
 
 function collapsedSections() {
   try { return new Set(JSON.parse(localStorage.getItem(SECTION_KEY) || "[]")); }
@@ -431,8 +435,11 @@ function render() {
     return;
   }
 
-  // Wenn nichts die Prüfung besteht, wird der beste Reservetitel zum Tagestipp
-  const ranked = pass.length ? pass : soft;
+  // Im gelockerten Modus kommt die komplette Reserve dazu.
+  // Ohne jeden regulären Treffer wird der beste Reservetitel zum Tagestipp.
+  const ranked = state.relaxAll
+    ? [...pass, ...soft].sort((a, b) => b.score - a.score)
+    : (pass.length ? pass : soft);
   const [top, ...restPass] = ranked;
   const singleProfile = state.activeView !== "both" ? state.activeView : null;
   const prefsForLove = state.profiles[singleProfile || "A"];
@@ -459,9 +466,13 @@ function render() {
   const hiddenCount = restPass.length - shown.length;
   const usedKeys = new Set([itemKey(top.item)]);
 
-  const groups = { netflix: [], prime: [], mediathek: [] };
+  const groups = { buzz: [], netflix: [], prime: [], mediathek: [] };
   shown.forEach(entry => {
     usedKeys.add(itemKey(entry.item));
+    // Von der Presse entdeckte Titel stehen in ihrer eigenen Sektion, damit
+    // sie nicht zwischen den Anbieterlisten untergehen (Anbieter-Badge
+    // tragen sie weiterhin).
+    if (entry.item.buzz) { groups.buzz.push(entry); return; }
     qualifyingProviders(entry.item).forEach(p => {
       if (!groups[p.key].some(e => itemKey(e.item) === itemKey(entry.item))) groups[p.key].push(entry);
     });
@@ -470,7 +481,8 @@ function render() {
   // Jeder Bereich bekommt mindestens MIN_PER_SECTION Einträge. Fehlen welche,
   // wird aus der Reserve aufgefüllt (nur weich gescheiterte Titel, nie hart
   // ausgeschlossene) und sichtbar als "gelockert" gekennzeichnet.
-  Object.keys(groups).forEach(key => {
+  ["netflix", "prime", "mediathek"].forEach(key => {
+    if (state.relaxAll) return;               // im gelockerten Modus ist ohnehin alles drin
     if (groups[key].length >= MIN_PER_SECTION) return;
     for (const entry of soft) {
       if (groups[key].length >= MIN_PER_SECTION) break;
@@ -483,7 +495,7 @@ function render() {
 
   const collapsed = collapsedSections();
   let html = "";
-  Object.keys(groups).forEach(key => {
+  SECTION_ORDER.forEach(key => {
     if (!groups[key].length) return;
     const isCollapsed = collapsed.has(key);
     html += `
@@ -504,6 +516,14 @@ function render() {
     html += `<button class="btn secondary show-more" id="show-more">Auf die besten ${VISIBLE_LIMIT} zurück</button>`;
   }
 
+  // Regeln lockern: nimmt die komplette Reserve dazu (nur weich gescheiterte
+  // Titel – harte Ausschlüsse bleiben in jedem Fall draußen)
+  if (state.relaxAll) {
+    html += `<button class="btn secondary show-more" id="relax-toggle">🔒 Regeln wieder anziehen</button>`;
+  } else if (soft.length) {
+    html += `<button class="btn bubble show-more" id="relax-toggle">🔓 Regeln lockern – ${soft.length} weitere Vorschläge</button>`;
+  }
+
   listSlot.innerHTML = html;
 
   listSlot.querySelectorAll(".section-toggle").forEach(btn => {
@@ -517,6 +537,14 @@ function render() {
       if (body) body.classList.toggle("hidden", nowCollapsed);
     };
   });
+
+  const relaxBtn = listSlot.querySelector("#relax-toggle");
+  if (relaxBtn) relaxBtn.onclick = () => {
+    state.relaxAll = !state.relaxAll;
+    state.showAll = false;
+    render();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   const moreBtn = listSlot.querySelector("#show-more");
   if (moreBtn) moreBtn.onclick = () => {
@@ -874,6 +902,7 @@ function renderStrictness() {
     chip.onclick = () => {
       localStorage.setItem(STRICTNESS_KEY, chip.dataset.k);
       state.showAll = false;
+      state.relaxAll = false;
       renderStrictness();
       render();
     };
