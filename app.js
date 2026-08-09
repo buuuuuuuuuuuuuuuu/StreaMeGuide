@@ -1,4 +1,4 @@
-const APP_VERSION = "1.8.0";
+const APP_VERSION = "1.9.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -1034,6 +1034,44 @@ function renderStrictness() {
   });
 }
 
+// ---------- Hell/Dunkel ----------
+const THEME_KEY = "streamguide:theme";
+
+function systemPrefersDark() {
+  return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+}
+
+function applyTheme(mode) {
+  document.documentElement.setAttribute("data-theme", mode);
+  const btn = document.getElementById("theme-btn");
+  if (btn) {
+    btn.textContent = mode === "dark" ? "☀️" : "🌙";
+    btn.setAttribute("aria-label", mode === "dark" ? "Zu Hell wechseln" : "Zu Dunkel wechseln");
+  }
+  // Statusleiste des Browsers mitfärben
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (meta) meta.setAttribute("content", mode === "dark" ? "#16111F" : "#F4F0FF");
+}
+
+function initTheme() {
+  const stored = localStorage.getItem(THEME_KEY);
+  applyTheme(stored || (systemPrefersDark() ? "dark" : "light"));
+
+  // Ohne eigene Wahl der Systemeinstellung folgen
+  if (!stored && window.matchMedia) {
+    window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
+      if (!localStorage.getItem(THEME_KEY)) applyTheme(e.matches ? "dark" : "light");
+    });
+  }
+
+  const btn = document.getElementById("theme-btn");
+  if (btn) btn.onclick = () => {
+    const next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    localStorage.setItem(THEME_KEY, next);
+    applyTheme(next);
+  };
+}
+
 // ---------- Setup-Kachel auf-/zuklappen ----------
 const PANEL_KEY = "streamguide:panelOpen";
 
@@ -1124,6 +1162,7 @@ function exportProfile(slot) {
 
 // ---------- init ----------
 async function init() {
+  initTheme();
   loadProfiles();
   updateStatusPills();
   setupUpload("A");

@@ -157,3 +157,16 @@ stehen zusätzlich große Buttons.
   die App, sofern installiert.
 - **„Wo läuft es sonst?"** – JustWatch-Seite zum Titel, kommt als `link` aus
   der TMDb-Provider-Antwort und listet alle Anbieter inklusive Direktlinks.
+
+## Hell / Dunkel
+Oben rechts sitzt ein Umschalter (🌙 / ☀️). Ohne eigene Wahl folgt die App
+der Systemeinstellung des Geräts und reagiert auch auf spätere Wechsel;
+sobald einmal manuell umgeschaltet wurde, gilt diese Wahl dauerhaft
+(`streamguide:theme` im localStorage).
+
+Umgesetzt über `[data-theme="dark"]` auf `<html>`, gesetzt von einem
+Inline-Skript im `<head>` – sonst blitzt beim Start kurz das helle Layout
+auf. Die Formensprache bleibt gleich: dunkles Pflaumen-Papier, helle
+Konturen, Pastelltöne weiterhin als Akzentflächen. Damit Schrift auf diesen
+Flächen in beiden Modi lesbar bleibt, gibt es das Token `--on-accent`
+(immer dunkel); alle Kontraste liegen über 6:1.

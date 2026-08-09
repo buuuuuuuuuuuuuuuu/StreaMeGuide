@@ -10,13 +10,30 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <link rel="stylesheet" href="style.css">
+<script>
+  // Läuft vor dem ersten Rendern: sonst blitzt beim Start kurz das helle
+  // Layout auf, bevor app.js geladen ist.
+  (function () {
+    try {
+      var stored = localStorage.getItem("streamguide:theme");
+      var dark = stored ? stored === "dark"
+        : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+      document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+      var m = document.querySelector('meta[name="theme-color"]');
+      if (m) m.setAttribute("content", dark ? "#16111F" : "#F4F0FF");
+    } catch (e) {}
+  })();
+</script>
 </head>
 <body>
 <main id="app">
 
   <header class="topbar">
     <div class="brand"><span class="blob" aria-hidden="true"></span> StreaMeGuide</div>
-    <div class="date" id="generated-at">lädt…</div>
+    <div class="topbar-right">
+      <button class="theme-btn" id="theme-btn" aria-label="Hell/Dunkel umschalten" title="Hell/Dunkel umschalten">🌙</button>
+      <div class="date" id="generated-at">lädt…</div>
+    </div>
   </header>
 
   <section class="panel" id="onboarding-panel">
