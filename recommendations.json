@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-09T07:39:56.044Z",
+  "generated_at": "2026-08-09T08:34:17.758Z",
   "items": [
     {
       "tmdb_id": 1284041,
@@ -694,6 +694,128 @@
         "netflix": null,
         "prime": "flatrate",
         "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 680,
+      "title": "Pulp Fiction",
+      "type": "movie",
+      "overview": "Vincent Vega und Jules Winnfield holen für ihren Boss Marsellus Wallace eine schwarze Aktentasche aus einer Wohnung ab. Drei Jungs, die ihnen dabei im Weg stehen, lassen ihr Leben. Die Killer machen sich mit einem vierten Jungen als Geisel auf den Weg ins Hauptquartier. Doch als das Auto über eine Straßenerhöhung schaukelt, erschießt Vincent aus Versehen die Geisel. Um den blutverspritzten Wagen zu reinigen, machen die beiden einen Abstecher zu Jules's Freund Jimmie, wo auf Befehl vom Boss ein Spezialist für schwierige Aufträge zu ihnen stößt: The Wolf...",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Komödie"
+      ],
+      "keywords": [
+        "drug dealer",
+        "drug crime",
+        "gangster",
+        "dark comedy",
+        "stolen money",
+        "crime boss",
+        "redemption",
+        "los angeles, california",
+        "theft",
+        "couple",
+        "nonlinear timeline",
+        "multiple storylines",
+        "disturbed",
+        "aggressive",
+        "neo-noir",
+        "suspenseful"
+      ],
+      "rating": 8.481,
+      "vote_count": 30585,
+      "poster_path": "/hOg9USqmQmglmr5kGvpyg1XkhqN.jpg",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000216142.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 475557,
+      "title": "Joker",
+      "type": "movie",
+      "overview": "Gotham City im Jahr 1981: Der mental instabile Arthur Fleck führt wahrlich nicht das Leben, von dem man träumt: Vollgepumpt mit Medikamenten geht er seiner Arbeit als kostümierter Werbeschildträger nach und wird nicht selten das Ziel von Spott und Attacken. Abends zieht es ihn in sein heruntergekommenes Apartment, wo er sich um seine kranke Mutter kümmern muss. Gemeinsam hoffen sie auf ein besseres Leben, das Arthur als Stand-Up-Komiker realisieren will. Als plötzlich die Förderung für seine psychologische Betreuung gestrichen wird, nimmt das Unheil seinen Lauf. Die Schusswaffe eines Kollegen, die Suche nach seinem echten Vater und plötzlicher Ruhm sorgen dafür, dass der einstmals harmlose Exzentriker die ganze Stadt in Angst und Schrecken versetzt …",
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Drama"
+      ],
+      "keywords": [
+        "society",
+        "based on comic",
+        "social commentary",
+        "psychological thriller",
+        "criminal mastermind",
+        "mental illness",
+        "anarchy",
+        "character study",
+        "clown makeup",
+        "outsider",
+        "prophetic",
+        "social realism",
+        "tv host",
+        "1980s",
+        "mother son relationship",
+        "origin story",
+        "falling into madness",
+        "anti-capitalist"
+      ],
+      "rating": 8.12,
+      "vote_count": 28040,
+      "poster_path": "/t3ZtGpIqoQgMY5hMHSLJSD8aguU.jpg",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000216761.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "blunt",
+        "reboot",
+        "doubtful"
+      ],
+      "rating": 8.078,
+      "vote_count": 2999,
+      "poster_path": "/vComTg8O9m22c7jG9jHbeKJBz5Q.jpg",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000216825.html",
+        "mentions": 2
       }
     },
     {
