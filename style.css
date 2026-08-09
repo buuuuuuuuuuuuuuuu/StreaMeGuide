@@ -117,6 +117,10 @@ a{ color: inherit; }
   text-align: right;
   max-width: 48%;
 }
+.date.warn{
+  background: var(--peach);
+  font-weight: 700;
+}
 
 /* ---------- Sticker-Panel ---------- */
 .panel{

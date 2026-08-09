@@ -1,4 +1,4 @@
-const APP_VERSION = "1.2.0";
+const APP_VERSION = "1.3.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -147,6 +147,31 @@ function qualifyingProviders(item) {
   return out;
 }
 
+// Zweiter Schutzwall in der App selbst: Auch wenn die Datendatei veraltet
+// ist oder eine Quelle Unsinn liefert, wird offensichtliches Füllmaterial
+// hier nicht angezeigt.
+const JUNK_TITLE = new RegExp([
+  "audiodeskription", "hörfassung", "gebärdensprache",
+  "livestream", "live aus", "trailer", "vorschau", "making of",
+  "nachrichten", "tagesschau", "tagesthemen", "heute journal", "heute xpress",
+  "wetter", "börse", "sportschau", "sportstudio", "bundesliga", "fußball",
+  "olympia", "tour de france", "etappe", "spieltag", "wahlarena",
+  "mittagsmagazin", "morgenmagazin", "brisant", "landesschau",
+  "sachsenspiegel", "servicezeit", "\\bum 4\\b", "\\bum vier\\b",
+  "in voller länge", "zusammenfassung", "highlights"
+].join("|"), "i");
+
+// "… vom 7. August" / "… vom 07.08." kennzeichnet Ausgaben täglicher Sendungen
+const DATED_TITLE = /vom\s+\d{1,2}\.\s*(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember|\d{1,2}\.)/i;
+
+function isJunkItem(item) {
+  const t = item.title || "";
+  if (!t.trim()) return true;
+  if (DATED_TITLE.test(t)) return true;
+  if (JUNK_TITLE.test(t)) return true;
+  return false;
+}
+
 function currentStrictness() {
   const key = localStorage.getItem(STRICTNESS_KEY) || "normal";
   return STRICTNESS[key] ? key : "normal";
@@ -155,6 +180,7 @@ function currentStrictness() {
 function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
   if (!prefs) return { pass: true, score: item.rating || 0 };
   if (excludedKeys && excludedKeys.has(itemKey(item))) return { pass: false };
+  if (isJunkItem(item)) return { pass: false };
 
   const rules = STRICTNESS[currentStrictness()];
   const genres = item.genres || [];
@@ -880,9 +906,18 @@ async function init() {
   renderStrictness();
 
   state.recs = await loadRecommendations();
-  document.getElementById("generated-at").textContent = state.recs.generated_at
-    ? "Stand: " + new Date(state.recs.generated_at).toLocaleString("de-DE")
-    : "Beispieldaten (noch kein täglicher Abgleich eingerichtet)";
+  const dateEl = document.getElementById("generated-at");
+  if (!state.recs.generated_at) {
+    dateEl.textContent = "Beispieldaten – Abgleich noch nicht gelaufen";
+    dateEl.classList.add("warn");
+  } else if (state.recs.schema !== 2) {
+    // Datei stammt aus einer älteren Fassung des Abrufskripts
+    dateEl.textContent = "⚠ Daten veraltet – Workflow neu starten";
+    dateEl.classList.add("warn");
+  } else {
+    dateEl.textContent = "Stand: " + new Date(state.recs.generated_at).toLocaleString("de-DE");
+    dateEl.classList.remove("warn");
+  }
 
   render();
 
