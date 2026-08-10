@@ -3,7 +3,7 @@
    Pastellflächen · harte Offset-Schatten · Tinten-Outlines
    =========================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
 
 :root{
   /* — Sorbet-Palette — */
@@ -38,9 +38,13 @@
   --base: 340ms;
 
   /* — Type scale — */
-  --t-display: clamp(2.1rem, 8vw, 3.2rem);
-  --t-head: clamp(1.3rem, 5vw, 1.75rem);
-  --t-body: 0.95rem;
+  /* Eine Skala für alles – keine Ad-hoc-Größen mehr */
+  --t-display: clamp(1.65rem, 6.5vw, 2.35rem);
+  --t-head:    1.15rem;
+  --t-body:    0.94rem;
+  --t-sm:      0.82rem;
+  --t-xs:      0.72rem;
+  --ls-label:  0.06em;
 }
 
 /* ---------- Dunkelmodus ----------
@@ -102,7 +106,7 @@ h1,h2,h3,.display{
   margin: 0;
 }
 
-.mono, .meta{ font-family: 'Space Mono', monospace; }
+.mono, .meta{ }
 
 button{ font-family: inherit; cursor: pointer; }
 a{ color: inherit; }
@@ -119,66 +123,42 @@ a{ color: inherit; }
   align-items:center;
   justify-content:space-between;
   gap: 12px;
-  margin-bottom: 22px;
+  margin-bottom: 16px;
 }
 
 .brand{
   font-family:'Syne', sans-serif;
   font-weight: 800;
-  font-size: 1.45rem;
-  letter-spacing: -0.04em;
+  font-size: var(--t-head);
+  letter-spacing: -0.03em;
   display:flex;
   align-items:center;
   gap: 8px;
+  min-width: 0;
 }
 .brand .blob{
-  width: 26px; height: 26px;
+  width: 22px; height: 22px;
   border: var(--line);
-  border-radius: 50% 50% 50% 12px;
+  border-radius: 50% 50% 50% 10px;
   background: var(--butter);
   box-shadow: var(--pop-sm);
   transform: rotate(-8deg);
   flex-shrink: 0;
 }
 
-.topbar-right{
-  display:flex;
-  align-items:center;
-  gap: 9px;
-  min-width: 0;
-}
-.theme-btn{
+.icon-btn{
   flex-shrink: 0;
   width: 34px; height: 34px;
   border: var(--line);
   border-radius: 50%;
   background: var(--paper-2);
   box-shadow: var(--pop-sm);
-  font-size: 0.95rem;
+  font-size: var(--t-body);
   line-height: 1;
   padding: 0;
   transition: transform var(--fast) var(--spring), box-shadow var(--fast) var(--spring);
 }
-.theme-btn:active{ transform: translate(3px,3px); box-shadow: 0 0 0 var(--shadow-col); }
-
-.date{
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  background: var(--paper-2);
-  border: var(--line);
-  border-radius: 999px;
-  padding: 5px 11px;
-  box-shadow: var(--pop-sm);
-  text-align: right;
-  max-width: 48%;
-}
-.date.warn{
-  color: var(--on-accent);
-  background: var(--peach);
-  font-weight: 700;
-}
+.icon-btn:active{ transform: translate(3px,3px); box-shadow: 0 0 0 var(--shadow-col); }
 
 /* ---------- Sticker-Panel ---------- */
 .panel{
@@ -192,7 +172,7 @@ a{ color: inherit; }
 .panel h3{ font-size: var(--t-head); margin-bottom: 8px; }
 .panel p{
   color: var(--ink-soft);
-  font-size: 0.86rem;
+  font-size: var(--t-sm);
   line-height: 1.55;
   margin: 0 0 16px;
 }
@@ -225,8 +205,7 @@ a{ color: inherit; }
   line-height: 1.15;
 }
 .panel-sub{
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   color: var(--ink-soft);
   overflow: hidden;
   text-overflow: ellipsis;
@@ -245,7 +224,7 @@ a{ color: inherit; }
   border: var(--line);
   border-radius: 50%;
   box-shadow: var(--pop-sm);
-  font-size: 0.9rem;
+  font-size: var(--t-body);
   line-height: 1;
   transition: transform var(--base) var(--spring);
 }
@@ -277,7 +256,7 @@ a{ color: inherit; }
   border: var(--line);
   border-radius: 999px;
   padding: 11px 18px;
-  font-size: 0.85rem;
+  font-size: var(--t-sm);
   font-weight: 700;
   box-shadow: var(--pop-sm);
   transition: transform var(--fast) var(--spring), box-shadow var(--fast) var(--spring);
@@ -286,7 +265,7 @@ a{ color: inherit; }
 .btn.secondary{ background: var(--paper-2); color: var(--ink); }
 .btn.mint{ background: var(--mint); }
 .btn.bubble{ background: var(--bubble); }
-.btn.small{ padding: 8px 14px; font-size: 0.78rem; }
+.btn.small{ padding: 8px 14px; font-size: var(--t-xs); }
 .btn:disabled{ opacity: .5; }
 
 label.btn{ cursor: pointer; }
@@ -296,8 +275,7 @@ input[type=file]{ display:none; }
 
 .status-row{ display:flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
 .status-pill{
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   padding: 5px 11px;
   border-radius: 999px;
   border: 2px solid var(--ink-soft);
@@ -311,31 +289,83 @@ input[type=file]{ display:none; }
   box-shadow: var(--pop-sm);
 }
 
-/* ---------- Profil-Switch ---------- */
-.profile-switch{ display:flex; gap: 7px; margin-bottom: 16px; }
-.profile-switch button{
-  flex:1;
+/* ---------- Segmented Control (Profil + Filter) ----------
+   Ein Baustein für beide Zwecke, damit die Oberfläche nicht zwei
+   unterschiedliche Umschalter mit eigener Optik hat. */
+.segmented{
+  display:flex;
+  gap: 4px;
+  background: var(--paper);
   border: var(--line);
-  background: var(--paper-2);
-  color: var(--ink);
-  padding: 11px 8px;
-  border-radius: 14px;
-  font-size: 0.8rem;
+  border-radius: 999px;
+  padding: 4px;
+  margin-top: 14px;
+}
+.segmented button{
+  flex: 1;
+  min-width: 0;
+  border: none;
+  background: transparent;
+  color: var(--ink-soft);
+  padding: 8px 10px;
+  border-radius: 999px;
+  font-size: var(--t-sm);
   font-weight: 700;
-  box-shadow: none;
-  transform: translate(3px,3px);
-  transition: transform var(--fast) var(--spring), box-shadow var(--fast) var(--spring), background var(--fast);
+  letter-spacing: -0.01em;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  transition: background var(--fast) var(--smooth), color var(--fast) var(--smooth);
 }
-.profile-switch button.active{
-  color: var(--on-accent);
+.segmented button.active{
   background: var(--lavender);
-  box-shadow: var(--pop-sm);
-  transform: translate(0,0);
+  color: var(--on-accent);
 }
-.profile-switch button.both.active{ background: var(--mint); }
+.segmented button.both.active{ background: var(--mint); }
+
+.segmented-sm{ margin-top: 0; flex: 1; }
+.segmented-sm button{ padding: 6px 8px; font-size: var(--t-xs); }
+.segmented-sm button.active{ background: var(--butter); }
+
+.filter-row{
+  display:flex;
+  align-items:center;
+  gap: 10px;
+  margin-top: 10px;
+}
+.filter-label{
+  font-size: var(--t-xs);
+  font-weight: 700;
+  letter-spacing: var(--ls-label);
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  flex-shrink: 0;
+}
+
+.panel-status{
+  margin-top: 10px;
+  font-size: var(--t-xs);
+  color: var(--ink-soft);
+  letter-spacing: 0.01em;
+}
+.panel-status.warn{
+  color: var(--on-accent);
+  background: var(--peach);
+  border: var(--line);
+  border-radius: 999px;
+  padding: 4px 11px;
+  display: inline-block;
+  font-weight: 700;
+}
+
+.panel-hint{
+  color: var(--ink-soft);
+  font-size: var(--t-sm);
+  line-height: 1.55;
+  margin: 0 0 12px;
+}
+.btn-row{ display:flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+.refine-open{ margin-bottom: 20px; }
 
 /* ---------- Signature: Sticker-Stapel ---------- */
 .stack{ position: relative; margin-bottom: 26px; }
@@ -363,8 +393,7 @@ input[type=file]{ display:none; }
 }
 .eyebrow{
   color: var(--on-accent);
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   font-weight: 700;
   letter-spacing: 0.16em;
   text-transform: uppercase;
@@ -383,7 +412,7 @@ input[type=file]{ display:none; }
 }
 .hero-card .overview{
   color: var(--ink-soft);
-  font-size: 0.88rem;
+  font-size: var(--t-sm);
   line-height: 1.55;
   margin: 0 0 18px;
 }
@@ -398,9 +427,8 @@ input[type=file]{ display:none; }
 }
 .score{
   color: var(--on-accent);
-  font-family:'Space Mono', monospace;
   font-weight: 700;
-  font-size: 0.78rem;
+  font-size: var(--t-xs);
   background: var(--mint);
   border: var(--line);
   border-radius: 999px;
@@ -413,8 +441,7 @@ input[type=file]{ display:none; }
 .badge{
   display:inline-flex;
   align-items:center;
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   font-weight: 700;
   padding: 4px 10px;
   border: var(--line);
@@ -436,7 +463,7 @@ input[type=file]{ display:none; }
   color: var(--on-accent);
   font-family:'Syne', sans-serif;
   font-weight: 800;
-  font-size: 0.95rem;
+  font-size: var(--t-body);
   letter-spacing: -0.02em;
   display: inline-block;
   background: var(--lavender);
@@ -456,7 +483,7 @@ input[type=file]{ display:none; }
   cursor: pointer;
   font-family:'Syne', sans-serif;
   font-weight: 800;
-  font-size: 0.95rem;
+  font-size: var(--t-body);
   letter-spacing: -0.02em;
   background: var(--lavender);
   border: var(--line);
@@ -471,16 +498,12 @@ input[type=file]{ display:none; }
 }
 .section-toggle:active{ transform: rotate(-1deg) translate(3px,3px); box-shadow: 0 0 0 var(--ink); }
 .section-count{
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   font-weight: 700;
-  background: var(--paper-2);
-  border: 2px solid var(--ink);
-  border-radius: 999px;
-  padding: 1px 7px;
+  color: var(--ink-soft);
 }
 .section-chevron{
-  font-size: 0.8rem;
+  font-size: var(--t-sm);
   line-height: 1;
   transition: transform var(--base) var(--spring);
 }
@@ -504,9 +527,8 @@ input[type=file]{ display:none; }
 }
 .rank{
   color: var(--on-accent);
-  font-family:'Space Mono', monospace;
   font-weight: 700;
-  font-size: 0.72rem;
+  font-size: var(--t-xs);
   background: var(--butter);
   border: var(--line);
   border-radius: 9px;
@@ -514,9 +536,9 @@ input[type=file]{ display:none; }
   flex-shrink: 0;
 }
 .card .body{ flex:1; min-width:0; }
-.card h3{ font-size: 1rem; margin-bottom: 5px; text-wrap: balance; }
+.card h3{ font-size: var(--t-body); margin-bottom: 5px; text-wrap: balance; }
 .card .genres{
-  font-size: 0.75rem;
+  font-size: var(--t-xs);
   color: var(--ink-soft);
   margin-bottom: 9px;
 }
@@ -526,7 +548,7 @@ input[type=file]{ display:none; }
   border: var(--line);
   border-radius: 50%;
   background: var(--paper-2);
-  font-size: 1rem;
+  font-size: var(--t-body);
   line-height: 1;
   padding: 0;
   transition: transform var(--fast) var(--spring), background var(--fast);
@@ -550,7 +572,7 @@ input[type=file]{ display:none; }
   gap: 7px;
   font-family:'Syne', sans-serif;
   font-weight: 800;
-  font-size: 0.85rem;
+  font-size: var(--t-sm);
   opacity: 0;
   pointer-events:none;
   z-index: 0;
@@ -577,8 +599,7 @@ input[type=file]{ display:none; }
 .watch-link{
   display:inline-flex;
   align-items:center;
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   font-weight: 700;
   padding: 4px 10px;
   border: var(--line);
@@ -597,19 +618,19 @@ input[type=file]{ display:none; }
   border: 2.5px dashed var(--lavender);
   border-radius: var(--r-lg);
   color: var(--ink-soft);
-  font-size: 0.86rem;
+  font-size: var(--t-sm);
   line-height: 1.55;
 }
 .empty::before{
   content:"🍧";
   display:block;
-  font-size: 2rem;
+  font-size: 1.6rem;
   margin-bottom: 10px;
 }
 
 /* ---------- Chips ---------- */
 .chip{
-  font-size: 0.78rem;
+  font-size: var(--t-xs);
   font-weight: 600;
   padding: 9px 14px;
   border-radius: 999px;
@@ -632,12 +653,17 @@ input[type=file]{ display:none; }
   inset: 0;
   background: rgba(36,17,70,0.42);
   backdrop-filter: blur(4px);
-  z-index: 60;
+  z-index: 60;                 /* Verfeinern-Ansicht */
   align-items: flex-end;
   justify-content: center;
 }
 .overlay.open{ display:flex; animation: fade var(--fast) var(--smooth); }
 .overlay.full{ align-items: stretch; }
+
+/* Der Dialog muss ÜBER der Verfeinern-Ansicht liegen. Vorher hatten beide
+   z-index 60 – und da #refine-view im HTML später steht, lag es oben:
+   "Serie hinzufügen" öffnete den Dialog unsichtbar dahinter. */
+#modal-overlay{ z-index: 90; }
 @keyframes fade{ from{opacity:0} to{opacity:1} }
 
 .modal{
@@ -673,11 +699,11 @@ input[type=file]{ display:none; }
   box-shadow: var(--pop-sm);
   font-family:'Syne', sans-serif;
   font-weight: 700;
-  font-size: 0.85rem;
+  font-size: var(--t-sm);
   color: var(--on-accent);
   transition: transform var(--fast) var(--spring), box-shadow var(--fast) var(--spring);
 }
-.thumb-btn .emo{ display:block; font-size: 1.7rem; margin-bottom: 6px; }
+.thumb-btn .emo{ display:block; font-size: 1.4rem; margin-bottom: 6px; }
 .thumb-btn.up{ background: var(--mint); }
 .thumb-btn.down{ background: var(--peach); }
 .thumb-btn:active{ transform: translate(3px,3px); box-shadow: 0 0 0 var(--ink); }
@@ -686,7 +712,7 @@ input[type=file]{ display:none; }
 .modal-actions{ display:flex; gap: 9px; flex-wrap: wrap; }
 .modal-sub{
   color: var(--ink-soft);
-  font-size: 0.82rem;
+  font-size: var(--t-sm);
   line-height: 1.5;
   margin: -10px 0 16px;
 }
@@ -709,13 +735,12 @@ input[type=file]{ display:none; }
 }
 .detail-head{ flex: 1; min-width: 0; }
 .detail-facts{
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   color: var(--ink-soft);
   line-height: 1.5;
 }
 .detail-overview{
-  font-size: 0.9rem;
+  font-size: var(--t-body);
   line-height: 1.6;
   color: var(--ink);
   background: var(--paper-2);
@@ -739,8 +764,7 @@ input[type=file]{ display:none; }
 .provider-btn{ text-decoration: none; }
 
 .link-note{
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   line-height: 1.5;
   color: var(--ink-soft);
   margin: 0 0 14px;
@@ -751,13 +775,13 @@ input[type=file]{ display:none; }
   border-style: dashed;
   color: var(--ink-soft);
 }
-.detail-top .modal-headline{ font-size: 1.15rem; line-height: 1.2; }
+.detail-top .modal-headline{ font-size: var(--t-head); line-height: 1.2; }
 
 /* ---------- Titel hinzufügen ---------- */
 .text-input{
   width: 100%;
   font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: 1rem;
+  font-size: var(--t-body);
   font-weight: 600;
   color: var(--ink);
   background: var(--paper-2);
@@ -791,17 +815,16 @@ input[type=file]{ display:none; }
 .add-result-title{
   font-family:'Syne', sans-serif;
   font-weight: 700;
-  font-size: 0.92rem;
+  font-size: var(--t-body);
   letter-spacing: -0.02em;
 }
 .add-result-meta{
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   color: var(--ink-soft);
 }
 .add-hint{
   color: var(--ink-soft);
-  font-size: 0.82rem;
+  font-size: var(--t-sm);
   line-height: 1.5;
   padding: 4px 2px;
 }
@@ -809,16 +832,14 @@ input[type=file]{ display:none; }
 /* ---------- Sync-Formular ---------- */
 .field-label{
   display: block;
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   text-transform: uppercase;
   letter-spacing: 0.12em;
   color: var(--ink-soft);
   margin: 0 0 6px 4px;
 }
 .mono-input{
-  font-family:'Space Mono', monospace;
-  font-size: 0.82rem;
+  font-size: var(--t-sm);
   font-weight: 400;
 }
 .toggle-row{
@@ -830,7 +851,7 @@ input[type=file]{ display:none; }
   border-radius: var(--r);
   padding: 12px 14px;
   margin-bottom: 16px;
-  font-size: 0.85rem;
+  font-size: var(--t-sm);
   font-weight: 600;
   cursor: pointer;
 }
@@ -841,7 +862,7 @@ input[type=file]{ display:none; }
 }
 .sync-feedback{
   margin-top: 14px;
-  font-size: 0.8rem;
+  font-size: var(--t-sm);
   line-height: 1.45;
   color: var(--ink-soft);
   min-height: 1.2em;
@@ -904,7 +925,7 @@ input[type=file]{ display:none; }
   justify-content:space-between;
   gap: 12px;
   font-weight: 700;
-  font-size: 0.85rem;
+  font-size: var(--t-sm);
 }
 .update-banner.show{ display:flex; animation: popIn var(--base) var(--spring); }
 @keyframes popIn{
@@ -917,34 +938,9 @@ input[type=file]{ display:none; }
 footer{
   margin-top: 40px;
   text-align:center;
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
+  font-size: var(--t-xs);
   color: var(--ink-soft);
 }
-
-/* ---------- Steuerleiste ---------- */
-.tuning{
-  background: var(--paper-2);
-  border: var(--line);
-  border-radius: var(--r);
-  box-shadow: var(--pop-sm);
-  padding: 13px 15px;
-  margin-bottom: 20px;
-}
-.tuning-head{
-  display:flex;
-  align-items:baseline;
-  justify-content:space-between;
-  gap: 10px;
-  margin-bottom: 10px;
-}
-.tuning-note{
-  font-family:'Space Mono', monospace;
-  font-size: 10px;
-  color: var(--ink-soft);
-  text-align: right;
-}
-.filters{ display:flex; gap: 8px; flex-wrap: wrap; }
 
 /* ---------- Mehr anzeigen ---------- */
 .show-more{

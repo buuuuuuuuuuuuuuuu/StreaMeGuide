@@ -1,4 +1,4 @@
-const APP_VERSION = "1.9.0";
+const APP_VERSION = "2.0.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -1015,13 +1015,11 @@ function renderRefineView() {
 
 function renderStrictness() {
   const row = document.getElementById("strictness-row");
-  const note = document.getElementById("strictness-note");
   if (!row) return;
   const current = currentStrictness();
   row.innerHTML = Object.entries(STRICTNESS).map(([key, cfg]) =>
-    `<button class="chip strictness-chip ${key === current ? "active" : ""}" data-k="${key}">${cfg.label}</button>`
+    `<button class="strictness-chip${key === current ? " active" : ""}" data-k="${key}">${cfg.label}</button>`
   ).join("");
-  note.textContent = STRICTNESS[current].note;
 
   row.querySelectorAll(".strictness-chip").forEach(chip => {
     chip.onclick = () => {
@@ -1090,15 +1088,10 @@ function updatePanelSummary() {
   const sub = document.getElementById("panel-sub");
   const names = ["A", "B"].map(s => state.profiles[s]?.profile_name).filter(Boolean);
 
-  if (panel.classList.contains("collapsed")) {
-    title.textContent = "Profile & Einstellungen";
-    sub.textContent = names.length
-      ? names.join(" · ") + (syncReady() ? " · Sync an" : "")
-      : "Noch kein Profil geladen";
-  } else {
-    title.textContent = "Erst der Geschmack, dann der Abend";
-    sub.textContent = "";
-  }
+  title.textContent = "Profile & Einstellungen";
+  sub.textContent = names.length
+    ? names.join(" · ") + (syncReady() ? " · Sync an" : "")
+    : "Noch kein Profil geladen";
 }
 
 function initPanel() {

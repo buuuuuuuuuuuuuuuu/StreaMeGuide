@@ -30,31 +30,40 @@
 
   <header class="topbar">
     <div class="brand"><span class="blob" aria-hidden="true"></span> StreaMeGuide</div>
-    <div class="topbar-right">
-      <button class="theme-btn" id="theme-btn" aria-label="Hell/Dunkel umschalten" title="Hell/Dunkel umschalten">🌙</button>
-      <div class="date" id="generated-at">lädt…</div>
-    </div>
+    <button class="icon-btn" id="theme-btn" aria-label="Hell/Dunkel umschalten">🌙</button>
   </header>
 
   <section class="panel" id="onboarding-panel">
     <button class="panel-toggle" id="panel-toggle" aria-expanded="true" aria-controls="panel-body">
       <span class="panel-toggle-text">
-        <span class="panel-title" id="panel-title">Erst der Geschmack, dann der Abend</span>
+        <span class="panel-title" id="panel-title">Profile &amp; Einstellungen</span>
         <span class="panel-sub" id="panel-sub"></span>
       </span>
       <span class="panel-chevron" aria-hidden="true">▾</span>
     </button>
 
+    <nav class="segmented profile-switch" id="profile-switch" aria-label="Profil wählen"></nav>
+
+    <div class="filter-row">
+      <span class="filter-label">Filter</span>
+      <div class="segmented segmented-sm" id="strictness-row"></div>
+    </div>
+
+    <div class="panel-status" id="generated-at">lädt…</div>
+
     <div id="panel-body">
-      <p>Hol dir den Onboarding-Prompt, führ das Gespräch in einem beliebigen
-        LLM-Chat und lade die fertige Datei hier hoch. Für bis zu zwei Personen.</p>
+      <p class="panel-hint">Geschmacksprofil im LLM-Chat ermitteln, fertige
+        Datei hier hochladen. Für bis zu zwei Personen.</p>
 
-      <button class="btn bubble small" id="copy-prompt" style="margin-bottom:14px;">📋 Prompt kopieren</button>
+      <div class="btn-row">
+        <button class="btn bubble small" id="copy-prompt">Prompt kopieren</button>
+        <button class="btn secondary small" id="sync-btn">Geräte-Sync</button>
+      </div>
 
-      <div class="upload-row">
-        <label class="btn" for="file-A">Profil A laden</label>
+      <div class="btn-row">
+        <label class="btn small" for="file-A">Profil A laden</label>
         <input type="file" id="file-A" accept="application/json">
-        <label class="btn" for="file-B">Profil B laden</label>
+        <label class="btn small" for="file-B">Profil B laden</label>
         <input type="file" id="file-B" accept="application/json">
         <button class="btn secondary small" id="export-A">A sichern</button>
         <button class="btn secondary small" id="export-B">B sichern</button>
@@ -65,25 +74,10 @@
         <span class="status-pill" id="status-B">Profil B: leer</span>
         <span class="status-pill" id="sync-status">Sync: aus</span>
       </div>
-
-      <div class="upload-row" style="margin-top:14px;">
-        <button class="btn secondary small" id="sync-btn">☁︎ Geräte-Sync</button>
-      </div>
-
     </div>
   </section>
 
-  <nav class="profile-switch" id="profile-switch" aria-label="Profil wählen"></nav>
-
-  <button class="btn mint small" id="refine-btn" style="margin-bottom:18px;">✎ Profil verfeinern</button>
-
-  <section class="tuning" aria-label="Auswahl steuern">
-    <div class="tuning-head">
-      <span class="field-label" style="margin:0;">Wie streng gefiltert wird</span>
-      <span class="tuning-note" id="strictness-note"></span>
-    </div>
-    <div class="filters" id="strictness-row"></div>
-  </section>
+  <button class="btn mint small refine-open" id="refine-btn">Profil verfeinern</button>
 
   <div id="hero"></div>
   <div id="list"></div>
