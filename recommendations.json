@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-09T17:51:05.694Z",
+  "generated_at": "2026-08-10T06:07:03.389Z",
   "items": [
     {
       "tmdb_id": 1284041,
@@ -18,8 +18,8 @@
         "sea creature",
         "dangerous rain"
       ],
-      "rating": 6.589,
-      "vote_count": 230,
+      "rating": 6.7,
+      "vote_count": 323,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
@@ -52,45 +52,13 @@
         "anime",
         "overcoming loss"
       ],
-      "rating": 6.75,
-      "vote_count": 4,
+      "rating": 6.6,
+      "vote_count": 5,
       "poster_path": "/sV2HxWbEn4J0Y9CKyZqG4pLmjOP.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1679730-the-ribbon-hero/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1263532,
-      "title": "Beast Race",
-      "type": "movie",
-      "overview": "Im Rio de Janeiro der Zukunft muss ein junger Anführer der Widerstandsbewegung an einem tödlichen, vom Parkour inspirierten Wettkampf teilnehmen, um das Leben seiner Schwester zu retten.",
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "keywords": [
-        "bet",
-        "dystopia",
-        "post-apocalyptic future",
-        "parkour",
-        "game",
-        "dark future",
-        "running race",
-        "social inequality",
-        "futuro distópico",
-        "dying race"
-      ],
-      "rating": 5.947,
-      "vote_count": 38,
-      "poster_path": "/2bzIygGnua4tlLo7qTyMSUsME3d.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1263532-corrida-dos-bichos/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -122,8 +90,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.66,
-      "vote_count": 6883,
+      "rating": 8.7,
+      "vote_count": 6907,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -133,42 +101,66 @@
       }
     },
     {
-      "tmdb_id": 454639,
-      "title": "Masters of the Universe",
+      "tmdb_id": 1263532,
+      "title": "Beast Race",
       "type": "movie",
-      "overview": "Nach 15 Jahren der Trennung führt das Schwert der Macht Prinz Adam zurück nach Eternia und entdeckt, dass seine Heimat unter der heimtückischen Herrschaft von Skeletor in Trümmern liegt. Um seine Familie und seine Welt zu retten, muss sich Adam mit seinen engsten Verbündeten zusammenschließen – Teela und Duncan alias Man-At-Arms – und sein wahres Schicksal als He-Man annehmen, den mächtigsten Mann des Universums.",
+      "overview": "Im Rio de Janeiro der Zukunft muss ein junger Anführer der Widerstandsbewegung an einem tödlichen, vom Parkour inspirierten Wettkampf teilnehmen, um das Leben seiner Schwester zu retten.",
       "genres": [
         "Action",
-        "Fantasy",
-        "Science Fiction"
+        "Science Fiction",
+        "Thriller"
       ],
       "keywords": [
-        "skeleton",
-        "superhero",
-        "nostalgia",
-        "alien planet",
-        "based on toy",
-        "super power",
-        "reboot",
-        "aftercreditsstinger",
-        "duringcreditsstinger",
-        "warrior",
-        "sword and planet",
-        "father son conflict",
-        "sword and sorcery",
-        "father daughter relationship",
-        "loving",
-        "based on tv series",
-        "inspirational",
-        "instructive"
+        "bet",
+        "dystopia",
+        "post-apocalyptic future",
+        "parkour",
+        "game",
+        "dark future",
+        "running race",
+        "social inequality",
+        "futuro distópico",
+        "dying race"
       ],
-      "rating": 7.21,
-      "vote_count": 1696,
-      "poster_path": "/c4hwwylwgo5lBO2O2WSBxxQF2kC.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/454639-masters-of-the-universe/watch?locale=DE",
+      "rating": 6.362,
+      "vote_count": 47,
+      "poster_path": "/2bzIygGnua4tlLo7qTyMSUsME3d.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1263532-corrida-dos-bichos/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 291496,
+      "title": "Our Sticky Love",
+      "type": "tv",
+      "overview": "Eine ehrgeizige Staatsanwältin verliert ihr Gedächtnis und zieht bei einem Boxtrainer ein, der behauptet, ihr Freund zu sein. Könnte sich daraus echte Liebe entwickeln?",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "boxer",
+        "gang leader",
+        "coach",
+        "romcom",
+        "romance",
+        "prosecutor",
+        "former athlete",
+        "temporary amnesia",
+        "village setting",
+        "roommates' relationship",
+        "former criminal"
+      ],
+      "rating": 7.909,
+      "vote_count": 11,
+      "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/291496/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -196,42 +188,10 @@
         "empathetic",
         "urgent"
       ],
-      "rating": 8,
-      "vote_count": 1308,
+      "rating": 8.023,
+      "vote_count": 1314,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 291496,
-      "title": "Our Sticky Love",
-      "type": "tv",
-      "overview": "Eine ehrgeizige Staatsanwältin verliert ihr Gedächtnis und zieht bei einem Boxtrainer ein, der behauptet, ihr Freund zu sein. Könnte sich daraus echte Liebe entwickeln?",
-      "genres": [
-        "Drama",
-        "Komödie"
-      ],
-      "keywords": [
-        "boxer",
-        "gang leader",
-        "coach",
-        "romcom",
-        "romance",
-        "prosecutor",
-        "former athlete",
-        "temporary amnesia",
-        "village setting",
-        "roommates' relationship",
-        "former criminal"
-      ],
-      "rating": 7.045,
-      "vote_count": 11,
-      "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/291496/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -267,59 +227,10 @@
         "cliché",
         "pretentious"
       ],
-      "rating": 8.184,
-      "vote_count": 2394,
+      "rating": 8.187,
+      "vote_count": 2398,
       "poster_path": "/pAxeLxVzeCTqJhvYPPdNDhMsHcI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/125988-silo/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 300480,
-      "title": "Ricky Gervais Alley Cats",
-      "type": "tv",
-      "overview": "Als verwilderte Katzen in dieser schonungslosen animierten Comedyserie von Ricky Gervais auf den Straßen Chaos stiften, kommt es zu wilden Missgeschicken.",
-      "genres": [
-        "Animation",
-        "Komödie"
-      ],
-      "keywords": [
-        "cat",
-        "sitcom",
-        "animation",
-        "hilarious"
-      ],
-      "rating": 7,
-      "vote_count": 15,
-      "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/300480-ricky-gervais-alley-cats/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 283297,
-      "title": "Sterling Point",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "keywords": [
-        "romantic drama",
-        "cliché",
-        "embarrassed"
-      ],
-      "rating": 7.735,
-      "vote_count": 17,
-      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -359,7 +270,7 @@
         "defiant"
       ],
       "rating": 8.752,
-      "vote_count": 5469,
+      "vote_count": 5470,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -396,7 +307,7 @@
         "premier league"
       ],
       "rating": 8.344,
-      "vote_count": 2508,
+      "vote_count": 2510,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
@@ -406,16 +317,65 @@
       }
     },
     {
+      "tmdb_id": 300480,
+      "title": "Ricky Gervais Alley Cats",
+      "type": "tv",
+      "overview": "Als verwilderte Katzen in dieser schonungslosen animierten Comedyserie von Ricky Gervais auf den Straßen Chaos stiften, kommt es zu wilden Missgeschicken.",
+      "genres": [
+        "Animation",
+        "Komödie"
+      ],
+      "keywords": [
+        "cat",
+        "sitcom",
+        "animation",
+        "hilarious"
+      ],
+      "rating": 7.294,
+      "vote_count": 17,
+      "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/300480-ricky-gervais-alley-cats/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 283297,
+      "title": "Sterling Point",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "keywords": [
+        "romantic drama",
+        "cliché",
+        "embarrassed"
+      ],
+      "rating": 7.8,
+      "vote_count": 23,
+      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
       "tmdb_id": 284753,
-      "title": "ऑपरेशन सफ़ेद सागर",
+      "title": "ऑपरेशन सफ़ेद सागर: कारगिल युद्ध की अनकही कहानी",
       "type": "tv",
       "overview": "",
       "genres": [
         "Drama"
       ],
       "keywords": [],
-      "rating": 2,
-      "vote_count": 1,
+      "rating": 2.5,
+      "vote_count": 2,
       "poster_path": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
       "justwatch": "https://www.themoviedb.org/tv/284753/watch?locale=DE",
       "providers": {
@@ -425,29 +385,45 @@
       }
     },
     {
-      "tmdb_id": 207333,
-      "title": "Hundert Jahre Einsamkeit",
+      "tmdb_id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
       "type": "tv",
-      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
+      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
       "genres": [
-        "Drama",
+        "Action & Adventure",
+        "Animation",
         "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "based on novel or book",
-        "affectation",
-        "miniseries",
-        "magic realism",
-        "nostalgic",
-        "latin american history",
-        "political",
-        "period piece",
-        "intimate"
+        "magic",
+        "teleportation",
+        "reincarnation",
+        "polygamy",
+        "harem",
+        "romance",
+        "displacement",
+        "second chance",
+        "fantasy world",
+        "seinen",
+        "ecchi",
+        "anime",
+        "high fantasy",
+        "search for mother",
+        "neet",
+        "life challenges",
+        "other world",
+        "sword and sorcery",
+        "isekai",
+        "otaku",
+        "erotic",
+        "fantasy",
+        "based on light novel",
+        "adventure"
       ],
-      "rating": 7.956,
-      "vote_count": 226,
-      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
+      "rating": 8.5,
+      "vote_count": 1636,
+      "poster_path": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -478,10 +454,50 @@
         "inspirational",
         "survival thriller"
       ],
-      "rating": 6.562,
-      "vote_count": 515,
+      "rating": 6.538,
+      "vote_count": 532,
       "poster_path": "/hRM5XAiMvwoAGhyrFou7P42jb0J.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 454639,
+      "title": "Masters of the Universe",
+      "type": "movie",
+      "overview": "Nach 15 Jahren der Trennung führt das Schwert der Macht Prinz Adam zurück nach Eternia und entdeckt, dass seine Heimat unter der heimtückischen Herrschaft von Skeletor in Trümmern liegt. Um seine Familie und seine Welt zu retten, muss sich Adam mit seinen engsten Verbündeten zusammenschließen – Teela und Duncan alias Man-At-Arms – und sein wahres Schicksal als He-Man annehmen, den mächtigsten Mann des Universums.",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "keywords": [
+        "skeleton",
+        "superhero",
+        "nostalgia",
+        "alien planet",
+        "based on toy",
+        "super power",
+        "reboot",
+        "aftercreditsstinger",
+        "duringcreditsstinger",
+        "warrior",
+        "sword and planet",
+        "father son conflict",
+        "sword and sorcery",
+        "father daughter relationship",
+        "loving",
+        "based on tv series",
+        "inspirational",
+        "instructive"
+      ],
+      "rating": 7.201,
+      "vote_count": 1709,
+      "poster_path": "/c4hwwylwgo5lBO2O2WSBxxQF2kC.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/454639-masters-of-the-universe/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -508,8 +524,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.374,
-      "vote_count": 4518,
+      "rating": 8.373,
+      "vote_count": 4520,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -588,8 +604,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.545,
-      "vote_count": 3448,
+      "rating": 8.546,
+      "vote_count": 3449,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -622,7 +638,7 @@
         "comedy"
       ],
       "rating": 8.1,
-      "vote_count": 4636,
+      "vote_count": 4637,
       "poster_path": "/2gIfJXgcz6N2wgOZ4qXoNKh0qFZ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir/watch?locale=DE",
       "providers": {
@@ -668,7 +684,7 @@
         "horror"
       ],
       "rating": 8.313,
-      "vote_count": 8582,
+      "vote_count": 8585,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
@@ -703,7 +719,7 @@
         "spaceship"
       ],
       "rating": 8.681,
-      "vote_count": 11247,
+      "vote_count": 11249,
       "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
       "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
       "providers": {
@@ -741,14 +757,89 @@
         "cruel",
         "pretentious"
       ],
-      "rating": 8.498,
-      "vote_count": 4123,
+      "rating": 8.502,
+      "vote_count": 4126,
       "poster_path": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/124364-from/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
         "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 205321,
+      "title": "Sharknado",
+      "type": "movie",
+      "overview": "Ausgerechnet als sich vor den Stränden Kaliforniens gerade besonders viele besonders aggressive Haie tummeln und schon mehrere Surferleben gefordert haben, hält ein monströser Wirbelsturm auf die Küste zu und spült die glitschigen Ungeheuer aus dem Meer direkt in die Straßen und Vorgärten der Ortschaften. Inmitten des mörderischen Getümmels schlägt sich Barbesitzer Fin zum Haus seiner Ex-Frau durch, wo seine kleine Tochter auf ihn wartet. Doch das Unwetter hat seinen Höhepunkt noch gar nicht erreicht.",
+      "genres": [
+        "Action",
+        "Komödie",
+        "Horror",
+        "Science Fiction",
+        "TV-Film"
+      ],
+      "keywords": [
+        "california",
+        "helicopter",
+        "beach",
+        "tornado",
+        "hurricane",
+        "attack",
+        "chainsaw",
+        "creature",
+        "storm",
+        "explosion",
+        "shark",
+        "flood"
+      ],
+      "rating": 3.913,
+      "vote_count": 1716,
+      "poster_path": "/aXDe4I51BMfsB5HaPzhcuB7f5gX.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/205321-sharknado/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000216928.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 4386,
+      "title": "Baywatch",
+      "type": "tv",
+      "overview": "Diese langlebige US-Actionserie strotzt nur so vor spärlich bekleideten perfekten Körpern. Sie gehören den „Rettungsschwimmern von Malibu“, den Titelhelden einer der weltweit erfolgreichsten US-Serien aller Zeiten.\n\nIhr Chef Mitch Buchannon (David Hasselhoff) ist ein alter Hase im Lebensrettungsgeschäft und scheinbar jeder brenzligen Situation gewachsen, die an so einem gut gefüllten Strand passieren kann. Zusammen mit seinem Team aus kernigen Bademeistern und bildschönen Rettungsnixen, allen voran Playmate Pamela Anderson, die in ihrer Rolle der C.J. Parker ab der dritten Staffel der Männerwelt einheizt, rettet Mitch übermütigen Schwimmern das Leben, bekämpft Haie, beseitigt Erdbebenschäden, geht auf Ganovenjagd und bewältigt nebenbei noch große und kleine Beziehungsprobleme.\n\nWährend die Damen in den markanten roten Badeanzügen von Staffel zu Staffel immer mal wieder ausgetauscht werden, ist Buchannon der einzige, der in jeder der elf Staffeln zu sehen ist.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "sea",
+        "beach",
+        "los angeles, california",
+        "swimming",
+        "lifeguard",
+        "southern california",
+        "soap opera"
+      ],
+      "rating": 5.968,
+      "vote_count": 553,
+      "poster_path": "/j52EJCg8hXcIQnFvFHYp2DHlUo9.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/4386-baywatch/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000216928.html",
+        "mentions": 2
       }
     },
     {
@@ -1019,7 +1110,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NDkyNzctNDI5NzAy",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NDkyNzctNDI5NzAyL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5267,
       "providers": {
         "netflix": null,
@@ -1773,7 +1864,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjFhMTA0MTMtZTIyYy00MjRmLThiMTQtYTMxMmZiODkzNmE0",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjFhMTA0MTMtZTIyYy00MjRmLThiMTQtYTMxMmZiODkzNmE0L2F1ZGlvZGVza3JpcHRpb24",
       "duration": 6250,
       "providers": {
         "netflix": null,
@@ -1921,6 +2012,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Extreme Jobs der Geschichte (S2026/E20)",
+      "type": "tv",
+      "overview": "Es gibt extreme Jobs, manche sind sogar lebensgefährlich. \"Terra X History\" zeigt: Minenräumer, Gladiatoren und Bergleute brauchen starke Nerven und sind oft nur einen Schritt vom Tod entfernt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History - die Einzeldokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/extreme-jobs-der-geschichte-100",
+      "duration": 2604,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Azuchi - Die Burg des Samurai",
       "type": "tv",
       "overview": "Im Japan des 16. Jh. entsteht eine Burg wie keine andere. Azuchi ist das Symbol einer neuen Zeit, die Japan für immer verändert. Wie sah das legendäre Bauwerk aus? Terra X nimmt sich des Rätsels an.",
@@ -1987,14 +2100,14 @@
     },
     {
       "tmdb_id": null,
-      "title": "Gefährliche Mächte? Die großen Verschwörungstheorien",
+      "title": "Gefährliche Mächte? Die großen Verschwörungstheorien (S2026/E19)",
       "type": "tv",
-      "overview": "Ist der Glaube an diese angeblich geheimen Machenschaften wieder stärker geworden? Die Doku zeigt die Geschichte der modernen Verschwörungstheorien von der Französischen Revolution bis zu QAnon.",
+      "overview": "Sie stecken angeblich hinter dem Sturm auf die Bastille oder der Coronapandemie: Geheime Mächte steuern die Welt, so denken viele Menschen. \"Terra X History\" geht auf historische Spurensuche.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History"
+        "Terra X History - die Einzeldokus"
       ],
       "rating": null,
       "vote_count": 0,
@@ -2071,28 +2184,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Lust auf Sex: Wie oft ist normal?",
-      "type": "tv",
-      "overview": "Ungleiche Libido ist in Beziehungen eher die Regel als die Ausnahme. Leon Windscheid fragt: Was steckt hinter mehr oder weniger Lust – und wie finden Paare zu ihrer Intimität zurück?",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra Xplore"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/terra-xplore-lust-auf-sex-wie-oft-ist-normal-movie-100",
-      "duration": 2608,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2537,6 +2628,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Gespenster",
+      "type": "tv",
+      "overview": "Gespenstische Erinnerungen verfolgen die Französin Françoise und rufen sie immer wieder nach Berlin zurück – in die Stadt, in der vor vielen Jahren ihre dreijährige Tochter spurlos verschwand. Bei ihren Streifzügen durch Berlin trifft sie auf die Außenseiterin Nina, die in einem betreuten Wohnprojekt untergebracht ist. Schon bald ist Françoise von der Idee besessen, Nina könne ihr verlorenes Kind sein…",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/031088-000-A/gespenster/",
+      "duration": 4936,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "More than Strangers",
+      "type": "tv",
+      "overview": "Fünf Fremde unterschiedlicher Nationalitäten teilen sich über Car Sharing eine Fahrt von Berlin nach Paris. Als einer der Passagiere ein ernsthaftes Problem mit seinem Aufenthaltsstatus hat, wird die gemeinsame Fahrt zu einem Spießrutenlauf zwischen Polizei- und Grenzkontrollen; und die heterogene Zufallsgemeinschaft muss sich fragen, wie weit ihre Solidarität mit einem Fremden geht.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/104885-000-A/more-than-strangers/",
+      "duration": 5657,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Studio 54",
       "type": "tv",
       "overview": "”Studio 54” erzählt die Geschichte des 19-jährige Shane O’Shea, dem es Ende der 1970er Jahre gelingt,  in den New Yorker Elite Club reingelassen zu werden. Dort “entdeckt” ihn der Clubbesitzer Steve Rubell und und gibt ihm einen Job. Shane steigt in der Hierarchie des Clubs auf, der von Drogen, Sex und anderen Exzessen geprägt ist. Ein auf wahren Begebenheiten basierendes Drama von Mark Christopher.",
@@ -2669,28 +2804,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Charlotte, eine von uns",
-      "type": "tv",
-      "overview": "Die 42-jährige, psychisch erkrankte Charlotte lebt mit ihrem Vater abgeschieden im Trentino. Sie bewegt sich in der Welt ihrer eigenen Wahrnehmungen. Als ihr Vater nach einem Herzinfarkt ins Krankenhaus kommt, nimmt ihr nach Jahren zurückgekehrter Bruder Leo sie mit in die Schweiz. Die erste Reise ihres Lebens wird für beide zur herausfordernden Annäherung. Drama von Rolando Colla.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/109722-000-A/charlotte-eine-von-uns/",
-      "duration": 7023,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Borchert und der fatale Irrtum (S01/E08)",
       "type": "tv",
       "overview": "Laufzeit: 88 Min. Den rätselhaften Tod eines Familienvaters muss Christian Kohlund als Titelheld in „Borchert und der fatale Irrtum“ aufklären: Was zunächst wie ein tragischer Verkehrsunfall aussieht, entpuppt sich als ungewöhnlicher Mordfall, bei dem die Ehefrau unter Verdacht gerät....",
@@ -2735,28 +2848,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Blind ermittelt – Der Feuerteufel von Wien",
-      "type": "tv",
-      "overview": "Als verdeckter Ermittler übernimmt Alexander Haller einen ungewöhnlichen Kriminalfall: In einem Wiener Eliteinternat ist der Direktor in seinem eigenen Bett angezündet worden. Um den Mörder zu finden, schleust Kommissarin Laura Janda ihren blinden Ex-Chef als Musiklehrer ein. Als er die attraktive Kollegin Lotta Behrbach kennenlernt, wird Alexander von seinen Gefühlen überrascht....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Wien-Krimi: Blind ermittelt"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzVjM2ZiMWQyLWE4ZTItNDI5ZS1iYmEyLTFkZWM1OTFkZjYwNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5252,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Der Mädchenmörder von Krac – Der Kroatien-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2019 Kommissarin Branka Maric (Neda Rahmanian) und ihr Kollege Emil Perica (Lenn Kudrjawizki) müssen ins Hinterland Dalmatiens, um den Tod der 18-jährigen Eva Tomic (Caroline Hartig) aufzuklären. In dem abgelegenen Bergstädtchen Krac sehen die Bewohner eine Verbindung zu einem ungeklärten Mädchenmord, der vor einem Jahr passiert ist....",
@@ -2791,7 +2882,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0xOF8yMC0xNS1NRVNa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0xOF8yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5331,
       "providers": {
         "netflix": null,
@@ -2813,7 +2904,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjEtMDgtMTJfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjEtMDgtMTJfMjAtMTUtTUVTWg",
       "duration": 5317,
       "providers": {
         "netflix": null,
@@ -2857,8 +2948,30 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wMy0xMF8wMC0zNS1NRVo",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wMy0xMF8wMC0zNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5400,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die verlorene Tochter – Der Lissabon-Krimi",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2020 Der von Jürgen Tarrach verkörperte Rechtsanwalt Eduardo Silva wird diesmal in einen besonders heiklen Fall gezogen – es geht um seine Tochter! Hin- und hergerissen zwischen Liebe zu seiner Tochter und Unverständnis gegenüber deren Lebensweg, gerät Eduardo in diesem von Regisseur Tim Trageser vielschichtig erzählten Kriminalfall an seine persönlichen Grenzen....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Lissabon-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzdkYzY2NDUxLWNiNTQtNGY5MC05NDg4LTRjNDk2Zjg2Yjk3NV9nYW56ZVNlbmR1bmc",
+      "duration": 5230,
       "providers": {
         "netflix": null,
         "prime": null,
