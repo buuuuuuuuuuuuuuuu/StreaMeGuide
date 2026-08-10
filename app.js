@@ -1,4 +1,4 @@
-const APP_VERSION = "2.0.0";
+const APP_VERSION = "2.1.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -379,17 +379,31 @@ function isLoved(item, prefs) {
 }
 
 function toggleLove(item) {
-  const slot = state.activeView === "both" ? "A" : state.activeView;
-  const prefs = state.profiles[slot];
-  if (!prefs) return;
-  prefs.loved_titles = prefs.loved_titles || [];
+  const slots = targetSlots(state.activeView);
+  if (!slots.length) return;
   const target = itemKey(item);
-  const idx = prefs.loved_titles.findIndex(t =>
+
+  // Im gemeinsamen Modus richtet sich die Aktion nach Profil A: war der Titel
+  // dort markiert, wird er überall entfernt, sonst überall gesetzt. Sonst
+  // würden die Profile bei jedem Tipp gegeneinander laufen.
+  const lead = state.profiles[slots[0]];
+  lead.loved_titles = lead.loved_titles || [];
+  const wasLoved = lead.loved_titles.some(t =>
     (t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase()) === target
   );
-  if (idx >= 0) prefs.loved_titles.splice(idx, 1);
-  else prefs.loved_titles.push({ title: item.title, tmdb_id: item.tmdb_id ?? null, year: null, genres: item.genres || [] });
-  saveProfiles(slot);
+
+  slots.forEach(slot => {
+    const prefs = state.profiles[slot];
+    prefs.loved_titles = prefs.loved_titles || [];
+    const idx = prefs.loved_titles.findIndex(t =>
+      (t.tmdb_id != null ? "t:" + t.tmdb_id : "n:" + (t.title || "").toLowerCase()) === target
+    );
+    if (wasLoved) { if (idx >= 0) prefs.loved_titles.splice(idx, 1); }
+    else if (idx < 0) {
+      prefs.loved_titles.push({ title: item.title, tmdb_id: item.tmdb_id ?? null, year: null, genres: item.genres || [] });
+    }
+    saveProfiles(slot);
+  });
   render();
 }
 
@@ -582,11 +596,11 @@ function render() {
     };
   });
 
-  // Immer anhängen: Antippen öffnet die Details auch in der "Beide"-Ansicht.
-  // Bewerten per Wisch bleibt Einzelprofilen vorbehalten (eine Bewertung muss
-  // einer Person zuzuordnen sein).
+  // In der "Beide"-Ansicht wird mit dem Schlüssel "both" bewertet – die
+  // Eintragung landet dann in beiden Profilen.
+  const ratingKey = singleProfile || "both";
   [heroSlot, listSlot].forEach(container => {
-    container.querySelectorAll(".swipe-wrap").forEach(wrap => attachSwipe(wrap, singleProfile));
+    container.querySelectorAll(".swipe-wrap").forEach(wrap => attachSwipe(wrap, ratingKey));
   });
 }
 
@@ -624,6 +638,7 @@ function tmdbLink(item) {
 }
 
 function openDetail(item, profileKey) {
+  const canRate = targetSlots(profileKey).length > 0;
   const content = document.getElementById("modal-content");
   const poster = item.poster_path
     ? `https://image.tmdb.org/t/p/w342${item.poster_path}`
@@ -662,18 +677,19 @@ function openDetail(item, profileKey) {
     ${links.length ? `<div class="modal-actions" style="margin-bottom:14px;">${links.join("")}</div>` : ""}
 
     <div class="modal-actions">
-      ${profileKey ? `<button class="btn mint small" id="detail-rate">👀 Gesehen – bewerten</button>
-      <button class="btn bubble small" id="detail-skip">🙅 Nicht mein Ding</button>` : ""}
+      ${canRate ? `<button class="btn mint small" id="detail-rate">Gesehen – bewerten</button>
+      <button class="btn bubble small" id="detail-skip">Nicht mein Ding</button>` : ""}
       <button class="btn secondary small modal-cancel">Schließen</button>
     </div>
   `;
   document.getElementById("modal-overlay").classList.add("open");
   content.querySelector(".modal-cancel").onclick = () => closeModal();
 
-  if (profileKey) {
+  if (canRate) {
     content.querySelector("#detail-rate").onclick = () => openThumbChoice(item, profileKey, null);
     content.querySelector("#detail-skip").onclick = () => openReasonStep({
-      headline: `Nicht interessiert an „${item.title}“`,
+      headline: `Nicht mein Ding: „${item.title}“`,
+      note: bothNote(profileKey),
       reasonOptions: REASONS.not_interested,
       onSave: (reasons) => finalizeClassification(profileKey, item, "not_interested", reasons),
       onCancel: () => closeModal()
@@ -737,8 +753,6 @@ function attachSwipe(wrapEl, profileKey) {
     }
 
     if (locked !== "h") { reset(); return; }
-    if (!profileKey) { reset(); return; }
-
     if (dx <= -SWIPE_THRESHOLD && item) {
       surface.style.transition = "transform .15s ease";
       surface.style.transform = `translateX(-${SWIPE_THRESHOLD + 10}px)`;
@@ -747,7 +761,8 @@ function attachSwipe(wrapEl, profileKey) {
       surface.style.transition = "transform .15s ease";
       surface.style.transform = `translateX(${SWIPE_THRESHOLD + 10}px)`;
       openReasonStep({
-        headline: `Nicht interessiert an „${item.title}“`,
+        headline: `Nicht mein Ding: „${item.title}“`,
+        note: bothNote(profileKey),
         reasonOptions: REASONS.not_interested,
         onSave: (reasons) => { finalizeClassification(profileKey, item, "not_interested", reasons); },
         onCancel: () => reset()
@@ -760,15 +775,28 @@ function attachSwipe(wrapEl, profileKey) {
   wrapEl.addEventListener("pointercancel", onEnd);
 }
 
+// "both" bezieht sich auf beide geladenen Profile. Eine Bewertung im
+// gemeinsamen Modus gilt für beide Personen – der Abend wird ja zusammen
+// verbracht, und ein "nicht mein Ding" soll nicht nur bei A landen.
+function targetSlots(profileKey) {
+  if (profileKey === "both") return ["A", "B"].filter(s => state.profiles[s]);
+  return state.profiles[profileKey] ? [profileKey] : [];
+}
+
 function finalizeClassification(profileKey, item, category, reasons) {
-  const prefs = state.profiles[profileKey];
-  if (!prefs) return;
-  ensureLists(prefs);
-  const entry = { tmdb_id: item.tmdb_id ?? null, title: item.title, genres: item.genres || [], reasons, rated_at: new Date().toISOString() };
-  const key = category === "like" ? "seen_liked" : category === "dislike" ? "seen_disliked" : "not_interested";
-  prefs[key] = prefs[key].filter(e => (e.tmdb_id ?? null) !== (item.tmdb_id ?? null) || e.title !== item.title);
-  prefs[key].push(entry);
-  saveProfiles(profileKey);
+  const slots = targetSlots(profileKey);
+  if (!slots.length) return;
+
+  const listKey = category === "like" ? "seen_liked" : category === "dislike" ? "seen_disliked" : "not_interested";
+  slots.forEach(slot => {
+    const prefs = state.profiles[slot];
+    ensureLists(prefs);
+    const entry = { tmdb_id: item.tmdb_id ?? null, title: item.title, genres: item.genres || [], reasons, rated_at: new Date().toISOString() };
+    prefs[listKey] = prefs[listKey].filter(e => (e.tmdb_id ?? null) !== (item.tmdb_id ?? null) || e.title !== item.title);
+    prefs[listKey].push(entry);
+    saveProfiles(slot);
+  });
+
   closeModal();
   render();
 }
@@ -779,10 +807,17 @@ function closeModal() {
   document.getElementById("modal-content").innerHTML = "";
 }
 
+function bothNote(profileKey) {
+  return profileKey === "both" && targetSlots("both").length > 1
+    ? `<p class="modal-sub">Wird für beide Profile gespeichert.</p>`
+    : "";
+}
+
 function openThumbChoice(item, profileKey, onCancel) {
   const content = document.getElementById("modal-content");
   content.innerHTML = `
-    <div class="modal-headline">Wie fandest du „${escapeHtml(item.title)}“?</div>
+    <div class="modal-headline">${profileKey === "both" ? "Wie fandet ihr" : "Wie fandest du"} „${escapeHtml(item.title)}“?</div>
+    ${bothNote(profileKey)}
     <div class="thumb-row">
       <button class="thumb-btn up" id="thumb-up"><span class="emo">👍</span>Mehr davon</button>
       <button class="thumb-btn down" id="thumb-down"><span class="emo">👎</span>Sowas nicht</button>
@@ -792,24 +827,27 @@ function openThumbChoice(item, profileKey, onCancel) {
   document.getElementById("modal-overlay").classList.add("open");
   content.querySelector(".modal-cancel").onclick = () => { closeModal(); onCancel && onCancel(); };
   content.querySelector("#thumb-up").onclick = () => openReasonStep({
-    headline: `Was hat dir an „${item.title}“ gefallen?`,
+    note: bothNote(profileKey),
+    headline: `Was hat an „${item.title}“ gefallen?`,
     reasonOptions: REASONS.like,
     onSave: (reasons) => finalizeClassification(profileKey, item, "like", reasons),
     onCancel
   });
   content.querySelector("#thumb-down").onclick = () => openReasonStep({
-    headline: `Was hat dir an „${item.title}“ nicht gefallen?`,
+    note: bothNote(profileKey),
+    headline: `Was hat an „${item.title}“ nicht gefallen?`,
     reasonOptions: REASONS.dislike,
     onSave: (reasons) => finalizeClassification(profileKey, item, "dislike", reasons),
     onCancel
   });
 }
 
-function openReasonStep({ headline, reasonOptions, initialSelected = [], onSave, onCancel, onRemove }) {
+function openReasonStep({ headline, note = "", reasonOptions, initialSelected = [], onSave, onCancel, onRemove }) {
   const selected = new Set(initialSelected);
   const content = document.getElementById("modal-content");
   content.innerHTML = `
     <div class="modal-headline">${escapeHtml(headline)}</div>
+    ${note}
     <div class="chip-grid">
       ${reasonOptions.map(r => `<button class="chip reason-chip ${selected.has(r) ? "active" : ""}" data-r="${escapeHtml(r)}">${escapeHtml(r)}</button>`).join("")}
     </div>

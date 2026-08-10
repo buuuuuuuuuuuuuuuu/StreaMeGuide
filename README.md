@@ -170,3 +170,14 @@ auf. Die Formensprache bleibt gleich: dunkles Pflaumen-Papier, helle
 Konturen, Pastelltöne weiterhin als Akzentflächen. Damit Schrift auf diesen
 Flächen in beiden Modi lesbar bleibt, gibt es das Token `--on-accent`
 (immer dunkel); alle Kontraste liegen über 6:1.
+
+## Bewerten in der "Beide"-Ansicht
+Wischen und Bewerten funktionieren auch im gemeinsamen Modus. Die Eintragung
+landet dann in **beiden** geladenen Profilen – der Abend wird ja zusammen
+verbracht, und ein "nicht mein Ding" soll nicht nur bei Profil A hängen
+bleiben. Die Dialoge weisen mit "Wird für beide Profile gespeichert" darauf
+hin.
+
+Beim Herz-Button richtet sich die Aktion nach Profil A: War der Titel dort
+markiert, wird er in beiden entfernt, sonst in beiden gesetzt – sonst würden
+die Profile bei jedem Tipp gegeneinander laufen.
