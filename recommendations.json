@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-10T06:07:03.389Z",
+  "generated_at": "2026-08-11T05:48:16.103Z",
   "items": [
     {
       "tmdb_id": 1284041,
@@ -16,10 +16,11 @@
         "monster",
         "water monster",
         "sea creature",
+        "excited",
         "dangerous rain"
       ],
-      "rating": 6.7,
-      "vote_count": 323,
+      "rating": 6.782,
+      "vote_count": 395,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
@@ -54,7 +55,7 @@
       ],
       "rating": 6.6,
       "vote_count": 5,
-      "poster_path": "/sV2HxWbEn4J0Y9CKyZqG4pLmjOP.jpg",
+      "poster_path": "/79APJkTug1OzTrTtTmSmy2TgSuU.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1679730-the-ribbon-hero/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
@@ -64,7 +65,7 @@
     },
     {
       "tmdb_id": 687163,
-      "title": "Der Astronaut – Project Hail Mary",
+      "title": "Der Astronaut - Project Hail Mary",
       "type": "movie",
       "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
       "genres": [
@@ -90,8 +91,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.7,
-      "vote_count": 6907,
+      "rating": 8.659,
+      "vote_count": 6932,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -122,8 +123,8 @@
         "futuro distópico",
         "dying race"
       ],
-      "rating": 6.362,
-      "vote_count": 47,
+      "rating": 6.4,
+      "vote_count": 51,
       "poster_path": "/2bzIygGnua4tlLo7qTyMSUsME3d.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1263532-corrida-dos-bichos/watch?locale=DE",
       "providers": {
@@ -133,34 +134,42 @@
       }
     },
     {
-      "tmdb_id": 291496,
-      "title": "Our Sticky Love",
-      "type": "tv",
-      "overview": "Eine ehrgeizige Staatsanwältin verliert ihr Gedächtnis und zieht bei einem Boxtrainer ein, der behauptet, ihr Freund zu sein. Könnte sich daraus echte Liebe entwickeln?",
+      "tmdb_id": 454639,
+      "title": "Masters of the Universe",
+      "type": "movie",
+      "overview": "Nach 15 Jahren der Trennung führt das Schwert der Macht Prinz Adam zurück nach Eternia und entdeckt, dass seine Heimat unter der heimtückischen Herrschaft von Skeletor in Trümmern liegt. Um seine Familie und seine Welt zu retten, muss sich Adam mit seinen engsten Verbündeten zusammenschließen – Teela und Duncan alias Man-At-Arms – und sein wahres Schicksal als He-Man annehmen, den mächtigsten Mann des Universums.",
       "genres": [
-        "Drama",
-        "Komödie"
+        "Action",
+        "Fantasy",
+        "Science Fiction"
       ],
       "keywords": [
-        "boxer",
-        "gang leader",
-        "coach",
-        "romcom",
-        "romance",
-        "prosecutor",
-        "former athlete",
-        "temporary amnesia",
-        "village setting",
-        "roommates' relationship",
-        "former criminal"
+        "skeleton",
+        "superhero",
+        "nostalgia",
+        "alien planet",
+        "based on toy",
+        "super power",
+        "reboot",
+        "aftercreditsstinger",
+        "duringcreditsstinger",
+        "warrior",
+        "sword and planet",
+        "father son conflict",
+        "sword and sorcery",
+        "father daughter relationship",
+        "loving",
+        "based on tv series",
+        "inspirational",
+        "instructive"
       ],
-      "rating": 7.909,
-      "vote_count": 11,
-      "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/291496/watch?locale=DE",
+      "rating": 7.198,
+      "vote_count": 1733,
+      "poster_path": "/c4hwwylwgo5lBO2O2WSBxxQF2kC.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/454639-masters-of-the-universe/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -188,8 +197,8 @@
         "empathetic",
         "urgent"
       ],
-      "rating": 8.023,
-      "vote_count": 1314,
+      "rating": 8.032,
+      "vote_count": 1321,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -228,12 +237,68 @@
         "pretentious"
       ],
       "rating": 8.187,
-      "vote_count": 2398,
+      "vote_count": 2400,
       "poster_path": "/pAxeLxVzeCTqJhvYPPdNDhMsHcI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/125988-silo/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 283297,
+      "title": "Sterling Point",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "keywords": [
+        "romantic drama",
+        "cliché",
+        "embarrassed"
+      ],
+      "rating": 7.597,
+      "vote_count": 31,
+      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 291496,
+      "title": "Our Sticky Love",
+      "type": "tv",
+      "overview": "Eine ehrgeizige Staatsanwältin verliert ihr Gedächtnis und zieht bei einem Boxtrainer ein, der behauptet, ihr Freund zu sein. Könnte sich daraus echte Liebe entwickeln?",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "boxer",
+        "gang leader",
+        "coach",
+        "romcom",
+        "romance",
+        "prosecutor",
+        "former athlete",
+        "temporary amnesia",
+        "village setting",
+        "roommates' relationship",
+        "former criminal"
+      ],
+      "rating": 8,
+      "vote_count": 20,
+      "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/291496/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -270,7 +335,7 @@
         "defiant"
       ],
       "rating": 8.752,
-      "vote_count": 5470,
+      "vote_count": 5474,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -306,10 +371,42 @@
         "nice guy",
         "premier league"
       ],
-      "rating": 8.344,
-      "vote_count": 2510,
+      "rating": 8.346,
+      "vote_count": 2514,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "blunt",
+        "reboot",
+        "doubtful"
+      ],
+      "rating": 8.076,
+      "vote_count": 3005,
+      "poster_path": "/vComTg8O9m22c7jG9jHbeKJBz5Q.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -331,99 +428,10 @@
         "animation",
         "hilarious"
       ],
-      "rating": 7.294,
+      "rating": 7.3,
       "vote_count": 17,
-      "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+      "poster_path": "/4L3vMxNA7btwDAk33nDV3fB9clP.jpg",
       "justwatch": "https://www.themoviedb.org/tv/300480-ricky-gervais-alley-cats/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 283297,
-      "title": "Sterling Point",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "keywords": [
-        "romantic drama",
-        "cliché",
-        "embarrassed"
-      ],
-      "rating": 7.8,
-      "vote_count": 23,
-      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 284753,
-      "title": "ऑपरेशन सफ़ेद सागर: कारगिल युद्ध की अनकही कहानी",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [],
-      "rating": 2.5,
-      "vote_count": 2,
-      "poster_path": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/284753/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "type": "tv",
-      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
-      "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "magic",
-        "teleportation",
-        "reincarnation",
-        "polygamy",
-        "harem",
-        "romance",
-        "displacement",
-        "second chance",
-        "fantasy world",
-        "seinen",
-        "ecchi",
-        "anime",
-        "high fantasy",
-        "search for mother",
-        "neet",
-        "life challenges",
-        "other world",
-        "sword and sorcery",
-        "isekai",
-        "otaku",
-        "erotic",
-        "fantasy",
-        "based on light novel",
-        "adventure"
-      ],
-      "rating": 8.5,
-      "vote_count": 1636,
-      "poster_path": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -454,50 +462,10 @@
         "inspirational",
         "survival thriller"
       ],
-      "rating": 6.538,
-      "vote_count": 532,
+      "rating": 6.549,
+      "vote_count": 551,
       "poster_path": "/hRM5XAiMvwoAGhyrFou7P42jb0J.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 454639,
-      "title": "Masters of the Universe",
-      "type": "movie",
-      "overview": "Nach 15 Jahren der Trennung führt das Schwert der Macht Prinz Adam zurück nach Eternia und entdeckt, dass seine Heimat unter der heimtückischen Herrschaft von Skeletor in Trümmern liegt. Um seine Familie und seine Welt zu retten, muss sich Adam mit seinen engsten Verbündeten zusammenschließen – Teela und Duncan alias Man-At-Arms – und sein wahres Schicksal als He-Man annehmen, den mächtigsten Mann des Universums.",
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "keywords": [
-        "skeleton",
-        "superhero",
-        "nostalgia",
-        "alien planet",
-        "based on toy",
-        "super power",
-        "reboot",
-        "aftercreditsstinger",
-        "duringcreditsstinger",
-        "warrior",
-        "sword and planet",
-        "father son conflict",
-        "sword and sorcery",
-        "father daughter relationship",
-        "loving",
-        "based on tv series",
-        "inspirational",
-        "instructive"
-      ],
-      "rating": 7.201,
-      "vote_count": 1709,
-      "poster_path": "/c4hwwylwgo5lBO2O2WSBxxQF2kC.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/454639-masters-of-the-universe/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -524,8 +492,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.373,
-      "vote_count": 4520,
+      "rating": 8.372,
+      "vote_count": 4527,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -604,8 +572,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.546,
-      "vote_count": 3449,
+      "rating": 8.543,
+      "vote_count": 3453,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -637,8 +605,8 @@
         "fantasy",
         "comedy"
       ],
-      "rating": 8.1,
-      "vote_count": 4637,
+      "rating": 8.059,
+      "vote_count": 4638,
       "poster_path": "/2gIfJXgcz6N2wgOZ4qXoNKh0qFZ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir/watch?locale=DE",
       "providers": {
@@ -683,8 +651,8 @@
         "brothers",
         "horror"
       ],
-      "rating": 8.313,
-      "vote_count": 8585,
+      "rating": 8.314,
+      "vote_count": 8587,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
@@ -719,7 +687,7 @@
         "spaceship"
       ],
       "rating": 8.681,
-      "vote_count": 11249,
+      "vote_count": 11253,
       "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
       "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
       "providers": {
@@ -757,8 +725,8 @@
         "cruel",
         "pretentious"
       ],
-      "rating": 8.502,
-      "vote_count": 4126,
+      "rating": 8.499,
+      "vote_count": 4131,
       "poster_path": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/124364-from/watch?locale=DE",
       "providers": {
@@ -768,78 +736,63 @@
       }
     },
     {
-      "tmdb_id": 205321,
-      "title": "Sharknado",
-      "type": "movie",
-      "overview": "Ausgerechnet als sich vor den Stränden Kaliforniens gerade besonders viele besonders aggressive Haie tummeln und schon mehrere Surferleben gefordert haben, hält ein monströser Wirbelsturm auf die Küste zu und spült die glitschigen Ungeheuer aus dem Meer direkt in die Straßen und Vorgärten der Ortschaften. Inmitten des mörderischen Getümmels schlägt sich Barbesitzer Fin zum Haus seiner Ex-Frau durch, wo seine kleine Tochter auf ihn wartet. Doch das Unwetter hat seinen Höhepunkt noch gar nicht erreicht.",
+      "tmdb_id": 95594,
+      "title": "Fast & Furious Spy Racers",
+      "type": "tv",
+      "overview": "Teenager Tony Toretto ist der Cousin des berühmten Dom. Er eifert seinem Verwandten nach, als er und seine Freunde von einer Regierungsorganisation damit beauftragt werden, sich in eine Elite-Renn-Liga einzuschleusen. Die wird von einer kriminellen Organisation namens SH1FT3R organisiert, die nach der Weltherrschaft greift. Das Team muss sich durch gewiefte Pläne das Vertrauen der Organisation erschleichen und den Balanceakt meistern, nicht aufzufallen und zugleich doch die schlimmsten Pläne zu vereiteln.",
       "genres": [
-        "Action",
-        "Komödie",
-        "Horror",
-        "Science Fiction",
-        "TV-Film"
+        "Animation",
+        "Action & Adventure",
+        "Kids",
+        "Familie"
       ],
       "keywords": [
-        "california",
-        "helicopter",
-        "beach",
-        "tornado",
-        "hurricane",
-        "attack",
-        "chainsaw",
-        "creature",
-        "storm",
-        "explosion",
-        "shark",
-        "flood"
+        "street race",
+        "computer animation",
+        "mission",
+        "race car driver",
+        "criminal",
+        "based on movie",
+        "3d animation",
+        "cars",
+        "vehicle"
       ],
-      "rating": 3.913,
-      "vote_count": 1716,
-      "poster_path": "/aXDe4I51BMfsB5HaPzhcuB7f5gX.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/205321-sharknado/watch?locale=DE",
+      "rating": 7,
+      "vote_count": 2205,
+      "poster_path": "/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/95594-fast-furious-spy-racers/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000216928.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000217361.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 4386,
-      "title": "Baywatch",
+      "tmdb_id": null,
+      "title": "Wer das Schweigen bricht",
       "type": "tv",
-      "overview": "Diese langlebige US-Actionserie strotzt nur so vor spärlich bekleideten perfekten Körpern. Sie gehören den „Rettungsschwimmern von Malibu“, den Titelhelden einer der weltweit erfolgreichsten US-Serien aller Zeiten.\n\nIhr Chef Mitch Buchannon (David Hasselhoff) ist ein alter Hase im Lebensrettungsgeschäft und scheinbar jeder brenzligen Situation gewachsen, die an so einem gut gefüllten Strand passieren kann. Zusammen mit seinem Team aus kernigen Bademeistern und bildschönen Rettungsnixen, allen voran Playmate Pamela Anderson, die in ihrer Rolle der C.J. Parker ab der dritten Staffel der Männerwelt einheizt, rettet Mitch übermütigen Schwimmern das Leben, bekämpft Haie, beseitigt Erdbebenschäden, geht auf Ganovenjagd und bewältigt nebenbei noch große und kleine Beziehungsprobleme.\n\nWährend die Damen in den markanten roten Badeanzügen von Staffel zu Staffel immer mal wieder ausgetauscht werden, ist Buchannon der einzige, der in jeder der elf Staffeln zu sehen ist.",
+      "overview": "Fernsehfilm Deutschland 2013 Der fünfte Fall von Conny Mey und Frank Steier führt die beiden Frankfurter Ermittler in die hermetische Welt eines Jugendgefängnisses. Beim morgendlichen Aufschluss wird der 19-Jährige Mustafa Zeydan tot aufgefunden. Er wurde gefoltert - acht Zehennägel sind ihm gezogen worden....",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Krimi"
+        "Krimi",
+        "Drama"
       ],
       "keywords": [
-        "sea",
-        "beach",
-        "los angeles, california",
-        "swimming",
-        "lifeguard",
-        "southern california",
-        "soap opera"
+        "Tatort"
       ],
-      "rating": 5.968,
-      "vote_count": 553,
-      "poster_path": "/j52EJCg8hXcIQnFvFHYp2DHlUo9.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/4386-baywatch/watch?locale=DE",
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzk1ZTNiOWM3LTVhNTItNGNmZC04NzZiLTczM2I4MWFlZjQyNF9nYW56ZVNlbmR1bmc",
+      "duration": 5256,
       "providers": {
         "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000216928.html",
-        "mentions": 2
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -972,7 +925,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMDMxZWMxMDgtODkwYi00MjRkLWIzOGEtZmJlOWIxOWRjZmE5",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMDMxZWMxMDgtODkwYi00MjRkLWIzOGEtZmJlOWIxOWRjZmE5L2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5390,
       "providers": {
         "netflix": null,
@@ -1028,29 +981,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wie alle anderen auch (2021)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2021 +++ Ella flieht vor ihrem gewalttätigen Ehemann und versucht, ohne Geld und ohne Freunde unterzutauchen. Die obdachlose Monika nimmt Ella unter ihre Fittiche und zeigt ihr, wie sie auf der Straße überlebt. Aber Ella lässt Monika allein, als sie in einem Schnellrestaurant Axel kennenlernt und in seiner kleinen Wohnung Unterschlupf findet. Am nächsten Morgen ist die, die ihr Schutz versprach, tot....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtODIwY2QwNDctMjM1Mi00ODgyLWEwMWYtZDEwZjU3NGM1M2Fm",
-      "duration": 5251,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Wie alle anderen auch (2021) (klare Sprache)",
       "type": "tv",
       "overview": "Fernsehfilm Deutschland 2021 +++ Ella flieht vor ihrem gewalttätigen Ehemann und versucht, ohne Geld und ohne Freunde unterzutauchen. Die obdachlose Monika nimmt Ella unter ihre Fittiche und zeigt ihr, wie sie auf der Straße überlebt. Aber Ella lässt Monika allein, als sie in einem Schnellrestaurant Axel kennenlernt und in seiner kleinen Wohnung Unterschlupf findet. Am nächsten Morgen ist die, die ihr Schutz versprach, tot....",
@@ -1065,6 +995,29 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMjdlNmVlOTUtZjg4Zi00OWViLWJhYjItZDFhYTM4YjZmZjc0",
+      "duration": 5251,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wie alle anderen auch (2021)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2021 +++ Ella flieht vor ihrem gewalttätigen Ehemann und versucht, ohne Geld und ohne Freunde unterzutauchen. Die obdachlose Monika nimmt Ella unter ihre Fittiche und zeigt ihr, wie sie auf der Straße überlebt. Aber Ella lässt Monika allein, als sie in einem Schnellrestaurant Axel kennenlernt und in seiner kleinen Wohnung Unterschlupf findet. Am nächsten Morgen ist die, die ihr Schutz versprach, tot....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtODIwY2QwNDctMjM1Mi00ODgyLWEwMWYtZDEwZjU3NGM1M2FmL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5251,
       "providers": {
         "netflix": null,
@@ -1097,21 +1050,44 @@
     },
     {
       "tmdb_id": null,
-      "title": "Atlantis",
+      "title": "Schweine",
       "type": "tv",
-      "overview": "Auf dem Gelände des Freizeitparks \"Atlantis\" wurde Geschäftsführer Stefan Markowski erschlagen. Merkwürdige Grabungen in der Nähe der Achterbahn und Drohbriefe weisen darauf hin, dass der beliebte Park erpresst wurde.",
+      "overview": "Fernsehfilm Deutschland 2024 +++ Leon Herne wird auf der deutschen Seite der Oder erschossen aufgefunden. Die Kommissare Alexandra Luschke und Karl Rogov, die erstmals zusammen ermitteln, folgen seiner Spur auf die polnische Seite, wo die Jagdgesellschaft übernachtete. Dort stoßen sie auf den betrunkenen Konstantin Richtmann, während der dritte Jäger, Daniel Pillokat, spurlos verschwunden ist....",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Polizeiruf 110"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NDkyNzctNDI5NzAyL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5267,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl80YjdhNjk0Yy0xMmQ5LTQwZDAtOTdjNi05MWM0Y2I0ZmQ3ZDRfcHVibGljYXRpb24",
+      "duration": 5292,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Eine mörderische Idee",
+      "type": "tv",
+      "overview": "Bei einer Supermarktkette in Magdeburg gehen mehrere Bombendrohungen ein. Bald darauf folgt auch schon die erste Explosion. Hauptkommissarin Doreen Brasch, Jochen Drexler und Kriminalrat Uwe Lemp ermitteln.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Polizeiruf 110"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80ODgyMjItNDY4MjIy",
+      "duration": 5349,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1204,52 +1180,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMTk3ZjRkOS1iMzZkLTQ3ODgtYTUzZC1kZTU0Yzc4YmMyNzNfcHVibGljYXRpb24",
       "duration": 5296,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sie sind unter uns",
-      "type": "tv",
-      "overview": "Jeremy läuft Amok: Zwei Menschen hat er bereits erschossen und verschanzt sich in einem voll besetzten Klassenraum. Mit Hochdruck beginnt Brasch, mehr über ihn herauszufinden. Warum wurde der 17-Jährige zum Amokläufer?",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI1MDkyMTIwMTUvcG9saXplaXJ1Zi1tZHItaW0tZXJzdGVuLTEwNg",
-      "duration": 5340,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Vergewaltigt",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2005 +++ Ein Dorffest in Brandenburg. Es wird getrunken und getanzt. Claudia amüsiert sich - zu viel, wie ihr Freund findet. Das Paar streitet sich, Claudia geht allein nach Hause. Zum Glück hält ein Wagen. Zwei Männer nehmen das junge Mädchen mit. Die Fahrt endet in einem Wald. Claudia wird von dem Bauunternehmer Frank Göber vergewaltigt....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9kYzI1ZDcwMC00ZDc4LTRlYzMtOGQ4Ni0xYTZlZGRlZjQ1MGFfcHVibGljYXRpb24",
-      "duration": 5274,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1478,9 +1408,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Und dann kam Dad",
+      "title": "A Killer Romance (Englisch)",
       "type": "tv",
-      "overview": "Sebastien will Ellie heiraten. Dazu benötigt er einen alten Ring, den sein Vater Salvo nicht rausrücken will, bis er die Familie der Braut kennengelernt hat.",
+      "overview": "Gary Johnson unterrichtet Philosophie an der Uni und ist nebenbei Berater der Polizei von New Orleans. Durch Zufall entdeckt er seine neue Leidenschaft: Der Einsatz als Undercover-Cop.",
       "genres": [
         "Drama"
       ],
@@ -1490,8 +1420,30 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/spielfilm-104/und-dann-kam-dad-100",
-      "duration": 5524,
+      "url": "https://www.zdf.de/video/filme/a-killer-romance-movie-100/a-killer-romance-100",
+      "duration": 6660,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "A Killer Romance",
+      "type": "tv",
+      "overview": "Gary Johnson unterrichtet Philosophie an der Uni und ist nebenbei Berater der Polizei von New Orleans. Durch Zufall entdeckt er seine neue Leidenschaft: Der Einsatz als Undercover-Cop.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/a-killer-romance-movie-100/a-killer-romance-100",
+      "duration": 6660,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1512,7 +1464,29 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/spielfilm-104/und-dann-kam-dad-100",
+      "url": "https://www.zdf.de/video/filme/und-dann-kam-dad-movie-100/und-dann-kam-dad-100",
+      "duration": 5524,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Und dann kam Dad",
+      "type": "tv",
+      "overview": "Sebastien will Ellie heiraten. Dazu benötigt er einen alten Ring, den sein Vater Salvo nicht rausrücken will, bis er die Familie der Braut kennengelernt hat.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/und-dann-kam-dad-movie-100/und-dann-kam-dad-100",
       "duration": 5524,
       "providers": {
         "netflix": null,
@@ -1654,46 +1628,112 @@
     },
     {
       "tmdb_id": null,
-      "title": "Largo Winch: Der Preis des Geldes (Englisch)",
+      "title": "Wakefield (5/8)",
       "type": "tv",
-      "overview": "Largo Winch hat ein Imperium geerbt. Doch die Winch-Gruppe ist ins Trudeln geraten, der Ruf ruiniert. Largos Sohn Noom fordert ihn auf, zu verkaufen. Dann wird Noom entführt.",
+      "overview": "James kehrt völlig verzweifelt von seiner erfolglosen Geschäftsreise zurück. Tessa ist am Boden zerstört, als sie herausfindet, dass ihre Mutter ihr gesamtes Hab und Gut entsorgt hat. Währenddessen organisiert Linda auf der Station eine ausgelassene Feier ... - \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/largo-winch-der-preis-des-geldes-movie-100/largo-winch-der-preis-des-geldes-100",
-      "duration": 5759,
+      "url": "https://www.arte.tv/de/videos/110193-005-A/wakefield-5-8/",
+      "duration": 3406,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "arte"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Largo Winch: Der Preis des Geldes",
+      "title": "Wakefield (4/8)",
       "type": "tv",
-      "overview": "Largo Winch hat ein Imperium geerbt. Doch die Winch-Gruppe ist ins Trudeln geraten, der Ruf ruiniert. Largos Sohn Noom fordert ihn auf, zu verkaufen. Dann wird Noom entführt.",
+      "overview": "Trevor verspielt einige Privilegien, nachdem er unerlaubterweise Tessa ein Feuerzeug gibt, die sich damit verletzt. Kareena ist nicht gerade erfreut, als ihre eigene Therapeutin auf ihrer Station auftaucht ... -\"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/largo-winch-der-preis-des-geldes-movie-100/largo-winch-der-preis-des-geldes-100",
-      "duration": 5759,
+      "url": "https://www.arte.tv/de/videos/110193-004-A/wakefield-4-8/",
+      "duration": 3049,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wakefield (3/8)",
+      "type": "tv",
+      "overview": "Der Druck auf Nik nimmt zu, als gegen ihn wegen der versehentlichen Verletzung einer Patientin intern ermittelt wird. Niks Schwester Renuka verstärkt dies noch, als sie ihn bittet, ein wertvolles Familienerbstück zu finden ... - \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/110193-003-A/wakefield-3-8/",
+      "duration": 3345,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wakefield (2/8)",
+      "type": "tv",
+      "overview": "Raffs Loyalität zu seiner Frau Genevieve wird auf eine harte Probe gestellt, als ihr krankhaft sexuelles Verhalten Probleme in der Klinik verursacht. Während die Hypersexualität auf der Station um sich greift, erwacht die Anziehung von seiner Ex-Freundin Kareena zu Nik wieder. - \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/110193-002-A/wakefield-2-8/",
+      "duration": 3364,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wakefield (1/8)",
+      "type": "tv",
+      "overview": "Nik ist ein psychiatrischer Krankenpfleger im Wakefield Hospital in Australiens Blue Mountains. Als ein Popsong verdrängte Erinnerungen wieder an die Oberfläche holt, gerät Niks Leben auf einmal aus dem Gleichgewicht. Die Grenze zwischen Personal und Patienten scheint zu verschwimmen ... \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/110193-001-A/wakefield-1-8/",
+      "duration": 3401,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -1760,116 +1800,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 8 (1/3) - Fall 14: Angelica",
-      "type": "tv",
-      "overview": "Im Fall der verschwundenen Angelica ist Staatsanwältin Nora Linde sicher: Das war Mord. Von Angelicas Leiche fehlt jedoch jede Spur, weshalb ihr verdächtigter Ehemann Leo freigesprochen wird. Der Fall wirkt schon abgeschlossen, da kommt der festgenommene Meisterdieb Sylvester ins Spiel ... - Die Krimi-Serie (2022) basiert auf den Romanen der schwedischen Schriftstellerin Viveca Sten.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110221-000-A/mord-im-mittsommer-staffel-8-1-3/",
-      "duration": 5321,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Vermisst in Rom - Fernsehfilm, Deutschland 2023",
-      "type": "tv",
-      "overview": "Bei einem Konzert in Rom wird die Tochter eines deutschen Multimillionärs entführt. Die Entführer, junge Aktivisten, verhandeln bei der Geiselnahme nur mit der Diplomatin Karla Lorenz.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/fernsehfilm/die-diplomatin---vermisst-in-rom-100.html",
-      "duration": 5338,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 7 (4/4) - Fall 13: Vicky",
-      "type": "tv",
-      "overview": "Der berühmte Professor für Kinderpsychologie, Carl-Johan Berger, wird während einer Feier auf seinem Anwesen erstochen. - In den Hauptrollen der schwedischen Serie: Alexandra Rapaport als Staatsanwältin Nora Linde sowie Nicolai Cleve Broch als neuer Kommissar Alexander Forsman.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/099588-000-A/mord-im-mittsommer-staffel-7-4-4/",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 7 (3/4) - Fall 12: Scheinwelten",
-      "type": "tv",
-      "overview": "Ein Fischer findet eine weibliche Leiche bei Sandhamn. Kommissar Alexander und seine Kollegin Miriam nehmen die Ermittlungen auf. Staatsanwältin Nora hat derweil die Brandska-Villa an ihre Freundin Kristina vermietet. Deren Freund Anders kommt sie auf der Insel besuchen, verhält sich jedoch sehr merkwürdig ... - Nach den Romanen der schwedischen Schriftstellerin Viveca Sten.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/099587-000-A/mord-im-mittsommer-staffel-7-3-4/",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Axiom",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2022 +++ Julius ist ein redegewandter junger Museumswärter, der im Kollegen- und Freundeskreis sehr beliebt ist. Mit seinem Charme, seinen faszinierenden Geschichten und seiner Leichtigkeit zieht er die Menschen in seinen Bann. Eines Tages lädt er seine Kollegen und Kolleginnen zu einem Segeltörn auf dem Boot seiner adeligen Familie ein, von der er ihnen schon oft erzählt hat....",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjFhMTA0MTMtZTIyYy00MjRmLThiMTQtYTMxMmZiODkzNmE0L2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 6250,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2012,14 +1942,14 @@
     },
     {
       "tmdb_id": null,
-      "title": "Extreme Jobs der Geschichte (S2026/E20)",
+      "title": "Extreme Jobs der Geschichte",
       "type": "tv",
-      "overview": "Es gibt extreme Jobs, manche sind sogar lebensgefährlich. \"Terra X History\" zeigt: Minenräumer, Gladiatoren und Bergleute brauchen starke Nerven und sind oft nur einen Schritt vom Tod entfernt.",
+      "overview": "Was ist die Geschichte dieser gefährlichen Berufe, und wie fordern sie den Menschen? Das will \"MrWissen2go: Geschichte\" Mirko Drotschmann erforschen und zugleich hautnah erleben.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History - die Einzeldokus"
+        "Terra X History"
       ],
       "rating": null,
       "vote_count": 0,
@@ -2452,6 +2382,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Die wundersame Verwandlung der Arbeiterklasse in Ausländer - Dokumentarfilm von Samir, Schweiz 2024",
+      "type": "tv",
+      "overview": "Persönlich und politisch erzählt Regisseur Samir von der Transformation, die aus Arbeitenden Ausländerinnen und Ausländer machte – ein vielschichtiger Blick auf Migration und Identität.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentarfilmzeit"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/dokumentarfilmzeit/die-wundersame-verwandlung-der-arbeiterklasse---in-auslaender-100.html",
+      "duration": 5515,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Von Ratschings in die Stubaier Alpen",
+      "type": "tv",
+      "overview": "Mit geballter Vielfalt präsentiert sich Ratschings, südlich des Alpenhauptkammes in den Stubaier Alpen gelegen, in dieser neuen \"Land der Berge\"-Produktion....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus & Reportagen im BR"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU4QTA",
+      "duration": 2650,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Hafenmeister - festgemacht im Norden",
       "type": "tv",
       "overview": "Die fast 80-jährige Hilka Hannover begeistert als Hafenmeisterin mit ihrem Witz die Menschen im Yachtclub Wangerland in Horumersiel. Eckhardt von Loh dreht in Hitzacker eine Brücke, statt sie hochzufahren. In Sassnitz teilen sich der Hafenkapitän Ronald Damp und der Hafenmeister Heino Müller Segelboote und Schnellfähren auf. Und an der Schlei in Arnis-Grödersby lässt Hans-Joachim Jensch eine \"Moorhexe\" mit schwerem Gerät zu Wasser.",
@@ -2470,28 +2444,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2624,6 +2576,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Gas-Oil",
+      "type": "tv",
+      "overview": "Der Lastwagenfahrer Jean Chape gerät durch einen Hinterhalt in die unangenehme Gesellschaft einiger Gangster, die in seinem Lkw etwas vermuten, was ihnen gehört – ein Klassiker des Film Noir mit Jean Gabin. Regie: Gilles Grangier.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/035043-000-A/gas-oil/",
+      "duration": 5377,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2782,24 +2756,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Susan ... verzweifelt gesucht",
+      "title": "Der Riss in allem (6) – Der Barcelona-Krimi",
       "type": "tv",
-      "overview": "Robertas Leben in New Jersey ist luxuriös, aber langweilig. Durch eine Anzeige wird sie auf die ungestüme Susan aufmerksam, folgt ihr und imitiert sie. Als Roberta bei einem Unfall ihr Gedächtnis verliert und sich fortan für Susan hält, gerät sie in ein gefährliches Leben, denn Susan wird von einem Killer verfolgt. Thriller-Komödie mit Madonna in ihrer ersten großen Filmrolle.",
+      "overview": "Spielfilm Deutschland 2022 Bei einer Schießerei im Hafen von Barcelona wird die junge, ehrgeizige Polizistin Clara Romero (Lina Rusnak) erschossen. Alles deutet darauf hin, dass Clara einen Drogendeal gestört hat - es kam zu einer Schießerei, in deren Verlauf nicht nur Clara, sondern auch einer der Drogendealer getötet wurde, der zweite Dealer liegt im Koma. Fall geklärt? So einfach ist die Sache nicht....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Der Barcelona-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/041218-000-A/susan-verzweifelt-gesucht/",
-      "duration": 5882,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0yNV8yMC0xNS1NRVNa",
+      "duration": 5332,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2904,7 +2878,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjEtMDgtMTJfMjAtMTUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjEtMDgtMTJfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5317,
       "providers": {
         "netflix": null,
@@ -2926,7 +2900,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjUtMDgtMTBfMDAtNDAtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjUtMDgtMTBfMDAtNDAtTUVTWg",
       "duration": 5289,
       "providers": {
         "netflix": null,
@@ -2948,7 +2922,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wMy0xMF8wMC0zNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wMy0xMF8wMC0zNS1NRVo",
       "duration": 5400,
       "providers": {
         "netflix": null,
@@ -2958,20 +2932,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die verlorene Tochter – Der Lissabon-Krimi",
+      "title": "Best of Ingrid Kühne",
       "type": "tv",
-      "overview": "Spielfilm Deutschland 2020 Der von Jürgen Tarrach verkörperte Rechtsanwalt Eduardo Silva wird diesmal in einen besonders heiklen Fall gezogen – es geht um seine Tochter! Hin- und hergerissen zwischen Liebe zu seiner Tochter und Unverständnis gegenüber deren Lebensweg, gerät Eduardo in diesem von Regisseur Tim Trageser vielschichtig erzählten Kriminalfall an seine persönlichen Grenzen....",
+      "overview": "60 Minuten. Keine Pause fürs Zwerchfell. Der ganz normale Wahnsinn bekommt hier eine neue Intensität. Ob Technik, die grundsätzlich gegen sie arbeitet, Pakete auf Weltreise oder ein Sohn, der die Pubertät auf ein neues Level hebt. Ingrid Kühne erzählt von dem ganz normalen Wahnsinn, den wir alle kennen. Und plötzlich wird klar: Wir sind mit unserem Chaos nicht allein....",
       "genres": [
-        "Krimi"
+        "Komödie"
       ],
       "keywords": [
-        "Der Lissabon-Krimi"
+        "Comedy"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzdkYzY2NDUxLWNiNTQtNGY5MC05NDg4LTRjNDk2Zjg2Yjk3NV9nYW56ZVNlbmR1bmc",
-      "duration": 5230,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtN2I1MmU4MWMtMTkxYi00OTQ1LWFhODgtZGIyNjc3NWU5YmM5",
+      "duration": 3583,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3004,7 +2978,7 @@
       "tmdb_id": null,
       "title": "Folge 8: Best-of Teil 2 (S03/E08)",
       "type": "tv",
-      "overview": "Michael Mittermeier hat sich in das Archiv des Lucky Punch Comedy Clubs begeben und dort die besten, lustigsten und absoluten Publikums- Lieblingsmomente aus Staffel 2 zusammengesucht. In einer besonderen Highlight-Folge des \"Lucky Punch Comedy Club\" präsentiert er: Eva Karl Faltermeier, Thorsten Sträter, Johann König, Emilia Suchlich, Simon Stäblein, Atze Schröder, Özan Coşar, Tony Bauer, Berni Wagner und Florentine Osche.",
+      "overview": "In dieser besonderen Folge präsentiert Michael Mittermeier die lustigsten Momente und Highlights aus Staffel 2 des \"Lucky Punch Comedy Clubs\".",
       "genres": [
         "Komödie"
       ],
@@ -3086,28 +3060,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kabarettgipfel - Hitzewelle und Sommerfrische",
-      "type": "tv",
-      "overview": "Es wird heiß in der Stadthalle, wenn die besten Kabarettist*innen aus Österreich und Deutschland über \"Hitzewelle und Sommerfrische\" sprechen.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarett & Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/kabarett/kabarett-in-3sat/kabarettgipfel-hitzewelle-und-sommerfrische-100.html",
-      "duration": 3177,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -3240,6 +3192,29 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Enzo Ferrari - Eine Geschichte von Leidenschaft und Tod",
+      "type": "tv",
+      "overview": "Ein roter Ferrari – Inbegriff von Geschwindigkeit und Luxus. Hinter dem erfolgreichen italienischen Unternehmen steht Enzo Ferrari, ein Rennsportliebhaber seit frühester Kindheit. Das Pferd auf gelbem Hintergrund, Ferraris Firmenemblem, wurde weltberühmt. Autobiografische Dokumente und bisher unveröffentlichte Archivaufnahmen geben Einblicke in das Leben eines Enthousiasten.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Biographien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/094517-000-A/enzo-ferrari-eine-geschichte-von-leidenschaft-und-tod/",
+      "duration": 3281,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -3397,29 +3372,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/121315-000-A/europas-griff-nach-den-sternen/",
       "duration": 5373,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kulissen der Macht",
-      "type": "tv",
-      "overview": "\"Kulissen der Macht\" ist eine fesselnde Auseinandersetzung mit der Art und Weise, wie amerikanische Staats- und Regierungschefs seit 1989 auf Berichte über Völkermord und Massentötung von Zivilisten reagierten. Von Bosnien bis Ruanda und, in jüngerer Zeit, in Libyen und Syrien – wie denken US-Politikerinnen und -Politiker über ihre schwerwiegenden Entscheidungen nach?",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/077372-000-A/kulissen-der-macht/",
-      "duration": 7637,
       "providers": {
         "netflix": null,
         "prime": null,
