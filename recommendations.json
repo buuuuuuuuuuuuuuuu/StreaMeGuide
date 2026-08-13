@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-12T06:07:52.711Z",
+  "generated_at": "2026-08-13T06:10:05.886Z",
   "items": [
     {
       "tmdb_id": 1284041,
@@ -17,10 +17,11 @@
         "water monster",
         "sea creature",
         "excited",
+        "indifferent",
         "dangerous rain"
       ],
-      "rating": 6.848,
-      "vote_count": 457,
+      "rating": 6.863,
+      "vote_count": 511,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
@@ -58,46 +59,12 @@
         "interspecies friendship"
       ],
       "rating": 8.7,
-      "vote_count": 6959,
+      "vote_count": 6983,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1679730,
-      "title": "THE RIBBON HERO",
-      "type": "movie",
-      "overview": "Nachdem Nergal ihr Königreich verwüstet hat, erwacht Prinzessin Sapphire als „Ribbon Hero“ und kämpft, um ihre neue Heimat vor demselben Schicksal zu bewahren.",
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Drama",
-        "Action"
-      ],
-      "keywords": [
-        "princess",
-        "friendship",
-        "kingdom",
-        "sword",
-        "trauma",
-        "calamity",
-        "based on manga",
-        "new home",
-        "prosthetic limb",
-        "anime",
-        "overcoming loss"
-      ],
-      "rating": 7.1,
-      "vote_count": 10,
-      "poster_path": "/79APJkTug1OzTrTtTmSmy2TgSuU.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1679730-the-ribbon-hero/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -121,10 +88,11 @@
         "agent",
         "blunt",
         "reboot",
+        "cliché",
         "doubtful"
       ],
-      "rating": 8.077,
-      "vote_count": 3008,
+      "rating": 8.076,
+      "vote_count": 3016,
       "poster_path": "/vComTg8O9m22c7jG9jHbeKJBz5Q.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -160,10 +128,44 @@
         "nice guy",
         "premier league"
       ],
-      "rating": 8.348,
-      "vote_count": 2518,
+      "rating": 8.349,
+      "vote_count": 2528,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 125988,
+      "title": "Silo",
+      "type": "tv",
+      "overview": "In einer verwüsteten und giftigen Zukunft leben Tausende Menschen in einem gewaltigen Silo tief unter der Erde. Nachdem der Sheriff eine zentrale Regel bricht und mysteriöse Todesfälle unter den Bewohnern auftreten, macht sich die Ingenieurin Juliette daran, die schockierenden Geheimnisse über die wahre Natur des Silos zu enthüllen.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "keywords": [
+        "corruption",
+        "based on novel or book",
+        "post-apocalyptic future",
+        "dystopia",
+        "politics",
+        "disaster",
+        "cynical",
+        "hidden powers",
+        "silo",
+        "societal ignorance",
+        "cautionary",
+        "systemic corruption",
+        "authoritarian"
+      ],
+      "rating": 8.19,
+      "vote_count": 2408,
+      "poster_path": "/pAxeLxVzeCTqJhvYPPdNDhMsHcI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/125988-silo/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -202,8 +204,8 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.8,
-      "vote_count": 5475,
+      "rating": 8.752,
+      "vote_count": 5474,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -236,8 +238,8 @@
         "empathetic",
         "urgent"
       ],
-      "rating": 8.031,
-      "vote_count": 1326,
+      "rating": 8.04,
+      "vote_count": 1332,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -247,60 +249,21 @@
       }
     },
     {
-      "tmdb_id": 283297,
-      "title": "Sterling Point",
+      "tmdb_id": 329274,
+      "title": "Mourinho",
       "type": "tv",
-      "overview": "",
+      "overview": "Diese trophäenreiche, insidergeprägte Dokuserie beleuchtet José Mourinhos legendären Aufstieg zu einem der weltbesten Trainer der größten Fußballklubs.",
       "genres": [
-        "Mystery",
-        "Drama"
+        "Dokumentarfilm"
       ],
-      "keywords": [
-        "romantic drama",
-        "cliché",
-        "embarrassed"
-      ],
-      "rating": 7.7,
-      "vote_count": 35,
-      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
+      "keywords": [],
+      "rating": 8.3,
+      "vote_count": 3,
+      "poster_path": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/329274-mourinho/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 125988,
-      "title": "Silo",
-      "type": "tv",
-      "overview": "In einer verwüsteten und giftigen Zukunft leben Tausende Menschen in einem gewaltigen Silo tief unter der Erde. Nachdem der Sheriff eine zentrale Regel bricht und mysteriöse Todesfälle unter den Bewohnern auftreten, macht sich die Ingenieurin Juliette daran, die schockierenden Geheimnisse über die wahre Natur des Silos zu enthüllen.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "keywords": [
-        "corruption",
-        "based on novel or book",
-        "post-apocalyptic future",
-        "dystopia",
-        "politics",
-        "disaster",
-        "cynical",
-        "hidden powers",
-        "silo",
-        "societal ignorance",
-        "cautionary",
-        "systemic corruption",
-        "authoritarian"
-      ],
-      "rating": 8.188,
-      "vote_count": 2405,
-      "poster_path": "/pAxeLxVzeCTqJhvYPPdNDhMsHcI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/125988-silo/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -326,8 +289,8 @@
         "roommates' relationship",
         "former criminal"
       ],
-      "rating": 7.804,
-      "vote_count": 23,
+      "rating": 8.417,
+      "vote_count": 30,
       "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
       "justwatch": "https://www.themoviedb.org/tv/291496/watch?locale=DE",
       "providers": {
@@ -337,21 +300,58 @@
       }
     },
     {
-      "tmdb_id": 199001,
-      "title": "Ich und die Walter Boys",
+      "tmdb_id": 283297,
+      "title": "Sterling Point",
       "type": "tv",
-      "overview": "Als eine Tragödie ihr Leben auf den Kopf stellt, zieht eine Teenagerin in eine Kleinstadt zur Großfamilie ihres Vormunds und lernt Lektionen über Liebe, Hoffnung und Freundschaft.",
+      "overview": "",
       "genres": [
+        "Mystery",
         "Drama"
       ],
       "keywords": [
-        "romance",
-        "based on young adult novel"
+        "romantic drama",
+        "cliché",
+        "embarrassed"
       ],
-      "rating": 7.8,
-      "vote_count": 401,
-      "poster_path": "/1ZiIivUQ8oUr9wdY4TJcZEfcXpo.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/199001-my-life-with-the-walter-boys/watch?locale=DE",
+      "rating": 7.822,
+      "vote_count": 45,
+      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 60625,
+      "title": "Rick and Morty",
+      "type": "tv",
+      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
+      "genres": [
+        "Animation",
+        "Komödie",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "time travel",
+        "grandfather",
+        "alcoholism",
+        "alien",
+        "dysfunctional family",
+        "mad scientist",
+        "scientist",
+        "adult animation",
+        "father figure",
+        "machinist",
+        "multiple dimensions",
+        "spaceship"
+      ],
+      "rating": 8.681,
+      "vote_count": 11264,
+      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -382,8 +382,8 @@
         "inspirational",
         "survival thriller"
       ],
-      "rating": 6.529,
-      "vote_count": 563,
+      "rating": 6.538,
+      "vote_count": 579,
       "poster_path": "/hRM5XAiMvwoAGhyrFou7P42jb0J.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=DE",
       "providers": {
@@ -413,7 +413,7 @@
         "police procedural"
       ],
       "rating": 8.376,
-      "vote_count": 4532,
+      "vote_count": 4536,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -493,7 +493,7 @@
         "dramatic"
       ],
       "rating": 8.542,
-      "vote_count": 3454,
+      "vote_count": 3456,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -525,59 +525,13 @@
         "fantasy",
         "comedy"
       ],
-      "rating": 8.1,
-      "vote_count": 4640,
+      "rating": 8.061,
+      "vote_count": 4642,
       "poster_path": "/2gIfJXgcz6N2wgOZ4qXoNKh0qFZ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1622,
-      "title": "Supernatural",
-      "type": "tv",
-      "overview": "Als Jungen verloren Sam und Dean Winchester ihre Mutter an eine mysteriöse und dämonische übernatürliche Kraft. Anschließend erklärte ihr Vater ihnen das paranormale Böse bei, das in den dunklen Ecken und auf den Nebenstraßen Amerikas lebt und wie man es tötet. Jetzt durchqueren die Winchester-Brüder das Land und bekämpfen jede Art von übernatürlicher Bedrohung, die ihnen auf dem Weg begegnet.",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "angel",
-        "witch",
-        "monster",
-        "exorcism",
-        "supernatural",
-        "paranormal",
-        "purgatory",
-        "paranormal phenomena",
-        "apocalypse",
-        "bromance",
-        "dead mother",
-        "demon",
-        "on the road",
-        "demonic possession",
-        "ghost",
-        "dark fantasy",
-        "demon hunter",
-        "four horsemen of the apocalypse",
-        "fighting evil",
-        "brother brother relationship",
-        "leviathan",
-        "ressurection",
-        "brothers",
-        "horror"
-      ],
-      "rating": 8.314,
-      "vote_count": 8588,
-      "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -604,7 +558,7 @@
         "theme park"
       ],
       "rating": 7.976,
-      "vote_count": 18162,
+      "vote_count": 18172,
       "poster_path": "/zgvLWNSKBrufJM8OAtVxJ2s7Nf8.jpg",
       "justwatch": "https://www.themoviedb.org/movie/329-jurassic-park/watch?locale=DE",
       "providers": {
@@ -614,37 +568,53 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000217586.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000217513.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 71446,
-      "title": "Haus des Geldes",
-      "type": "tv",
-      "overview": "Um den größten Raubüberfall in der Geschichte durchzuziehen, rekrutiert ein mysteriöser Mann, der nur Professor genannt wird, eine Bande von acht Räubern, die eine einzige Eigenschaft teilen: Keiner von ihnen hat etwas zu verlieren. Fünf Monate in absoluter Abgeschiedenheit, in der sie jeden einzelnen Schritt durchgingen, jedes Detail, jede Wahrscheinlichkeit, gipfeln in elf Tagen in der Nationalen Münz- und Briefmarkenfabrik Spaniens. Sie sind umgeben von Hundertschaften bewaffneter Polizeikräfte und halten Dutzende von Geiseln in ihrer Macht, und jetzt heißt es herauszufinden, ob sie Selbstmord begangen haben oder ob ihr Plan aufgehen wird.",
+      "tmdb_id": 2667,
+      "title": "Blair Witch Project",
+      "type": "movie",
+      "overview": "Am 21. Oktober 1994 brechen die drei Filmstudenten Heather Donahue, Michael Williams und Joshua Leonard in den Blackhill Forest in Maryland auf. Dort wollen sie einen Dokumentarfilm über eine legendäre Spukgestalt drehen, die sogenannte Hexe von Blair. Ein Jahr später wird ihr Filmmaterial gefunden. Die erhaltenen Filmaufnahmen sind ihr Vermächtnis. Sie zeigen die letzten Tage der Filmemacher, ihre quälende fünftägige Wanderung durch den undurchdringlichen Wald und die grauenerregenden Vorgänge, die zu ihrem Verschwinden geführt haben.",
       "genres": [
-        "Krimi",
-        "Drama"
+        "Horror",
+        "Mystery"
       ],
       "keywords": [
-        "stockholm syndrome",
-        "spain",
-        "perfect crime",
-        "robbery",
-        "professor",
-        "flashback",
-        "heist",
-        "sexual tension",
-        "bank robbery",
-        "hostage situation",
-        "tunnel",
-        "time jump"
+        "witch",
+        "legend",
+        "camping",
+        "map",
+        "supernatural",
+        "wilderness",
+        "forest",
+        "maryland",
+        "paranormal",
+        "friends",
+        "survival",
+        "urban legend",
+        "fear",
+        "witchcraft",
+        "evil",
+        "found footage",
+        "videotape",
+        "paranoid",
+        "hopeless",
+        "pov (point of view)",
+        "folk horror",
+        "lost in the woods",
+        "pseudo-documentary",
+        "sinister",
+        "depressing",
+        "ambiguous",
+        "faux documentary",
+        "method filmmaking"
       ],
-      "rating": 8.231,
-      "vote_count": 19603,
-      "poster_path": "/zrH05iVfTOYFcIAemtT0LSd1hEP.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/71446-la-casa-de-papel/watch?locale=DE",
+      "rating": 6.366,
+      "vote_count": 5572,
+      "poster_path": "/wl1edQk6fH1Q06ytLa5ecTw0Ess.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/2667-the-blair-witch-project/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -652,56 +622,47 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000217542.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000217818.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 30981,
-      "title": "MONSTER",
-      "type": "tv",
-      "overview": "Deutschland, 1986. Dr. Kenzo Tenma ist Neurochirurg in einer Düsseldorfer Klinik. Eigentlich ist es der perfekte Job für einen Arzt wie ihn, wenn es da nicht seine Vorgesetzen gäbe. Mehrfach muss er einflussreiche Patienten bei der medizinischen Versorgung vorziehen. Eines Tages werden zwei Geschwister in die Klinik eingeliefert, die am Schauplatz eines Verbrechens aufgefunden wurden. Der Junge, Johann, schwebt in Lebensgefahr, doch Tenma soll stattdessen einen bekannten Politiker operieren. Er widersetzt sich den Anweisungen seines Oberarztes und operiert das Kind. Ein verhängnisvoller Fehler, den er später bereuen wird, denn Johann ist kein normaler Junge. Kurze Zeit später werden Tenmas Vorgesetzte ermordet und die Kinder, Johann und Anna, sind spurlos verschwunden.",
+      "tmdb_id": 24,
+      "title": "Kill Bill - Volume 1",
+      "type": "movie",
+      "overview": "Es sollte der Aufbruch in ein neues Leben werden, doch es endete mit dem Tod: Die Killer O-Ren Ishii, Vernita Green, Budd und Elle Driver haben die Hochzeit ihrer Ex-Kollegin – im Film nur „die Braut“ genannt – in ein Massaker verwandelt. Wider Erwarten überlebt die geschändete Frau jedoch und will von nun an nichts weiter als Rache. Rache an dem Todeskommando, das sie liquidieren sollte und Rache an dem Mann, der den Auftrag dazu gegeben hatte: Gangster-Boss Bill. Ihr Weg führt die Braut bis ins ferne Okinawa, wo sie sich vom legendären Waffenschmied Hattori Hanzo ein Schwert anfertigen lässt, das fortan zu ihrem wichtigsten Begleiter wird …",
       "genres": [
-        "Animation",
-        "Drama",
-        "Mystery",
+        "Action",
         "Krimi"
       ],
       "keywords": [
-        "monster",
-        "orphanage",
-        "dilemma",
-        "hospital",
-        "doctor",
-        "orphan",
-        "based on manga",
-        "police detective",
-        "ethical dilemma",
-        "seinen",
-        "mysterious",
-        "anime",
-        "philosophical",
-        "picture book",
-        "complex",
-        "serious",
-        "suspense",
-        "witty",
-        "intense",
-        "ominous",
-        "optimistic"
+        "martial arts",
+        "japan",
+        "kung fu",
+        "sword",
+        "yakuza",
+        "katana",
+        "sword fight",
+        "revenge",
+        "vigilante",
+        "female yakuza",
+        "female protagonist",
+        "retribution",
+        "dreary",
+        "extreme violence"
       ],
-      "rating": 8.515,
-      "vote_count": 818,
-      "poster_path": "/vdYJJ6GdbAGpucxJjMnhaLfS9mR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/30981-monster/watch?locale=DE",
+      "rating": 7.971,
+      "vote_count": 19227,
+      "poster_path": "/blQvG2f7Lm8DFOn4lAfAZ1zEHVG.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/24-kill-bill-vol-1/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": "flatrate",
+        "prime": null,
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000217618.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000217569.html",
         "mentions": 2
       }
     },
@@ -1561,6 +1522,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Sommer auf drei Rädern - Fernsehfilm, Deutschland/Österreich 2022",
+      "type": "tv",
+      "overview": "Der schüchterne Außenseiter Flake hat sich nie getraut, seinem Schwarm Leonie seine Liebe zu gestehen – bis er nach der Abifeier eine folgenschwere Entscheidung trifft.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/fernsehfilm/sommer-auf-drei-raedern-100.html",
+      "duration": 5331,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Wakefield (8/8)",
       "type": "tv",
       "overview": "Die Hochzeit seiner Schwester wird für Nik zur Zerreißprobe. Als er versucht, der Wahrheit über den Tod seines kleinen Bruders auf den Grund zu gehen, läuft der Konflikt zwischen ihm und seiner Familie völlig aus dem Ruder ... - \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
@@ -1715,28 +1698,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wakefield (1/8)",
-      "type": "tv",
-      "overview": "Nik ist ein psychiatrischer Krankenpfleger im Wakefield Hospital in Australiens Blue Mountains. Als ein Popsong verdrängte Erinnerungen wieder an die Oberfläche holt, gerät Niks Leben auf einmal aus dem Gleichgewicht. Die Grenze zwischen Personal und Patienten scheint zu verschwimmen ... \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110193-001-A/wakefield-1-8/",
-      "duration": 3401,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Der Froschkönig",
       "type": "tv",
       "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
@@ -1875,6 +1836,116 @@
     },
     {
       "tmdb_id": null,
+      "title": "Sonnenfinsternis über Mallorca LIVE - ein Terra X Harald Lesch SPEZIAL - Sonnenfinsternis",
+      "type": "tv",
+      "overview": "Eine totale Sonnenfinsternis ist ein „Once-in-a-Lifetime“-Ereignis: Mit Terra X lässt sich das Naturphänomen am 12. August 2026 auf Mallorca live erleben - zusammen mit Harald Lesch und Gästen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X Harald Lesch"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-ueber-mallorca-lesch-100",
+      "duration": 8006,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Sonnenfinsternis über Mallorca - Eine Spezialausgabe von „Terra X Harald Lesch“",
+      "type": "tv",
+      "overview": "Eine totale Sonnenfinsternis ist ein \"Once-in-a-Lifetime\"-Ereignis: Am 12. August 2026 lässt sich das Naturphänomen live auf Mallorca erleben – zusammen mit Harald Lesch und Gästen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/wissen/terra-x/livestream-sonnenfinsternis-ueber-mallorca-lesch-100.html",
+      "duration": 2689,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wie Mallorca die Sonnenfinsternis erlebt - Sonnenfinsternis",
+      "type": "tv",
+      "overview": "An Mallorcas Stränden erwartet man zur Sonnenfinsternis Hunderte Menschen: Nerds, Sofi-Jäger oder Zufallsgäste? Was macht dieses Himmelsereignis so besonders? Eric Mayer berichtet LIVE für Terra X.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X Harald Lesch"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-reaktionen-eric-mayer-lesch-100",
+      "duration": 5993,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Was passiert bei einer Sonnenfinsternis im Meer? - Sonnenfinsternis",
+      "type": "tv",
+      "overview": "Meeresbiologe Uli Kunz erlebt die totale Sonnenfinsternis über dem Meer vor Mallorca - live. Für Terra X segelt er dem Himmelsspektakel entgegen, bis die Sonne noch halb verdeckt im Meer versinkt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X Harald Lesch"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-meer-kunz-lesch-100",
+      "duration": 5997,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Phasen der Sonnenfinsternis - Sonnenfinsternis",
+      "type": "tv",
+      "overview": "Am 12. August 2026 zieht eine total Sonnenfinsternis über Mallorca. Terra X Harald Lesch ist live dabei – und verfolgt den rasenden Mondschatten mit einer Spezialkamera in Echtzeit.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X Harald Lesch"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-phasen-lesch-100",
+      "duration": 5989,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Extreme Jobs der Geschichte",
       "type": "tv",
       "overview": "Was ist die Geschichte dieser gefährlichen Berufe, und wie fordern sie den Menschen? Das will \"MrWissen2go: Geschichte\" Mirko Drotschmann erforschen und zugleich hautnah erleben.",
@@ -1889,28 +1960,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/dokus/terra-x-history-102/extreme-jobs-der-geschichte-100",
       "duration": 2604,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Azuchi - Die Burg des Samurai",
-      "type": "tv",
-      "overview": "Im Japan des 16. Jh. entsteht eine Burg wie keine andere. Azuchi ist das Symbol einer neuen Zeit, die Japan für immer verändert. Wie sah das legendäre Bauwerk aus? Terra X nimmt sich des Rätsels an.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-112/terra-x-azuchi-die-burg-des-samurai-doku-100",
-      "duration": 2629,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1941,53 +1990,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Rätselhafte Phänomene (2/2) - Erdlöcher und blaue Wunder Film von Jens Nicolai",
+      "title": "Azuchi - Die Burg des Samurai (S2026/E08)",
       "type": "tv",
-      "overview": "Die Natur steckt voller seltsamer und faszinierender Erscheinungen. In \"Terra X: Rätselhafte Phänomene\" begibt sich Dirk Steffens auf die Suche nach Erklärungen..",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/terra-x/raetselhafte-phaenomene-mit-dirk-steffens-erdloecher-und-blaue-wunder-100.html",
-      "duration": 2604,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Gefährliche Mächte? Die großen Verschwörungstheorien (S2026/E19)",
-      "type": "tv",
-      "overview": "Sie stecken angeblich hinter dem Sturm auf die Bastille oder der Coronapandemie: Geheime Mächte steuern die Welt, so denken viele Menschen. \"Terra X History\" geht auf historische Spurensuche.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X History - die Einzeldokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/gefaehrliche-maechte-die-grossen-verschwoerungstheorien-100",
-      "duration": 2617,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Das Drama der Superyacht Bayesian - Warum sinken Schiffe? (S2026/E07)",
-      "type": "tv",
-      "overview": "Warum sinken Schiffe? Die Terra X-Doku rekonstruiert die Ereignisse eines der rätselhaftesten Seeunglücke der letzten Jahre. Renommierte Wissenschaftler enthüllen alarmierende neue Erkenntnisse.",
+      "overview": "Von der legendären Burg sind nur steinerne Fundamente geblieben. Nun rekonstruieren sie Wissenschaftler mit modernsten Analysemethoden und lassen sie digital neu aufleben. Wer war ihr Erbauer?",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -1997,8 +2002,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-112/terra-x-superyacht-doku-100",
-      "duration": 2620,
+      "url": "https://www.zdf.de/video/dokus/terra-x-112/terra-x-azuchi-die-burg-des-samurai-doku-100",
+      "duration": 2629,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2007,46 +2012,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Über den Wolken - Mythos Fliegen (S2026/E18)",
+      "title": "Im Herzen der Pädiatrie",
       "type": "tv",
-      "overview": "Rein in den Flieger und einfach nur weg. Was heute für Millionen ganz normal ist, war lange purer Luxus. \"Terra X History\" erzählt die Geschichte des Fliegens.",
+      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: nah dran – und so vielfältig wie das Land.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History - die Einzeldokus"
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/ueber-den-wolken---mythos-fliegen-100",
-      "duration": 2603,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/im-herzen-der-paediatrie?urn=urn:srf:video:a12f5b51-ff9d-4628-909a-96bd5b98b633",
+      "duration": 2904,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Blitze - Himmel unter Strom - Film von Andreas Sawall",
-      "type": "tv",
-      "overview": "Blitze sind eindrucksvolle, gefährliche Naturschauspiele. Sie zerstören Leben, aber sie waren vielleicht sogar der Grund, warum Leben auf der Erde überhaupt entstehen konnte.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/terra-x/terra-x-blitze-himmel-unter-strom-doku-100.html",
-      "duration": 2616,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "SRF"
       }
     },
     {
@@ -2293,28 +2276,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Winter · Ein Jahr in Kanadas Wildnis",
-      "type": "tv",
-      "overview": "Die faszinierende Verwandlung der kanadischen Landschaften durch Schnee und Eis. Die Tiere müssen sich anpassen, um zu überleben.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjYxNw",
-      "duration": 2578,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Die wundersame Verwandlung der Arbeiterklasse in Ausländer - Dokumentarfilm von Samir, Schweiz 2024",
       "type": "tv",
       "overview": "Persönlich und politisch erzählt Regisseur Samir von der Transformation, die aus Arbeitenden Ausländerinnen und Ausländer machte – ein vielschichtiger Blick auf Migration und Identität.",
@@ -2513,6 +2474,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Electric Child",
+      "type": "tv",
+      "overview": "Nach der Geburt ihres Sohnes Turo erfahren Sonny und Akiko, dass ihr Kind einen Gendefekt hat und nur noch wenige Monate leben wird.  Akiko will die verbleibende Zeit mit ihm festhalten. Doch der Informatiker Sonny setzt alles auf eine riskante KI, die er selbst mitentwickelt hat. Ein Science-Fiction-Drama von Simon Jaquemet.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/104451-000-A/electric-child/",
+      "duration": 6685,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Melancholia",
+      "type": "tv",
+      "overview": "Justine und Michael feiern ihre Hochzeit auf dem Landsitz von Schwester und Schwager der Braut. Doch die Braut scheint den Abend nicht zu genießen. Als sie nach der Hochzeit in eine Depression abrutscht, nimmt ihre Schwester sie zu sich. Doch diese gerät in Panik, denn der Planet Melancholia nähert sich der Erde ... - Ein Drama über das Ende der Welt von Lars von Trier.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/048073-000-A/melancholia/",
+      "duration": 7653,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "ZIB Magazin Kino-Videopodcast: Der Sommerblockbuster ist zurück!",
       "type": "tv",
       "overview": "Heiß, heißer, Kinozeit! Ein Rekord-Sommer sprengt alle Erwartungen: Tropische Temperaturen draußen, volle Säle drinnen und das selbst an Wochentagen oder zu ungewöhnlichen Nachtschicht-Uhrzeiten. Während in London \"Die Odyssee\" im IMAX-70mm-Format bis Ende September restlos ausverkauft ist, laufen in New York Projektionen um drei Uhr früh. Ob international oder national: Die Menschen drängen zurück in die Kinosessel....",
@@ -2645,46 +2650,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Curveball - Wir machen die Wahrheit",
+      "title": "Tränenhochzeit – Der Kroatien-Krimi",
       "type": "tv",
-      "overview": "1997: BND-Biowaffenexperte Wolf ist besessen von der Idee, dass im Irak trotz der UN-Kontrollen immer noch Anthrax-Viren hergestellt werden. Zurück in Deutschland teilt ihm sein Vorgesetzter Schatz den irakischen Informanten Rafid Alwan zu ... - Geheimdienst-Satire (2019, Regie: Johannes Naber) nach einer wahren Begebenheit.",
+      "overview": "Spielfilm Deutschland 2020 Für die Kommissarin Stascha Novak beginnt ihre Arbeit als neue Leiterin der Mordkommission Split mit einem spektakulären Fall: Bei einem geheimen Videoshooting von Popstar Ira am Strand von Split ereignet sich ein Mordanschlag. Mit Jasmin Gerat, Lenn Kudrjawitzki, Caro Cult, Vladimir Korneev, Ulrike Krumbiegel, Timur Bartels u. a. | Buch: Ulf Tschauder | Regie: Michael Kreindl",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Der Kroatien-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/078654-000-A/curveball-wir-machen-die-wahrheit/",
-      "duration": 6012,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzExNTBiZjU1LTdlNzgtNDEzNC05MzA5LWI4MjQ4NWFlY2YyZl9nYW56ZVNlbmR1bmc",
+      "duration": 5235,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Löwin",
-      "type": "tv",
-      "overview": "Sanitäterin Helena sucht verzweifelt nach ihrer 15-jährigen Tochter Stefi, die in eine gewaltbereite Jugendclique abzugleiten droht. Als das Mädchen nach einer dramatischen Nacht im Krankenhaus landet, bringt Helena sie gegen ihren Willen in ein abgelegenes Landhaus. Drama aus Estland über Fürsorge und Kontrolle.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/114144-000-A/die-loewin/",
-      "duration": 6141,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2789,7 +2772,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0xOF8yMC0xNS1NRVNa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0xOF8yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5331,
       "providers": {
         "netflix": null,
@@ -2833,30 +2816,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjUtMDgtMTBfMDAtNDAtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjUtMDgtMTBfMDAtNDAtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5289,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Blutiger Beton (4) – Der Barcelona-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2020\r\n\r\nBarcelona, eine der attraktivsten Städte der Welt, droht Opfer seiner Schönheit und zum reizvollen Spekulationsobjekt für gewissenlose Geschäftsmacher zu werden. Doch Barcelona wehrt sich, in seinen Straßen tobt der Protest.\r\n\r\nMit Clemens Schick, Anne Schäfer, Tara Fischer, Jule Gartzke, Sebastian Fritz u.a.  | Buch: Timo Berndt | Regie: Isabell Suba",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Barcelona-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wMy0xMF8wMC0zNS1NRVo",
-      "duration": 5400,
       "providers": {
         "netflix": null,
         "prime": null,
