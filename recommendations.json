@@ -1,7 +1,28 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-13T06:10:05.886Z",
+  "generated_at": "2026-08-14T06:07:48.329Z",
   "items": [
+    {
+      "tmdb_id": 1487864,
+      "title": "Nando zwischen zwei Welten",
+      "type": "movie",
+      "overview": "",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Krimi"
+      ],
+      "keywords": [],
+      "rating": 3.3,
+      "vote_count": 7,
+      "poster_path": "/aa6BIp3u2IFYygradhp74fp1zCs.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1487864-nando-entre-dois-mundos-um-filme-sintonia/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1284041,
       "title": "The Last House",
@@ -14,14 +35,16 @@
       ],
       "keywords": [
         "monster",
+        "isolation",
         "water monster",
         "sea creature",
+        "cautionary",
+        "baffled",
         "excited",
-        "indifferent",
         "dangerous rain"
       ],
-      "rating": 6.863,
-      "vote_count": 511,
+      "rating": 6.92,
+      "vote_count": 568,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
@@ -58,8 +81,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.7,
-      "vote_count": 6983,
+      "rating": 8.656,
+      "vote_count": 7006,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -88,50 +111,12 @@
         "agent",
         "blunt",
         "reboot",
-        "cliché",
-        "doubtful"
+        "brisk"
       ],
-      "rating": 8.076,
-      "vote_count": 3016,
+      "rating": 8.077,
+      "vote_count": 3035,
       "poster_path": "/vComTg8O9m22c7jG9jHbeKJBz5Q.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 97546,
-      "title": "Ted Lasso",
-      "type": "tv",
-      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
-      "genres": [
-        "Drama",
-        "Komödie"
-      ],
-      "keywords": [
-        "england",
-        "male friendship",
-        "friendship",
-        "fish out of water",
-        "football (soccer)",
-        "american abroad",
-        "teammate",
-        "professional sports",
-        "football (soccer) team",
-        "workplace comedy",
-        "team owner",
-        "football (soccer) coach",
-        "optimist",
-        "coaching",
-        "nice guy",
-        "premier league"
-      ],
-      "rating": 8.349,
-      "vote_count": 2528,
-      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -162,10 +147,79 @@
         "systemic corruption",
         "authoritarian"
       ],
-      "rating": 8.19,
-      "vote_count": 2408,
+      "rating": 8.192,
+      "vote_count": 2413,
       "poster_path": "/pAxeLxVzeCTqJhvYPPdNDhMsHcI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/125988-silo/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 247522,
+      "title": "Tires",
+      "type": "tv",
+      "overview": "In der Autowerkstatt seines Vaters versucht ein junger Mann, den Kundenservice und den Umsatz zu verbessern, während er gleichzeitig seinen Cousin im Auge behalten muss.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "office",
+        "car mechanic",
+        "work",
+        "workplace",
+        "business",
+        "tire",
+        "sitcom",
+        "sale",
+        "workplace comedy",
+        "colleague",
+        "car",
+        "auto shop"
+      ],
+      "rating": 6.558,
+      "vote_count": 86,
+      "poster_path": "/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/247522-tires/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 97546,
+      "title": "Ted Lasso",
+      "type": "tv",
+      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "england",
+        "male friendship",
+        "friendship",
+        "fish out of water",
+        "football (soccer)",
+        "american abroad",
+        "teammate",
+        "professional sports",
+        "football (soccer) team",
+        "workplace comedy",
+        "team owner",
+        "football (soccer) coach",
+        "optimist",
+        "coaching",
+        "nice guy",
+        "premier league"
+      ],
+      "rating": 8.35,
+      "vote_count": 2530,
+      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -205,7 +259,7 @@
         "defiant"
       ],
       "rating": 8.752,
-      "vote_count": 5474,
+      "vote_count": 5475,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -238,8 +292,8 @@
         "empathetic",
         "urgent"
       ],
-      "rating": 8.04,
-      "vote_count": 1332,
+      "rating": 8.046,
+      "vote_count": 1336,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -249,21 +303,26 @@
       }
     },
     {
-      "tmdb_id": 329274,
-      "title": "Mourinho",
+      "tmdb_id": 283297,
+      "title": "Sterling Point",
       "type": "tv",
-      "overview": "Diese trophäenreiche, insidergeprägte Dokuserie beleuchtet José Mourinhos legendären Aufstieg zu einem der weltbesten Trainer der größten Fußballklubs.",
+      "overview": "",
       "genres": [
-        "Dokumentarfilm"
+        "Mystery",
+        "Drama"
       ],
-      "keywords": [],
-      "rating": 8.3,
-      "vote_count": 3,
-      "poster_path": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/329274-mourinho/watch?locale=DE",
+      "keywords": [
+        "romantic drama",
+        "cliché",
+        "embarrassed"
+      ],
+      "rating": 7.8,
+      "vote_count": 49,
+      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -289,69 +348,10 @@
         "roommates' relationship",
         "former criminal"
       ],
-      "rating": 8.417,
-      "vote_count": 30,
+      "rating": 8.318,
+      "vote_count": 33,
       "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
       "justwatch": "https://www.themoviedb.org/tv/291496/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 283297,
-      "title": "Sterling Point",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "keywords": [
-        "romantic drama",
-        "cliché",
-        "embarrassed"
-      ],
-      "rating": 7.822,
-      "vote_count": 45,
-      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 60625,
-      "title": "Rick and Morty",
-      "type": "tv",
-      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
-      "genres": [
-        "Animation",
-        "Komödie",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "keywords": [
-        "time travel",
-        "grandfather",
-        "alcoholism",
-        "alien",
-        "dysfunctional family",
-        "mad scientist",
-        "scientist",
-        "adult animation",
-        "father figure",
-        "machinist",
-        "multiple dimensions",
-        "spaceship"
-      ],
-      "rating": 8.681,
-      "vote_count": 11264,
-      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -382,8 +382,8 @@
         "inspirational",
         "survival thriller"
       ],
-      "rating": 6.538,
-      "vote_count": 579,
+      "rating": 6.541,
+      "vote_count": 589,
       "poster_path": "/hRM5XAiMvwoAGhyrFou7P42jb0J.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=DE",
       "providers": {
@@ -412,8 +412,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.376,
-      "vote_count": 4536,
+      "rating": 8.377,
+      "vote_count": 4542,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -467,42 +467,6 @@
       }
     },
     {
-      "tmdb_id": 79744,
-      "title": "The Rookie",
-      "type": "tv",
-      "overview": "In einem Alter, in dem sich andere zur Ruhe setzen wollen, tauscht John Nolan das beschauliche Kleinstadtleben gegen einen Neuanfang in Los Angeles ein: Er möchte seinen Lebenstraum verwirklichen und als Polizist arbeiten. Inmitten von Anwärtern in ihren 20ern muss sich Nolan nun als ältester Rookie des LAPD bewähren.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Komödie"
-      ],
-      "keywords": [
-        "police chase",
-        "los angeles, california",
-        "police officer",
-        "police detective",
-        "street crime",
-        "lapd",
-        "police training",
-        "crime investigation",
-        "dramedy",
-        "police department",
-        "procedural",
-        "police drama",
-        "cautionary",
-        "dramatic"
-      ],
-      "rating": 8.542,
-      "vote_count": 3456,
-      "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 65334,
       "title": "Miraculous - Geschichten von Ladybug und Cat Noir",
       "type": "tv",
@@ -536,31 +500,21 @@
       }
     },
     {
-      "tmdb_id": 329,
-      "title": "Jurassic Park",
-      "type": "movie",
-      "overview": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
+      "tmdb_id": 199001,
+      "title": "Ich und die Walter Boys",
+      "type": "tv",
+      "overview": "Als eine Tragödie ihr Leben auf den Kopf stellt, zieht eine Teenagerin in eine Kleinstadt zur Großfamilie ihres Vormunds und lernt Lektionen über Liebe, Hoffnung und Freundschaft.",
       "genres": [
-        "Abenteuer",
-        "Science Fiction"
+        "Drama"
       ],
       "keywords": [
-        "exotic island",
-        "island",
-        "triceratops",
-        "brontosaurus",
-        "electric fence",
-        "dna",
-        "tyrannosaurus rex",
-        "paleontology",
-        "dinosaur",
-        "amusement park",
-        "theme park"
+        "romance",
+        "based on young adult novel"
       ],
-      "rating": 7.976,
-      "vote_count": 18172,
-      "poster_path": "/zgvLWNSKBrufJM8OAtVxJ2s7Nf8.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/329-jurassic-park/watch?locale=DE",
+      "rating": 7.8,
+      "vote_count": 405,
+      "poster_path": "/1ZiIivUQ8oUr9wdY4TJcZEfcXpo.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/199001-my-life-with-the-walter-boys/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -568,53 +522,42 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000217513.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000218016.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 2667,
-      "title": "Blair Witch Project",
+      "tmdb_id": 1366,
+      "title": "Rocky",
       "type": "movie",
-      "overview": "Am 21. Oktober 1994 brechen die drei Filmstudenten Heather Donahue, Michael Williams und Joshua Leonard in den Blackhill Forest in Maryland auf. Dort wollen sie einen Dokumentarfilm über eine legendäre Spukgestalt drehen, die sogenannte Hexe von Blair. Ein Jahr später wird ihr Filmmaterial gefunden. Die erhaltenen Filmaufnahmen sind ihr Vermächtnis. Sie zeigen die letzten Tage der Filmemacher, ihre quälende fünftägige Wanderung durch den undurchdringlichen Wald und die grauenerregenden Vorgänge, die zu ihrem Verschwinden geführt haben.",
+      "overview": "Rocky Balboa ist ein begnadeter Boxer. Doch der Weg zum Ruhm und dem großen Geld blieb ihm immer verwehrt. Als armer Geldeintreiber muss er ein schäbiges Dasein fristen. Da geschieht das Unglaubliche: Der Amateurboxer erhält die Möglichkeit, gegen den Schwergewichtsweltmeister Apollo Creed anzutreten. Was als PR-Gag geplant ist, entpuppt sich als brutaler und gnadenloser Kampf, denn der ehrgeizige Rocky will sich die Chance seines Lebens von niemandem nehmen lassen …",
       "genres": [
-        "Horror",
-        "Mystery"
+        "Drama"
       ],
       "keywords": [
-        "witch",
-        "legend",
-        "camping",
-        "map",
-        "supernatural",
-        "wilderness",
-        "forest",
-        "maryland",
-        "paranormal",
-        "friends",
-        "survival",
-        "urban legend",
-        "fear",
-        "witchcraft",
-        "evil",
-        "found footage",
-        "videotape",
-        "paranoid",
-        "hopeless",
-        "pov (point of view)",
-        "folk horror",
-        "lost in the woods",
-        "pseudo-documentary",
-        "sinister",
-        "depressing",
-        "ambiguous",
-        "faux documentary",
-        "method filmmaking"
+        "underdog",
+        "philadelphia, pennsylvania",
+        "transporter",
+        "love of one's life",
+        "italian american",
+        "sports",
+        "fight",
+        "independence",
+        "publicity",
+        "boxer",
+        "training",
+        "lovers",
+        "world champion",
+        "victory",
+        "surprise",
+        "boxing",
+        "empathetic",
+        "hopeful"
       ],
-      "rating": 6.366,
-      "vote_count": 5572,
-      "poster_path": "/wl1edQk6fH1Q06ytLa5ecTw0Ess.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/2667-the-blair-witch-project/watch?locale=DE",
+      "rating": 7.801,
+      "vote_count": 8788,
+      "poster_path": "/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -622,47 +565,7 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000217818.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 24,
-      "title": "Kill Bill - Volume 1",
-      "type": "movie",
-      "overview": "Es sollte der Aufbruch in ein neues Leben werden, doch es endete mit dem Tod: Die Killer O-Ren Ishii, Vernita Green, Budd und Elle Driver haben die Hochzeit ihrer Ex-Kollegin – im Film nur „die Braut“ genannt – in ein Massaker verwandelt. Wider Erwarten überlebt die geschändete Frau jedoch und will von nun an nichts weiter als Rache. Rache an dem Todeskommando, das sie liquidieren sollte und Rache an dem Mann, der den Auftrag dazu gegeben hatte: Gangster-Boss Bill. Ihr Weg führt die Braut bis ins ferne Okinawa, wo sie sich vom legendären Waffenschmied Hattori Hanzo ein Schwert anfertigen lässt, das fortan zu ihrem wichtigsten Begleiter wird …",
-      "genres": [
-        "Action",
-        "Krimi"
-      ],
-      "keywords": [
-        "martial arts",
-        "japan",
-        "kung fu",
-        "sword",
-        "yakuza",
-        "katana",
-        "sword fight",
-        "revenge",
-        "vigilante",
-        "female yakuza",
-        "female protagonist",
-        "retribution",
-        "dreary",
-        "extreme violence"
-      ],
-      "rating": 7.971,
-      "vote_count": 19227,
-      "poster_path": "/blQvG2f7Lm8DFOn4lAfAZ1zEHVG.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/24-kill-bill-vol-1/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000217569.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000217972.html",
         "mentions": 2
       }
     },
@@ -911,7 +814,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYmZmOTNiNzUtZTQyMi00MzE0LThhZGItYWIwODYwZTkyZGYyL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYmZmOTNiNzUtZTQyMi00MzE0LThhZGItYWIwODYwZTkyZGYy",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -936,6 +839,29 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMjdlNmVlOTUtZjg4Zi00OWViLWJhYjItZDFhYTM4YjZmZjc0",
       "duration": 5251,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Vor aller Augen",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2013 +++ Nach einem Betriebsausflug der Bootswerft Stolze in eine Westernstadt, bricht die Geschäftsführerin Michaela Stolze am nächsten Morgen zusammen und kommt ins Krankenhaus. Sie leidet an starker Diabetes und muss sich regelmäßig mit Insulin versorgen. Doch hat sie wirklich vergessen, ihr Medikament zu nehmen?...",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Polizeiruf 110"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYi1vbmxpbmUuZGUvZmlsbXplaXQvMjAxOS0wMS0wMVQyMzozMDowMF84NzdlMmEwYi0xYzc5LTRjY2EtYTZjMi1mNjZmMmU5M2FlNjUvcG9saXplaXJ1Zi0xMTAtLXZvci1hbGxlci1hdWdlbg",
+      "duration": 5316,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1051,29 +977,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy81YTU2MjQxMS1mZDkxLTQ1ZjAtYTNkMC1jNWRmZGEzZDNlNzk",
       "duration": 4656,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Geliebter Mörder",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2007 +++ Als die zwölfjährige Marie verschwindet, verdächtigt Hauptkommissarin Herz den Sexualverbrecher Jens Schrader, der vor acht Jahren im gleichen Waldstück ein Mädchen vergewaltigt und ermordet hat. Johanna Herz traut ihren Ohren nicht, als sie hört, dass der Mörder eine Verlobte hat....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMTk3ZjRkOS1iMzZkLTQ3ODgtYTUzZC1kZTU0Yzc4YmMyNzNfcHVibGljYXRpb24",
-      "duration": 5296,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1522,6 +1425,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Occupied - Die Besatzung - Staffel 2 (4/8) - November",
+      "type": "tv",
+      "overview": "November: Die polnischen Rebellen, die Jesper aufgenommen haben, sind bereit, ihn an Norwegen zu verkaufen. Als sie allerdings herausfinden, dass die Russen dahinter stecken, ist ihnen offenbar lieber, dass Berg stirbt, als dass er in ihre Hände gerät. Währenddessen bespitzelt Hotelbesitzerin Bente den einflussreichen Russen Minikov. Doch dieser kommt ihr auf die Schliche ...",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/067769-004-A/occupied-die-besatzung-staffel-2-4-8/",
+      "duration": 2686,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Sommer auf drei Rädern - Fernsehfilm, Deutschland/Österreich 2022",
       "type": "tv",
       "overview": "Der schüchterne Außenseiter Flake hat sich nie getraut, seinem Schwarm Leonie seine Liebe zu gestehen – bis er nach der Abifeier eine folgenschwere Entscheidung trifft.",
@@ -1676,28 +1601,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wakefield (2/8)",
-      "type": "tv",
-      "overview": "Raffs Loyalität zu seiner Frau Genevieve wird auf eine harte Probe gestellt, als ihr krankhaft sexuelles Verhalten Probleme in der Klinik verursacht. Während die Hypersexualität auf der Station um sich greift, erwacht die Anziehung von seiner Ex-Freundin Kareena zu Nik wieder. - \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110193-002-A/wakefield-2-8/",
-      "duration": 3364,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Der Froschkönig",
       "type": "tv",
       "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
@@ -1836,20 +1739,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Sonnenfinsternis über Mallorca LIVE - ein Terra X Harald Lesch SPEZIAL - Sonnenfinsternis",
+      "title": "Forensik: Was tun mit psychisch kranken Tätern?",
       "type": "tv",
-      "overview": "Eine totale Sonnenfinsternis ist ein „Once-in-a-Lifetime“-Ereignis: Mit Terra X lässt sich das Naturphänomen am 12. August 2026 auf Mallorca live erleben - zusammen mit Harald Lesch und Gästen.",
+      "overview": "Mörder und andere Straftäter gehören in Haft – oder? Liegt eine psychische Erkrankung vor, werden Täter in die Forensische Psychiatrie eingewiesen. Doch was bedeutet “schuldunfähig”?",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X Harald Lesch"
+        "Terra Xplore"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-ueber-mallorca-lesch-100",
-      "duration": 8006,
+      "url": "https://www.zdf.de/reportagen/forensik-was-tun-mit-psychisch-kranken-taetern-movie-100",
+      "duration": 2599,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1880,9 +1783,31 @@
     },
     {
       "tmdb_id": null,
+      "title": "Sonnenfinsternis über Mallorca LIVE - ein Terra X Harald Lesch SPEZIAL - Sonnenfinsternis",
+      "type": "tv",
+      "overview": "Eine totale Sonnenfinsternis ist ein „Once-in-a-Lifetime“-Ereignis: Mit \"Terra X\" lässt sich das Naturphänomen am 12. August 2026 auf Mallorca live erleben - zusammen mit Harald Lesch und Gästen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X Harald Lesch"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-ueber-mallorca-lesch-100",
+      "duration": 8006,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Wie Mallorca die Sonnenfinsternis erlebt - Sonnenfinsternis",
       "type": "tv",
-      "overview": "An Mallorcas Stränden erwartet man zur Sonnenfinsternis Hunderte Menschen: Nerds, Sofi-Jäger oder Zufallsgäste? Was macht dieses Himmelsereignis so besonders? Eric Mayer berichtet LIVE für Terra X.",
+      "overview": "An Mallorcas Stränden erwartet man zur Sonnenfinsternis Hunderte Menschen: Nerds, Sofi-Jäger oder Zufallsgäste? Was macht dieses Himmelsereignis so besonders? Eric Mayer berichtet live für \"Terra X\".",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -1904,7 +1829,7 @@
       "tmdb_id": null,
       "title": "Was passiert bei einer Sonnenfinsternis im Meer? - Sonnenfinsternis",
       "type": "tv",
-      "overview": "Meeresbiologe Uli Kunz erlebt die totale Sonnenfinsternis über dem Meer vor Mallorca - live. Für Terra X segelt er dem Himmelsspektakel entgegen, bis die Sonne noch halb verdeckt im Meer versinkt.",
+      "overview": "Meeresbiologe Uli Kunz erlebt die totale Sonnenfinsternis über dem Meer vor Mallorca - live. Für \"Terra X\" segelt er dem Himmelsspektakel entgegen, bis die Sonne noch halb verdeckt im Meer versinkt.",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -1926,7 +1851,7 @@
       "tmdb_id": null,
       "title": "Die Phasen der Sonnenfinsternis - Sonnenfinsternis",
       "type": "tv",
-      "overview": "Am 12. August 2026 zieht eine total Sonnenfinsternis über Mallorca. Terra X Harald Lesch ist live dabei – und verfolgt den rasenden Mondschatten mit einer Spezialkamera in Echtzeit.",
+      "overview": "Am 12. August 2026 zieht eine totale Sonnenfinsternis über Mallorca. \"Terra X Harald Lesch\" ist live dabei – und verfolgt den rasenden Mondschatten mit einer Spezialkamera in Echtzeit.",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -1982,28 +1907,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/reportagen/longevity---fuer-immer-jung-movie-100",
       "duration": 2610,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Azuchi - Die Burg des Samurai (S2026/E08)",
-      "type": "tv",
-      "overview": "Von der legendären Burg sind nur steinerne Fundamente geblieben. Nun rekonstruieren sie Wissenschaftler mit modernsten Analysemethoden und lassen sie digital neu aufleben. Wer war ihr Erbauer?",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X - die Einzeldokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-112/terra-x-azuchi-die-burg-des-samurai-doku-100",
-      "duration": 2629,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2650,6 +2553,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Friedhof der Welpen (20) – Der Usedom-Krimi",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2023 Eine junge Frau wird durch den Usedomer Wald gejagt und stürzt in eine Fallgrube, der Verfolger dicht auf den Fersen. Die Szene entpuppt sich als ein Survival-Training, das der Eigenbrötler Ivo Klose (Moritz Führmann) der 18-jährigen Fabienne Leppin (Ada Philine Stappenbeck) anbietet. Zeitgleich entdeckt Karin Lossow (Katrin Sass) beim Spaziergang mit Hund Lucky tote Hundewelpen im Wald....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Usedom-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVo",
+      "duration": 5300,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der falsche Tote – Der Amsterdam-Krimi (9)",
+      "type": "tv",
+      "overview": "Alarm in Amsterdam: Auf offener Straße wird ein junger Familienvater erschossen, ein Polizist angeschossen. Die beiden bewaffneten Täter fliehen. Das Ermittlerduo Hannes Jaenicke und Fedja van Huêt begeben sich auf eine dramatische Verbrecherjagd und geraten ins Spannungsfeld von Clankriminalität und Populismus. Der renommierte Regisseur Sebastian Ko inszenierte diesen Amsterdam-Krimi als atemlosen Wettlauf gegen die Zeit....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Amsterdam-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2MwN2UwODIxLWQzNGItNDYxZC05Y2Q5LTJhYjk4OTQyYjJjNl9nYW56ZVNlbmR1bmc",
+      "duration": 5319,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Tränenhochzeit – Der Kroatien-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2020 Für die Kommissarin Stascha Novak beginnt ihre Arbeit als neue Leiterin der Mordkommission Split mit einem spektakulären Fall: Bei einem geheimen Videoshooting von Popstar Ira am Strand von Split ereignet sich ein Mordanschlag. Mit Jasmin Gerat, Lenn Kudrjawitzki, Caro Cult, Vladimir Korneev, Ulrike Krumbiegel, Timur Bartels u. a. | Buch: Ulf Tschauder | Regie: Michael Kreindl",
@@ -2774,50 +2721,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0xOF8yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5331,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Borchert und die tödliche Falle (S01/E07)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2020 Der einstige Topmanager Borchert (Christian Kohlund) macht sich über die mächtigen Klienten seines alten Freundes Reto Zanger (Robert Hunger-Bühler) wenig Illusionen. Wie gut, dass er als „Anwalt ohne Lizenz“ für Freundschaftsdienste nicht infrage kommt!...",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Zürich-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjEtMDgtMTJfMjAtMTUtTUVTWg",
-      "duration": 5317,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Messer am Hals – Der Kroatien-Krimi",
-      "type": "tv",
-      "overview": "LSpielfilm Deutschland 2017 Wenige Tage vor der Bürgermeisterwahl in Split muss Branca Maric (Neda Rahmanian) den brutalen Überfall auf einen umstrittenen Kandidaten aufklären. Der Populist Ivica Strugar (Dominic Raacke) hat in Notwehr einen Angreifer erschossen, der zweite konnte entkommen. Zunächst sieht alles wie der Einschüchterungsversuch aus dem kriminellen Milieu auf einen selbsternannten Saubermann aus....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Kroatien-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjUtMDgtMTBfMDAtNDAtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
-      "duration": 5289,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2958,6 +2861,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Best-of",
+      "type": "tv",
+      "overview": "Mit rasanten Stand-up-Nummern, immer am Puls der Zeit, mit bissiger Ironie, schräg, intelligent, anspruchsvoll und mit jeder Menge Zwerchfell-Attacken - so präsentiert sich \"Kabarett aus Franken\".",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarett aus Franken"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMTYzQTA",
+      "duration": 2580,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Niko Nagl in kabarett.com",
       "type": "tv",
       "overview": "Fake it till you make it! Wozu eigene Ideale, wenn es Idole gibt? Kommentieren, Teilen und Herrschen! Mit fragwürdigen Sprüchen bewaffnet zückt „Goldbube“ Niko Nagl die verbale Klinge und dreht den Spieß um. Seine Mission: Ein Tanz auf Messers Schneide. Humoristisches Kugelfisch-Sashimi zum sofortigen Genuss.",
@@ -3086,6 +3011,29 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "100 Jahre Route 66 - Highway der Träume?",
+      "type": "tv",
+      "overview": "Die Route 66 steht auf vielen Bucket Lists: einmal von Chicago nach Los Angeles fahren. Erleben, was man aus Filmen kennt: die Weite der Plains, die Wüsten, die kleinstädtischen USA. Auch nach 100 Jahren steht die Route 66 für Freiheit und das Glücksversprechen Amerikas. Zugleich erzählt sie von den Menschen abseits der Erfolgsgeschichte – und von den Widersprüchen der USA.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/122158-000-A/100-jahre-route-66/",
+      "duration": 5405,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -3243,29 +3191,6 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14334450/roma-im-burgenland-geschichten-die-wir-uns-erzaehlen",
       "duration": 2743,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Wörthersee - Promibühne mit wechselhafter Geschichte",
-      "type": "tv",
-      "overview": "Die bewegte Geschichte der Wörthersee-Region reicht von der Sommerfrische wohlhabender Wiener nach dem Bau der Südbahn 1864 bis zur heutigen Kulturbühne. Künstler und Intellektuelle prägten den See ebenso wie die dunklen Jahre der NS-Zeit, in denen jüdische Gemeinden verschwanden. Nach 1945 wurde der Wörthersee durch Heimatfilme zum Tourismusmagneten und zieht bis heute internationale Prominenz an....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14334449/der-woerthersee-promibuehne-mit-wechselhafter-geschichte",
-      "duration": 2657,
       "providers": {
         "netflix": null,
         "prime": null,
