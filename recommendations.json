@@ -1,7 +1,32 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-15T05:17:25.816Z",
+  "generated_at": "2026-08-16T05:19:47.850Z",
   "items": [
+    {
+      "tmdb_id": 1504358,
+      "title": "Don't Say Good Luck",
+      "type": "movie",
+      "overview": "Sophie Birenbaum steht als Hauptdarstellerin im Highschool-Musical kurz vor ihrem großen Auftritt – bis das Chaos zu Hause mehr Drama bereithält als die Bühne.",
+      "genres": [
+        "Komödie",
+        "Musik",
+        "Drama"
+      ],
+      "keywords": [
+        "high school",
+        "musical",
+        "teenage girl"
+      ],
+      "rating": 7.079,
+      "vote_count": 19,
+      "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1504358-don-t-say-good-luck/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1284041,
       "title": "The Last House",
@@ -22,8 +47,8 @@
         "excited",
         "dangerous rain"
       ],
-      "rating": 6.939,
-      "vote_count": 629,
+      "rating": 6.918,
+      "vote_count": 688,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
@@ -33,19 +58,20 @@
       }
     },
     {
-      "tmdb_id": 1632473,
-      "title": "Ganito, Ganyan, Ganoon",
+      "tmdb_id": 1589248,
+      "title": "Mein bester Freund, seine Freundin und ich",
       "type": "movie",
-      "overview": "",
+      "overview": "Für Olli steht eines fest: Sein bester Freund Matze wurde offensichtlich von seiner neuen Freundin Rebecca einer Gehirnwäsche unterzogen. Ihr verhängnisvoller Einfluss gefährdet nicht nur ihre Freundschaft, sondern vor allem die Weltreise, die Olli und Matze schon seit Jahren bis ins kleinste Detail geplant haben. Es gibt also nur eine Lösung: Rebecca muss gestoppt werden! Gemeinsam mit seinem Kumpel Schmitti geht Olli in die Offensive. Doch zu aller Überraschung hat auch Rebecca einige Asse im Ärmel. Der Kampf ist eröffnet.",
       "genres": [
-        "Drama",
-        "Familie"
+        "Komödie"
       ],
-      "keywords": [],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": "/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1632473-ganito-ganyan-ganoon/watch?locale=DE",
+      "keywords": [
+        "new girlfriend"
+      ],
+      "rating": 2.167,
+      "vote_count": 6,
+      "poster_path": "/sWFzFNvqpas8y0BFSx0o7dURG8H.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -80,8 +106,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.656,
-      "vote_count": 7038,
+      "rating": 8.653,
+      "vote_count": 7076,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -91,25 +117,33 @@
       }
     },
     {
-      "tmdb_id": 1616131,
-      "title": "Un hijo propio",
+      "tmdb_id": 1588838,
+      "title": "Nervenkitzel",
       "type": "movie",
-      "overview": "",
+      "overview": "Carlos, Darío und Armando, alle samt begeisterte Extremsportler, entdecken das Erlebnis, das dem Fliegen am nächsten kommt: Wingsuit-BASE-Jumping. Dies ist die Geschichte dieser Adrenalinjunkies: eine wahre Geschichte, die von ihren Ängsten und Sehnsüchten berichtet - eine strapaziöse und zugleich faszinierende Reise voller Schwindelgefühle und Gefahren, die jedoch auch von Kameradschaft und Freundschaft geprägt ist. Es ist eine epische Reise, angetrieben vom Kampf mit sich selbst.",
       "genres": [
-        "Dokumentarfilm"
+        "Drama",
+        "Abenteuer"
       ],
       "keywords": [
-        "mexico",
-        "deceived husband",
-        "in-laws",
-        "motherhood",
-        "fake pregnancy",
-        "social pressure"
+        "friendship",
+        "funeral",
+        "parachute",
+        "loss",
+        "based on true story",
+        "survival",
+        "inspiring",
+        "accident",
+        "climb",
+        "adrenaline rush",
+        "intimate",
+        "adventure",
+        "death by accident"
       ],
-      "rating": 6.375,
-      "vote_count": 4,
-      "poster_path": "/3QylEx2tqfX8MXswK4oGdJUOExB.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=DE",
+      "rating": 5.2,
+      "vote_count": 10,
+      "poster_path": "/vuBYC5r6cVKSk7aOo51fg0AMBI8.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1588838-la-fiera/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -139,38 +173,13 @@
         "reboot",
         "brisk"
       ],
-      "rating": 8.078,
-      "vote_count": 3042,
+      "rating": 8.081,
+      "vote_count": 3059,
       "poster_path": "/vComTg8O9m22c7jG9jHbeKJBz5Q.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 309798,
-      "title": "Meine brillante Karriere",
-      "type": "tv",
-      "overview": "Ruhelos, scharfsinnig und nicht konform. Sybylla will ihre eigene Geschichte schreiben – in einer Zeit, in der erwartet wird, dass sie heiratet und sich niederlässt.",
-      "genres": [
-        "Drama",
-        "Familie"
-      ],
-      "keywords": [
-        "farm",
-        "remake",
-        "father daughter relationship",
-        "women's independence"
-      ],
-      "rating": 3.8,
-      "vote_count": 13,
-      "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/309798-my-brilliant-career/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -201,47 +210,13 @@
         "nice guy",
         "premier league"
       ],
-      "rating": 8.351,
-      "vote_count": 2537,
+      "rating": 8.353,
+      "vote_count": 2541,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller",
-        "suspenseful",
-        "appreciative",
-        "compassionate",
-        "earnest",
-        "empathetic",
-        "urgent"
-      ],
-      "rating": 8.053,
-      "vote_count": 1341,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -277,8 +252,8 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.751,
-      "vote_count": 5476,
+      "rating": 8.752,
+      "vote_count": 5477,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -288,35 +263,33 @@
       }
     },
     {
-      "tmdb_id": 247522,
-      "title": "Tires",
+      "tmdb_id": 113962,
+      "title": "Lioness",
       "type": "tv",
-      "overview": "In der Autowerkstatt seines Vaters versucht ein junger Mann, den Kundenservice und den Umsatz zu verbessern, während er gleichzeitig seinen Cousin im Auge behalten muss.",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
-        "Komödie"
+        "Drama",
+        "War & Politics"
       ],
       "keywords": [
-        "office",
-        "car mechanic",
-        "work",
-        "workplace",
-        "business",
-        "tire",
-        "sitcom",
-        "sale",
-        "workplace comedy",
-        "colleague",
-        "inspirational",
-        "car",
-        "hilarious",
-        "bold",
-        "excited",
-        "auto shop"
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller",
+        "suspenseful",
+        "appreciative",
+        "compassionate",
+        "earnest",
+        "empathetic",
+        "urgent"
       ],
-      "rating": 6.681,
-      "vote_count": 91,
-      "poster_path": "/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/247522-tires/watch?locale=DE",
+      "rating": 8.055,
+      "vote_count": 1349,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -324,71 +297,27 @@
       }
     },
     {
-      "tmdb_id": 60625,
-      "title": "Rick and Morty",
+      "tmdb_id": 309798,
+      "title": "Meine brillante Karriere",
       "type": "tv",
-      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
+      "overview": "Ruhelos, scharfsinnig und nicht konform. Sybylla will ihre eigene Geschichte schreiben – in einer Zeit, in der erwartet wird, dass sie heiratet und sich niederlässt.",
       "genres": [
-        "Animation",
-        "Komödie",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Drama",
+        "Familie"
       ],
       "keywords": [
-        "time travel",
-        "grandfather",
-        "alcoholism",
-        "alien",
-        "dysfunctional family",
-        "mad scientist",
-        "scientist",
-        "adult animation",
-        "father figure",
-        "machinist",
-        "multiple dimensions",
-        "spaceship"
+        "farm",
+        "remake",
+        "father daughter relationship",
+        "women's independence"
       ],
-      "rating": 8.681,
-      "vote_count": 11278,
-      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
+      "rating": 4.1,
+      "vote_count": 16,
+      "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/309798-my-brilliant-career/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1481343,
-      "title": "The Devil's Mouth - Der Teufelsschlund",
-      "type": "movie",
-      "overview": "Fünf Freunde suchen in Thailand ein letztes großes Abenteuer und beschließen, die Devil's-Mouth-Höhlen zu erkunden. Schon bald erkennen sie, dass etwas in den Tiefen der Höhlen Jagd auf sie macht... und es ist schnell, lautlos und tödlich. In der erdrückenden Finsternis schwindet das Vertrauen, Panik macht sich breit und jede falsche Bewegung führt zu einem Kampf ums Überleben.",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "keywords": [
-        "cave",
-        "animal attack",
-        "thailand",
-        "survival",
-        "creature",
-        "shark",
-        "survival horror",
-        "killer shark",
-        "aggressive",
-        "college friends",
-        "animal horror",
-        "inspirational",
-        "survival thriller"
-      ],
-      "rating": 6.58,
-      "vote_count": 604,
-      "poster_path": "/hRM5XAiMvwoAGhyrFou7P42jb0J.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -413,7 +342,7 @@
         "police procedural"
       ],
       "rating": 8.38,
-      "vote_count": 4550,
+      "vote_count": 4551,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -467,38 +396,6 @@
       }
     },
     {
-      "tmdb_id": 291496,
-      "title": "Our Sticky Love",
-      "type": "tv",
-      "overview": "In der südkoreanischen Romantik-Komödie Our Sticky Love (2026) verliert die ehrgeizige Staatsanwältin Go Eun-sae bei einem Angriff durch ein Verbrechersyndikat, gegen das sie ermittelt, vollständig ihr Gedächtnis. Sie erwacht in einer ländlichen Klinik und trifft auf den ehemaligen Boxer Jang Tae-ha.  Tae-ha, der Verbindungen zu genau jener Kriminellen-Gruppe hat und Eun-sae als seine Jugendliebe wiedererkennt, gibt sich spontan als ihr fester Freund aus, um sie vor dem Syndikat zu beschützen. Er nimmt sie mit in sein Heimatdorf zu einer traditionellen Bonbon-Manufaktur.  Obwohl die scharfsinnige Eun-sae seine Geschichte zunehmend hinterfragt, entwickelt sich während des gemeinsamen Lebens auf dem Land echte Zuneigung zwischen den beiden. Schließlich muss sich Tae-ha jedoch seiner düsteren Gangster-Vergangenheit und dem kompromisslosen Verbrecherboss stellen, um Eun-sae und ihre gemeinsame Zukunft zu retten.",
-      "genres": [
-        "Drama",
-        "Komödie"
-      ],
-      "keywords": [
-        "boxer",
-        "gang leader",
-        "coach",
-        "romcom",
-        "romance",
-        "prosecutor",
-        "former athlete",
-        "temporary amnesia",
-        "village setting",
-        "roommates' relationship",
-        "former criminal"
-      ],
-      "rating": 8.3,
-      "vote_count": 35,
-      "poster_path": "/jscNOgL5QGLzAY6DtCTSVuIRdGi.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/291496/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 79744,
       "title": "The Rookie",
       "type": "tv",
@@ -532,75 +429,6 @@
         "netflix": "flatrate",
         "prime": null,
         "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 245891,
-      "title": "John Wick",
-      "type": "movie",
-      "overview": "John Wick genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov, der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov, für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus an seinen Fersen hängen...",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "keywords": [
-        "hitman",
-        "bratva (russian mafia)",
-        "gangster",
-        "secret organization",
-        "revenge",
-        "murder",
-        "dog",
-        "retired",
-        "widower"
-      ],
-      "rating": 7.461,
-      "vote_count": 21151,
-      "poster_path": "/vr92idbWfEFY0bcapzMk1nZkVXr.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/245891-john-wick/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000217799.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 361743,
-      "title": "Top Gun: Maverick",
-      "type": "movie",
-      "overview": "Aufgrund seiner Probleme mit Autoritäten hat es Flieger-Ass Maverick nie geschafft, die ganz große Karriere in der Navy zu machen. Anstatt Orden konnte er so vielmehr disziplinarische Verfahren sammeln. Nachdem er erneut über das Ziel hinausgeschossen ist, wird er kurzerhand zu seiner alten Elite-Flugschule Top Gun versetzt. Dort soll er die jungen Flieger, unter denen sich auch Rooster, der Sohn seines verstorbenen besten Freundes Goose befindet, auf eine Mission vorbereiten, die eigentlich unmöglich zu bewerkstelligen ist: Das schwer geschützte Nuklearprogramm eines fremden Landes muss zerstört werden. Weniger als drei Wochen bleiben zur Vorbereitung. Maverick hat nun alle Hände voll damit zu tun, die besten Absolventen der vergangenen Jahre zu einem Team zu formen, damit der Einsatz nicht zum Selbstmordkommando verkommt.",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "keywords": [
-        "fighter pilot",
-        "u.s. navy",
-        "sequel",
-        "nuclear weapons",
-        "military",
-        "aircraft carrier",
-        "naval aviation",
-        "war"
-      ],
-      "rating": 8.159,
-      "vote_count": 11344,
-      "poster_path": "/cvLe7YpLTsgT25FpuTD1bwgEcWZ.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/361743-top-gun-maverick/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000218166.html",
-        "mentions": 2
       }
     },
     {
@@ -710,7 +538,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyMldPMDEyODU5QTA",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyMldPMDEyODU5QTAvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5304,
       "providers": {
         "netflix": null,
@@ -1239,6 +1067,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Kommt ein Vogel geflogen - Spielfilm, Deutschland 2023",
+      "type": "tv",
+      "overview": "Birgit Singer ist Tierpflegerin und trägt die Hauptlast der Familie: Sie leitet ein Tierheim, finanziert die Promotion ihres Mannes und kümmert sich um ihre stotternde Tochter Sarah.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/kommt-ein-vogel-geflogen-100.html",
+      "duration": 6347,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "A Killer Romance (Englisch)",
       "type": "tv",
       "overview": "Gary Johnson unterrichtet Philosophie an der Uni und ist nebenbei Berater der Polizei von New Orleans. Durch Zufall entdeckt er seine neue Leidenschaft: Der Einsatz als Undercover-Cop.",
@@ -1275,50 +1125,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/filme/a-killer-romance-movie-100/a-killer-romance-100",
       "duration": 6660,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Und dann kam Dad (Englisch)",
-      "type": "tv",
-      "overview": "Sebastien will Ellie heiraten. Dazu benötigt er einen alten Ring, den sein Vater Salvo nicht rausrücken will, bis er die Familie der Braut kennengelernt hat.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/und-dann-kam-dad-movie-100/und-dann-kam-dad-100",
-      "duration": 5524,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Und dann kam Dad",
-      "type": "tv",
-      "overview": "Sebastien will Ellie heiraten. Dazu benötigt er einen alten Ring, den sein Vater Salvo nicht rausrücken will, bis er die Familie der Braut kennengelernt hat.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/und-dann-kam-dad-movie-100/und-dann-kam-dad-100",
-      "duration": 5524,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1451,6 +1257,28 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/the-quiet-girl-102.html",
       "duration": 5506,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "The Convert – Krieg der Māori - Spielfilm, Großbritannien/Australien/Neuseeland 2023 (Englisch)",
+      "type": "tv",
+      "overview": "Als Thomas Munro in den 1830ern die Küste von Neuseeland erreicht, trifft er auf ein von Māori geprägtes Aotearoa. Die Siedlung leidet unter Verfall und blutigen Stammeskonflikten.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/the-convert-krieg-der-maori-100.html",
+      "duration": 6878,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2191,9 +2019,53 @@
     },
     {
       "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
+      "title": "Kevin Costner und der Western",
       "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
+      "overview": "Eine weite Landschaft. Ein mitreißender Soundtrack. Ein Mann tanzt ums Feuer. Ein Wolf beobachtet ihn. 1990 sehen Millionen Kevin Costners Regiedebüt \"Der mit dem Wolf tanzt\". Es ist ein riskantes Projekt - und wird zum Meisterwerk. Einen Western ins Kino zu bringen, gilt zu dieser Zeit als Wagnis: Das Genre ist unpopulär, während Filme wie Pretty Woman, Das Schweigen der Lämmer und Kevin allein zu Haus die Charts dominieren....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Doku & Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3ODQwNl9nYW56ZVNlbmR1bmc",
+      "duration": 2610,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hafenmeister - festgemacht im Norden",
+      "type": "tv",
+      "overview": "Die Miniserie besucht in jeder der drei Folgen jeweils vier Häfen und stellt ihre Hafenmeisterinnen und Hafenmeister vor. Ein Biber soll Hafenmeister Andreas Buse in Greifswald keinen Damm in die Hafeneinfahrt bauen. Dieter Zimmer krant in Hamburg-Tatenberg ein von Muscheln besetztes Boot aus dem Wasser. Hafenmeister Peter Küther begrüßt Gäste in Cuxhaven, die seit 1948 dorthin kommen....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Doku & Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjMxOTQ1NF9nYW56ZVNlbmR1bmc",
+      "duration": 2612,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kriegstüchtig? 70 Jahre Bundeswehr",
+      "type": "tv",
+      "overview": "Die Bundeswehr blickt zurück auf 70 Jahre Geschichte, 1956 wurde die Wehrpflicht eingeführt. \"Terra X History\" fragt: Wie einsatzbereit war die Truppe seitdem – und wie steht sie heute da?",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -2203,8 +2075,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
+      "url": "https://www.zdf.de/dokus/kriegstuechtig-70-jahre-bundeswehr-movie-100",
+      "duration": 5369,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2521,6 +2393,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Borchert und der Tote im See (S01/E09)",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2020 Borchert (Christian Kohlund) hat sich das Wiedersehen mit seiner Patentochter anders vorgestellt: Statt sie am Flughafen in die Arme zu schließen, muss er Jenny (Lea Freund) bei der Zollfahndung herausboxen. Jemand hat der angehenden Kinderärztin, die ein Praxissemester bei der Hilfsorganisation des albanischen Geschäftsmannes Gentian Gjeluci (Peter Davor) absolviert, ein halbes Kilo Haschisch untergeschoben....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Zürich-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWg",
+      "duration": 5277,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tod im Fiaker – Der Wien-Krimi: Blind ermittelt",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland/Österreich 2020 Kokain mit einer Prise Zyankalisalz ist eine tödliche Mischung: Alexander Haller erlebt aus nächster Nähe, wie Bankier Schachner nach einer heimlich gezogenen Line zusammenbricht. Zwar kann der blinde Kommissar nicht sehen, was vor sich geht, jedoch bemerkt er den typischen Bittermandelgeruch. Hallers Warnung kommt für seine Schwester Sophie zu spät, die sich bei der Mund-zu-Mund-Beatmung vergiftet....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Wien-Krimi: Blind ermittelt"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzhkNTU1YjBiLTU3OGYtNGY2Yi1hNWVmLTRjY2Q5YTA2NzZhMF9nYW56ZVNlbmR1bmc",
+      "duration": 5250,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Friedhof der Welpen (20) – Der Usedom-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2023 Eine junge Frau wird durch den Usedomer Wald gejagt und stürzt in eine Fallgrube, der Verfolger dicht auf den Fersen. Die Szene entpuppt sich als ein Survival-Training, das der Eigenbrötler Ivo Klose (Moritz Führmann) der 18-jährigen Fabienne Leppin (Ada Philine Stappenbeck) anbietet. Zeitgleich entdeckt Karin Lossow (Katrin Sass) beim Spaziergang mit Hund Lucky tote Hundewelpen im Wald....",
@@ -2653,50 +2569,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Der Mädchenmörder von Krac – Der Kroatien-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2019 Kommissarin Branka Maric (Neda Rahmanian) und ihr Kollege Emil Perica (Lenn Kudrjawizki) müssen ins Hinterland Dalmatiens, um den Tod der 18-jährigen Eva Tomic (Caroline Hartig) aufzuklären. In dem abgelegenen Bergstädtchen Krac sehen die Bewohner eine Verbindung zu einem ungeklärten Mädchenmord, der vor einem Jahr passiert ist....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Kroatien-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjUtMDgtMTdfMDAtNDAtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
-      "duration": 5260,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der längste Tag (5) – Der Barcelona-Krimi",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2022 Bei einer Schießerei im Hafen von Barcelona wird die junge, ehrgeizige Polizistin Clara Romero erschossen. Alles deutet darauf hin, dass Clara einen Drogendeal gestört hat; es kam zu einer Schießerei, in deren Verlauf nicht nur Clara, sondern auch einer der Drogendealer getötet wurden, der zweite Dealer liegt im Koma. Fall geklärt? So einfach ist die Sache nicht....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Barcelona-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0xOF8yMC0xNS1NRVNa",
-      "duration": 5331,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Best of Ingrid Kühne",
       "type": "tv",
       "overview": "60 Minuten. Keine Pause fürs Zwerchfell. Der ganz normale Wahnsinn bekommt hier eine neue Intensität. Ob Technik, die grundsätzlich gegen sie arbeitet, Pakete auf Weltreise oder ein Sohn, der die Pubertät auf ein neues Level hebt. Ingrid Kühne erzählt von dem ganz normalen Wahnsinn, den wir alle kennen. Und plötzlich wird klar: Wir sind mit unserem Chaos nicht allein....",
@@ -2763,28 +2635,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wilfried Schmickler - Das Allerbeste aus 6 Soloprogrammen",
-      "type": "tv",
-      "overview": "Wilfried Schmickler steht seit fast 40 Jahren für exquisites politisches Kabarett. Seine politischen und gesellschaftspolitischen Analysen beeindrucken durch Scharfsinn und Wortwitz. Der WDR hat Schmicklers künstlerisches Schaffen über viele Jahre begleitet, sowohl bei den Mitternachtsspitzen als auch bei seinen Soloprogrammen....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMjIwYjhmYWUtMTg4My00MDY3LWFkNjItODE3NzNiMDhkYjY2",
-      "duration": 4382,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Nachsitzen mit Christine Eixenberger",
       "type": "tv",
       "overview": "Kabarettistin Christine Eixenberger bittet wieder auf die Schulbank und verdonnert Politiker, Parteien, Unternehmen, Organisationen und Personen des öffentlichen zum \"Nachsitzen\".",
@@ -2825,6 +2675,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kabarettgipfel - Hitzewelle und Sommerfrische",
+      "type": "tv",
+      "overview": "Es wird heiß in der Stadthalle, wenn die besten Kabarettist*innen aus Österreich und Deutschland über \"Hitzewelle und Sommerfrische\" sprechen.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarett & Comedy"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/kabarett/kabarett-in-3sat/kabarettgipfel-hitzewelle-und-sommerfrische-100.html",
+      "duration": 3177,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
       }
     },
     {
@@ -2983,6 +2855,52 @@
     },
     {
       "tmdb_id": null,
+      "title": "Das Geheimnis von Santorini",
+      "type": "tv",
+      "overview": "Vor rund 3.600 Jahren zerriss eine Eruption, größer als die von Pompeji, die Insel Santorini und überzog das östliche Mittelmeer mit einer dicken Ascheschicht. Ist es möglich, dass dieser Ausbruch das Ende der Minoer einläutete – der ersten Hochkultur Europas? Sensationelle Funde zeigen, wie gefährlich ein erneuter Ausbruch selbst für weit entfernte Regionen werden kann.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/110277-000-A/das-geheimnis-von-santorini/",
+      "duration": 5240,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Norden auf Super 8: Familie und Wohnen (2/3)",
+      "type": "tv",
+      "overview": "Das außergewöhnliche Geschichtsformat erzählt aus der Perspektive von Amateurfilmern, was in den ersten Jahrzehnten nach dem Zweiten Weltkrieg den Norden prägte. 162 Filmrollen von 14 Amateurfilmern sind die Basis für eine emotionale und filmische Reise zu den norddeutschen Wurzeln. Zeitzeugen aus Ostfriesland erinnern sich an die Armut in den 1950er Jahren und wie sie bei der Tante in der Stadt, stundenlang eine Wand anstarrten....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Unsere Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI4MDc3NV9nYW56ZVNlbmR1bmc",
+      "duration": 2642,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "100 Jahre Route 66 - Highway der Träume?",
       "type": "tv",
       "overview": "Die Route 66 steht auf vielen Bucket Lists: einmal von Chicago nach Los Angeles fahren. Erleben, was man aus Filmen kennt: die Weite der Plains, die Wüsten, die kleinstädtischen USA. Auch nach 100 Jahren steht die Route 66 für Freiheit und das Glücksversprechen Amerikas. Zugleich erzählt sie von den Menschen abseits der Erfolgsgeschichte – und von den Widersprüchen der USA.",
@@ -3117,52 +3035,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Berge, Seen und Partisanen - Eine politische Geschichte des Salzkammerguts",
-      "type": "tv",
-      "overview": "Das Salzkammergut gilt als Inbegriff alpiner Schönheit, besitzt jedoch auch eine bewegte politische Geschichte. Der Salzabbau schuf früh Wohlstand und eine selbstbewusste Arbeiterkultur. Mit dem Tourismus wurde Bad Ischl zum Treffpunkt prominenter Gäste wie Freud oder Mahler. Zugleich gewann der Nationalsozialismus an Einfluss, jüdische Menschen wurden enteignet und ermordet....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14334448/berge-seen-und-partisanen-eine-politische-geschichte-des-salzkammerguts",
-      "duration": 2755,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Roma im Burgenland - Geschichten, die wir uns erzählen",
-      "type": "tv",
-      "overview": "\"Roma im Burgenland – Geschichten, die wir uns erzählen\" von Robert Dornhelm und Michael Köhlmeier beleuchtet Geschichte, Kultur und Gegenwart der Burgenland-Roma. Die Doku spannt den Bogen von den 1930er-Jahren bis heute und verbindet Erinnerungen an Verfolgung und Ausgrenzung mit Musik, Traditionen und persönlichen Geschichten....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14334450/roma-im-burgenland-geschichten-die-wir-uns-erzaehlen",
-      "duration": 2743,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     }
   ]
