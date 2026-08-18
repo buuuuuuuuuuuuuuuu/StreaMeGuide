@@ -1,32 +1,7 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-17T05:27:00.727Z",
+  "generated_at": "2026-08-18T05:20:22.712Z",
   "items": [
-    {
-      "tmdb_id": 1504358,
-      "title": "Don't Say Good Luck",
-      "type": "movie",
-      "overview": "Sophie Birenbaum steht als Hauptdarstellerin im Highschool-Musical kurz vor ihrem großen Auftritt – bis das Chaos zu Hause mehr Drama bereithält als die Bühne.",
-      "genres": [
-        "Komödie",
-        "Musik",
-        "Drama"
-      ],
-      "keywords": [
-        "high school",
-        "musical",
-        "teenage girl"
-      ],
-      "rating": 6.9,
-      "vote_count": 24,
-      "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1504358-don-t-say-good-luck/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
     {
       "tmdb_id": 1284041,
       "title": "The Last House",
@@ -42,15 +17,39 @@
         "isolation",
         "water monster",
         "sea creature",
-        "cautionary",
         "baffled",
         "excited",
         "dangerous rain"
       ],
-      "rating": 6.928,
-      "vote_count": 769,
+      "rating": 6.946,
+      "vote_count": 820,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1504358,
+      "title": "Don't Say Good Luck",
+      "type": "movie",
+      "overview": "Sophie Birenbaum steht als Hauptdarstellerin im Highschool-Musical kurz vor ihrem großen Auftritt – bis das Chaos zu Hause mehr Drama bereithält als die Bühne.",
+      "genres": [
+        "Komödie",
+        "Musik",
+        "Drama"
+      ],
+      "keywords": [
+        "high school",
+        "musical",
+        "teenage girl"
+      ],
+      "rating": 7,
+      "vote_count": 28,
+      "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1504358-don-t-say-good-luck/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -85,8 +84,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.653,
-      "vote_count": 7103,
+      "rating": 8.654,
+      "vote_count": 7136,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -106,44 +105,10 @@
       "keywords": [
         "new girlfriend"
       ],
-      "rating": 3.05,
-      "vote_count": 10,
+      "rating": 3.318,
+      "vote_count": 11,
       "poster_path": "/sWFzFNvqpas8y0BFSx0o7dURG8H.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1588838,
-      "title": "Nervenkitzel",
-      "type": "movie",
-      "overview": "Carlos, Darío und Armando, alle samt begeisterte Extremsportler, entdecken das Erlebnis, das dem Fliegen am nächsten kommt: Wingsuit-BASE-Jumping. Dies ist die Geschichte dieser Adrenalinjunkies: eine wahre Geschichte, die von ihren Ängsten und Sehnsüchten berichtet - eine strapaziöse und zugleich faszinierende Reise voller Schwindelgefühle und Gefahren, die jedoch auch von Kameradschaft und Freundschaft geprägt ist. Es ist eine epische Reise, angetrieben vom Kampf mit sich selbst.",
-      "genres": [
-        "Drama",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "friendship",
-        "funeral",
-        "parachute",
-        "loss",
-        "based on true story",
-        "survival",
-        "inspiring",
-        "accident",
-        "climb",
-        "adrenaline rush",
-        "intimate",
-        "adventure",
-        "death by accident"
-      ],
-      "rating": 5.583,
-      "vote_count": 12,
-      "poster_path": "/vuBYC5r6cVKSk7aOo51fg0AMBI8.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1588838-la-fiera/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -173,7 +138,7 @@
         "reboot"
       ],
       "rating": 8.081,
-      "vote_count": 3069,
+      "vote_count": 3077,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -198,16 +163,10 @@
         "us military",
         "special ops",
         "thoughtful",
-        "spy thriller",
-        "suspenseful",
-        "appreciative",
-        "compassionate",
-        "earnest",
-        "empathetic",
-        "urgent"
+        "spy thriller"
       ],
-      "rating": 8.1,
-      "vote_count": 1359,
+      "rating": 8.067,
+      "vote_count": 1368,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -248,10 +207,55 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.752,
-      "vote_count": 5481,
+      "rating": 8.751,
+      "vote_count": 5484,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 300727,
+      "title": "The Apartment Job",
+      "type": "tv",
+      "overview": "„The Apartment Job“ (2026) ist eine südkoreanische K-Drama-Serie (Krimi-Komödie), die von einem ehemaligen Gangsterboss handelt, der durch den Diebstahl von Instandhaltungsrücklagen einer Wohnanlage unbeabsichtigt zum Helden gegen lokale Korruption wird.\n\nDer Ex-Anführer der Oasis-Gang, Park Hae-Gang (gespielt von Ji Sung), benötigt dringend eine enorme Summe Geld. Er will damit seinem Vertrauten Yong-Man helfen. Gemeinsam mit einer aufstrebenden Anwältin schmiedet er den Plan, die finanziellen Rücklagen einer neu gebauten, riesigen Wohnanlage zu stehlen. Ein Tipp führt ihn dorthin, wo er eine Gesetzeslücke ausnutzen will.",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Krimi"
+      ],
+      "keywords": [
+        "investigation",
+        "community",
+        "friendship",
+        "politics",
+        "revenge",
+        "betrayal",
+        "justice",
+        "power struggle",
+        "hidden money",
+        "former gangster",
+        "teamwork",
+        "part-time worker",
+        "mystery",
+        "comedy",
+        "crime",
+        "neighbors",
+        "corrupción",
+        "neigbors' relationship",
+        "secrets",
+        "former criminal",
+        "apartment setting",
+        "residents' association",
+        "fake family"
+      ],
+      "rating": 8.762,
+      "vote_count": 21,
+      "poster_path": "/mahU2qnoWyN0Ac8awtmWBbVdeNV.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/300727/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -288,8 +292,8 @@
         "comforting",
         "joyful"
       ],
-      "rating": 8.354,
-      "vote_count": 2546,
+      "rating": 8.353,
+      "vote_count": 2554,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
@@ -334,55 +338,10 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.448,
-      "vote_count": 1663,
+      "rating": 8.41,
+      "vote_count": 1674,
       "poster_path": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 300727,
-      "title": "The Apartment Job",
-      "type": "tv",
-      "overview": "„The Apartment Job“ (2026) ist eine südkoreanische K-Drama-Serie (Krimi-Komödie), die von einem ehemaligen Gangsterboss handelt, der durch den Diebstahl von Instandhaltungsrücklagen einer Wohnanlage unbeabsichtigt zum Helden gegen lokale Korruption wird.\n\nDer Ex-Anführer der Oasis-Gang, Park Hae-Gang (gespielt von Ji Sung), benötigt dringend eine enorme Summe Geld. Er will damit seinem Vertrauten Yong-Man helfen. Gemeinsam mit einer aufstrebenden Anwältin schmiedet er den Plan, die finanziellen Rücklagen einer neu gebauten, riesigen Wohnanlage zu stehlen. Ein Tipp führt ihn dorthin, wo er eine Gesetzeslücke ausnutzen will.",
-      "genres": [
-        "Drama",
-        "Komödie",
-        "Krimi"
-      ],
-      "keywords": [
-        "investigation",
-        "community",
-        "friendship",
-        "politics",
-        "revenge",
-        "betrayal",
-        "justice",
-        "power struggle",
-        "hidden money",
-        "former gangster",
-        "teamwork",
-        "part-time worker",
-        "mystery",
-        "comedy",
-        "crime",
-        "neighbors",
-        "corrupción",
-        "neigbors' relationship",
-        "secrets",
-        "former criminal",
-        "apartment setting",
-        "residents' association",
-        "fake family"
-      ],
-      "rating": 8.7,
-      "vote_count": 20,
-      "poster_path": "/mahU2qnoWyN0Ac8awtmWBbVdeNV.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/300727/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -414,78 +373,13 @@
         "multiple dimensions",
         "spaceship"
       ],
-      "rating": 8.681,
-      "vote_count": 11281,
+      "rating": 8.7,
+      "vote_count": 11287,
       "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
       "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 309798,
-      "title": "Meine brillante Karriere",
-      "type": "tv",
-      "overview": "Ruhelos, scharfsinnig und nicht konform. Sybylla will ihre eigene Geschichte schreiben – in einer Zeit, in der erwartet wird, dass sie heiratet und sich niederlässt.",
-      "genres": [
-        "Drama",
-        "Familie"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "feminism",
-        "farm",
-        "remake",
-        "miniseries",
-        "period drama",
-        "1900s",
-        "father daughter relationship",
-        "20th century",
-        "women's independence"
-      ],
-      "rating": 4.579,
-      "vote_count": 19,
-      "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/309798-my-brilliant-career/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1481343,
-      "title": "The Devil's Mouth - Der Teufelsschlund",
-      "type": "movie",
-      "overview": "Fünf Freunde suchen in Thailand ein letztes großes Abenteuer und beschließen, die Devil's-Mouth-Höhlen zu erkunden. Schon bald erkennen sie, dass etwas in den Tiefen der Höhlen Jagd auf sie macht... und es ist schnell, lautlos und tödlich. In der erdrückenden Finsternis schwindet das Vertrauen, Panik macht sich breit und jede falsche Bewegung führt zu einem Kampf ums Überleben.",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "keywords": [
-        "cave",
-        "animal attack",
-        "thailand",
-        "survival",
-        "creature",
-        "shark",
-        "survival horror",
-        "killer shark",
-        "aggressive",
-        "college friends",
-        "animal horror",
-        "inspirational",
-        "survival thriller"
-      ],
-      "rating": 6.596,
-      "vote_count": 624,
-      "poster_path": "/hRM5XAiMvwoAGhyrFou7P42jb0J.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -509,8 +403,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.383,
-      "vote_count": 4562,
+      "rating": 8.384,
+      "vote_count": 4568,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -553,7 +447,7 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.958,
+      "rating": 7.959,
       "vote_count": 4310,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
@@ -590,7 +484,7 @@
         "dramatic"
       ],
       "rating": 8.542,
-      "vote_count": 3466,
+      "vote_count": 3468,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -600,26 +494,37 @@
       }
     },
     {
-      "tmdb_id": null,
-      "title": "Tatort: Wehrlos",
+      "tmdb_id": 111110,
+      "title": "ONE PIECE",
       "type": "tv",
-      "overview": "Ein Mordfall in den eigenen Reihen wird für Eisner und Fellner zum gefährlichen Machtspiel. Ein rätselhafter Doppelmord führt die Ermittler an eine Wiener Polizeischule. Zunächst scheint der Schulleiter seine Frau erschlagen und sich anschließend selbst getötet zu haben. Die Obduktion zeigt jedoch, dass das tödliche Projektil aus einer anderen Waffe stammt – mit Spezialmunition, die nur der Polizei zugänglich ist....",
+      "overview": "In dieser Realverfilmung des erfolgreichen Mangas begibt sich der junge Pirat Monkey D. Ruffy mit seinem Strohhut und seiner Crew auf eine abenteuerliche Schatzsuche.",
       "genres": [
-        "Krimi",
-        "Drama"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "Tatort aus Österreich"
+        "ocean",
+        "sea",
+        "ship",
+        "friendship",
+        "based on comic",
+        "pirate",
+        "fighting",
+        "super power"
       ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14335378/tatort-wehrlos",
-      "duration": 5308,
+      "rating": 8.11,
+      "vote_count": 1894,
+      "poster_path": "/gyyBB4wBYTvS4gtvi4hToq1KOsp.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/111110-one-piece/watch?locale=DE",
       "providers": {
-        "netflix": null,
+        "netflix": "flatrate",
         "prime": null,
-        "mediathek": "ORF"
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000218481.html",
+        "mentions": 2
       }
     },
     {
@@ -670,25 +575,25 @@
     },
     {
       "tmdb_id": null,
-      "title": "In eigener Sache",
+      "title": "Tatort: Wehrlos",
       "type": "tv",
-      "overview": "Der zweite Fall von Thorsten Lannert und Sebastian Bootz beginnt mit einem Einsatz der Drogenfahndung: Bei einem Schusswechsel sterben ein Polizist und zwei der mutmaßlichen Drogendealer, einer wird lebensgefährlich verletzt. Letzterer jedoch erweist sich als verdeckter Ermittler des LKA. Ein tödlicher Irrtum? Lannert und Bootz geraten mit ihren Ermittlungen zwischen die Fronten - Drogenfahndung versus Landeskriminalamt....",
+      "overview": "Ein Mordfall in den eigenen Reihen wird für Eisner und Fellner zum gefährlichen Machtspiel. Ein rätselhafter Doppelmord führt die Ermittler an eine Wiener Polizeischule. Zunächst scheint der Schulleiter seine Frau erschlagen und sich anschließend selbst getötet zu haben. Die Obduktion zeigt jedoch, dass das tödliche Projektil aus einer anderen Waffe stammt – mit Spezialmunition, die nur der Polizei zugänglich ist....",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Tatort aus Österreich"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDI4NDM",
-      "duration": 5646,
+      "url": "https://on.orf.at/video/14335378/tatort-wehrlos",
+      "duration": 5308,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "ORF"
       }
     },
     {
@@ -716,6 +621,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "In eigener Sache",
+      "type": "tv",
+      "overview": "Der zweite Fall von Thorsten Lannert und Sebastian Bootz beginnt mit einem Einsatz der Drogenfahndung: Bei einem Schusswechsel sterben ein Polizist und zwei der mutmaßlichen Drogendealer, einer wird lebensgefährlich verletzt. Letzterer jedoch erweist sich als verdeckter Ermittler des LKA. Ein tödlicher Irrtum? Lannert und Bootz geraten mit ihren Ermittlungen zwischen die Fronten - Drogenfahndung versus Landeskriminalamt....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDI4NDM",
+      "duration": 5646,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Wer das Schweigen bricht",
       "type": "tv",
       "overview": "Fernsehfilm Deutschland 2013 Der fünfte Fall von Conny Mey und Frank Steier führt die beiden Frankfurter Ermittler in die hermetische Welt eines Jugendgefängnisses. Beim morgendlichen Aufschluss wird der 19-Jährige Mustafa Zeydan tot aufgefunden. Er wurde gefoltert - acht Zehennägel sind ihm gezogen worden....",
@@ -729,7 +657,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzk1ZTNiOWM3LTVhNTItNGNmZC04NzZiLTczM2I4MWFlZjQyNF9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzk1ZTNiOWM3LTVhNTItNGNmZC04NzZiLTczM2I4MWFlZjQyNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5256,
       "providers": {
         "netflix": null,
@@ -877,6 +805,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Fehlschuss",
+      "type": "tv",
+      "overview": "Eine alte Frau wird erschlagen in ihrer Wohnung aufgefunden. Schmücke und Schneider vermuten einen Zusammenhang mit einer Einbruchserie. Als die Kommissare die Einbrecher wenig später zufällig erwischen, fallen Schüsse.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Polizeiruf 110"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NjE1ODktNDQyMDIy",
+      "duration": 5295,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Söhne Rostocks",
       "type": "tv",
       "overview": "In Sascha Bukows Armen stirbt der 36-jährige Frank Fischer - und der aufstrebende Rostocker Jungunternehmer Michael Norden, der dabei zugesehen hat, ist auf der Flucht. Bald finden sich Hinweise, dass Norden sich irgendwo in Rostock versteckt hält - und etwas mit der Sache zu tun hat. König und Bukow treffen sich mit Nordens Jugendliebe Beate, einer Alleinerziehenden....",
@@ -984,29 +935,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYi1vbmxpbmUuZGUvZmlsbXplaXQvMjAxOS0xMC0zMVQyMjowMDowMF9jNmFiMzJhYy05YWZmLTQzNWEtOWI1Yy0zMGFiM2E0MzNhZDgvcG9saXplaXJ1Zl8xMTBfX3p3ZWk",
       "duration": 5329,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Falscher Vater",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2009 +++ Ein neuer Fall für Hauptkommissarin Johanna Herz und Polizeihauptmeister Krause: Der Iraker Mahmut Schemal wird am Glienicker Ufer in der Nähe von Potsdam tot aufgefunden. Seine Leiche weist eine tiefe Stichwunde auf. Indizien am Tatort - Lieferwagenspuren und ein Schraubenschlüssel - legen den Verdacht nahe, dass das Verbrechen an einem anderen Ort begangen wurde....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl83OGQzOGJmNi00ZWQyLTQ2ZDMtYWFiNC04MTM3MWQxOWFhN2NfcHVibGljYXRpb24",
-      "duration": 5334,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1235,6 +1163,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Licorice Pizza",
+      "type": "tv",
+      "overview": "Ein Teenager und eine Mittzwangzigerin stoßen zwischen geschäftlichen Abenteuern und wirtschaftlichen Krisen auf ihre erste große Liebe.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/spielfilm-104/licorice-pizza-102",
+      "duration": 7689,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kommt ein Vogel geflogen - Spielfilm, Deutschland 2023",
       "type": "tv",
       "overview": "Birgit Singer ist Tierpflegerin und trägt die Hauptlast der Familie: Sie leitet ein Tierheim, finanziert die Promotion ihres Mannes und kümmert sich um ihre stotternde Tochter Sarah.",
@@ -1425,28 +1375,6 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/the-quiet-girl-102.html",
       "duration": 5506,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "The Convert – Krieg der Māori - Spielfilm, Großbritannien/Australien/Neuseeland 2023 (Englisch)",
-      "type": "tv",
-      "overview": "Als Thomas Munro in den 1830ern die Küste von Neuseeland erreicht, trifft er auf ein von Māori geprägtes Aotearoa. Die Siedlung leidet unter Verfall und blutigen Stammeskonflikten.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/the-convert-krieg-der-maori-100.html",
-      "duration": 6878,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1769,6 +1697,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Alkohol: Warum suchen wir den Rausch?",
+      "type": "tv",
+      "overview": "Ob Oktoberfest, Party oder Feierabendbier: Alkohol bedeutet für viele Genuss – die Risiken sind Sucht und Gewalt. Leon Windscheid fragt, warum wir trinken, obwohl wir wissen, dass es schädlich ist.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/reportagen/alkohol-warum-suchen-wir-den-rausch-movie-100/terra-xplore-rausch-106",
+      "duration": 2609,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Geld her! – Die großen Banküberfälle",
       "type": "tv",
       "overview": "Mit List und oft auch Gewalt holen sie sich, was nicht ihnen gehört. Zurück bleiben oft traumatisierte Geiseln und manchmal sogar Tote. Lohnen tut sich das Verbrechen nur für die wenigsten.",
@@ -1923,24 +1873,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Phasen der Sonnenfinsternis - Sonnenfinsternis",
+      "title": "Migrantinnen für die Altersbetreuung – Die neuen Sklavinnen",
       "type": "tv",
-      "overview": "Am 12. August 2026 zieht eine totale Sonnenfinsternis über Mallorca. \"Terra X Harald Lesch\" ist live dabei – und verfolgt den rasenden Mondschatten mit einer Spezialkamera in Echtzeit.",
+      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: nah dran – und so vielfältig wie das Land.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X Harald Lesch"
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-phasen-lesch-100",
-      "duration": 5989,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/migrantinnen-fuer-die-altersbetreuung--die-neuen-sklavinnen?urn=urn:srf:video:a6cf5a5f-fc34-4398-85d8-c7cbf6db0ef4",
+      "duration": 3129,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "SRF"
       }
     },
     {
@@ -2165,24 +2115,112 @@
     },
     {
       "tmdb_id": null,
-      "title": "Autos im Sozialismus - Freiheit auf vier Rädern",
+      "title": "Last Man Standing – der Mord an Tupac Shakur - Dokumentarfilm von Nick Broomfield, Großbritannien 2020",
       "type": "tv",
-      "overview": "Während des Kalten Krieges existierte in nahezu jeder Familie im Ostblock ein lang ersehntes, heiß geliebtes und innig gepflegtes Auto. Dieser Film zeigt die spektakuläre Geschichte sozialistischer PKW anhand ausgewählter Erzählungen.",
+      "overview": "Tupac Amaru Shakur wird 1996 in seinem Auto an einer Straßenkreuzung in Las Vegas erschossen. Obwohl er nur 25 Jahre alt wurde, gilt er vielen bis heute als größter Rapper aller Zeiten.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokumentarfilmzeit"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIyMTkyNg",
-      "duration": 3126,
+      "url": "https://www.3sat.de/film/dokumentarfilmzeit/last-man-standing--gangster-rap-und-der-mord-an-tupac-shakur-100.html",
+      "duration": 6159,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Last Man Standing - Gangster, Rap und der Mord an Tupac Shakur",
+      "type": "tv",
+      "overview": "Während die Musikwelt gespannt nach L.A. blickt, wo einem mutmaßlichen Mittäter drei Jahrzehnte nach Tupacs Ermordung der Prozess gemacht wird, zeigt eine True-Crime-Doku die tragischen Hintergründe auf. \"Last Man Standing\" erzählt, wie Street-Gangs seinerzeit das Musikgeschäft dominierten und ihre Rivalität, organisierte Kriminalität und eine korrupte Polizei das Leben der Rap-Legende forderten....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentarfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIyMDkwNzkvYXVkaW9kZXNrcmlwdGlvbg",
+      "duration": 6301,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Vom Weißensee in die Karnischen Alpen",
+      "type": "tv",
+      "overview": "Manche nennen ihn den Fjord der Alpen wegen seiner schroffen Felsen und seiner smaragdgrünen Farbe. Der Weißensee ist der höchstgelegene Badesee in Kärnten. Dass diese Landschaft einmalig ist, wussten die Menschen schon vor Tausenden Jahren. Von insgesamt 23 km Uferfläche ist nur gut ein Drittel verbaut, was den Weissensee zu einem besonderen Naturjuwel macht....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus & Reportagen im BR"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU1QTA",
+      "duration": 2601,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Systemfehler: Der Cum-Ex Skandal",
+      "type": "tv",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Weltberühmt & depressiv: Von Sisi bis Adenauer",
+      "type": "tv",
+      "overview": "Der \"Besuch vom schwarzen Hund\" oder \"Melancholie\"? Die Krankheit Depression kennt in der Geschichte viele Namen. Psychologe Leon Windscheid blickt für die Doku in die Vergangenheit.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/weltberuehmt-und-depressiv-von-sisi-bis-adenauer-movie-100",
+      "duration": 2625,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2385,6 +2423,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Nö",
+      "type": "tv",
+      "overview": "Dina und Michael sind glücklich in ihrer Beziehung, bis Michael beginnt, laut über eine Trennung nachzudenken. In 15 Situationen begleiten wir das Paar, wie es durchs Leben navigiert und versucht, die Liebe nicht aus den Augen zu verlieren. – Anna Brüggemann und Alexander Khuon spielen das Paar Dina und Michael. Eine romantische Tragikomödie von Dietrich Brüggemann.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/083851-000-A/noe/",
+      "duration": 6770,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Nacht ist mein Reich",
+      "type": "tv",
+      "overview": "Lokomotivführer Raymond Pinsard verliert nach einem Unfall sein Augenlicht. Der Verlust stürzt ihn in eine tiefe Krise und zwingt ihn, sein bisheriges Leben neu zu ordnen. Allmählich versucht er, seinen Platz in einer Welt zu finden, die er nicht mehr sehen kann. Schicksalsdrama aus dem Jahr 1951 von Georges Lacombe mit Jean Gabin in der Hauptrolle.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/129824-000-A/die-nacht-ist-mein-reich/",
+      "duration": 6215,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nackt unter Wölfen",
+      "type": "tv",
+      "overview": "Konzentrationslager Buchenwald, 1945. Ein Gefangener hat ein kleines Kind gerettet, versteckt in einem Koffer. Als die Mithäftlinge den Jungen entdecken, stehen sie vor einer schweren Entscheidung. – Der DDR-Spielfilm über Leben und Sterben in einem KZ beruht auf wahren Ereignissen und ist mit Ausnahme des propagandistischen Endes unpathetisch und doch ergreifend. Mit Armin Mueller-Stahl.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/019497-000-A/nackt-unter-woelfen/",
+      "duration": 7128,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Rendezvous mit einer Leiche",
       "type": "tv",
       "overview": "Meisterdetektiv Hercule Poirot (Peter Ustinov) verbringt seine Ferien auf einem Luxuskreuzfahrtschiff. Und wo er ist, ist auch der nächste Fall nicht weit: Die vermögende Witwe Emily Boynton wird ermordet. – Michael Winners Verfilmung (1988) des 1938 von Agatha Christie verfassten Kriminalromans war Ustinovs letzter Poirot-Film.",
@@ -2491,72 +2595,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Gas-Oil",
-      "type": "tv",
-      "overview": "Der Lastwagenfahrer Jean Chape gerät durch einen Hinterhalt in die unangenehme Gesellschaft einiger Gangster, die in seinem Lkw etwas vermuten, was ihnen gehört – ein Klassiker des Film Noir mit Jean Gabin. Regie: Gilles Grangier.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/035043-000-A/gas-oil/",
-      "duration": 5377,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "More than Strangers",
-      "type": "tv",
-      "overview": "Fünf Fremde unterschiedlicher Nationalitäten teilen sich über Car Sharing eine Fahrt von Berlin nach Paris. Als einer der Passagiere ein ernsthaftes Problem mit seinem Aufenthaltsstatus hat, wird die gemeinsame Fahrt zu einem Spießrutenlauf zwischen Polizei- und Grenzkontrollen; und die heterogene Zufallsgemeinschaft muss sich fragen, wie weit ihre Solidarität mit einem Fremden geht.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/104885-000-A/more-than-strangers/",
-      "duration": 5657,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Studio 54",
-      "type": "tv",
-      "overview": "”Studio 54” erzählt die Geschichte des 19-jährige Shane O’Shea, dem es Ende der 1970er Jahre gelingt,  in den New Yorker Elite Club reingelassen zu werden. Dort “entdeckt” ihn der Clubbesitzer Steve Rubell und und gibt ihm einen Job. Shane steigt in der Hierarchie des Clubs auf, der von Drogen, Sex und anderen Exzessen geprägt ist. Ein auf wahren Begebenheiten basierendes Drama von Mark Christopher.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/132050-000-A/studio-54/",
-      "duration": 5251,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     },
     {
@@ -2683,7 +2721,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0yNV8yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0yNV8yMC0xNS1NRVNa",
       "duration": 5332,
       "providers": {
         "netflix": null,
@@ -2705,7 +2743,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjEtMDgtMTlfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjEtMDgtMTlfMjAtMTUtTUVTWg",
       "duration": 5284,
       "providers": {
         "netflix": null,
@@ -2727,8 +2765,30 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzJjMWJiYmU0LTQzZDEtNDQ2Ni1iY2FjLWMyZDZhYWI4M2RlNV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzJjMWJiYmU0LTQzZDEtNDQ2Ni1iY2FjLWMyZDZhYWI4M2RlNV9nYW56ZVNlbmR1bmc",
       "duration": 5296,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Jürgen B. Hausmann: \"Wie jeht et? – Et jeht!\"",
+      "type": "tv",
+      "overview": "Heutzutage von der Küchenbank aus oder vor Jahrzehnten mit den Eltern im Auto unterwegs: Jürgen B. Hausmann war und ist ein feinfühliger Beobachter seiner Umwelt und der Helden:innen des Alltags. In seinem Bühnenprogramm \"Wie jeht et? – Et jeht!\" widmet er sich etlichen Redewendungen seiner Heimatregion, doch Jürgen B....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Comedy"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNlZGRjZWRjLWQyNTktNDUwNS05OTYzLWZhYThhMTAzZTUxMg",
+      "duration": 5314,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2847,24 +2907,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kabarettgipfel - Hitzewelle und Sommerfrische",
+      "title": "Luis aus Südtirol - Meine Abschiedstour",
       "type": "tv",
-      "overview": "Es wird heiß in der Stadthalle, wenn die besten Kabarettist*innen aus Österreich und Deutschland über \"Hitzewelle und Sommerfrische\" sprechen.",
+      "overview": "Der Luis aus Südtirol ist Kult: Mit seinen Auftritten begeistert der beliebte Kabarettist sein Publikum auf der Bühne und im Fernsehen. Nun steht seine Abschiedstour auf dem Programm und auch die Pension. ORF III begleitete ihn bei einem seiner letzten Auftritte in Tirol und besuchte ihn zu Hause. Dabei wurde über seine Bühnenfigur, sein Leben als Kabarettist und besondere Momente seiner Karriere gesprochen....",
       "genres": [
         "Komödie"
       ],
       "keywords": [
-        "Kabarett & Comedy"
+        "Kabarettprogramme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/kabarett/kabarett-in-3sat/kabarettgipfel-hitzewelle-und-sommerfrische-100.html",
-      "duration": 3177,
+      "url": "https://on.orf.at/video/14335570/luis-aus-suedtirol-meine-abschiedstour",
+      "duration": 4547,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Stipsits & Rubey: Gott und Söhne",
+      "type": "tv",
+      "overview": "Zwei Kabarettisten, dutzende Rollen, ein fataler Plot: Sterben gehört hier zum Running Gag. Was passiert, wenn zwei Kabarettisten ihr eigenes Stück erfinden – und dabei ihre Figuren reihenweise umbringen? Thomas Stipsits und Manuel Rubey liefern sich eine irrwitzige Tour de Force mit Verfolgungsjagden, absurden Wendungen und jeder Menge Spielfreude. Bis plötzlich klar wird: Auch sie selbst sind nur Figuren in einem Drehbuch....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14335102/stipsits-rubey-gott-und-soehne",
+      "duration": 4800,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
       }
     },
     {
@@ -2891,46 +2973,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Niko Nagl in kabarett.com",
+      "title": "Gernot Kulis: Kulisionen (2/2)",
       "type": "tv",
-      "overview": "Fake it till you make it! Wozu eigene Ideale, wenn es Idole gibt? Kommentieren, Teilen und Herrschen! Mit fragwürdigen Sprüchen bewaffnet zückt „Goldbube“ Niko Nagl die verbale Klinge und dreht den Spieß um. Seine Mission: Ein Tanz auf Messers Schneide. Humoristisches Kugelfisch-Sashimi zum sofortigen Genuss.",
+      "overview": "Teil Zwei der Gernot Kulis-Show \"Kulisionen\", bei dem der Comedien mit sich, Österreich und der Welt auf Kulisonskurs geht. Er blickt er hinter die Kulissen seines ganz normalen Alltagswahnsinns. Beruflich hat er Spaß, privat tut er sich ungleich schwerer. Wer glaubt ihm noch irgendetwas?  \n\nBildquelle: ORF/Hoanzl/Markus Wache",
       "genres": [
         "Komödie"
       ],
       "keywords": [
-        "kabarett.com"
+        "Kabarettprogramme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9LQUJfMTU4NDAy",
-      "duration": 2700,
+      "url": "https://on.orf.at/video/14334690/gernot-kulis-kulisionen-2-2",
+      "duration": 2827,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "ORF"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Florian Wagner in kabarett.com",
+      "title": "Gernot Kulis: Kulisionen (1/2)",
       "type": "tv",
-      "overview": "Florian Wagner spielt mit seinem dritten Solo-Programm „The Flo Must Go On“ auf der ganz großen KlaviaTour: Von Mozart bis Billy Joel, von Bach bis Helene Fischer, er bedient viele musikalische Stile und vereint sie zu mitreißenden Musik-Comedy-Show.",
+      "overview": "Zwischen Alltag, Anrufen und Absturz: Gernot Kulis zeigt sein Leben im Ausnahmezustand. Gernot Kulis wird 50 – und feiert das Jubiläum mit einer pointenreichen Stand-up-Show voller Stimmen, Figuren und Alltagschaos. In \"Kulisionen\" nimmt der Comedian das Publikum mit hinter die Kulissen seines Lebens zwischen Bühnenruhm und privaten Pannen....",
       "genres": [
         "Komödie"
       ],
       "keywords": [
-        "kabarett.com"
+        "Kabarettprogramme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9LQUJfMTU4MjU2",
-      "duration": 2595,
+      "url": "https://on.orf.at/video/14334689/gernot-kulis-kulisionen-1-2",
+      "duration": 2967,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "ORF"
       }
     },
     {
