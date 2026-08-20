@@ -1,36 +1,7 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-19T05:21:09.049Z",
+  "generated_at": "2026-08-20T05:22:14.133Z",
   "items": [
-    {
-      "tmdb_id": 1504358,
-      "title": "Don't Say Good Luck",
-      "type": "movie",
-      "overview": "Sophie Birenbaum steht als Hauptdarstellerin im Highschool-Musical kurz vor ihrem großen Auftritt – bis das Chaos zu Hause mehr Drama bereithält als die Bühne.",
-      "genres": [
-        "Komödie",
-        "Musik",
-        "Drama"
-      ],
-      "keywords": [
-        "high school",
-        "affectation",
-        "musical",
-        "teenage girl",
-        "lyrical",
-        "adoring",
-        "compassionate"
-      ],
-      "rating": 7.044,
-      "vote_count": 34,
-      "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1504358-don-t-say-good-luck/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
     {
       "tmdb_id": 687163,
       "title": "Der Astronaut - Project Hail Mary",
@@ -59,8 +30,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.654,
-      "vote_count": 7153,
+      "rating": 8.651,
+      "vote_count": 7180,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -88,10 +59,39 @@
         "excited",
         "dangerous rain"
       ],
-      "rating": 6.909,
-      "vote_count": 861,
+      "rating": 6.916,
+      "vote_count": 893,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1504358,
+      "title": "Don't Say Good Luck",
+      "type": "movie",
+      "overview": "Sophie Birenbaum steht als Hauptdarstellerin im Highschool-Musical kurz vor ihrem großen Auftritt – bis das Chaos zu Hause mehr Drama bereithält als die Bühne.",
+      "genres": [
+        "Komödie",
+        "Musik",
+        "Drama"
+      ],
+      "keywords": [
+        "high school",
+        "affectation",
+        "musical",
+        "teenage girl",
+        "lyrical",
+        "adoring",
+        "compassionate"
+      ],
+      "rating": 7,
+      "vote_count": 37,
+      "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1504358-don-t-say-good-luck/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -120,8 +120,8 @@
         "blunt",
         "reboot"
       ],
-      "rating": 8.085,
-      "vote_count": 3088,
+      "rating": 8.1,
+      "vote_count": 3092,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -160,41 +160,13 @@
         "comforting",
         "joyful"
       ],
-      "rating": 8.356,
-      "vote_count": 2560,
+      "rating": 8.358,
+      "vote_count": 2566,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.1,
-      "vote_count": 1372,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -230,8 +202,8 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.751,
-      "vote_count": 5489,
+      "rating": 8.8,
+      "vote_count": 5490,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -241,37 +213,94 @@
       }
     },
     {
-      "tmdb_id": 60625,
-      "title": "Rick and Morty",
+      "tmdb_id": 100757,
+      "title": "Outer Banks",
       "type": "tv",
-      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
+      "overview": "Auf dieser Insel kollidieren Arm und Reich. Ein Teenager namens John B sucht mit drei Freunden nach einem legendären Schatz mit Verbindungen zu seinem vermissten Vater.",
       "genres": [
-        "Animation",
-        "Komödie",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Action & Adventure",
+        "Mystery"
       ],
       "keywords": [
-        "time travel",
-        "grandfather",
-        "alcoholism",
-        "alien",
-        "dysfunctional family",
-        "mad scientist",
-        "scientist",
-        "adult animation",
-        "father figure",
-        "machinist",
-        "multiple dimensions",
-        "spaceship"
+        "diving",
+        "surfing",
+        "north carolina",
+        "treasure hunt",
+        "on the run",
+        "boat chase",
+        "illegal drugs",
+        "outer banks",
+        "teenager",
+        "exciting",
+        "adventure"
       ],
-      "rating": 8.682,
-      "vote_count": 11290,
-      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
+      "rating": 8.259,
+      "vote_count": 1226,
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.075,
+      "vote_count": 1375,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 124364,
+      "title": "FROM",
+      "type": "tv",
+      "overview": "Enträtseln Sie das Geheimnis einer albtraumhaften Stadt in Mittelamerika, die alle, die sie betreten, gefangen hält. Während die unfreiwilligen Bewohner darum kämpfen, ein Gefühl der Normalität zu bewahren und nach einem Ausweg zu suchen, müssen sie auch die Bedrohungen des umliegenden Waldes überleben – einschließlich der schrecklichen Kreaturen, die von dort kommen, wenn die Sonne untergeht.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "sheriff",
+        "small town",
+        "gore",
+        "trapped",
+        "folk horror",
+        "supernatural horror",
+        "lovecraftian",
+        "suspense",
+        "violence",
+        "horror"
+      ],
+      "rating": 8.494,
+      "vote_count": 4179,
+      "poster_path": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/124364-from/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -295,8 +324,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.385,
-      "vote_count": 4580,
+      "rating": 8.386,
+      "vote_count": 4584,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -375,8 +404,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.543,
-      "vote_count": 3474,
+      "rating": 8.5,
+      "vote_count": 3475,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -386,47 +415,35 @@
       }
     },
     {
-      "tmdb_id": 203857,
-      "title": "Diplomatische Beziehungen",
+      "tmdb_id": 127865,
+      "title": "Der Kastanienmann",
       "type": "tv",
-      "overview": "Inmitten einer globalen Krise muss eine US-Diplomatin ihren Job als Botschafterin im Vereinigten Königreich sowie ihre angespannte Ehe mit einem Starpolitiker meistern.",
+      "overview": "In einem ruhigen Vorort von Kopenhagen macht die Polizei an einem stürmischen Oktobermorgen eine schreckliche Entdeckung. Eine junge Frau wird brutal ermordet auf einem Spielplatz aufgefunden und eine ihrer Hände fehlt. Neben ihr liegt ein kleiner Mann aus Kastanien. Doch damit nicht genug: Denn bei einem zweiten Mordopfer zeigt sich ein ähnliches Bild. Wieder wurde eine kleine Figur, bestehend aus den Früchten des Waldes, hinterlassen. Die ehrgeizige junge Kommissarin Naia Thulin wird zusammen mit ihrem neuen Partner Mark Hess auf den Fall angesetzt. Schon bald entdecken sie auf dem Kastanienmännchen ein mysteriöses Beweisstück, das sie mit einem Mädchen in Verbindung bringt, das ein Jahr zuvor verschwand und für tot gehalten wurde: Die Tochter der Politikerin Rosa Hartung. Doch das ist nur der erste Schritt zur Lösung des Falls. Das Duo muss sich beeilen, denn die Mordserie geht weiter...",
       "genres": [
         "Drama",
-        "War & Politics"
+        "Krimi",
+        "Mystery"
       ],
       "keywords": [
-        "london, england",
-        "ambassador",
-        "diplomat",
-        "marriage",
-        "politics",
+        "detective",
+        "based on novel or book",
+        "investigation",
+        "forest",
         "politician",
-        "female politician",
-        "mourning",
-        "meditative",
-        "american diplomat",
-        "shocking",
-        "vexed",
-        "usa politics",
-        "political thriller",
-        "u.s. ambassador",
-        "political crisis",
-        "political",
-        "serious",
-        "cerebral",
-        "intimate",
-        "suspenseful",
-        "thriller",
-        "intense",
-        "dignified",
-        "earnest",
-        "harsh",
-        "matter of fact"
+        "murder",
+        "domestic abuse",
+        "serial killer",
+        "brutality",
+        "young woman",
+        "missing person",
+        "psychological",
+        "copenhagen",
+        "interpol agent"
       ],
-      "rating": 7.6,
-      "vote_count": 463,
-      "poster_path": "/fCwb0wwCegzGZOZK0YYYgbPZAlF.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/203857-the-diplomat/watch?locale=DE",
+      "rating": 7.498,
+      "vote_count": 723,
+      "poster_path": "/tk1fGGKvQYGAKZMX6PAatPelCqM.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/127865-kastanjemanden/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -434,27 +451,117 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000218640.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000218802.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": null,
-      "title": "Rechnung ohne Wirt (1984)",
+      "tmdb_id": 224263,
+      "title": "Stranger Things: Tales from '85",
       "type": "tv",
-      "overview": "+++ Kommissar Schimanski ist gut bekannt mit Guido, dem Wirt eines italienischen Restaurants. Guido steht unter Druck, er soll \"Schutzgeld\" zahlen, aber er weigert sich. Zuerst wird sein Lokal demoliert, dann schlägt man ihn zusammen. Er bleibt stur....",
+      "overview": "Winter, Hawkins, 1985. Willkommen zurück in einer Stadt voller Geheimnisses, in der sich die beliebten Held*innen neuen Rätseln … und völlig neuartigen Wesen gegenübersehen.",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "monster",
+        "small town",
+        "indiana, usa",
+        "experiment",
+        "supernatural",
+        "coming of age",
+        "parallel world",
+        "super power",
+        "group of friends",
+        "nostalgic",
+        "government conspiracy",
+        "teen drama",
+        "pre-teen",
+        "1980s",
+        "based on tv series",
+        "mystery"
+      ],
+      "rating": 7.545,
+      "vote_count": 99,
+      "poster_path": "/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/224263-stranger-things-tales-from-85/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Serienjunkies",
+        "url": "https://www.serienjunkies.de/news/serien/netflix-neue-serien-und-filme-im-september-2026-mit-the-gentlemen-stranger-things-tales-from-85-monster-lizzie-94451075.html",
+        "mentions": 1
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ausgeklinkt",
+      "type": "tv",
+      "overview": "Ein Mann wird auf brutale Weise getötet. Er war Patient in einer psychiatrischen Klinik. Kommissarin Wiegand kennt den Ermordeten. Erst vor zwei Wochen erschien der Mann im Kommissariat und wollte etwas mitteilen, ohne bei ihr Gehör gefunden zu haben. Wie kam dieser Mann so plötzlich in die psychiatrische Klinik? Mit Karin Anselm, Michael Lesch, Wolfgang Hinze, Helmut Zierl, Helga Grimme Regie Sylvia Hoffman",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort Schimanski | restauriert in HD"
+        "Tatort"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZmE5OTViNWMtYjYwMC00MjA2LThmM2QtMzMzMTI1OTQ3MjkyL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5421,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDQ3MDI",
+      "duration": 5631,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Außer Kontrolle",
+      "type": "tv",
+      "overview": "Die Leipziger Kommissare Ehrlicher und Kain untersuchen den Tod des Stadtstreichers Eddie Löser. Der Tode ist ein alter Schulfreund von Kain. Doch die Spuren führen zu einem Netz aus Intrigen und persönlichen Dramen.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NTE2MDYtNDMyMDQ2",
+      "duration": 5217,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ich töte niemand",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2018 In einem heruntergekommenen Haus am Rande Nürnbergs werden zwei Leichen gefunden. Ein 58-jähriger Libyer und seine Schwester, beide wurden grausam mit einer Betonstahlstange erschlagen. Sie kamen vor 15 Jahren nach Deutschland, waren voll integriert und liegen nun seit Tagen in ihrem verwesten Blut. Die Brutalität der Tat ist erschütternd....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC80MjQ4YmYwYi1iOTVhLTQ4YmUtYmM5Yy0wMjNiNTBiMDhjYWNfb25saW5lYnJvYWRjYXN0",
+      "duration": 5303,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -486,9 +593,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Grenzgänger (1981)",
+      "title": "Rechnung ohne Wirt (1984)",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1981 +++ Schimanskis Kollege und Freund, Inspektor Hollai, der drei Jahre als V-Mann im Untergrund gearbeitet hatte, ist aufgeflogen. Kurz zuvor hörte Hollai noch von einem \"Millionending\", das geplant ist: der Überfall auf einen Geldtransporter. Er ermittelt zusammen mit Schimanski. Dieser merkt, wie schwierig es für seinen Freund ist, die falsche Identität als Krimineller wieder abzulegen....",
+      "overview": "+++ Kommissar Schimanski ist gut bekannt mit Guido, dem Wirt eines italienischen Restaurants. Guido steht unter Druck, er soll \"Schutzgeld\" zahlen, aber er weigert sich. Zuerst wird sein Lokal demoliert, dann schlägt man ihn zusammen. Er bleibt stur....",
       "genres": [
         "Krimi",
         "Drama"
@@ -499,8 +606,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWJjZTQ4YmQ5LWRmOWUtNDBlZi04MGI4LTM4ZWFiMTc4ODg4MA",
-      "duration": 5549,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZmE5OTViNWMtYjYwMC00MjA2LThmM2QtMzMzMTI1OTQ3Mjky",
+      "duration": 5421,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -532,6 +639,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Grenzgänger (1981)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 1981 +++ Schimanskis Kollege und Freund, Inspektor Hollai, der drei Jahre als V-Mann im Untergrund gearbeitet hatte, ist aufgeflogen. Kurz zuvor hörte Hollai noch von einem \"Millionending\", das geplant ist: der Überfall auf einen Geldtransporter. Er ermittelt zusammen mit Schimanski. Dieser merkt, wie schwierig es für seinen Freund ist, die falsche Identität als Krimineller wieder abzulegen....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort Schimanski | restauriert in HD"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWJjZTQ4YmQ5LWRmOWUtNDBlZi04MGI4LTM4ZWFiMTc4ODg4MA",
+      "duration": 5549,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der Elefant im Raum",
       "type": "tv",
       "overview": "Fernsehfilm Schweiz 2019 Ein gediegenes Dinner auf dem Vierwaldstättersee: Luzerns Elite aus Wirtschaft, Politik und Gesellschaft – und mitten drin Reto Flückiger (Stefan Gubser), der seine Freundin Eveline (Brigitte Beyeler) widerwillig zu diesem illustren Anlass begleitet....",
@@ -555,29 +685,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Schmale Schultern (2009)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2009 +++ Jens Otten kann es nicht fassen: Seine Verlobte Regina Scheffler wurde ermordet. Unbekannte haben sie vom Balkon gestoßen. Ihre Wohnung wurde verwüstet und mit Graffiti beschmiert. Während Kommissar Schenk sich auf die Suche nach dem Graffiti-Sprayer macht, nimmt sein Kollege Ballauf das private Umfeld der Toten unter die Lupe. Und dort liegt einiges im Argen. +++ mit Klaus J....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWQyNDEwN2Q2LWRiOGMtNGM5YS05NDgzLTZjNDEyYzIxNzA1OA",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Schmale Schultern (2009) (klare Sprache)",
       "type": "tv",
       "overview": "Fernsehfilm Deutschland 2009 +++ Jens Otten kann es nicht fassen: Seine Verlobte Regina Scheffler wurde ermordet. Unbekannte haben sie vom Balkon gestoßen. Ihre Wohnung wurde verwüstet und mit Graffiti beschmiert. Während Kommissar Schenk sich auf die Suche nach dem Graffiti-Sprayer macht, nimmt sein Kollege Ballauf das private Umfeld der Toten unter die Lupe. Und dort liegt einiges im Argen. +++ mit Klaus J....",
@@ -592,6 +699,29 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTA2NGMwZTkxLTEwMzMtNDhiZS1hNDE5LWI5NTQ4ZDE1MmExZA",
+      "duration": 5310,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Schmale Schultern (2009)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2009 +++ Jens Otten kann es nicht fassen: Seine Verlobte Regina Scheffler wurde ermordet. Unbekannte haben sie vom Balkon gestoßen. Ihre Wohnung wurde verwüstet und mit Graffiti beschmiert. Während Kommissar Schenk sich auf die Suche nach dem Graffiti-Sprayer macht, nimmt sein Kollege Ballauf das private Umfeld der Toten unter die Lupe. Und dort liegt einiges im Argen. +++ mit Klaus J....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWQyNDEwN2Q2LWRiOGMtNGM5YS05NDgzLTZjNDEyYzIxNzA1OA",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -643,75 +773,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "In eigener Sache",
-      "type": "tv",
-      "overview": "Der zweite Fall von Thorsten Lannert und Sebastian Bootz beginnt mit einem Einsatz der Drogenfahndung: Bei einem Schusswechsel sterben ein Polizist und zwei der mutmaßlichen Drogendealer, einer wird lebensgefährlich verletzt. Letzterer jedoch erweist sich als verdeckter Ermittler des LKA. Ein tödlicher Irrtum? Lannert und Bootz geraten mit ihren Ermittlungen zwischen die Fronten - Drogenfahndung versus Landeskriminalamt....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDI4NDM",
-      "duration": 5646,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wer das Schweigen bricht",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2013 Der fünfte Fall von Conny Mey und Frank Steier führt die beiden Frankfurter Ermittler in die hermetische Welt eines Jugendgefängnisses. Beim morgendlichen Aufschluss wird der 19-Jährige Mustafa Zeydan tot aufgefunden. Er wurde gefoltert - acht Zehennägel sind ihm gezogen worden....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzk1ZTNiOWM3LTVhNTItNGNmZC04NzZiLTczM2I4MWFlZjQyNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5256,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatort: Deine Mutter",
-      "type": "tv",
-      "overview": "Ein toter Rapstar zieht Eisner und Fellner in eine Welt aus Ruhm, Drogen und zerstörerischer Loyalität. Ted Candy gilt als Hoffnungsträger der Wiener Rap-Szene, kämpft jedoch zunehmend mit Angstzuständen und Kokainsucht. Nachdem er einen Auftritt abrupt abbricht und verschwindet, wird er tags darauf tot in einer Garage gefunden....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort aus Österreich"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14334553/tatort-deine-mutter",
-      "duration": 5358,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     },
     {
@@ -854,226 +915,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Plötzlich Papa",
-      "type": "tv",
-      "overview": "Spielfilm Frankreich 2016 +++ \r\n\r\nMit \"Ziemliche beste Freunde\" avancierte Omar Sy im Jahr 2012 zum Superstar des französischen Kinos. In der warmherzigen Tragikomödie \"Plötzlich Papa\" schlüpft er in die Rolle eines alleinerziehenden Vaters. +++ \r\n\r\nMit Omar Sy, Clémence Poésy, Antoine Bertrand, Ashley Walters, Gloria Colston u. a. | Regie: Hugo Gélin",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMjAyMy0wNC0xN18wMC0wNS1NRVNa",
-      "duration": 6421,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Allmen und das Geheimnis der Dahlien",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2019 +++\nStilsicher und wortgewandt klärt Kunstdetektiv Johann Friedrich von Allmen zusammen mit seinem Butler Carlos einen dreisten Kunstraub: Ein millionenschweres Dahlien-Gemälde ist verschwunden. +++\nMit Heino Ferch, Samuel Finzi, Andrea Osvárt, Katharina Schüttler, Florian Stetter u. a. | Regie: Thomas Berger",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vZjY2NGYyY2ItYjE5YS00NjM4LWFmNTktNGI5ZDRmMzEyMjBj",
-      "duration": 5254,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Kinder der Villa Emma",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland/Österreich 2016 +++\nNach wahren Begebenheiten erzählt das bewegende Drama von einer gefährlichen Flucht, die sich während des Zweiten Weltkriegs zugetragen hat. 1942/43 war das italienische Dorf Nonantola Zufluchtsort von 73 jüdischen Kindern. +++\nMit Sophie Stockinger, Ludwig Trepte, Nina Proll, Muriel Wimmer, Laurence Rupp, August Zirner u.a. | Regie: Nikolaus Leytner",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMGM4M2UyMTMtMmQ5Yi00MDBhLThlODktZWY2YzVhNzNmYWE3",
-      "duration": 6147,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Drei Haselnüsse für Aschenbrödel (Video in klarer Sprache)",
-      "type": "tv",
-      "overview": "Märchenfilm Tschechoslowakei 1973 +++\nDas Märchen von \"Aschenbrödel\" ist in vielen Ländern bekannt. Dieses Aschenbrödel kann allerdings schießen wie ein erfahrener Jäger, reiten wie ein zünftiger Cowboy und auf Bäume klettern wie ein richtiger Lausejunge. +++\nMit Libuse Safránková, Pavel Trávnícek, Carola Brraunbock, Daniela Hlavácová, Rolf Hoppe, Karin Lesch u. a. | Regie: Vaclav Vorlicek",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vZjU5ODQzYzEtOTY0OC00ZDdhLTk0ODktNGRmZWNkMzU5N2Zi",
-      "duration": 4925,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Krüger aus Almanya",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2015 +++\nPaul Krüger hat sich sein Leben klar eingerichtet: Alles soll so bleiben, wie es ist. Von Multi-Kulti hält er gar nichts. Nun soll er in die Türkei reisen, um seiner Enkelin Annie die Hochzeit mit Deniz aus Ankara auszureden. +++\nMit Horst Krause, Marie Gruber, Anna Unterberger, Karim Günes, Caspar Fischer-Ortman u. a. | Regie: Marc-Andreas Bochert",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vZDc1NTk0NjAtYzg2YS00ZDg5LWFjZTMtMmIwNmUyZWEwZDFj",
-      "duration": 5311,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hannah Arendt",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland/Frankreich/Israel/Luxemburg 2012 +++ Die jüdische Philosophin Hannah Arendt verfolgt 1961 den Prozess gegen Adolf Eichmann in Jerusalem. Im Gerichtssaal trifft sie auf einen unscheinbaren Mann, der, wie er nicht müde wird zu betonen, \"nur\" Befehle ausführte. +++ Mit Barbara Sukowa, Axel Milberg, Janet McTeer, Julia Jentsch, Ulrich Noethen u. a. | Regie: Margarethe von Trotta",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vY2YwNTQzMGMtYzY0My00MGZmLWFiZmQtMDY1MjA1Mzk2ODQ4",
-      "duration": 6243,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Freundinnen - Alle für eine",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2015 +++ Mit viel Hoffnung geht Karla zum Frauenarzt als ihre Periode ausbleibt. Leider ist der Grund das Einsetzen der Menopause. Doch es kommt noch härter: Ihr Ehemann Max wird Vater - mit einer Abiturientin namens Melody! +++ Mit Katja Riemann, Nicolette Krebitz, Sophie von Kessel, Ben Becker, Damian Hardung u. a. | Regie: Jan Ruzicka",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vZDU5NGIwZGEtOGM4ZS00YTg1LThjNjItN2FmNzQ1YmI4NWI2",
-      "duration": 5280,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Bezaubernde Marie",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2007 +++ Buchhändlerin Marie Meyer hat ein großes Herz. Zu groß, findet ihr treuer Freund und Nachbar Hermann Raabe, der nicht mit ansehen kann, wie die ehemalige Artistin ihre Kunden verwöhnt. Denn dabei macht sie viel zu wenig Umsatz. +++ Mit Marianne Sägebrecht, Alexander Held, Hans Peter Korff, Sina Tkotsch, Luka Andres u. a. | Regie: Peter Weissflog",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMTc0ZDc3YTItM2MxOS00OTMzLWI5ZmMtMjRhMDAyYmNkMjIz",
-      "duration": 5320,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Utta Danella - Das Familiengeheimnis (1)",
-      "type": "tv",
-      "overview": "Zweiteiliger Spielfilm Deutschland 2004 +++ Journalist Jakob Goltz besucht erstmals nach vielen Jahren seine Eltern am Bodensee. Die Begegnung mit seiner hartherzigen Mutter Jona reißt alte Wunden bei Jakob auf, der an seine Kindheit nur traurige Erinnerungen hat. +++ Mit Christiane Hörbiger, Franz Buchrieser, Dennenesch Zoudé, Stephanie Kellner u. a. | Regie: Heidi Kranz",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vMzQ1ZmExYjAtYzU4Mi00NmRjLWI4ZjQtMWJhM2ZhZDQ2MDU3",
-      "duration": 5243,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Besser als Du",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2015 +++ Matthias hat schon bessere Zeiten gesehen, als sein Zwillingsbruder Tom überraschend in sein Leben tritt. Der unstete Schauspieler sieht ihm zwar täuschend ähnlich, ist sonst aber sein genaues Gegenteil. +++ Mit Christoph Maria Herbst, Ulrike C. Tscharre, Sophie von Kessel, Lotte Becker u. a. | Regie: Isabel Kleefeld",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Filme im Ersten"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Zlcm5zZWhmaWxtZSBpbSBlcnN0ZW4vOGI5YmQyNWQtOGVkZC00ODIzLTllMzQtM2U2MmQzZWU1ZjUz",
-      "duration": 5304,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Licorice Pizza",
       "type": "tv",
       "overview": "Ein Teenager und eine Mittzwangzigerin stoßen zwischen geschäftlichen Abenteuern und wirtschaftlichen Krisen auf ihre erste große Liebe.",
@@ -1086,7 +927,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/spielfilm-104/licorice-pizza-102",
+      "url": "https://www.zdf.de/video/filme/licorice-pizza-movie-100/licorice-pizza-102",
       "duration": 7689,
       "providers": {
         "netflix": null,
@@ -1250,9 +1091,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "The Convert – Krieg der Māori - Spielfilm, Großbritannien/Australien/Neuseeland 2023 (Englisch)",
+      "title": "Trockenzeit - Spielfilm, Tschechien/Slowakei/Deutschland 2024",
       "type": "tv",
-      "overview": "Als Thomas Munro in den 1830ern die Küste von Neuseeland erreicht, trifft er auf ein von Māori geprägtes Aotearoa. Die Siedlung leidet unter Verfall und blutigen Stammeskonflikten.",
+      "overview": "Ein Dorf im Süden Tschechiens, der mährischen Toskana. Der trockene Sommer vertieft den Konflikt zwischen zwei Familienclans, die von dominanten Vätern geführt werden. Die verfeindeten Dorffamilien kämpfen hartnäckig um den richtigen Umgang mit der Natur und dem Leben. Letztendlich sind es ihre Kinder, die die Differenzen überwinden und die verschiedenen Ansichten in Einklang bringen.",
       "genres": [
         "Drama"
       ],
@@ -1262,8 +1103,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/the-convert-krieg-der-maori-100.html",
-      "duration": 6878,
+      "url": "https://www.3sat.de/film/spielfilm/trockenzeit-100.html",
+      "duration": 6434,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1272,31 +1113,31 @@
     },
     {
       "tmdb_id": null,
-      "title": "The Convert – Krieg der Māori - Spielfilm, Großbritannien/Australien/Neuseeland 2023",
+      "title": "5 Zimmer Küche Sarg (Englisch)",
       "type": "tv",
-      "overview": "Als Thomas Munro in den 1830ern die Küste von Neuseeland erreicht, trifft er auf ein von Māori geprägtes Aotearoa. Die Siedlung leidet unter Verfall und blutigen Stammeskonflikten.",
+      "overview": "Vier befreundete Vampire leben in Wellington in einer Wohngemeinschaft zusammen. Dabei ergeben sich allseits bekannte, aber auch ganz besondere Situationen und Probleme.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Spielfilm-Highlights"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/the-convert-krieg-der-maori-100.html",
-      "duration": 6878,
+      "url": "https://www.zdf.de/video/filme/5-zimmer-kueche-sarg-movie-100/5-zimmer-kueche-sarg-100",
+      "duration": 4921,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "ZDF"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Hinkebein (2012) (klare Sprache)",
+      "title": "Mutter, Kutter, Kind - Fernsehfilm, Deutschland 2021",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2012 +++ Thiel und Prof. Boerne ermitteln im Fall einer ehemaligen Kripo-Beamtin, die auf offener Straße tot aufgefunden wurde – nur mit einem Slip bekleidet. Der Tod von Katja Braun weist Parallelen zu einem Fall auf, in dem sie selbst einmal ermittelt hatte. Eine Prostituierte war damals erdrosselt worden....",
+      "overview": "Küstenfischerin Heddi ist selbstbewusst und hart im Nehmen. Doch das Kutterfischen war nie leicht, und in Zeiten der Überfischung kommt sie kaum noch über die Runden.",
       "genres": [
         "Drama"
       ],
@@ -1306,12 +1147,56 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTZhMzY0YjIyLWZhNDctNGZlOC04YzJjLTU0Y2QwODBmYzM5Mw",
-      "duration": 5292,
+      "url": "https://www.3sat.de/film/fernsehfilm/mutter-kutter-kind-100.html",
+      "duration": 5329,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Occupied - Die Besatzung - Staffel 2 (6/8) - Januar",
+      "type": "tv",
+      "overview": "Januar: Premierministerin Anita Rygh bemüht sich, eine bessere Stimmung zwischen den nordischen Nationen und Russland zu schaffen. Russland keinerlei Anstalten macht, mit seinen Provokationen aufzuhören. Und auch Jesper Berg versucht von Paris aus, die Karten neu zu mischen. Doch die Positionen scheinen unversöhnlich …",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/067769-006-A/occupied-die-besatzung-staffel-2-6-8/",
+      "duration": 2705,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Occupied - Die Besatzung - Staffel 2 (5/8) - Dezember",
+      "type": "tv",
+      "overview": "Dezember: Jesper hat es nach seinem inszenierten Tod bis nach Paris zu seiner Exfrau Astrid und ihrem Partner Jerôme geschafft, aber es dauert nicht lange, bis die Polizei ihn findet und verhaftet. Wird er sich auf das Angebot von Premierministerin Rygh einlassen, nach Norwegen zurückzukehren, oder hat er noch ein Ass im Ärmel?",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/067769-005-A/occupied-die-besatzung-staffel-2-5-8/",
+      "duration": 2676,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -1330,6 +1215,28 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWQ2ZjQ0OWZiLTQ5YjItNGFhYS04NTkwLWQyMGI2NTBmYzk5ZS9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5294,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hinkebein (2012) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2012 +++ Thiel und Prof. Boerne ermitteln im Fall einer ehemaligen Kripo-Beamtin, die auf offener Straße tot aufgefunden wurde – nur mit einem Slip bekleidet. Der Tod von Katja Braun weist Parallelen zu einem Fall auf, in dem sie selbst einmal ermittelt hatte. Eine Prostituierte war damals erdrosselt worden....",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTZhMzY0YjIyLWZhNDctNGZlOC04YzJjLTU0Y2QwODBmYzM5Mw",
+      "duration": 5292,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1360,9 +1267,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 9 (2/3) - Fall 18: Esther",
+      "title": "Occupied - Die Besatzung - Staffel 1 (1/10) - April",
       "type": "tv",
-      "overview": "Die Skelette zweier Jugendlicher werden gefunden, die vor 30 Jahren auf einer Konfirmandenfahrt mutmaßlich ertrunken waren. Staatsanwältin Nora kannte die Beiden: Mit ihrem Ex-Mann Henrik hatte sie als Jugendliche das Camp betreut, wo das Unglück geschah. Nun müssen beide erneut aussagen, denn die Jungen kamen doch nicht wie geglaubt bei einem Bootsunfall ums Leben ...",
+      "overview": "Jesper Berg (Henrik Mestad) wurde aufgrund seines ökologischen Programms zum Premierminister gewählt und will nun sein Wahlversprechen umsetzen: die norwegische Energieproduktion ganz auf erneuerbare Ressourcen zu konzentrieren. Doch diese Strategie trifft auf wenig Verständnis seitens der EU, dem größten Energiekunden Norwegens. Sie stellt Berg ein Ultimatum ... ",
       "genres": [
         "Drama"
       ],
@@ -1372,30 +1279,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110225-000-A/mord-im-mittsommer-staffel-9-2-3/",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 9 (1/3) - Fall 17: Nadia",
-      "type": "tv",
-      "overview": "Die Staatsanwältin Nora findet am Strand eine regungslose junge Frau. Bei ihrem Erwachen erzählt Nadia, dass sie auf ihrer Flucht aus Tunis Opfer von Menschenhändlern wurde, jedoch von dem Frachtschiff fliehen konnte. Nora versteckt die Verletzte bei sich und verspricht ihr, sich nicht an die Polizei zu wenden ... -  Die Serie basiert auf den Romanen von Viveca Sten.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110224-000-A/mord-im-mittsommer-staffel-9-1-3/",
-      "duration": 5313,
+      "url": "https://www.arte.tv/de/videos/049448-001-A/occupied-die-besatzung-staffel-1-1-10/",
+      "duration": 2720,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1422,188 +1307,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wakefield (8/8)",
-      "type": "tv",
-      "overview": "Die Hochzeit seiner Schwester wird für Nik zur Zerreißprobe. Als er versucht, der Wahrheit über den Tod seines kleinen Bruders auf den Grund zu gehen, läuft der Konflikt zwischen ihm und seiner Familie völlig aus dem Ruder ... - \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110193-008-A/wakefield-8-8/",
-      "duration": 3407,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wakefield (7/8)",
-      "type": "tv",
-      "overview": "Baz, ein neuer Patient, ist überzeugt davon, dass er keinerlei Behandlung benötigt und zu Unrecht in der Psychiatrie ist. Mit seinem aggressiven Verhalten mischt er das Haus ordentlich auf ... - \"Wakefield\" (2020) erzählt in acht Episoden vom Alltag in einer psychiatrischen Einrichtung.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110193-007-A/wakefield-7-8/",
-      "duration": 3512,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Froschkönig",
-      "type": "tv",
-      "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/herzkinomaerchen-der-froschkoenig-100.html",
-      "duration": 5297,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ein Regenbogen zu Weihnachten",
-      "type": "tv",
-      "overview": "Tierärztin Nicole und der alleinerziehende Vater Martin leben eine unbeschwerte, lockere Beziehung. Doch nach einem Jahr hat Nicole noch immer nicht Martins halbwüchsige Kinder kennengelernt. Also fädelt Martin ein gemeinsames weihnachtliches Abendessen mit seiner Tochter Juli und seinem Sohn Kris ein.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/ein-regenbogen-zu-weihnachten-100.html",
-      "duration": 5326,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Weihnachtspäckchen ... haben alle zu tragen",
-      "type": "tv",
-      "overview": "Adika, der vor dem Fest als Paketfahrer jobbt, verliert trotz Stress selten seine gute Laune. Nur wenn er sich mit Pflegerin Tessa um Parkplätze streitet, geht ihm das gegen den Strich.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/weihnachtspaeckchen--haben-alle-zu-tragen-100.html",
-      "duration": 5321,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ein Taxi zur Bescherung",
-      "type": "tv",
-      "overview": "Taxifahrer Axel Parschke hatte eigentlich geplant, wie jedes Jahr an Weihnachten durchzuarbeiten, da macht ihm am Bahnhof Hamburg-Dammtor der IT-Analyst Jan Olsmer ein lukratives Angebot.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/ein-taxi-zur-bescherung-100.html",
-      "duration": 5326,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Schneewittchen am See",
-      "type": "tv",
-      "overview": "Smilla Witte träumte immer davon, im elterlichen Restaurant \"Schneewittchen am See\" als Köchin zu arbeiten. Doch nach dem Tod ihrer Mutter zehn Jahre zuvor ist sie von zu Hause geflohen.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/schneewittchen-am-see-100.html",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Weihnachten im Schnee",
-      "type": "tv",
-      "overview": "Die erwachsenen Geschwister Annika, Sanne und Bastian fallen aus allen Wolken: Weihnachten soll dieses Jahr im Schnee stattfinden, genauer gesagt in einer Hütte in Norwegen.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/weihnachten-im-schnee-100.html",
-      "duration": 5324,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -1674,72 +1377,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Ernährung (S01/E04)",
-      "type": "tv",
-      "overview": "Ohne Nahrung kein Leben. Mirko Drotschmann geht für Terra X der Frage nach, wie sich die Ernährung im Laufe der Jahrhunderte verändert und wie sich unsere Ernährungsweise auf den Planeten auswirkt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-was-die-welt-am-laufen-haelt-mit-mirko-drotschmann-und-harald-lesch-dokureihe-100/terra-x-was-die-welt-am-laufen-haelt-ernaehrung-mit-mirko-drotschmann-doku-100",
-      "duration": 2615,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Forensik: Was tun mit psychisch kranken Tätern?",
-      "type": "tv",
-      "overview": "Mörder und andere Straftäter gehören in Haft – oder? Liegt eine psychische Erkrankung vor, werden Täter in die Forensische Psychiatrie eingewiesen. Doch was bedeutet “schuldunfähig”?",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra Xplore"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/forensik-was-tun-mit-psychisch-kranken-taetern-movie-100",
-      "duration": 2599,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sonnenfinsternis über Mallorca LIVE - ein Terra X Harald Lesch SPEZIAL - Sonnenfinsternis",
-      "type": "tv",
-      "overview": "Eine totale Sonnenfinsternis ist ein „Once-in-a-Lifetime“-Ereignis: Mit \"Terra X\" lässt sich das Naturphänomen am 12. August 2026 auf Mallorca live erleben - zusammen mit Harald Lesch und Gästen.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X Harald Lesch"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-ueber-mallorca-lesch-100",
-      "duration": 8006,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Sonnenfinsternis über Mallorca - Eine Spezialausgabe von „Terra X Harald Lesch“",
       "type": "tv",
       "overview": "Eine totale Sonnenfinsternis ist ein \"Once-in-a-Lifetime\"-Ereignis: Am 12. August 2026 lässt sich das Naturphänomen live auf Mallorca erleben – zusammen mit Harald Lesch und Gästen.",
@@ -1762,24 +1399,112 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wie Mallorca die Sonnenfinsternis erlebt - Sonnenfinsternis",
+      "title": "Extreme Jobs der Geschichte (S2026/E20)",
       "type": "tv",
-      "overview": "An Mallorcas Stränden erwartet man zur Sonnenfinsternis Hunderte Menschen: Nerds, Sofi-Jäger oder Zufallsgäste? Was macht dieses Himmelsereignis so besonders? Eric Mayer berichtet live für \"Terra X\".",
+      "overview": "Es gibt extreme Jobs, manche sind sogar lebensgefährlich. \"Terra X History\" zeigt: Minenräumer, Gladiatoren und Bergleute brauchen starke Nerven und sind oft nur einen Schritt vom Tod entfernt.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X Harald Lesch"
+        "Terra X History - die Einzeldokus"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/livestreams/terra-x-harald-lesch-sonnenfinsternis-live-ueber-mallorca-100/livestream-sonnenfinsternis-reaktionen-eric-mayer-lesch-100",
-      "duration": 5993,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/extreme-jobs-der-geschichte-100",
+      "duration": 2604,
       "providers": {
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Longevity - für immer jung?",
+      "type": "tv",
+      "overview": "Longevity: Alle wollen lange leben, aber alt sein will niemand. Biohacking verspricht ewige Jugend. Super-Ager setzen auf ein positives Mindset. Psychologe Leon Windscheid ist dem Hype auf der Spur.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/longevity---fuer-immer-jung-movie-100",
+      "duration": 2610,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Azuchi - Die Burg des Samurai (S2026/E08)",
+      "type": "tv",
+      "overview": "Von der legendären Burg sind nur steinerne Fundamente geblieben. Nun rekonstruieren sie Wissenschaftler mit modernsten Analysemethoden und lassen sie digital neu aufleben. Wer war ihr Erbauer?",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X - die Einzeldokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-112/terra-x-azuchi-die-burg-des-samurai-doku-100",
+      "duration": 2629,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Gefährliche Mächte? Die großen Verschwörungstheorien (S2026/E19)",
+      "type": "tv",
+      "overview": "Sie stecken angeblich hinter dem Sturm auf die Bastille oder der Coronapandemie: Geheime Mächte steuern die Welt, so denken viele Menschen. \"Terra X History\" geht auf historische Spurensuche.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History - die Einzeldokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/gefaehrliche-maechte-die-grossen-verschwoerungstheorien-100",
+      "duration": 2617,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "The Great Way · Der Jakobsweg",
+      "type": "tv",
+      "overview": "Der berühmte Jakobsweg besteht aus einem Netzwerk aus grenzüberschreitenden Pilgerwegen und endet in der Kathedrale Camino de Compostela. Alba und Raul wandern den französischen Jakobsweg, den Camino Francés.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDU0MDcxMg",
+      "duration": 2602,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -1824,6 +1549,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kritisch Reisen: Gardasee - Wo alle Urlaub machen",
+      "type": "tv",
+      "overview": "Gardasee - Wo alle Urlaub machen",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.phoenix.de/sendungen/dokumentationen/kritisch-reisen-gardasee-a-5156771.html",
+      "duration": 2669,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2004,24 +1751,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Chinesische Mauer Teil 1: Errichtet für die Ewigkeit",
+      "title": "ZDFroyal: Die Queen und ich",
       "type": "tv",
-      "overview": "Die Chinesische Mauer Teil 1: Errichtet für die Ewigkeit",
+      "overview": "Für viele schien sie unsterblich, für manche bleibt sie es: Elizabeth II. - die Jahrhundertkönigin. Vertraute aus dem \"Inner Circle\" teilen für ZDFroyal erstmals ihre Erinnerungen an die Queen.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIxMTE5MQ",
-      "duration": 2945,
+      "url": "https://www.zdf.de/dokus/zdfroyal-die-queen-und-ich-movie-100",
+      "duration": 2622,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Systemfehler: Der Cum-Ex Skandal",
+      "type": "tv",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kriegstüchtig? 70 Jahre Bundeswehr",
+      "type": "tv",
+      "overview": "Die Bundeswehr blickt zurück auf 70 Jahre Geschichte, 1956 wurde die Wehrpflicht eingeführt. \"Terra X History\" fragt: Wie einsatzbereit war die Truppe seitdem – und wie steht sie heute da?",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/kriegstuechtig-70-jahre-bundeswehr-movie-100",
+      "duration": 5369,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2070,28 +1861,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "ZDFroyal: Die Queen und ich",
-      "type": "tv",
-      "overview": "Für viele schien sie unsterblich, für manche bleibt sie es: Elizabeth II. - die Jahrhundertkönigin. Vertraute aus dem \"Inner Circle\" teilen für ZDFroyal erstmals ihre Erinnerungen an die Queen.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/zdfroyal-die-queen-und-ich-movie-100",
-      "duration": 2622,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Last Man Standing – der Mord an Tupac Shakur - Dokumentarfilm von Nick Broomfield, Großbritannien 2020",
       "type": "tv",
       "overview": "Tupac Amaru Shakur wird 1996 in seinem Auto an einer Straßenkreuzung in Las Vegas erschossen. Obwohl er nur 25 Jahre alt wurde, gilt er vielen bis heute als größter Rapper aller Zeiten.",
@@ -2126,7 +1895,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIyMDkwNzkvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIyMDkwNzk",
       "duration": 6301,
       "providers": {
         "netflix": null,
@@ -2154,28 +1923,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2290,24 +2037,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "Gegen jede Chance - Die Helmut Köglberger Story",
+      "title": "Mein Leben, mein Ding",
       "type": "tv",
-      "overview": "Er wurde zum Jahrhundertspieler, weil er dort Stärke fand, wo andere längst aufgegeben hätten. Helmut Köglberger wächst 1946 als schwarzes Besatzungskind unter schwierigen Bedingungen auf, ohne Vater und von der Mutter verstoßen. Trotz aller Hindernisse wird er zu einem österreichischen Fußballpionier, führt den LASK zum Meistertitel und die Nationalelf als erster schwarzer Kapitän an....",
+      "overview": "Mit 55 Jahren gerät Barberie Bichette, kurz Barbie, in eine Lebenskrise. Zwischen Selbstzweifeln, familiären Spannungen und skurrilen Begegnungen versucht sie, ihrem Leben eine neue Richtung zu geben. Die letzte Tragikomödie von Sophie Fillières, erzählt mit feinem Humor und Melancholie, ist das eigenwillige Porträt einer Frau auf der Suche nach sich selbst.",
       "genres": [
-        "Dokumentarfilm"
+        "Drama"
       ],
       "keywords": [
-        "Gegen jede Chance - Die Helmut Köglberger Story"
+        "Kino - Filme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://on.orf.at/video/14325376/gegen-jede-chance-die-helmut-koeglberger-story",
-      "duration": 2785,
+      "url": "https://www.arte.tv/de/videos/127945-000-A/mein-leben-mein-ding/",
+      "duration": 5672,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ORF"
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Sir Michael Caine - Vom Arbeiterkind zum Hollywoodstar",
+      "type": "tv",
+      "overview": "Michael Caine blickt auf eine glänzende Karriere zurück: Der Oscar-Preisträger drehte mehr als 150 Filme unter anderem mit Shirley MacLaine oder Jane Fonda, arbeitete mit großen Regisseuren wie Paolo Sorrentino oder Christopher Nolan. Der Weg dorthin war schwer für ein Kind aus der Arbeiterklasse.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filmgrößen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/096285-000-A/sir-michael-caine-vom-arbeiterkind-zum-hollywoodstar/",
+      "duration": 3166,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ewige Jugend",
+      "type": "tv",
+      "overview": "In einem Kurhotel in den Schweizer Alpen verbringen zwei alte Freunde ihren Sommer: der pensionierte Komponist Fred Ballinger und der Regisseur Mick Boyle. Während sie auf ihr Leben zurückblicken und über Kunst, Liebe und Vergänglichkeit nachdenken, werden alte Überzeugungen herausgefordert. Ein philosophisches Drama von Paolo Sorrentino, mit Michael Caine und Harvey Keitel.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/091157-000-A/ewige-jugend/",
+      "duration": 6868,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2422,72 +2213,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Electric Child",
-      "type": "tv",
-      "overview": "Nach der Geburt ihres Sohnes Turo erfahren Sonny und Akiko, dass ihr Kind einen Gendefekt hat und nur noch wenige Monate leben wird.  Akiko will die verbleibende Zeit mit ihm festhalten. Doch der Informatiker Sonny setzt alles auf eine riskante KI, die er selbst mitentwickelt hat. Ein Science-Fiction-Drama von Simon Jaquemet.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/104451-000-A/electric-child/",
-      "duration": 6685,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Melancholia",
-      "type": "tv",
-      "overview": "Justine und Michael feiern ihre Hochzeit auf dem Landsitz von Schwester und Schwager der Braut. Doch die Braut scheint den Abend nicht zu genießen. Als sie nach der Hochzeit in eine Depression abrutscht, nimmt ihre Schwester sie zu sich. Doch diese gerät in Panik, denn der Planet Melancholia nähert sich der Erde ... - Ein Drama über das Ende der Welt von Lars von Trier.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/048073-000-A/melancholia/",
-      "duration": 7653,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "ZIB Magazin Kino-Videopodcast: Der Sommerblockbuster ist zurück!",
-      "type": "tv",
-      "overview": "Heiß, heißer, Kinozeit! Ein Rekord-Sommer sprengt alle Erwartungen: Tropische Temperaturen draußen, volle Säle drinnen und das selbst an Wochentagen oder zu ungewöhnlichen Nachtschicht-Uhrzeiten. Während in London \"Die Odyssee\" im IMAX-70mm-Format bis Ende September restlos ausverkauft ist, laufen in New York Projektionen um drei Uhr früh. Ob international oder national: Die Menschen drängen zurück in die Kinosessel....",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "ZIB Magazin Kino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14335098/zib-magazin-kino-videopodcast-der-sommerblockbuster-ist-zurueck",
-      "duration": 2409,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Borchert und der Tote im See (S01/E09)",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2020 Borchert (Christian Kohlund) hat sich das Wiedersehen mit seiner Patentochter anders vorgestellt: Statt sie am Flughafen in die Arme zu schließen, muss er Jenny (Lea Freund) bei der Zollfahndung herausboxen. Jemand hat der angehenden Kinderärztin, die ein Praxissemester bei der Hilfsorganisation des albanischen Geschäftsmannes Gentian Gjeluci (Peter Davor) absolviert, ein halbes Kilo Haschisch untergeschoben....",
@@ -2544,7 +2269,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVo",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5300,
       "providers": {
         "netflix": null,
@@ -2884,72 +2609,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Ray Dalton",
-      "type": "tv",
-      "overview": "13.500 Fans auf dem Festplatz im mittelfränkischen Herrieden freuen sich auf den US-amerikanischen Sänger aus Seattle: Ray Dalton.",
-      "genres": [
-        "Musik"
-      ],
-      "keywords": [
-        "Best-of Radltour-Konzerte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/kultur/best-of-radltour-konzerte/ray-dalton-radltour-konzerte-2025-100.html",
-      "duration": 2699,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Junge Talente im Konzert: Alles neu macht der Juni",
-      "type": "tv",
-      "overview": "Die Veranstaltungsreihe „Junge Talente im Konzert“ stellt vor der Sommerpause die Musik von heute in den Mittelpunkt. Spannende junge Ensembles der Joseph Haydn Privathochschule (JHP) nahmen das Publikum auf der Bühne des ORF Landesstudio Burgenland mit zum musikalischen Puls unserer Zeit. \n\nSendungshinweis: Burgenland heute, 2. Juni, 19:00 Uhr in ORF 2 Burgenland",
-      "genres": [
-        "Musik"
-      ],
-      "keywords": [
-        "Junge Talente im Konzert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14325863/junge-talente-im-konzert-alles-neu-macht-der-juni",
-      "duration": 4610,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Andrè Rieu – Das große Open-Air-Konzert 2025",
-      "type": "tv",
-      "overview": "Gemeinsam mit seinem berühmten Johann Strauss-Orchester bot der niederländische Weltstar erneut ein buntes Programm bestehend aus Walzern, Arien aus Opern und Operetten, Musicals, Filmmusik und moderne Evergreens - gespickt mit überraschenden Momenten und viel Charme. Über 150.000 Fans aus 100 Ländern erlebten diesen Event voller Lebensfreude, der weit über das klassische Konzerterlebnis hinausgeht....",
-      "genres": [
-        "Musik"
-      ],
-      "keywords": [
-        "André Rieu - Das große Open-Air-Konzert 2025"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC81NjY1MTEtNTE1NTg3",
-      "duration": 8093,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Wien 1900: Musik zur Jahrhundertwende",
       "type": "tv",
       "overview": "Das Rezept einer guten Operette: Man nehme eine frivol-freche Handlung, füge sympathische Protagonist:innen und romantische Liebesgeschichten hinzu, garniere mit Lokalkolorit und flotten Tanzrhythmen. Und zu guter Letzt: ein Happy End. Lehárs \"Lustige Witwe\" wurde auch wegen der starken Frauenfigur und der erotischen und politischen Anspielungen berühmt....",
@@ -2972,25 +2631,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die schnellsten Beine der Welt",
+      "title": "Immer wieder neue Lieder mit Cat Ballou, Räuber und Kasalla",
       "type": "tv",
-      "overview": "Am 4. August 2024 haben rund drei Milliarden Menschen weltweit das 100-Meter-Finale der 33. Olympischen Sommerspiele aus dem Pariser Stade de France live mitverfolgt. Der seit mehr als 200 Jahren ausgetragene Wettkampf hat eine hohe Symbolkraft und wirft die Frage auf, ob die menschliche Fähigkeit, so schnell zu laufen, angeboren, erlernt oder vielleicht sogar schädlich ist.",
+      "overview": "Die Topstars des rheinischen Karnevals präsentieren ihre brandneuen Sessionstitel. Mit dabei sind Kasalla, Cat Ballou, Räuber, Bläck Fööss, Höhner, Paveier, Stadtrand, Scharmöör, Mätropolis, Klüngelköpp und erstmals die Rhythmussportgruppe. Die Kultveranstaltung am 11.11. symbolisiert seit mehr als 60 Jahren den Start in die fünfte Jahreszeit....",
       "genres": [
-        "Historie",
-        "Dokumentarfilm"
+        "Musik"
       ],
       "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
+        "WDR 4 Konzerte"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/114617-000-A/die-schnellsten-beine-der-welt/",
-      "duration": 3147,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZGQyOTY4YmMtY2Y2Mi00MWIzLTk0YzktOTRjMDlkOTJkYWIy",
+      "duration": 14495,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "SR Klassik am See",
+      "type": "tv",
+      "overview": "Hans Zimmer und John Williams sind wahre \"Giganten der Filmmusik\" und erreichten bereits zu Lebzeiten Legendenstatus. Die Deutsche Radio Philharmonie unter der Leitung der jungen österreichischen Dirigentin Katharina Müllner nimmt die Zuschauer mit auf eine Reise durch die unsterblichen Melodien und kraftvollen Orchester-Arrangements dieser beiden Komponisten.",
+      "genres": [
+        "Musik"
+      ],
+      "keywords": [
+        "Musik & Konzerte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9NVUtfMTU4MTAw",
+      "duration": 5400,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -3148,6 +2828,29 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/118584-000-A/die-bibelfaelscher-1-2/",
       "duration": 2739,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Enzo Ferrari - Eine Geschichte von Leidenschaft und Tod",
+      "type": "tv",
+      "overview": "Ein roter Ferrari – Inbegriff von Geschwindigkeit und Luxus. Hinter dem erfolgreichen italienischen Unternehmen steht Enzo Ferrari, ein Rennsportliebhaber seit frühester Kindheit. Das Pferd auf gelbem Hintergrund, Ferraris Firmenemblem, wurde weltberühmt. Autobiografische Dokumente und bisher unveröffentlichte Archivaufnahmen geben Einblicke in das Leben eines Enthousiasten.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Biographien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/094517-000-A/enzo-ferrari-eine-geschichte-von-leidenschaft-und-tod/",
+      "duration": 3281,
       "providers": {
         "netflix": null,
         "prime": null,
