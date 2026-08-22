@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-21T05:24:10.456Z",
+  "generated_at": "2026-08-22T05:19:10.572Z",
   "items": [
     {
       "tmdb_id": 1418582,
@@ -17,32 +17,14 @@
         "lgbt",
         "body dysmorphia",
         "gay youth",
+        "loving",
         "gay theme",
         "teen"
       ],
       "rating": 7.3,
-      "vote_count": 14,
-      "poster_path": "/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg",
+      "vote_count": 21,
+      "poster_path": "/7INj9G0HjygUlu4caAnh1OkZxXt.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1418582-quinze-dias/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1688804,
-      "title": "Freier Fall: Abrechnung mit Boeing",
-      "type": "movie",
-      "overview": "Nach dem vielbeachteten Tod des Boeing-Whistleblowers John Barnett setzen die Oscar-nominierte Filmemacherin Rory Kennedy und ihr Emmy-nominierter Produktionspartner Mark Bailey in „Freier Fall: Abrechnung mit Boeing“ ihre Ermittlungen zu dem einst legendären Luftfahrtriesen fort, decken schockierende neue Enthüllungen auf und lassen Eingeweihte zu Wort kommen. Diese Doku ist Kennedys Fortsetzung von „Absturz: Der Fall gegen Boeing“ von Moxie Films und Imagine Documentaries, der 2022 erschienen ist.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [],
-      "rating": 6.5,
-      "vote_count": 6,
-      "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1688804-freefall-a-reckoning-for-boeing/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -77,8 +59,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.652,
-      "vote_count": 7207,
+      "rating": 8.649,
+      "vote_count": 7231,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -109,8 +91,8 @@
         "exciting",
         "adventure"
       ],
-      "rating": 8.3,
-      "vote_count": 1232,
+      "rating": 8.247,
+      "vote_count": 1238,
       "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
       "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
@@ -140,8 +122,8 @@
         "blunt",
         "reboot"
       ],
-      "rating": 8.084,
-      "vote_count": 3095,
+      "rating": 8.087,
+      "vote_count": 3106,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -180,8 +162,8 @@
         "comforting",
         "joyful"
       ],
-      "rating": 8.359,
-      "vote_count": 2569,
+      "rating": 8.361,
+      "vote_count": 2573,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
@@ -208,8 +190,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.073,
-      "vote_count": 1382,
+      "rating": 8.077,
+      "vote_count": 1386,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -251,7 +233,7 @@
         "defiant"
       ],
       "rating": 8.75,
-      "vote_count": 5492,
+      "vote_count": 5494,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -261,35 +243,37 @@
       }
     },
     {
-      "tmdb_id": 387,
-      "title": "SpongeBob Schwammkopf",
+      "tmdb_id": 60625,
+      "title": "Rick and Morty",
       "type": "tv",
-      "overview": "Unter dem Meeresspiegel in der kleinen Stadt Bikini Bottom haben sich viele Seelebewesen häuslich eingerichtet. Die liebenswürdigste aller Kreaturen ist SpongeBob Schwammkopf. Er lebt in einer Ananas zusammen mit seinem Haustier, der Schnecke Gary, und arbeitet in dem Fast-Food-Restaurant Krosse Krabbe. In seiner Nachbarschaft wohnen der griesgrämige Thaddäus Tentakel und der begeisterungsfähige, aber dumme Seestern Patrick Star. In jeder Folge stürzen sich SpongeBob und seine Freunde in neue, haarsträubende Aktivitäten.",
+      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
       "genres": [
         "Animation",
         "Komödie",
-        "Familie"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "keywords": [
-        "squirrel",
-        "fast food restaurant",
-        "squid",
-        "crab",
-        "underwater",
-        "jellyfish",
-        "starfish",
-        "sea creature",
-        "tiki culture",
-        "boating",
-        "job"
+        "time travel",
+        "grandfather",
+        "alcoholism",
+        "alien",
+        "dysfunctional family",
+        "mad scientist",
+        "scientist",
+        "adult animation",
+        "father figure",
+        "machinist",
+        "multiple dimensions",
+        "spaceship"
       ],
-      "rating": 7.713,
-      "vote_count": 3254,
-      "poster_path": "/37xMwqkyfREmO94Do4hqmehwo35.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/387-spongebob-squarepants/watch?locale=DE",
+      "rating": 8.682,
+      "vote_count": 11302,
+      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -312,8 +296,8 @@
         "excited",
         "dangerous rain"
       ],
-      "rating": 6.909,
-      "vote_count": 911,
+      "rating": 6.89,
+      "vote_count": 937,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
@@ -343,7 +327,7 @@
         "police procedural"
       ],
       "rating": 8.385,
-      "vote_count": 4587,
+      "vote_count": 4591,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -387,7 +371,7 @@
         "gritty"
       ],
       "rating": 7.959,
-      "vote_count": 4312,
+      "vote_count": 4313,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -422,8 +406,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.5,
-      "vote_count": 3476,
+      "rating": 8.542,
+      "vote_count": 3478,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -433,43 +417,26 @@
       }
     },
     {
-      "tmdb_id": 30981,
-      "title": "MONSTER",
+      "tmdb_id": 37680,
+      "title": "Suits",
       "type": "tv",
-      "overview": "Deutschland, 1986. Dr. Kenzo Tenma ist Neurochirurg in einer Düsseldorfer Klinik. Eigentlich ist es der perfekte Job für einen Arzt wie ihn, wenn es da nicht seine Vorgesetzen gäbe. Mehrfach muss er einflussreiche Patienten bei der medizinischen Versorgung vorziehen. Eines Tages werden zwei Geschwister in die Klinik eingeliefert, die am Schauplatz eines Verbrechens aufgefunden wurden. Der Junge, Johann, schwebt in Lebensgefahr, doch Tenma soll stattdessen einen bekannten Politiker operieren. Er widersetzt sich den Anweisungen seines Oberarztes und operiert das Kind. Ein verhängnisvoller Fehler, den er später bereuen wird, denn Johann ist kein normaler Junge. Kurze Zeit später werden Tenmas Vorgesetzte ermordet und die Kinder, Johann und Anna, sind spurlos verschwunden.",
+      "overview": "Harvey Specter, einer der Top-Anwälte Manhattans, engagiert für seine renommierte Kanzlei den brillanten, aber etwas unmotivierten College-Abgänger Mike Ross. Dabei müssen beide verheimlichen, dass Mike eigentlich gar nicht als Anwalt arbeiten darf …",
       "genres": [
-        "Animation",
-        "Drama",
-        "Mystery",
-        "Krimi"
+        "Drama"
       ],
       "keywords": [
-        "monster",
-        "orphanage",
-        "dilemma",
-        "hospital",
-        "doctor",
-        "orphan",
-        "based on manga",
-        "police detective",
-        "ethical dilemma",
-        "seinen",
-        "mysterious",
-        "anime",
-        "philosophical",
-        "picture book",
-        "complex",
-        "serious",
-        "suspense",
-        "witty",
-        "intense",
-        "ominous",
-        "optimistic"
+        "lawyer",
+        "impostor",
+        "law firm",
+        "photographic memory",
+        "paralegal",
+        "corporate law",
+        "courtroom drama"
       ],
-      "rating": 8.517,
-      "vote_count": 821,
-      "poster_path": "/vdYJJ6GdbAGpucxJjMnhaLfS9mR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/30981-monster/watch?locale=DE",
+      "rating": 8.221,
+      "vote_count": 5866,
+      "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37680-suits/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
@@ -477,68 +444,37 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219132.html",
-        "mentions": 4
-      }
-    },
-    {
-      "tmdb_id": 1402,
-      "title": "The Walking Dead",
-      "type": "tv",
-      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "post-apocalyptic future",
-        "gore",
-        "undead",
-        "survival",
-        "zombie",
-        "based on graphic novel",
-        "horror"
-      ],
-      "rating": 8.082,
-      "vote_count": 18097,
-      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219139.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000219324.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 1516,
-      "title": "Das A-Team",
+      "tmdb_id": 2691,
+      "title": "Two and a Half Men",
       "type": "tv",
-      "overview": "Vor einigen Jahren wurden vier Männer einer militärischen Spezialeinheit wegen eines Verbrechens verurteilt, das sie nicht begangen hatten. Sie brachen aus dem Gefängnis aus und tauchten in Los Angeles unter. Seit dem werden sie von der Militärpolizei gejagt, aber sie helfen anderen, die in Not sind. Sie wollen nicht so ganz ernst genommen werden aber ihre Gegner müssen sie ernst nehmen. Also wenn Sie mal ein Problem haben und nicht mehr weiter wissen, dann suchen Sie doch das A-Team!",
+      "overview": " Charlie ist ein recht wohlhabender Junggeselle mit einem Haus am Strand und einem Jaguar in der Garage. Nachdem sich sein Bruder Alan hat scheiden lassen zieht er mit seinem Sohn bei Onkel Charlie ein. Ganz klar, dass dessen \"Malibu Lifestyle\" nun völlig durcheinander kommt. Nach einigen Anfangsschwierigkeiten läuft der Alltag in der Männer-WG eigentlich ganz gut, wären da nicht die ständigen Kontrollbesuche ihrer Mutter Evelyn. Außerdem versucht Nachbarin Rose alles, um nur in der Nähe von Charlie sein zu können.",
       "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Krimi"
+        "Komödie"
       ],
       "keywords": [
-        "crime fighter",
-        "airplane",
-        "framed",
-        "special forces",
-        "ex soldier",
-        "escaped prisoner",
-        "mischievous",
-        "farcical"
+        "sibling relationship",
+        "california",
+        "composer",
+        "roommates",
+        "evil mother",
+        "malibu",
+        "advertising",
+        "drinking",
+        "beach house",
+        "casual sex",
+        "sitcom",
+        "living with sibling",
+        "rich brother"
       ],
-      "rating": 7.498,
-      "vote_count": 1107,
-      "poster_path": "/4DGV0MX3IOtwGGLxYTnUgCBMbA1.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1516-the-a-team/watch?locale=DE",
+      "rating": 7.453,
+      "vote_count": 3749,
+      "poster_path": "/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2691-two-and-a-half-men/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -546,44 +482,35 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219114.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000217212.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 1371,
-      "title": "Rocky III - Das Auge des Tigers",
-      "type": "movie",
-      "overview": "Rocky ist unangefochtener Weltmeister im Schwergewicht und hat seinen Titel bislang zehn Mal erfolgreich verteidigt. Auf dem Gipfel seines Ruhmes angelangt, will der Publikumsliebling aus dem Boxsport aussteigen. Doch dann wird Rocky auf einer Pressekonferenz  von Großmaul Clubber Lang  herausgefordert. Aber Rocky fehlt der Biss alter Tage und er verliert den großen Kampf. Ausgerechnet Ex-Gegner Apollo Creed animiert ihn, für eine Revanche zu trainieren …",
+      "tmdb_id": 252751,
+      "title": "Leanne",
+      "type": "tv",
+      "overview": "Als ihr Mann sie wegen einer anderen Frau verlässt, wagt eine zähe Südstaaten-Frau einen Neubeginn, unterstützt von ihrer liebevollen, aber tabulosen Familie.",
       "genres": [
-        "Drama"
+        "Komödie"
       ],
       "keywords": [
-        "dying and death",
-        "transporter",
-        "sports",
-        "trainer",
-        "boxer",
-        "comeback",
-        "defeat",
-        "training",
-        "world champion",
-        "challenger",
-        "victory",
-        "rematch",
-        "sequel",
-        "revenge",
-        "wealth",
-        "fame",
-        "shocking",
-        "boxing",
-        "admiring",
-        "powerful"
+        "church",
+        "divorce",
+        "belief in god",
+        "sitcom",
+        "grandchild",
+        "adult children",
+        "sister sister relationship",
+        "husband leaves wife",
+        "elderly parents",
+        "unfiltered",
+        "knoxville, tennessee"
       ],
-      "rating": 6.908,
-      "vote_count": 4593,
-      "poster_path": "/Gsohe9uX4fftQRcuZOmv2muEFB.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1371-rocky-iii/watch?locale=DE",
+      "rating": 7.1,
+      "vote_count": 21,
+      "poster_path": "/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/252751-leanne/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -591,29 +518,99 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219114.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000217212.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 120911,
-      "title": "The Terminal List - Die Abschussliste",
+      "tmdb_id": 44217,
+      "title": "Vikings",
       "type": "tv",
-      "overview": "Lt. Commander James Reece sinnt auf Rache, als er die mysteriösen Kräfte untersucht, die hinter dem Mord an seinem gesamten Zug stecken. Frei von der Kommandostruktur des Militärs wendet Reece die Lektionen an, die er in fast zwei Jahrzehnten Kriegsführung gelernt hat, um die Verantwortlichen zur Strecke zu bringen.",
+      "overview": "Inspiriert von den überlieferten Sagen des legendären Wikingerkönigs Ragnar Lothbrok entführt die gefeierte Hitserie in den eisigen Norden des europäischen Kontinents im 8. Jahrhundert: Krieger Ragnar glaubt, dass jenseits des wilden Ozeans im unerforschten Westen ein neues Land mit reichen Schätzen auf die Wikingerhorden wartet. Für seine Überzeugungen setzt er alles auf eine Karte, lässt ein neues Schiff bauen und macht sich in den packenden neun Episoden der ersten Staffel auf, um Geschichte zu schreiben.",
       "genres": [
         "Action & Adventure",
-        "Drama"
+        "Drama",
+        "War & Politics"
       ],
       "keywords": [
-        "based on novel or book",
-        "war veteran",
-        "government conspiracy",
-        "vengeance"
+        "scandinavia",
+        "vikings (norsemen)",
+        "royalty",
+        "historical fiction",
+        "king",
+        "battle",
+        "historical",
+        "middle ages (476-1453)",
+        "dark ages",
+        "norse mythology",
+        "historical drama",
+        "warrior",
+        "8th century",
+        "period piece",
+        "violence",
+        "sword and sandal",
+        "exciting",
+        "action",
+        "antagonistic",
+        "violent"
       ],
-      "rating": 8,
-      "vote_count": 1177,
-      "poster_path": "/unrIQnCLVtImAy9r58r0VqPMHfx.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/120911-the-terminal-list/watch?locale=DE",
+      "rating": 8.1,
+      "vote_count": 7835,
+      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/44217-vikings/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000219247.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 98,
+      "title": "Gladiator",
+      "type": "movie",
+      "overview": "Der gefeierte römische Feldherr Maximus wird vom sterbenden Kaiser Marcus Aurelius gebeten, seine Nachfolge anzutreten. Um dies zu verhindern, tötet Aurelius’ Sohn seinen Vater und ordnet die Exekution von Maximus und seiner Familie an. Maximus gelingt die Flucht. Verwundet wird er von einem Sklavenhändler gefangen genommen und muss sich fortan als Gladiator beweisen. Als Kampfmaschine hat er schließlich nur noch ein Ziel: Rache an seinem Peiniger zu nehmen …",
+      "genres": [
+        "Action",
+        "Drama",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "gladiator",
+        "rome, italy",
+        "arena",
+        "senate",
+        "roman empire",
+        "parent child relationship",
+        "emperor",
+        "slavery",
+        "ancient rome",
+        "revenge",
+        "battlefield",
+        "slave auction",
+        "historical fiction",
+        "ancient world",
+        "period drama",
+        "combat",
+        "chariot",
+        "philosopher",
+        "grim",
+        "barbarian horde",
+        "2nd century",
+        "successor",
+        "commodus",
+        "maximus",
+        "antiquity",
+        "gladiador"
+      ],
+      "rating": 8.23,
+      "vote_count": 21317,
+      "poster_path": "/32wJunadteAxUkXnbQ1lHjjp5pa.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/98-gladiator/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -621,7 +618,7 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219085.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000218733.html",
         "mentions": 2
       }
     },
@@ -654,7 +651,7 @@
         "based on tv series",
         "mystery"
       ],
-      "rating": 7.545,
+      "rating": 7.5,
       "vote_count": 99,
       "poster_path": "/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
       "justwatch": "https://www.themoviedb.org/tv/224263-stranger-things-tales-from-85/watch?locale=DE",
@@ -667,6 +664,29 @@
         "source": "Serienjunkies",
         "url": "https://www.serienjunkies.de/news/serien/netflix-neue-serien-und-filme-im-september-2026-mit-the-gentlemen-stranger-things-tales-from-85-monster-lizzie-94451075.html",
         "mentions": 1
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Aus dem Dunkel",
+      "type": "tv",
+      "overview": "Eine Frau stürzt vom Balkon ihrer Wohnung. Die Fenster sind verklebt, der Wohnungszustand spricht für Verzweiflung. Es war offensichtlich Selbstmord. Doch Kommissarin Ellen Berlinger trifft Hauptkommissar Thomas Engels von der Schutzpolizei, der vergeblich versucht hatte, Amira Hassan vor einem anonymen Stalker zu beschützen. Er glaubt, dass sie in den Tod getrieben wurde....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIxNDc2Njg",
+      "duration": 5328,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -920,29 +940,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hart an der Grenze",
-      "type": "tv",
-      "overview": "Die erste Begegnung der Kommissare Lannert und Bootz ist vorsichtig, abwartend, taxierend, auf beiden Seiten. Viel Zeit dazu bleibt ihnen nicht, denn: Am Morgen desselben Tages findet ein Obdachloser die Leiche einer Fünfjährigen im Neckar treibend. Es gibt keinerlei Anhaltspunkte für die Identität des Mädchens....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDI4Mzg",
-      "duration": 5281,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -1305,6 +1302,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Schachnovelle - Spielfilm, Deutschland/Österreich 2020",
+      "type": "tv",
+      "overview": "Österreich, 1938. Der Wiener Lebemann Dr. Josef Bartok verdrängt die Gefahr der NS-Machtübernahme. Erst kurz vor dem \"Anschluss\" an das Deutsche Reich entschließt er sich zur Flucht.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/schachnovelle-102.html",
+      "duration": 6084,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Booksmart",
       "type": "tv",
       "overview": "Die Highschool-Besten Amy und Molly erkennen am Vorabend ihres Abschlusses, dass sie zu viel gelernt und viel zu wenig gefeiert haben. Sie beschließen, alle Partys in einer Nacht nachzuholen.",
@@ -1503,24 +1522,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "The Convert – Krieg der Māori - Spielfilm, Großbritannien/Australien/Neuseeland 2023",
+      "title": "Mord im Mittsommer - Staffel 10 (1/3) - Fall 20: Madeleine",
       "type": "tv",
-      "overview": "Als Thomas Munro in den 1830ern die Küste von Neuseeland erreicht, trifft er auf ein von Māori geprägtes Aotearoa. Die Siedlung leidet unter Verfall und blutigen Stammeskonflikten.",
+      "overview": "Nach dem Bombenanschlag kämpft Kommissar Alexander Forsman um sein Leben. Während Alexanders Aufenthalt in der Rehaklinik geschieht ein Mord: Mitpatientin Madeleine, eine Malerin, wird tot in ihrem Bett aufgefunden. Der junge Kommissar Valpen übernimmt den Fall und sieht sich bald mit ungewöhnlichen Wendungen konfrontiert ...",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/the-convert-krieg-der-maori-100.html",
-      "duration": 6878,
+      "url": "https://www.arte.tv/de/videos/122313-000-A/mord-im-mittsommer-staffel-10-1-3/",
+      "duration": 5315,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mord im Mittsommer - Staffel 9 (3/3) - Fall 19: Max",
+      "type": "tv",
+      "overview": "Endlich haben Nora und Alexander als Paar zusammengefunden. Doch bei einer Verabredung zum Mittagessen versetzt der Kommissar die Staatsanwältin. Nora macht sich bald Sorgen, weil Alexander auch nicht auf ihre Anrufe antwortet. – Die schwedische Serie (2022) basiert auf den Romanen der Schriftstellerin Viveca Sten.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/110226-000-A/mord-im-mittsommer-staffel-9-3-3/",
+      "duration": 5233,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Blackout bei Wellmanns",
+      "type": "tv",
+      "overview": "Thomas Wellmann ist Elektroingenieur bei den Stadtwerken eines kleinen Ortes und wird mit Mitte 50 durch eine KI ersetzt. Dann wird ein längerer Stromausfall für Thomas zum Auslöser, seine Frau, seine zwei Töchter und sich selbst auf den Ernstfall vorzubereiten ... – Die Zeitgeist-Komödie von Leo Khasin ist eine unterhaltsame Auseinandersetzung (2023) mit aktuellen Themen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Fernsehfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/114162-000-A/blackout-bei-wellmanns/",
+      "duration": 5316,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -1631,72 +1694,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Occupied - Die Besatzung - Staffel 2 (5/8) - Dezember",
-      "type": "tv",
-      "overview": "Dezember: Jesper hat es nach seinem inszenierten Tod bis nach Paris zu seiner Exfrau Astrid und ihrem Partner Jerôme geschafft, aber es dauert nicht lange, bis die Polizei ihn findet und verhaftet. Wird er sich auf das Angebot von Premierministerin Rygh einlassen, nach Norwegen zurückzukehren, oder hat er noch ein Ass im Ärmel?",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/067769-005-A/occupied-die-besatzung-staffel-2-5-8/",
-      "duration": 2676,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hinkebein (2012)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2012 +++ Thiel und Prof. Boerne ermitteln im Fall einer ehemaligen Kripo-Beamtin, die auf offener Straße tot aufgefunden wurde – nur mit einem Slip bekleidet. Der Tod von Katja Braun weist Parallelen zu einem Fall auf, in dem sie selbst einmal ermittelt hatte. Eine Prostituierte war damals erdrosselt worden....",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWQ2ZjQ0OWZiLTQ5YjItNGFhYS04NTkwLWQyMGI2NTBmYzk5ZQ",
-      "duration": 5294,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hinkebein (2012) (klare Sprache)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2012 +++ Thiel und Prof. Boerne ermitteln im Fall einer ehemaligen Kripo-Beamtin, die auf offener Straße tot aufgefunden wurde – nur mit einem Slip bekleidet. Der Tod von Katja Braun weist Parallelen zu einem Fall auf, in dem sie selbst einmal ermittelt hatte. Eine Prostituierte war damals erdrosselt worden....",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTZhMzY0YjIyLWZhNDctNGZlOC04YzJjLTU0Y2QwODBmYzM5Mw",
-      "duration": 5292,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2015,6 +2012,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Wüstenkönige (1/2) - Die Löwen der Namib",
+      "type": "tv",
+      "overview": "Film von Lianne und Will Steenkamp",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE4NjM3MA",
+      "duration": 2762,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wüstenkönige (2/2) - Die Löwen der Namib",
+      "type": "tv",
+      "overview": "Film von Lianne und Will Steenkamp",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE4NjIwNQ",
+      "duration": 2644,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "The Great Way · Der Jakobsweg",
       "type": "tv",
       "overview": "Der berühmte Jakobsweg besteht aus einem Netzwerk aus grenzüberschreitenden Pilgerwegen und endet in der Kathedrale Camino de Compostela. Alba und Raul wandern den französischen Jakobsweg, den Camino Francés.",
@@ -2235,46 +2276,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Reise der Eisbären - Erste Schritte",
+      "title": "Systemfehler: Der Cum-Ex Skandal",
       "type": "tv",
-      "overview": "Die zweiteilige TV-Dokumentation „Die Reise der Eisbären“ erzählt die bewegende Geschichte eines Jahres mit den mächtigsten Raubtieren des Nordens. Der urige Eisbär-Scout Dennis Compayre entführt in eine Welt voller Kälte, Härte und Unerbittlichkeit",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg2NzA2Nw",
-      "duration": 3077,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Chinesische Mauer Teil 2: Ein Momentum der Macht",
-      "type": "tv",
-      "overview": "Die Chinesische Mauer Teil 2: Ein Momentum der Macht",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIxMTE5Mw",
-      "duration": 2869,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2315,28 +2334,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/dokus/zdfroyal-die-queen-und-ich-movie-100",
       "duration": 2622,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2407,50 +2404,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Last Man Standing - Gangster, Rap und der Mord an Tupac Shakur",
-      "type": "tv",
-      "overview": "Während die Musikwelt gespannt nach L.A. blickt, wo einem mutmaßlichen Mittäter drei Jahrzehnte nach Tupacs Ermordung der Prozess gemacht wird, zeigt eine True-Crime-Doku die tragischen Hintergründe auf. \"Last Man Standing\" erzählt, wie Street-Gangs seinerzeit das Musikgeschäft dominierten und ihre Rivalität, organisierte Kriminalität und eine korrupte Polizei das Leben der Rap-Legende forderten....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIyMDkwNzk",
-      "duration": 6301,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Vom Weißensee in die Karnischen Alpen",
-      "type": "tv",
-      "overview": "Manche nennen ihn den Fjord der Alpen wegen seiner schroffen Felsen und seiner smaragdgrünen Farbe. Der Weißensee ist der höchstgelegene Badesee in Kärnten. Dass diese Landschaft einmalig ist, wussten die Menschen schon vor Tausenden Jahren. Von insgesamt 23 km Uferfläche ist nur gut ein Drittel verbaut, was den Weissensee zu einem besonderen Naturjuwel macht....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen im BR"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU1QTA",
-      "duration": 2601,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2741,6 +2694,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Borchert und der Mord im Taxi (S01/E11)",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2020 Borchert (Christian Kohlund) und Dominique Kuster (Ina Paule Klink) übernehmen die Verteidigung des Taxifahrers Jürg Zollinger (Tim Kalkhof). Hauptmann Furrer (Pierre Kiwitt) verdächtigt ihn des Mordes an einem Fahrgast, dem afrikanischen Investigativ-Journalisten Nuka Baluba (Pierre Rousselet). Alle Indizien belasten den unbeherrschten Verdächtigen, dessen Aussage zunächst wenig glaubwürdig erscheint....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Zürich-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWg",
+      "duration": 5314,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Geburt der Drachenfrau – Der Usedom-Krimi",
       "type": "tv",
       "overview": "Während Karin Lossow (Katrin Sass) auf Usedom die Baustelle ihres künftigen Domizils begutachtet, warten an der belarussisch-polnischen Grenze acht Flüchtlinge aus Afghanistan und Syrien auf ihre weitere Beförderung durch eine Schleusergruppe. Unter ihnen sind Ahmad Bashmani (Yasin El Harrouk) und seine kleine Tochter Amira (Valtina Simogy)....",
@@ -2797,7 +2772,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5277,
       "providers": {
         "netflix": null,
@@ -2863,7 +2838,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2MwN2UwODIxLWQzNGItNDYxZC05Y2Q5LTJhYjk4OTQyYjJjNl9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2MwN2UwODIxLWQzNGItNDYxZC05Y2Q5LTJhYjk4OTQyYjJjNl9nYW56ZVNlbmR1bmc",
       "duration": 5319,
       "providers": {
         "netflix": null,
@@ -2887,28 +2862,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzExNTBiZjU1LTdlNzgtNDEzNC05MzA5LWI4MjQ4NWFlY2YyZl9nYW56ZVNlbmR1bmc",
       "duration": 5235,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Riss in allem – Der Barcelona-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2022 Bei einer Schießerei im Hafen von Barcelona wird die junge, ehrgeizige Polizistin Clara Romero (Lina Rusnak) erschossen. Alles deutet darauf hin, dass Clara einen Drogendeal gestört hat - es kam zu einer Schießerei, in deren Verlauf nicht nur Clara, sondern auch einer der Drogendealer getötet wurde, der zweite Dealer liegt im Koma. Fall geklärt? So einfach ist die Sache nicht....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Barcelona-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1iYXJjZWxvbmEta3JpbWkvMjAyNC0wNy0yNV8yMC0xNS1NRVNa",
-      "duration": 5332,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3027,6 +2980,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Lydia Prenner-Kasper - Salon Lydia",
+      "type": "tv",
+      "overview": "Ein humorvollen Seelenstriptease: Das Chaos des Lebens charmant zerlegt und scharfsinnig serviert. Mit viel Wiener Schmäh und treffsicherem Humor lädt Lydia Prenner-Kasper in den \"Salon Lydia\" – einen Ort voller kabarettistischer Glückseligkeit. In stilvoller Atmosphäre philosophiert sie über die Absurditäten des Alltags, erzählt von den Sonnen- und Schattenseiten des Lebens und nimmt dabei auch sich selbst pointiert aufs Korn....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14336116/lydia-prenner-kasper-salon-lydia",
+      "duration": 4168,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Luis aus Südtirol - Meine Abschiedstour",
       "type": "tv",
       "overview": "Der Luis aus Südtirol ist Kult: Mit seinen Auftritten begeistert der beliebte Kabarettist sein Publikum auf der Bühne und im Fernsehen. Nun steht seine Abschiedstour auf dem Programm und auch die Pension. ORF III begleitete ihn bei einem seiner letzten Auftritte in Tirol und besuchte ihn zu Hause. Dabei wurde über seine Bühnenfigur, sein Leben als Kabarettist und besondere Momente seiner Karriere gesprochen....",
@@ -3107,28 +3082,6 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14334690/gernot-kulis-kulisionen-2-2",
       "duration": 2827,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Gernot Kulis: Kulisionen (1/2)",
-      "type": "tv",
-      "overview": "Zwischen Alltag, Anrufen und Absturz: Gernot Kulis zeigt sein Leben im Ausnahmezustand. Gernot Kulis wird 50 – und feiert das Jubiläum mit einer pointenreichen Stand-up-Show voller Stimmen, Figuren und Alltagschaos. In \"Kulisionen\" nimmt der Comedian das Publikum mit hinter die Kulissen seines Lebens zwischen Bühnenruhm und privaten Pannen....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14334689/gernot-kulis-kulisionen-1-2",
-      "duration": 2967,
       "providers": {
         "netflix": null,
         "prime": null,
