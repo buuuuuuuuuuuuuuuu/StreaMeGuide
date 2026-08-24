@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-23T05:21:22.392Z",
+  "generated_at": "2026-08-24T05:30:31.778Z",
   "items": [
     {
       "tmdb_id": 1621552,
@@ -16,39 +16,10 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 6.5,
-      "vote_count": 22,
+      "rating": 6.609,
+      "vote_count": 32,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1538273,
-      "title": "ப்யார் ப்ரேமா கல்யாணம்",
-      "type": "movie",
-      "overview": "",
-      "genres": [
-        "Liebesfilm",
-        "Komödie",
-        "Drama"
-      ],
-      "keywords": [
-        "marriage",
-        "dramedy",
-        "feelgood",
-        "heartfelt",
-        "romantic",
-        "social issue drama",
-        "family relationship"
-      ],
-      "rating": 7,
-      "vote_count": 1,
-      "poster_path": "/bFARF1GDM13XkOi4TpIHddbEbXK.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1538273/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -83,8 +54,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.647,
-      "vote_count": 7259,
+      "rating": 8.648,
+      "vote_count": 7299,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -94,62 +65,28 @@
       }
     },
     {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "tmdb_id": 1284041,
+      "title": "The Last House",
+      "type": "movie",
+      "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
       "genres": [
-        "Action & Adventure",
-        "Krimi"
+        "Horror",
+        "Science Fiction",
+        "Thriller"
       ],
       "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "blunt",
-        "reboot"
+        "monster",
+        "isolation",
+        "water monster",
+        "sea creature",
+        "baffled",
+        "excited",
+        "dangerous rain"
       ],
-      "rating": 8.089,
-      "vote_count": 3112,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 100757,
-      "title": "Outer Banks",
-      "type": "tv",
-      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
-      "genres": [
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "keywords": [
-        "diving",
-        "surfing",
-        "north carolina",
-        "treasure hunt",
-        "on the run",
-        "boat chase",
-        "illegal drugs",
-        "outer banks",
-        "teenager",
-        "exciting",
-        "adventure"
-      ],
-      "rating": 8.244,
-      "vote_count": 1241,
-      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
+      "rating": 6.901,
+      "vote_count": 1008,
+      "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -157,68 +94,27 @@
       }
     },
     {
-      "tmdb_id": 97546,
-      "title": "Ted Lasso",
+      "tmdb_id": 113962,
+      "title": "Lioness",
       "type": "tv",
-      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
         "Drama",
-        "Komödie"
+        "War & Politics"
       ],
       "keywords": [
-        "england",
-        "male friendship",
-        "friendship",
-        "fish out of water",
-        "football (soccer)",
-        "american abroad",
-        "teammate",
-        "professional sports",
-        "football (soccer) team",
-        "workplace comedy",
-        "team owner",
-        "football (soccer) coach",
-        "reflective",
-        "optimist",
-        "coaching",
-        "nice guy",
-        "premier league",
-        "joyful"
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
       ],
-      "rating": 8.363,
-      "vote_count": 2578,
-      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 303351,
-      "title": "Blutopfer",
-      "type": "tv",
-      "overview": "Nach dem brutalen Mord an zwei Polizist*innen verbündet sich ein Kommissar widerwillig mit seinem entfremdeten Vater, einem Ex-Polizisten, um den Mörder zu fassen.",
-      "genres": [
-        "Drama",
-        "Krimi",
-        "Mystery"
-      ],
-      "keywords": [
-        "detective",
-        "cop-killer",
-        "stockholm, sweden",
-        "ex-cop",
-        "serial killer",
-        "estranged father",
-        "nordic noir",
-        "thriller"
-      ],
-      "rating": 5.4,
-      "vote_count": 12,
-      "poster_path": "/7XLnpb7I9gTzwCUZiyDSiU29yCd.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/303351-blodsoffer/watch?locale=DE",
+      "rating": 8.1,
+      "vote_count": 1395,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -257,8 +153,8 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.8,
-      "vote_count": 5496,
+      "rating": 8.751,
+      "vote_count": 5497,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -268,27 +164,177 @@
       }
     },
     {
-      "tmdb_id": 113962,
-      "title": "Lioness",
+      "tmdb_id": 108978,
+      "title": "Reacher",
       "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Action & Adventure",
+        "Krimi"
       ],
       "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "blunt",
+        "reboot"
       ],
-      "rating": 8.081,
-      "vote_count": 1390,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "rating": 8.086,
+      "vote_count": 3119,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 100757,
+      "title": "Outer Banks",
+      "type": "tv",
+      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
+      "genres": [
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "keywords": [
+        "diving",
+        "surfing",
+        "north carolina",
+        "treasure hunt",
+        "on the run",
+        "boat chase",
+        "illegal drugs",
+        "outer banks",
+        "teenager",
+        "exciting",
+        "adventure"
+      ],
+      "rating": 8.243,
+      "vote_count": 1241,
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 298610,
+      "title": "Spooky in Love",
+      "type": "tv",
+      "overview": "Cheon Yeo-ri (Park Eun-bin) ist die scheinbar makellose Erbin eines Hotelimperiums, die ein isoliertes Leben führt, weil sie seit Jahren von ruhelosen Geistern geplagt wird. Als sie einer Seele an den Fundort ihrer Leiche folgt, trifft sie auf den engagierten Staatsanwalt Ma Kang-wook (Yang Se-jong), der nach einem Fehlurteil in die Abteilung für ungelöste Altfälle versetzt wurde.  Kang-wook bemerkt Yeo-ris unheimliche Verbindung zu den Toten und deckt ihr Geheimnis auf. Sie schließen ein Bündnis: Gemeinsam spüren sie vergessene Mordopfer auf, bringen die Wünsche der Geister ans Licht und lösen mysteriöse Verbrechen. Bei physischem Kontakt mit Kang-wook werden Yeo-ris Geistererscheinungen kurzzeitig unterdrückt, wodurch sich eine tiefe Romanze zwischen den beiden entwickelt. Neben schattigen Machenschaften um das Erbe muss sich das Duo gegen politische Racheakte und den ehrgeizigen Rivalen Kang Min-hwan behaupten.  KI-generiert, Stand August 2026",
+      "genres": [
+        "Komödie",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "keywords": [
+        "investigation",
+        "remake",
+        "romcom",
+        "ghost",
+        "based on movie",
+        "enemies to lovers",
+        "mystery",
+        "crime"
+      ],
+      "rating": 8.9,
+      "vote_count": 51,
+      "poster_path": "/1DXJFjrcPhAuDIdhBrQYQ6po3Le.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/298610/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 97546,
+      "title": "Ted Lasso",
+      "type": "tv",
+      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "england",
+        "male friendship",
+        "friendship",
+        "fish out of water",
+        "football (soccer)",
+        "american abroad",
+        "teammate",
+        "professional sports",
+        "football (soccer) team",
+        "workplace comedy",
+        "team owner",
+        "football (soccer) coach",
+        "reflective",
+        "optimist",
+        "coaching",
+        "nice guy",
+        "premier league",
+        "joyful"
+      ],
+      "rating": 8.362,
+      "vote_count": 2582,
+      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "type": "tv",
+      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "magic",
+        "teleportation",
+        "reincarnation",
+        "polygamy",
+        "harem",
+        "romance",
+        "displacement",
+        "second chance",
+        "fantasy world",
+        "seinen",
+        "ecchi",
+        "anime",
+        "high fantasy",
+        "search for mother",
+        "neet",
+        "life challenges",
+        "other world",
+        "sword and sorcery",
+        "isekai",
+        "otaku",
+        "erotic",
+        "fantasy",
+        "based on light novel",
+        "adventure"
+      ],
+      "rating": 8.409,
+      "vote_count": 1683,
+      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -308,98 +354,10 @@
         "based on manga",
         "sex therapist"
       ],
-      "rating": 7,
-      "vote_count": 2,
+      "rating": 7.333,
+      "vote_count": 3,
       "poster_path": "/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
       "justwatch": "https://www.themoviedb.org/tv/312523-s-x/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 60625,
-      "title": "Rick and Morty",
-      "type": "tv",
-      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
-      "genres": [
-        "Animation",
-        "Komödie",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "keywords": [
-        "time travel",
-        "grandfather",
-        "alcoholism",
-        "alien",
-        "dysfunctional family",
-        "mad scientist",
-        "scientist",
-        "adult animation",
-        "father figure",
-        "machinist",
-        "multiple dimensions",
-        "spaceship"
-      ],
-      "rating": 8.683,
-      "vote_count": 11304,
-      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 283297,
-      "title": "Sterling Point",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "keywords": [
-        "romantic drama",
-        "adoring",
-        "compassionate"
-      ],
-      "rating": 8.104,
-      "vote_count": 91,
-      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1284041,
-      "title": "The Last House",
-      "type": "movie",
-      "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "keywords": [
-        "monster",
-        "isolation",
-        "water monster",
-        "sea creature",
-        "baffled",
-        "excited",
-        "dangerous rain"
-      ],
-      "rating": 6.885,
-      "vote_count": 972,
-      "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -426,8 +384,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.388,
-      "vote_count": 4595,
+      "rating": 8.4,
+      "vote_count": 4602,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -471,7 +429,7 @@
         "gritty"
       ],
       "rating": 7.96,
-      "vote_count": 4315,
+      "vote_count": 4316,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -506,7 +464,7 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.5,
+      "rating": 8.543,
       "vote_count": 3481,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
@@ -553,7 +511,7 @@
         "horror"
       ],
       "rating": 8.3,
-      "vote_count": 8621,
+      "vote_count": 8623,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
@@ -563,272 +521,26 @@
       }
     },
     {
-      "tmdb_id": 73586,
-      "title": "Yellowstone",
+      "tmdb_id": null,
+      "title": "Tatort: Glück allein",
       "type": "tv",
-      "overview": "„Yellowstone“ folgt der einflussreichen Familie Dutton, die eine der größten Ranches in den USA besitzt und ständig um deren Erhalt kämpfen muss. Die Serie zeigt, wie sie sich gegen politische Interessen, Landentwickler und rivalisierende Gruppen behaupten. Gleichzeitig beleuchtet sie die komplexen Beziehungen innerhalb der Familie und die moralischen Grenzen, die sie zu überschreiten bereit sind. Insgesamt verbindet die Serie moderne Western‑Atmosphäre mit Machtkämpfen, Loyalität und Konflikten um Land und Identität.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "keywords": [
-        "montana",
-        "ranch",
-        "family drama",
-        "crime family",
-        "cattle ranch",
-        "neo-western",
-        "yellowstone",
-        "wildlife conservation",
-        "trend",
-        "arrogant",
-        "complicated",
-        "contemporary western"
-      ],
-      "rating": 8.266,
-      "vote_count": 3295,
-      "poster_path": "/n3LvkTNTULObSGmDOixRtahBLjR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219385.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 60622,
-      "title": "Fargo",
-      "type": "tv",
-      "overview": "In Anlehnung an den gleichnamigen Hit der Coen-Brüder werden in dieser Serie mehrere skurrile Bewohner des US-Bundesstaates Minnesota in „reale“ Verbrechen verwickelt.",
+      "overview": "Blut an den Händen, Lügen im Haus: Ein Mordfall zerlegt das Bild der perfekten Politikerfamilie. Als ein Nationalratsabgeordneter blutverschmiert vor seinem Haus gefunden wird, beginnt für Moritz Eisner und Bibi Fellner ein verstörender Fall: Seine Frau wurde ermordet, die Tochter schwer verletzt. Zunächst deutet alles auf einen brutalen Raubüberfall hin, doch die Ermittlungen legen immer mehr Widersprüche offen....",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "detective",
-        "minnesota",
-        "winter",
-        "deputy",
-        "north dakota",
-        "anthology",
-        "dark comedy",
-        "criminal",
-        "police officer",
-        "psychotic",
-        "murder investigation",
-        "based on movie",
-        "disturbed",
-        "neo-noir",
-        "absurd",
-        "violence",
-        "baffled",
-        "compassionate",
-        "disgusted"
+        "Tatort aus Österreich"
       ],
-      "rating": 8.287,
-      "vote_count": 3378,
-      "poster_path": "/dnuZSPdcB22U4YX1XLh91yEi5Ox.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/60622-fargo/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000218013.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 95594,
-      "title": "Fast & Furious Spy Racers",
-      "type": "tv",
-      "overview": "Teenager Tony Toretto ist der Cousin des berühmten Dom. Er eifert seinem Verwandten nach, als er und seine Freunde von einer Regierungsorganisation damit beauftragt werden, sich in eine Elite-Renn-Liga einzuschleusen. Die wird von einer kriminellen Organisation namens SH1FT3R organisiert, die nach der Weltherrschaft greift. Das Team muss sich durch gewiefte Pläne das Vertrauen der Organisation erschleichen und den Balanceakt meistern, nicht aufzufallen und zugleich doch die schlimmsten Pläne zu vereiteln.",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Kids",
-        "Familie"
-      ],
-      "keywords": [
-        "street race",
-        "computer animation",
-        "mission",
-        "race car driver",
-        "criminal",
-        "based on movie",
-        "3d animation",
-        "cars",
-        "vehicle"
-      ],
-      "rating": 6.984,
-      "vote_count": 2206,
-      "poster_path": "/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/95594-fast-furious-spy-racers/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000218499.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 954,
-      "title": "Mission: Impossible",
-      "type": "movie",
-      "overview": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen.Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem Einsatz zu Tode kommen. Bei einem Treffen mit seinem Kontaktmann der CIA erkennt Hunt, daß hinter der Mission ein perfides Doppelspiel steckt. Als Überlebenden wird ihm die Schuld am Tod seines Teams angehängt. Um seine Unschuld zu beweisen, muß Hunt den wahren Maulwurf finden. Ob auf der Flucht vor Killerkommandos der Regierung, beim Eindringen in den Hochsicherheitstrakt der CIA oder gar am Dach eines Hochgeschwindigkeitszuges festgeklammert, Hunt muß alles daransetzen, seinen Verfolgern stets einen Schritt voraus zu sein und der schrecklichen Wahrheit Schritt für Schritt näher zu kommen...",
-      "genres": [
-        "Abenteuer",
-        "Action",
-        "Thriller"
-      ],
-      "keywords": [
-        "mask",
-        "mission",
-        "london, england",
-        "central intelligence agency (cia)",
-        "computer",
-        "paris, france",
-        "undercover",
-        "espionage",
-        "secret mission",
-        "arms deal",
-        "spy",
-        "secret identity",
-        "headquarter",
-        "embassy",
-        "secret base",
-        "fake identity",
-        "prague, czech republic",
-        "secret agent",
-        "secret government organization",
-        "infiltration",
-        "terrorism",
-        "agent",
-        "fictional government agency",
-        "government agency",
-        "based on tv series"
-      ],
-      "rating": 7.026,
-      "vote_count": 10177,
-      "poster_path": "/dNClI7niLaky8fS96fO5JF2UvgR.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/954-mission-impossible/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000217213.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 578,
-      "title": "Der weiße Hai",
-      "type": "movie",
-      "overview": "Ein weißer Hai terrorisiert eine Badeinsel an der amerikanischen Atlantikküste. Besonnene Einheimische unter Führung von Polizeichef Brody wollen alle Strände schließen und zur großen Jagd blasen, während die Schar der Kaufleute und Gastwirte angesichts der einträglichen Badesaison lieber zur Tagesordnung übergeht und sich damit auch durchsetzt. Als der Hai erneut zuschlägt, bildet Brody mit dem erfahrenen Haifänger Quint und dem Ozeanologen Hooper ein Jagd-Team und rückt dem Gegner auf See zu Leibe.",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "dying and death",
-        "beach",
-        "based on novel or book",
-        "bathing",
-        "shipwreck",
-        "fishing",
-        "atlantic ocean",
-        "shark attack",
-        "police chief",
-        "ferry boat",
-        "animal attack",
-        "long island, new york",
-        "dead child",
-        "creature",
-        "skinny dipping",
-        "shark",
-        "great white shark",
-        "dead dog",
-        "killer shark",
-        "child killed by animal",
-        "fourth of july",
-        "severed leg",
-        "fishing boat",
-        "sea adventure",
-        "animal horror",
-        "shark cage"
-      ],
-      "rating": 7.683,
-      "vote_count": 11766,
-      "poster_path": "/jkchPeYVLZkGg40Co7t3FC0FUti.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/578-jaws/watch?locale=DE",
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14336341/tatort-glueck-allein",
+      "duration": 5338,
       "providers": {
         "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000218848.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 224263,
-      "title": "Stranger Things: Tales from '85",
-      "type": "tv",
-      "overview": "Winter, Hawkins, 1985. Willkommen zurück in einer Stadt voller Geheimnisses, in der sich die beliebten Held*innen neuen Rätseln … und völlig neuartigen Wesen gegenübersehen.",
-      "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Action & Adventure"
-      ],
-      "keywords": [
-        "monster",
-        "small town",
-        "indiana, usa",
-        "experiment",
-        "supernatural",
-        "coming of age",
-        "parallel world",
-        "super power",
-        "group of friends",
-        "nostalgic",
-        "government conspiracy",
-        "teen drama",
-        "pre-teen",
-        "1980s",
-        "based on tv series",
-        "mystery"
-      ],
-      "rating": 7.5,
-      "vote_count": 99,
-      "poster_path": "/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/224263-stranger-things-tales-from-85/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Serienjunkies",
-        "url": "https://www.serienjunkies.de/news/serien/netflix-neue-serien-und-filme-im-september-2026-mit-the-gentlemen-stranger-things-tales-from-85-monster-lizzie-94451075.html",
-        "mentions": 1
+        "mediathek": "ORF"
       }
     },
     {
@@ -1030,7 +742,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS84OTRlOGUxNS01MWI3LTRhNjEtOGQ2OS0wYzJlMDUxN2JlN2ZfZ2FuemVTZW5kdW5n",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS84OTRlOGUxNS01MWI3LTRhNjEtOGQ2OS0wYzJlMDUxN2JlN2ZfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5171,
       "providers": {
         "netflix": null,
@@ -1076,35 +788,12 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWQyNDEwN2Q2LWRiOGMtNGM5YS05NDgzLTZjNDEyYzIxNzA1OA",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWQyNDEwN2Q2LWRiOGMtNGM5YS05NDgzLTZjNDEyYzIxNzA1OC9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5310,
       "providers": {
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatort: Wehrlos",
-      "type": "tv",
-      "overview": "Ein Mordfall in den eigenen Reihen wird für Eisner und Fellner zum gefährlichen Machtspiel. Ein rätselhafter Doppelmord führt die Ermittler an eine Wiener Polizeischule. Zunächst scheint der Schulleiter seine Frau erschlagen und sich anschließend selbst getötet zu haben. Die Obduktion zeigt jedoch, dass das tödliche Projektil aus einer anderen Waffe stammt – mit Spezialmunition, die nur der Polizei zugänglich ist....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort aus Österreich"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14335378/tatort-wehrlos",
-      "duration": 5308,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     },
     {
@@ -1687,6 +1376,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Ein Wahnsinnstag - Fernsehfilm, Deutschland 2021",
+      "type": "tv",
+      "overview": "Lässiger Singlemann mit Tochter trifft smarte Alleinerziehende mit Sohn - das klingt nach einem guten Anfang! Leider sind die Vorzeichen bei Philipp und Frederike alles andere als günstig.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/fernsehfilm/ein-wahnsinnstag-106.html",
+      "duration": 5313,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Mord im Mittsommer - Staffel 10 (1/3) - Fall 20: Madeleine",
       "type": "tv",
       "overview": "Nach dem Bombenanschlag kämpft Kommissar Alexander Forsman um sein Leben. Während Alexanders Aufenthalt in der Rehaklinik geschieht ein Mord: Mitpatientin Madeleine, eine Malerin, wird tot in ihrem Bett aufgefunden. Der junge Kommissar Valpen übernimmt den Fall und sieht sich bald mit ungewöhnlichen Wendungen konfrontiert ...",
@@ -1841,28 +1552,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Occupied - Die Besatzung - Staffel 2 (6/8) - Januar",
-      "type": "tv",
-      "overview": "Januar: Premierministerin Anita Rygh bemüht sich, eine bessere Stimmung zwischen den nordischen Nationen und Russland zu schaffen. Russland keinerlei Anstalten macht, mit seinen Provokationen aufzuhören. Und auch Jesper Berg versucht von Paris aus, die Karten neu zu mischen. Doch die Positionen scheinen unversöhnlich …",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/067769-006-A/occupied-die-besatzung-staffel-2-6-8/",
-      "duration": 2705,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Der Froschkönig",
       "type": "tv",
       "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
@@ -2001,6 +1690,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Was ist deutsch? Die Geschichte der Migration",
+      "type": "tv",
+      "overview": "Bei uns reden manche von \"deutschen Wurzeln\" und lehnen Zuwanderer als \"fremd\" ab. Sie glauben an das \"Volk\" als homogene Gruppe. Doch wissenschaftlich ist das nicht haltbar.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/was-ist-deutsch-die-geschichte-der-migration-100",
+      "duration": 2673,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "ZDFroyal: Kommt Prinz Harry zurück?",
       "type": "tv",
       "overview": "Seit dem Rückzug aus dem Königshaus eskalierte der Konflikt: Enthüllungen, Vorwürfe und Funkstille prägten das Verhältnis zu König Charles und Prinz William. Nun gab es erste Annäherungen.",
@@ -2045,14 +1756,14 @@
     },
     {
       "tmdb_id": null,
-      "title": "Geld her! – Die großen Banküberfälle",
+      "title": "Geld her! – Die großen Banküberfälle (S2026/E21)",
       "type": "tv",
-      "overview": "Mit List und oft auch Gewalt holen sie sich, was nicht ihnen gehört. Zurück bleiben oft traumatisierte Geiseln und manchmal sogar Tote. Lohnen tut sich das Verbrechen nur für die wenigsten.",
+      "overview": "Sie treibt die Gier nach dem großen Geld: Bankräuber! Sie träumen vom Coup ihres Lebens und werden zu Verbrechern. \"Terra X History\" erzählt die Geschichte hinter den größten Banküberfällen.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History"
+        "Terra X History - die Einzeldokus"
       ],
       "rating": null,
       "vote_count": 0,
@@ -2155,24 +1866,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Azuchi - Die Burg des Samurai (S2026/E08)",
+      "title": "Kanada · Der weite Norden",
       "type": "tv",
-      "overview": "Von der legendären Burg sind nur steinerne Fundamente geblieben. Nun rekonstruieren sie Wissenschaftler mit modernsten Analysemethoden und lassen sie digital neu aufleben. Wer war ihr Erbauer?",
+      "overview": "Kanada: ein Land der Superlative. 10 Millionen Quadratkilometer groß, mit mehr als zwei Millionen Flüssen und Seen, dem größten intakten Waldgebiet und der längsten Küstenlinie der Welt.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X - die Einzeldokus"
+        "Dokumentationen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-112/terra-x-azuchi-die-burg-des-samurai-doku-100",
-      "duration": 2629,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg1NzU1Nw",
+      "duration": 3008,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2419,24 +2130,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Reise der Eisbären - Neue Welten",
+      "title": "Mit dem Boot elbaufwärts - Von Hamburg nach Lübeck",
       "type": "tv",
-      "overview": "Ein Jahr folgt Eisbären-Scout Dennis den Eisbären in der kanadischen Hudson Bay, um herauszufinden, wie sie mit den extremen Veränderungen der Klimaerwärmung zurechtkommen.",
+      "overview": "Ben und Nic, zwei Freunde aus Norddeutschland, erkunden ihre Heimat neu: vom Wasser aus. Mit einem Motorboot geht es von Hamburg aus elbaufwärts. Obwohl sie hier aufgewachsen sind, staunen die beiden, wie viel überraschende Geschichten es zu entdecken gibt. Die Elbregion bietet einzigartige Natur, verblüffenden Erfindergeist und beeindruckende Rekorde.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Doku & Reportage"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg2NzA3Mg",
-      "duration": 3000,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3NjU0MF9nYW56ZVNlbmR1bmc",
+      "duration": 5329,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2525,50 +2236,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Könige der Sammelkarten",
-      "type": "tv",
-      "overview": "Das Geschäft mit Sammelkarten boomt: YouTuber öffnen Packs in Livestreams, Stars jagen seltene Karten, die Preise explodieren. Mittendrin: zwei Brüder aus Langenfeld.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/koenige-der-sammelkarten-movie-100",
-      "duration": 2610,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Last Man Standing – der Mord an Tupac Shakur - Dokumentarfilm von Nick Broomfield, Großbritannien 2020",
-      "type": "tv",
-      "overview": "Tupac Amaru Shakur wird 1996 in seinem Auto an einer Straßenkreuzung in Las Vegas erschossen. Obwohl er nur 25 Jahre alt wurde, gilt er vielen bis heute als größter Rapper aller Zeiten.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilmzeit"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilmzeit/last-man-standing--gangster-rap-und-der-mord-an-tupac-shakur-100.html",
-      "duration": 6159,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -2679,6 +2346,50 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Jane Fonda - Eine Rebellin in Hollywood",
+      "type": "tv",
+      "overview": "Jane Fonda verkörpert wie kaum eine andere Ikone die Mythen ihres Landes und offenbart gleichzeitig dessen Widersprüche. Sie ist alles in einem: Erbin von Hollywoods Starsystem und Muse des französischen Autorenfilms, Oscarpreisträgerin und Aktivistin, Feministin und Aerobic-Queen. In einem einzigen Leben vereint Jane Fonda alle Gesichter der USA.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filmgrößen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/086109-000-A/jane-fonda-eine-rebellin-in-hollywood/",
+      "duration": 3154,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Abteil Nr. 6",
+      "type": "tv",
+      "overview": "Um eine Trennung zu verarbeiten, flieht die Finnin Laura mit dem Zug in den Norden Russlands. Im Abteil sitzt bereits der russische Minenarbeiter Ljoha. Die ungleichen Passagiere müssen nun auf engstem Raum miteinander auskommen ... – Ljoha wird von Yuriy Borisov gespielt, der durch seine Rolle in \"Anora\" internationale Popularität gewann. Ein Roadmovie-Drama von Juho Kuosmanen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/092916-000-A/abteil-nr-6/",
+      "duration": 6034,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2807,50 +2518,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/129824-000-A/die-nacht-ist-mein-reich/",
       "duration": 6215,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Nackt unter Wölfen",
-      "type": "tv",
-      "overview": "Konzentrationslager Buchenwald, 1945. Ein Gefangener hat ein kleines Kind gerettet, versteckt in einem Koffer. Als die Mithäftlinge den Jungen entdecken, stehen sie vor einer schweren Entscheidung. – Der DDR-Spielfilm über Leben und Sterben in einem KZ beruht auf wahren Ereignissen und ist mit Ausnahme des propagandistischen Endes unpathetisch und doch ergreifend. Mit Armin Mueller-Stahl.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/019497-000-A/nackt-unter-woelfen/",
-      "duration": 7128,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Rendezvous mit einer Leiche",
-      "type": "tv",
-      "overview": "Meisterdetektiv Hercule Poirot (Peter Ustinov) verbringt seine Ferien auf einem Luxuskreuzfahrtschiff. Und wo er ist, ist auch der nächste Fall nicht weit: Die vermögende Witwe Emily Boynton wird ermordet. – Michael Winners Verfilmung (1988) des 1938 von Agatha Christie verfassten Kriminalromans war Ustinovs letzter Poirot-Film.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/024862-000-A/rendezvous-mit-einer-leiche/",
-      "duration": 5899,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3003,7 +2670,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5277,
       "providers": {
         "netflix": null,
@@ -3025,7 +2692,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVo",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5300,
       "providers": {
         "netflix": null,
