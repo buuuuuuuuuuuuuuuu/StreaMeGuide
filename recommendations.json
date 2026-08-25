@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-24T05:30:31.778Z",
+  "generated_at": "2026-08-25T05:23:53.518Z",
   "items": [
     {
       "tmdb_id": 1621552,
@@ -16,8 +16,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 6.609,
-      "vote_count": 32,
+      "rating": 7.623,
+      "vote_count": 69,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -54,8 +54,8 @@
         "spaceship",
         "interspecies friendship"
       ],
-      "rating": 8.648,
-      "vote_count": 7299,
+      "rating": 8.6,
+      "vote_count": 7324,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
@@ -65,31 +65,33 @@
       }
     },
     {
-      "tmdb_id": 1284041,
-      "title": "The Last House",
-      "type": "movie",
-      "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
       "genres": [
-        "Horror",
-        "Science Fiction",
-        "Thriller"
+        "Action & Adventure",
+        "Krimi"
       ],
       "keywords": [
-        "monster",
-        "isolation",
-        "water monster",
-        "sea creature",
-        "baffled",
-        "excited",
-        "dangerous rain"
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "blunt",
+        "reboot"
       ],
-      "rating": 6.901,
-      "vote_count": 1008,
-      "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
+      "rating": 8.087,
+      "vote_count": 3123,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -111,10 +113,42 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.1,
-      "vote_count": 1395,
+      "rating": 8.083,
+      "vote_count": 1404,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 100757,
+      "title": "Outer Banks",
+      "type": "tv",
+      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
+      "genres": [
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "keywords": [
+        "diving",
+        "surfing",
+        "north carolina",
+        "treasure hunt",
+        "on the run",
+        "boat chase",
+        "illegal drugs",
+        "outer banks",
+        "teenager",
+        "exciting",
+        "adventure"
+      ],
+      "rating": 8.244,
+      "vote_count": 1244,
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -153,73 +187,10 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.751,
+      "rating": 8.8,
       "vote_count": 5497,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "blunt",
-        "reboot"
-      ],
-      "rating": 8.086,
-      "vote_count": 3119,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 100757,
-      "title": "Outer Banks",
-      "type": "tv",
-      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
-      "genres": [
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "keywords": [
-        "diving",
-        "surfing",
-        "north carolina",
-        "treasure hunt",
-        "on the run",
-        "boat chase",
-        "illegal drugs",
-        "outer banks",
-        "teenager",
-        "exciting",
-        "adventure"
-      ],
-      "rating": 8.243,
-      "vote_count": 1241,
-      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -246,8 +217,8 @@
         "mystery",
         "crime"
       ],
-      "rating": 8.9,
-      "vote_count": 51,
+      "rating": 8.736,
+      "vote_count": 55,
       "poster_path": "/1DXJFjrcPhAuDIdhBrQYQ6po3Le.jpg",
       "justwatch": "https://www.themoviedb.org/tv/298610/watch?locale=DE",
       "providers": {
@@ -285,8 +256,8 @@
         "premier league",
         "joyful"
       ],
-      "rating": 8.362,
-      "vote_count": 2582,
+      "rating": 8.363,
+      "vote_count": 2583,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
@@ -331,8 +302,8 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.409,
-      "vote_count": 1683,
+      "rating": 8.41,
+      "vote_count": 1685,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
@@ -342,22 +313,82 @@
       }
     },
     {
-      "tmdb_id": 312523,
-      "title": "S&X",
+      "tmdb_id": 303351,
+      "title": "Blutopfer",
       "type": "tv",
-      "overview": "Der Sexualtherapeut Ichito Shimotori behandelt in seiner Klinik vielfältige und intime sexuelle Probleme. Doch insgeheim hat er mit eigenen Schwierigkeiten zu kämpfen.",
+      "overview": "Nach dem brutalen Mord an zwei Polizist*innen verbündet sich ein Kommissar widerwillig mit seinem entfremdeten Vater, einem Ex-Polizisten, um den Mörder zu fassen.",
       "genres": [
+        "Drama",
+        "Krimi",
+        "Mystery"
+      ],
+      "keywords": [
+        "detective",
+        "cop-killer",
+        "stockholm, sweden",
+        "ex-cop",
+        "serial killer",
+        "estranged father",
+        "nordic noir",
+        "thriller"
+      ],
+      "rating": 5.875,
+      "vote_count": 15,
+      "poster_path": "/7XLnpb7I9gTzwCUZiyDSiU29yCd.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/303351-blodsoffer/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 283297,
+      "title": "Sterling Point",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Mystery",
         "Drama"
       ],
       "keywords": [
-        "romance",
-        "based on manga",
-        "sex therapist"
+        "romantic drama",
+        "adoring",
+        "compassionate"
       ],
-      "rating": 7.333,
-      "vote_count": 3,
-      "poster_path": "/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/312523-s-x/watch?locale=DE",
+      "rating": 8.2,
+      "vote_count": 97,
+      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1284041,
+      "title": "The Last House",
+      "type": "movie",
+      "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "keywords": [
+        "monster",
+        "isolation",
+        "water monster",
+        "sea creature",
+        "baffled",
+        "excited",
+        "dangerous rain"
+      ],
+      "rating": 6.899,
+      "vote_count": 1020,
+      "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -385,7 +416,7 @@
         "police procedural"
       ],
       "rating": 8.4,
-      "vote_count": 4602,
+      "vote_count": 4606,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -428,7 +459,7 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.96,
+      "rating": 8,
       "vote_count": 4316,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
@@ -464,8 +495,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.543,
-      "vote_count": 3481,
+      "rating": 8.544,
+      "vote_count": 3483,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -475,49 +506,111 @@
       }
     },
     {
-      "tmdb_id": 1622,
-      "title": "Supernatural",
-      "type": "tv",
-      "overview": "Als Jungen verloren Sam und Dean Winchester ihre Mutter an eine mysteriöse und dämonische übernatürliche Kraft. Anschließend erklärte ihr Vater ihnen das paranormale Böse bei, das in den dunklen Ecken und auf den Nebenstraßen Amerikas lebt und wie man es tötet. Jetzt durchqueren die Winchester-Brüder das Land und bekämpfen jede Art von übernatürlicher Bedrohung, die ihnen auf dem Weg begegnet.",
+      "tmdb_id": 954,
+      "title": "Mission: Impossible",
+      "type": "movie",
+      "overview": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen.Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem Einsatz zu Tode kommen. Bei einem Treffen mit seinem Kontaktmann der CIA erkennt Hunt, daß hinter der Mission ein perfides Doppelspiel steckt. Als Überlebenden wird ihm die Schuld am Tod seines Teams angehängt. Um seine Unschuld zu beweisen, muß Hunt den wahren Maulwurf finden. Ob auf der Flucht vor Killerkommandos der Regierung, beim Eindringen in den Hochsicherheitstrakt der CIA oder gar am Dach eines Hochgeschwindigkeitszuges festgeklammert, Hunt muß alles daransetzen, seinen Verfolgern stets einen Schritt voraus zu sein und der schrecklichen Wahrheit Schritt für Schritt näher zu kommen...",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "Abenteuer",
+        "Action",
+        "Thriller"
       ],
       "keywords": [
-        "angel",
-        "witch",
-        "monster",
-        "exorcism",
-        "supernatural",
-        "paranormal",
-        "purgatory",
-        "paranormal phenomena",
-        "apocalypse",
-        "bromance",
-        "dead mother",
-        "demon",
-        "on the road",
-        "demonic possession",
-        "ghost",
-        "dark fantasy",
-        "demon hunter",
-        "four horsemen of the apocalypse",
-        "fighting evil",
-        "brother brother relationship",
-        "leviathan",
-        "ressurection",
-        "brothers",
-        "horror"
+        "mask",
+        "mission",
+        "london, england",
+        "central intelligence agency (cia)",
+        "computer",
+        "paris, france",
+        "undercover",
+        "espionage",
+        "secret mission",
+        "arms deal",
+        "spy",
+        "secret identity",
+        "headquarter",
+        "embassy",
+        "secret base",
+        "fake identity",
+        "prague, czech republic",
+        "secret agent",
+        "secret government organization",
+        "infiltration",
+        "terrorism",
+        "agent",
+        "fictional government agency",
+        "government agency",
+        "based on tv series"
       ],
-      "rating": 8.3,
-      "vote_count": 8623,
-      "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
+      "rating": 7.027,
+      "vote_count": 10182,
+      "poster_path": "/dNClI7niLaky8fS96fO5JF2UvgR.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/954-mission-impossible/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": "flatrate",
+        "prime": null,
         "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000218910.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 236235,
+      "title": "The Gentlemen",
+      "type": "tv",
+      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "dark comedy",
+        "aristocrat",
+        "based on movie",
+        "irreverent",
+        "offbeat",
+        "action"
+      ],
+      "rating": 7.82,
+      "vote_count": 838,
+      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000219549.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Gegen den Kopf",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2013 +++ In der Berliner U-Bahn wendet sich ein Mann gegen Jugendliche, die einem alten Herrn seinen Stock wegnehmen. Nach dem Aussteigen wird er von den Jugendlichen verprügelt, er erliegt seinen Verletzungen. Trotz vieler Zeugen und jeder Menge Videokameras auf dem Bahnhof ist es mühsam für Ritter und Stark, den Tathergang zu ermitteln....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMjE3N2U4My1lM2QzLTQ4MmMtOGUzMy05OWMzMjk0MTQ1M2VfcHVibGljYXRpb24",
+      "duration": 5314,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -593,7 +686,7 @@
       "tmdb_id": null,
       "title": "Außer Kontrolle",
       "type": "tv",
-      "overview": "Die Leipziger Kommissare Ehrlicher und Kain untersuchen den Tod des Stadtstreichers Eddie Löser. Der Tode ist ein alter Schulfreund von Kain. Doch die Spuren führen zu einem Netz aus Intrigen und persönlichen Dramen.",
+      "overview": "Die Leipziger Kommissare Ehrlicher und Kain untersuchen den Tod des Stadtstreichers Eddie Löser. Der Tote ist ein alter Schulfreund von Kain. Doch die Spuren führen zu einem Netz aus Intrigen und persönlichen Dramen.",
       "genres": [
         "Krimi",
         "Drama"
@@ -673,7 +766,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZmE5OTViNWMtYjYwMC00MjA2LThmM2QtMzMzMTI1OTQ3Mjky",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZmE5OTViNWMtYjYwMC00MjA2LThmM2QtMzMzMTI1OTQ3MjkyL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5421,
       "providers": {
         "netflix": null,
@@ -775,21 +868,21 @@
     },
     {
       "tmdb_id": null,
-      "title": "Schmale Schultern (2009)",
+      "title": "Der Einzelgänger",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2009 +++ Jens Otten kann es nicht fassen: Seine Verlobte Regina Scheffler wurde ermordet. Unbekannte haben sie vom Balkon gestoßen. Ihre Wohnung wurde verwüstet und mit Graffiti beschmiert. Während Kommissar Schenk sich auf die Suche nach dem Graffiti-Sprayer macht, nimmt sein Kollege Ballauf das private Umfeld der Toten unter die Lupe. Und dort liegt einiges im Argen. +++ mit Klaus J....",
+      "overview": "An einer Bushaltestelle wird ein älterer Mann brutal zusammengeschlagen. Keiner der Passanten greift ein, viele wollen später nichts gesehen haben. Die Ermittler finden keinen Ansatz, bis sich doch noch zwei Zeugen melden. Ein weiterer Angriff bringt sie schließlich auf die Spur des 19-jährigen Täters, der mit seinem Leben nicht zurechtkommt. Seine Enttäuschungen schlagen in Dauerwut und Explosionsbereitschaft um....",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Polizeiruf 110 - Klassiker"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWQyNDEwN2Q2LWRiOGMtNGM5YS05NDgzLTZjNDEyYzIxNzA1OC9hdWRpb2Rlc2tyaXB0aW9u",
-      "duration": 5310,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9mZmIzMWY2MS02MTIwLTQ2NjYtOTBkOC03ZjQ5ODRlZmEzMDc",
+      "duration": 2836,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -905,29 +998,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl80YjdhNjk0Yy0xMmQ5LTQwZDAtOTdjNi05MWM0Y2I0ZmQ3ZDRfcHVibGljYXRpb24",
       "duration": 5292,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Eine mörderische Idee",
-      "type": "tv",
-      "overview": "Bei einer Supermarktkette in Magdeburg gehen mehrere Bombendrohungen ein. Bald darauf folgt auch schon die erste Explosion. Hauptkommissarin Doreen Brasch, Jochen Drexler und Kriminalrat Uwe Lemp ermitteln.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80ODgyMjItNDY4MjIy",
-      "duration": 5349,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1156,6 +1226,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Subservience",
+      "type": "tv",
+      "overview": "Nick stellt aufgrund einer Herzoperation seiner Frau Maggie die humanoide Haushaltshilfe und Babysitterin Alice an, doch sie entwickelt sich bald zu einer Gefahr.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/subservience-movie-100/subservience-100",
+      "duration": 5543,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Subservience (Englisch)",
+      "type": "tv",
+      "overview": "Nick stellt aufgrund einer Herzoperation seiner Frau Maggie die humanoide Haushaltshilfe und Babysitterin Alice an, doch sie entwickelt sich bald zu einer Gefahr.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/subservience-movie-100/subservience-100",
+      "duration": 5543,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Schachnovelle - Spielfilm, Deutschland/Österreich 2020",
       "type": "tv",
       "overview": "Österreich, 1938. Der Wiener Lebemann Dr. Josef Bartok verdrängt die Gefahr der NS-Machtübernahme. Erst kurz vor dem \"Anschluss\" an das Deutsche Reich entschließt er sich zur Flucht.",
@@ -1324,50 +1438,6 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/emily-102.html",
       "duration": 7507,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Emily - Spielfilm, Großbritannien/USA 2022 (Englisch)",
-      "type": "tv",
-      "overview": "Emily wächst als Pfarrerstochter im ländlichen Yorkshire auf, wo sie für sonderbar gehalten wird. Wohl fühlt sie sich nur, wenn sie sich schreibend in ihre Fantasiewelt zurückziehen kann.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/emily-102.html",
-      "duration": 7507,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "The Quiet Girl - Spielfilm, Irland 2022",
-      "type": "tv",
-      "overview": "Am Ende des Frühjahrs 1981 wird die neunjährige Cáit zu Verwandten aufs irische Land geschickt – in ein Haus, in dem Stille, Fürsorge und ein verborgenes Geheimnis eng beieinanderliegen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/the-quiet-girl-102.html",
-      "duration": 5506,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1736,7 +1806,7 @@
       "tmdb_id": null,
       "title": "Alkohol: Warum suchen wir den Rausch?",
       "type": "tv",
-      "overview": "Ob Oktoberfest, Party oder Feierabendbier: Alkohol bedeutet für viele Genuss – die Risiken sind Sucht und Gewalt. Leon Windscheid fragt, warum wir trinken, obwohl wir wissen, dass es schädlich ist.",
+      "overview": "Alkohol gehört beim Feiern oft dazu – von Wiesn bis Ballermann. Doch zwischen Genuss und Kontrollverlust liegt ein schmaler Grat. Warum wir trinken, obwohl wir wissen, dass es schädlich ist.",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -1746,7 +1816,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/reportagen/alkohol-warum-suchen-wir-den-rausch-movie-100/terra-xplore-rausch-106",
+      "url": "https://www.zdf.de/reportagen/alkohol-warum-suchen-wir-den-rausch-movie-100",
       "duration": 2609,
       "providers": {
         "netflix": null,
@@ -1862,6 +1932,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mysterium Gotik",
+      "type": "tv",
+      "overview": "Mysterium Gotik - Als die Kathedralen in den Himmel wuchsen",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDcwNDk5Nw",
+      "duration": 2764,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2020,6 +2112,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Legendäre Zugabenteuer - Kanadas VIA Rail",
+      "type": "tv",
+      "overview": "Legendäre Zugabenteuer - Kanadas VIA Rail",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.phoenix.de/sendungen/dokumentationen/legendaere-zugabenteuer-a-4793907.html",
+      "duration": 2576,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Das Ende des Paradieses - Klimawandel am Polarkreis",
       "type": "tv",
       "overview": "Ein Film von Rémy Marion",
@@ -2086,64 +2200,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Das Schicksal der Anne Boleyn (1/3)",
+      "title": "Vom Mooserboden auf das Kitzsteinhorn",
       "type": "tv",
-      "overview": "Das Schicksal der Anne Boleyn - Die Verhaftung",
+      "overview": "Die Hochgebirgsstauseen Mooserboden und Wasserfallboden liegen wie Fjorde eingebettet in die Berglandschaft im Kapruner Tal. Auf einer weitläufigen Almlandschaft auf über 1.800 m Seehöhe leben im Sommer über 1.000 Tiere auf der Fürthermoa Alm, die mit viel Hingabe von der Familie Aberger-Dick bewirtschaftet wird. Über drei Generationen arbeiten hier zusammen, und teilen altes Wissen im Einklang mit der Natur....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen im BR"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQxMjcxMg",
-      "duration": 2694,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Das Schicksal der Anne Boleyn (3/3)",
-      "type": "tv",
-      "overview": "Das Schicksal der Anne Boleyn · Die Hinrichtung",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQxMjcyMg",
-      "duration": 2699,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mit dem Boot elbaufwärts - Von Hamburg nach Lübeck",
-      "type": "tv",
-      "overview": "Ben und Nic, zwei Freunde aus Norddeutschland, erkunden ihre Heimat neu: vom Wasser aus. Mit einem Motorboot geht es von Hamburg aus elbaufwärts. Obwohl sie hier aufgewachsen sind, staunen die beiden, wie viel überraschende Geschichten es zu entdecken gibt. Die Elbregion bietet einzigartige Natur, verblüffenden Erfindergeist und beeindruckende Rekorde.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3NjU0MF9nYW56ZVNlbmR1bmc",
-      "duration": 5329,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjUzQTA",
+      "duration": 2587,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2170,6 +2240,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mit dem Boot elbaufwärts - Von Hamburg nach Lübeck",
+      "type": "tv",
+      "overview": "Ben und Nic, zwei Freunde aus Norddeutschland, erkunden ihre Heimat neu: vom Wasser aus. Mit einem Motorboot geht es von Hamburg aus elbaufwärts. Obwohl sie hier aufgewachsen sind, staunen die beiden, wie viel überraschende Geschichten es zu entdecken gibt. Die Elbregion bietet einzigartige Natur, verblüffenden Erfindergeist und beeindruckende Rekorde.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Doku & Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3NjU0MF9nYW56ZVNlbmR1bmc",
+      "duration": 5329,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2210,28 +2302,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/dokus/zdfroyal-die-queen-und-ich-movie-100",
       "duration": 2622,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kriegstüchtig? 70 Jahre Bundeswehr",
-      "type": "tv",
-      "overview": "Die Bundeswehr blickt zurück auf 70 Jahre Geschichte, 1956 wurde die Wehrpflicht eingeführt. \"Terra X History\" fragt: Wie einsatzbereit war die Truppe seitdem – und wie steht sie heute da?",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/kriegstuechtig-70-jahre-bundeswehr-movie-100",
-      "duration": 5369,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2350,6 +2420,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Sweet Disaster",
+      "type": "tv",
+      "overview": "Nach einem Besuch bei ihren Eltern in Finnland trifft Frida auf dem Flughafen den Piloten Felix, der gerade von seiner Freundin verlassen worden ist. Sie verbringen einen zauberhaften Tag zusammen und werden ein Paar. Dann wird Frida unerwartet schwanger – und Felix geht zurück zu seiner Ex. - Langfilmdebüt (2021) der finnischen Regisseurin Laura Lehmus.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/098046-000-A/sweet-disaster/",
+      "duration": 5174,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Zwei Leben",
+      "type": "tv",
+      "overview": "Norwegen, 1990: Katrine hat scheinbar ihr Familienglück gefunden. Doch dann fällt die Berliner Mauer und die Weltgeschichte bricht in Katrines Leben ein. In den 1970er Jahren kam Katrine als DDR-Spionin nach Norwegen - mit einer fiktiven Identität. Georg Maas inszenierte das historisch inspirierte Drama (2012) mit Juliane Köhler in der Hauptrolle.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/087374-000-A/zwei-leben/",
+      "duration": 5555,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Sieben Tote hat die Woche",
+      "type": "tv",
+      "overview": "Nach einem lukrativen Drogengeschäft geraten fünf Kriminelle in einen Strudel aus Verrat, Misstrauen und Gewalt. Was als gemeinsamer Coup beginnt, entwickelt sich zu einem tödlichen Machtkampf, bei dem jeder versucht, die Beute für sich zu sichern. Französischer Gangsterfilm von Jacques Deray (1963).",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/131522-000-A/sieben-tote-hat-die-woche/",
+      "duration": 6320,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Jane Fonda - Eine Rebellin in Hollywood",
       "type": "tv",
       "overview": "Jane Fonda verkörpert wie kaum eine andere Ikone die Mythen ihres Landes und offenbart gleichzeitig dessen Widersprüche. Sie ist alles in einem: Erbin von Hollywoods Starsystem und Muse des französischen Autorenfilms, Oscarpreisträgerin und Aktivistin, Feministin und Aerobic-Queen. In einem einzigen Leben vereint Jane Fonda alle Gesichter der USA.",
@@ -2452,72 +2588,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/096285-000-A/sir-michael-caine-vom-arbeiterkind-zum-hollywoodstar/",
       "duration": 3166,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ewige Jugend",
-      "type": "tv",
-      "overview": "In einem Kurhotel in den Schweizer Alpen verbringen zwei alte Freunde ihren Sommer: der pensionierte Komponist Fred Ballinger und der Regisseur Mick Boyle. Während sie auf ihr Leben zurückblicken und über Kunst, Liebe und Vergänglichkeit nachdenken, werden alte Überzeugungen herausgefordert. Ein philosophisches Drama von Paolo Sorrentino, mit Michael Caine und Harvey Keitel.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/091157-000-A/ewige-jugend/",
-      "duration": 6868,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Nö",
-      "type": "tv",
-      "overview": "Dina und Michael sind glücklich in ihrer Beziehung, bis Michael beginnt, laut über eine Trennung nachzudenken. In 15 Situationen begleiten wir das Paar, wie es durchs Leben navigiert und versucht, die Liebe nicht aus den Augen zu verlieren. – Anna Brüggemann und Alexander Khuon spielen das Paar Dina und Michael. Eine romantische Tragikomödie von Dietrich Brüggemann.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/083851-000-A/noe/",
-      "duration": 6770,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Nacht ist mein Reich",
-      "type": "tv",
-      "overview": "Lokomotivführer Raymond Pinsard verliert nach einem Unfall sein Augenlicht. Der Verlust stürzt ihn in eine tiefe Krise und zwingt ihn, sein bisheriges Leben neu zu ordnen. Allmählich versucht er, seinen Platz in einer Welt zu finden, die er nicht mehr sehen kann. Schicksalsdrama aus dem Jahr 1951 von Georges Lacombe mit Jean Gabin in der Hauptrolle.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/129824-000-A/die-nacht-ist-mein-reich/",
-      "duration": 6215,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2670,7 +2740,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWg",
       "duration": 5277,
       "providers": {
         "netflix": null,
@@ -2692,7 +2762,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVo",
       "duration": 5300,
       "providers": {
         "netflix": null,
@@ -2834,28 +2904,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Luis aus Südtirol - Meine Abschiedstour",
-      "type": "tv",
-      "overview": "Der Luis aus Südtirol ist Kult: Mit seinen Auftritten begeistert der beliebte Kabarettist sein Publikum auf der Bühne und im Fernsehen. Nun steht seine Abschiedstour auf dem Programm und auch die Pension. ORF III begleitete ihn bei einem seiner letzten Auftritte in Tirol und besuchte ihn zu Hause. Dabei wurde über seine Bühnenfigur, sein Leben als Kabarettist und besondere Momente seiner Karriere gesprochen....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14335570/luis-aus-suedtirol-meine-abschiedstour",
-      "duration": 4547,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Stipsits & Rubey: Gott und Söhne",
       "type": "tv",
       "overview": "Zwei Kabarettisten, dutzende Rollen, ein fataler Plot: Sterben gehört hier zum Running Gag. Was passiert, wenn zwei Kabarettisten ihr eigenes Stück erfinden – und dabei ihre Figuren reihenweise umbringen? Thomas Stipsits und Manuel Rubey liefern sich eine irrwitzige Tour de Force mit Verfolgungsjagden, absurden Wendungen und jeder Menge Spielfreude. Bis plötzlich klar wird: Auch sie selbst sind nur Figuren in einem Drehbuch....",
@@ -2914,6 +2962,28 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14334690/gernot-kulis-kulisionen-2-2",
       "duration": 2827,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Gernot Kulis: Kulisionen (1/2)",
+      "type": "tv",
+      "overview": "Zwischen Alltag, Anrufen und Absturz: Gernot Kulis zeigt sein Leben im Ausnahmezustand. Gernot Kulis wird 50 – und feiert das Jubiläum mit einer pointenreichen Stand-up-Show voller Stimmen, Figuren und Alltagschaos. In \"Kulisionen\" nimmt der Comedian das Publikum mit hinter die Kulissen seines Lebens zwischen Bühnenruhm und privaten Pannen....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14334689/gernot-kulis-kulisionen-1-2",
+      "duration": 2967,
       "providers": {
         "netflix": null,
         "prime": null,
