@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-25T05:23:53.518Z",
+  "generated_at": "2026-08-26T05:25:06.821Z",
   "items": [
     {
       "tmdb_id": 1621552,
@@ -16,51 +16,13 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 7.623,
-      "vote_count": 69,
+      "rating": 8.385,
+      "vote_count": 148,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 687163,
-      "title": "Der Astronaut - Project Hail Mary",
-      "type": "movie",
-      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
-      "genres": [
-        "Science Fiction",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "friendship",
-        "coma",
-        "based on novel or book",
-        "bravery",
-        "sun",
-        "language barrier",
-        "space travel",
-        "space mission",
-        "alien",
-        "space",
-        "memory loss",
-        "astronaut",
-        "scientist",
-        "science teacher",
-        "save the planet",
-        "spaceship",
-        "interspecies friendship"
-      ],
-      "rating": 8.6,
-      "vote_count": 7324,
-      "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -83,10 +45,11 @@
         "conspiracy",
         "agent",
         "blunt",
-        "reboot"
+        "reboot",
+        "military police"
       ],
       "rating": 8.087,
-      "vote_count": 3123,
+      "vote_count": 3126,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -96,62 +59,41 @@
       }
     },
     {
-      "tmdb_id": 113962,
-      "title": "Lioness",
+      "tmdb_id": 97546,
+      "title": "Ted Lasso",
       "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
       "genres": [
         "Drama",
-        "War & Politics"
+        "Komödie"
       ],
       "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
+        "england",
+        "male friendship",
+        "friendship",
+        "fish out of water",
+        "football (soccer)",
+        "american abroad",
+        "teammate",
+        "professional sports",
+        "football (soccer) team",
+        "workplace comedy",
+        "team owner",
+        "football (soccer) coach",
+        "reflective",
+        "optimist",
+        "coaching",
+        "nice guy",
+        "premier league",
+        "joyful"
       ],
-      "rating": 8.083,
-      "vote_count": 1404,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "rating": 8.362,
+      "vote_count": 2589,
+      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 100757,
-      "title": "Outer Banks",
-      "type": "tv",
-      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
-      "genres": [
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "keywords": [
-        "diving",
-        "surfing",
-        "north carolina",
-        "treasure hunt",
-        "on the run",
-        "boat chase",
-        "illegal drugs",
-        "outer banks",
-        "teenager",
-        "exciting",
-        "adventure"
-      ],
-      "rating": 8.244,
-      "vote_count": 1244,
-      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -188,7 +130,7 @@
         "defiant"
       ],
       "rating": 8.8,
-      "vote_count": 5497,
+      "vote_count": 5498,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -198,29 +140,27 @@
       }
     },
     {
-      "tmdb_id": 298610,
-      "title": "Spooky in Love",
+      "tmdb_id": 113962,
+      "title": "Lioness",
       "type": "tv",
-      "overview": "Cheon Yeo-ri (Park Eun-bin) ist die scheinbar makellose Erbin eines Hotelimperiums, die ein isoliertes Leben führt, weil sie seit Jahren von ruhelosen Geistern geplagt wird. Als sie einer Seele an den Fundort ihrer Leiche folgt, trifft sie auf den engagierten Staatsanwalt Ma Kang-wook (Yang Se-jong), der nach einem Fehlurteil in die Abteilung für ungelöste Altfälle versetzt wurde.  Kang-wook bemerkt Yeo-ris unheimliche Verbindung zu den Toten und deckt ihr Geheimnis auf. Sie schließen ein Bündnis: Gemeinsam spüren sie vergessene Mordopfer auf, bringen die Wünsche der Geister ans Licht und lösen mysteriöse Verbrechen. Bei physischem Kontakt mit Kang-wook werden Yeo-ris Geistererscheinungen kurzzeitig unterdrückt, wodurch sich eine tiefe Romanze zwischen den beiden entwickelt. Neben schattigen Machenschaften um das Erbe muss sich das Duo gegen politische Racheakte und den ehrgeizigen Rivalen Kang Min-hwan behaupten.  KI-generiert, Stand August 2026",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
-        "Komödie",
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Drama",
+        "War & Politics"
       ],
       "keywords": [
-        "investigation",
-        "remake",
-        "romcom",
-        "ghost",
-        "based on movie",
-        "enemies to lovers",
-        "mystery",
-        "crime"
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
       ],
-      "rating": 8.736,
-      "vote_count": 55,
-      "poster_path": "/1DXJFjrcPhAuDIdhBrQYQ6po3Le.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/298610/watch?locale=DE",
+      "rating": 8.093,
+      "vote_count": 1411,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -228,41 +168,64 @@
       }
     },
     {
-      "tmdb_id": 97546,
-      "title": "Ted Lasso",
+      "tmdb_id": 100757,
+      "title": "Outer Banks",
       "type": "tv",
-      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
+      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
       "genres": [
-        "Drama",
-        "Komödie"
+        "Action & Adventure",
+        "Mystery"
       ],
       "keywords": [
-        "england",
-        "male friendship",
-        "friendship",
-        "fish out of water",
-        "football (soccer)",
-        "american abroad",
-        "teammate",
-        "professional sports",
-        "football (soccer) team",
-        "workplace comedy",
-        "team owner",
-        "football (soccer) coach",
-        "reflective",
-        "optimist",
-        "coaching",
-        "nice guy",
-        "premier league",
-        "joyful"
+        "diving",
+        "surfing",
+        "north carolina",
+        "treasure hunt",
+        "on the run",
+        "boat chase",
+        "illegal drugs",
+        "outer banks",
+        "teenager",
+        "exciting",
+        "adventure"
       ],
-      "rating": 8.363,
-      "vote_count": 2583,
-      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
+      "rating": 8.245,
+      "vote_count": 1244,
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 303351,
+      "title": "Blutopfer",
+      "type": "tv",
+      "overview": "Nach dem brutalen Mord an zwei Polizist*innen verbündet sich ein Kommissar widerwillig mit seinem entfremdeten Vater, einem Ex-Polizisten, um den Mörder zu fassen.",
+      "genres": [
+        "Drama",
+        "Krimi",
+        "Mystery"
+      ],
+      "keywords": [
+        "detective",
+        "cop-killer",
+        "stockholm, sweden",
+        "ex-cop",
+        "serial killer",
+        "estranged father",
+        "nordic noir",
+        "thriller"
+      ],
+      "rating": 5.947,
+      "vote_count": 19,
+      "poster_path": "/7XLnpb7I9gTzwCUZiyDSiU29yCd.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/303351-blodsoffer/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -313,29 +276,34 @@
       }
     },
     {
-      "tmdb_id": 303351,
-      "title": "Blutopfer",
+      "tmdb_id": 60625,
+      "title": "Rick and Morty",
       "type": "tv",
-      "overview": "Nach dem brutalen Mord an zwei Polizist*innen verbündet sich ein Kommissar widerwillig mit seinem entfremdeten Vater, einem Ex-Polizisten, um den Mörder zu fassen.",
+      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
       "genres": [
-        "Drama",
-        "Krimi",
-        "Mystery"
+        "Animation",
+        "Komödie",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "keywords": [
-        "detective",
-        "cop-killer",
-        "stockholm, sweden",
-        "ex-cop",
-        "serial killer",
-        "estranged father",
-        "nordic noir",
-        "thriller"
+        "time travel",
+        "grandfather",
+        "alcoholism",
+        "alien",
+        "dysfunctional family",
+        "mad scientist",
+        "scientist",
+        "adult animation",
+        "father figure",
+        "machinist",
+        "multiple dimensions",
+        "spaceship"
       ],
-      "rating": 5.875,
-      "vote_count": 15,
-      "poster_path": "/7XLnpb7I9gTzwCUZiyDSiU29yCd.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/303351-blodsoffer/watch?locale=DE",
+      "rating": 8.683,
+      "vote_count": 11318,
+      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -357,7 +325,7 @@
         "compassionate"
       ],
       "rating": 8.2,
-      "vote_count": 97,
+      "vote_count": 99,
       "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
       "providers": {
@@ -385,8 +353,8 @@
         "excited",
         "dangerous rain"
       ],
-      "rating": 6.899,
-      "vote_count": 1020,
+      "rating": 6.922,
+      "vote_count": 1046,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
@@ -415,8 +383,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.4,
-      "vote_count": 4606,
+      "rating": 8.389,
+      "vote_count": 4610,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -459,8 +427,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 8,
-      "vote_count": 4316,
+      "rating": 7.959,
+      "vote_count": 4318,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -495,8 +463,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.544,
-      "vote_count": 3483,
+      "rating": 8.545,
+      "vote_count": 3486,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -506,46 +474,31 @@
       }
     },
     {
-      "tmdb_id": 954,
-      "title": "Mission: Impossible",
+      "tmdb_id": 329,
+      "title": "Jurassic Park",
       "type": "movie",
-      "overview": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen.Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem Einsatz zu Tode kommen. Bei einem Treffen mit seinem Kontaktmann der CIA erkennt Hunt, daß hinter der Mission ein perfides Doppelspiel steckt. Als Überlebenden wird ihm die Schuld am Tod seines Teams angehängt. Um seine Unschuld zu beweisen, muß Hunt den wahren Maulwurf finden. Ob auf der Flucht vor Killerkommandos der Regierung, beim Eindringen in den Hochsicherheitstrakt der CIA oder gar am Dach eines Hochgeschwindigkeitszuges festgeklammert, Hunt muß alles daransetzen, seinen Verfolgern stets einen Schritt voraus zu sein und der schrecklichen Wahrheit Schritt für Schritt näher zu kommen...",
+      "overview": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
       "genres": [
         "Abenteuer",
-        "Action",
-        "Thriller"
+        "Science Fiction"
       ],
       "keywords": [
-        "mask",
-        "mission",
-        "london, england",
-        "central intelligence agency (cia)",
-        "computer",
-        "paris, france",
-        "undercover",
-        "espionage",
-        "secret mission",
-        "arms deal",
-        "spy",
-        "secret identity",
-        "headquarter",
-        "embassy",
-        "secret base",
-        "fake identity",
-        "prague, czech republic",
-        "secret agent",
-        "secret government organization",
-        "infiltration",
-        "terrorism",
-        "agent",
-        "fictional government agency",
-        "government agency",
-        "based on tv series"
+        "exotic island",
+        "island",
+        "triceratops",
+        "brontosaurus",
+        "electric fence",
+        "dna",
+        "tyrannosaurus rex",
+        "paleontology",
+        "dinosaur",
+        "amusement park",
+        "theme park"
       ],
-      "rating": 7.027,
-      "vote_count": 10182,
-      "poster_path": "/dNClI7niLaky8fS96fO5JF2UvgR.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/954-mission-impossible/watch?locale=DE",
+      "rating": 8,
+      "vote_count": 18240,
+      "poster_path": "/zgvLWNSKBrufJM8OAtVxJ2s7Nf8.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/329-jurassic-park/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -553,32 +506,48 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000218910.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000219721.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 236235,
-      "title": "The Gentlemen",
+      "tmdb_id": 63351,
+      "title": "Narcos",
       "type": "tv",
-      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
+      "overview": "Diese düstere Gangster-Dramaserie basiert auf der wahren Geschichte der berüchtigten, gewalttätigen und einflussreichen Drogenkartelle Kolumbiens.",
       "genres": [
-        "Komödie",
-        "Drama",
-        "Krimi"
+        "Krimi",
+        "Drama"
       ],
       "keywords": [
-        "dark comedy",
-        "aristocrat",
-        "based on movie",
-        "irreverent",
-        "offbeat",
-        "action"
+        "cocaine",
+        "drug dealer",
+        "outlaw",
+        "based on true story",
+        "drug cartel",
+        "conflict",
+        "drugs",
+        "drug lord",
+        "illegal drugs",
+        "dea",
+        "narcotics",
+        "angry",
+        "cartel",
+        "1980s",
+        "escobar",
+        "pablo escobar",
+        "dark",
+        "narcos",
+        "colombia",
+        "gritty",
+        "thriller",
+        "action",
+        "harsh"
       ],
-      "rating": 7.82,
-      "vote_count": 838,
-      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
+      "rating": 8.078,
+      "vote_count": 3412,
+      "poster_path": "/bZYjPDckPXIA75RGeqk00eOJAbI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/63351-narcos/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -586,8 +555,269 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219549.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000219723.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 5548,
+      "title": "RoboCop",
+      "type": "movie",
+      "overview": "Detroit in naher Zukunft. Die Kriminalitätsrate ist drastisch angestiegen. Eine Lösung bietet das RoboCop-Programm der Firma Omni, die auch die Polizei übernommen hat. Als der Polizist Murphy von Bandenchef Clarence und seinen Männern zusammengeschossen wird, verwandelt man den Körper des Toten in eine stählerne, hochgerüstete Law &amp; Order-Maschine. Obwohl perfekt programmiert, ist seine Erinnerung nicht vollständig ausgelöscht worden. Murphy macht sich auf die Suche nach seinen Mördern und entdeckt, daß der Drahtzieher hinter Clarance' Verbrechen, Jones, in der Chefetage von Omni sitzt. Nachdem Murphy Clarence ausgeschaltet hat, kann er auch Jones töten.",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "keywords": [
+        "experiment",
+        "cyborg",
+        "crime fighter",
+        "dystopia",
+        "allegory",
+        "giant robot",
+        "evil corporation",
+        "cyberpunk",
+        "transhumanism",
+        "detroit, michigan",
+        "law enforcement",
+        "gentrification",
+        "corrupt system",
+        "megacorporation",
+        "ghosts of the past",
+        "shocking",
+        "deep",
+        "emotional"
+      ],
+      "rating": 7.364,
+      "vote_count": 5901,
+      "poster_path": "/kYXkZRA5DVrfU30NTnSlMifYHoK.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/5548-robocop/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000219731.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 78191,
+      "title": "You - Du wirst mich lieben",
+      "type": "tv",
+      "overview": "Ein gefährlicher, aber äußerst charmanter junger Mann mit obsessiven Tendenzen zieht alle Register, um Teil des Lebens seiner Angebeteten zu werden.",
+      "genres": [
+        "Mystery",
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "new york city",
+        "based on novel or book",
+        "jealousy",
+        "infidelity",
+        "cheating",
+        "obsession",
+        "female friendship",
+        "addiction",
+        "stalker",
+        "love",
+        "murder",
+        "serial killer",
+        "literary agent",
+        "psychological thriller",
+        "writer",
+        "relationship",
+        "fatal attraction",
+        "obsessive love",
+        "social media",
+        "voyeur",
+        "mind game",
+        "dark romance",
+        "dark",
+        "psychological",
+        "childhood memory",
+        "essay",
+        "thriller",
+        "bookstore"
+      ],
+      "rating": 8.004,
+      "vote_count": 4056,
+      "poster_path": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/78191-you/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000219654.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Brüder (1997)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 1997 +++ Eine Studentin wird am Steuer einer Limousine erschossen. Das Merkwürdige: Ihr Wagen war gepanzert, die tödliche Kugel ein Stahlmantelgeschoss. Der Wagen war für den Spitzenkandidaten der \"Bürgerpartei\", den Anwalt Karl Flemming, geleast. Galt der Anschlag also dem Politiker und war der Mord an Birgit Lauffer, Mitarbeiterin im Wahlkampfteam, nur ein \"Versehen\"?...",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWE5YWU2YzJlLTM3ODUtNGY1Ni1iOTUxLWI0MGU2OTcyM2MzZg",
+      "duration": 5255,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Brüder (1997) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 1997 +++ Eine Studentin wird am Steuer einer Limousine erschossen. Das Merkwürdige: Ihr Wagen war gepanzert, die tödliche Kugel ein Stahlmantelgeschoss. Der Wagen war für den Spitzenkandidaten der \"Bürgerpartei\", den Anwalt Karl Flemming, geleast. Galt der Anschlag also dem Politiker und war der Mord an Birgit Lauffer, Mitarbeiterin im Wahlkampfteam, nur ein \"Versehen\"?...",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtM2Q0M2M4YmEtMGZjZC00ZDhhLTg0MGItYzc2MTc3NDhhMzVk",
+      "duration": 5255,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Liebe mich! (2022)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 20222 +++Vor einem Jahr verschwand Feline Wagner, eine Freundin meldete sie damals als vermisst. Jetzt wird ihre Leiche in einem Bestattungswald gefunden. Rosa Herzog und Jan Pawlak nehmen Kontakt zum Bestattungsunternehmen Ihle auf: Hier wurde die Grabstätte reserviert, wenige Tage nach dem Verschwinden von Feline Wagner. Es wurde bar bezahlt, von einem Mann, der einen falschen Namen angab....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OQ",
+      "duration": 5330,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Liebe mich! (2022) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 20222 +++Vor einem Jahr verschwand Feline Wagner, eine Freundin meldete sie damals als vermisst. Jetzt wird ihre Leiche in einem Bestattungswald gefunden. Rosa Herzog und Jan Pawlak nehmen Kontakt zum Bestattungsunternehmen Ihle auf: Hier wurde die Grabstätte reserviert, wenige Tage nach dem Verschwinden von Feline Wagner. Es wurde bar bezahlt, von einem Mann, der einen falschen Namen angab....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTdhYmU0NWE3LWUzODgtNGM5Yy04NWZmLWM1Y2M4NjIzMzM4OA",
+      "duration": 5330,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Nacht gehört dir",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2020 Die erfolgreiche Geschäftsfrau Babs Sprenger stirbt an ihrem Geburtstag durch zwei Stiche ins Herz. Die Tatwaffe, ein Sushi-Messer, findet sich sauber gereinigt in der Spülmaschine. Ansonsten weist die Wohnung keinerlei Spuren auf. Als die Ermittler Babs‘ Kollegin Theresa Hein, die mit ihr zusammen Geburtstag gefeiert hat, zu der Tat befragen, gesteht diese sofort....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0",
+      "duration": 5264,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wacht am Rhein (2017)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2017 +++ Im \"Veedel\" liegen die Nerven blank: Auch der Ladenbesitzer Adil Faras und die junge Mutter Nina Schmitz finden, man muss etwas tun. Sie haben sich der selbst ernannten Bürgerwehr \"Wacht am Rhein\" angeschlossen und patrouillieren, um die Straßen sicherer zu machen. Doch dann wird beim Überfall auf eine Zoohandlung der Sohn des Inhabers Peter Deisböck erschossen. Max Ballauf und Freddy Schenk ermitteln....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDkwZTgwZmQtZTE5OC00YjcyLTkzZmQtMDk1Mzc0MjA1M2Jh",
+      "duration": 5290,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wacht am Rhein (2017) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2017 +++ Im \"Veedel\" liegen die Nerven blank: Auch der Ladenbesitzer Adil Faras und die junge Mutter Nina Schmitz finden, man muss etwas tun. Sie haben sich der selbst ernannten Bürgerwehr \"Wacht am Rhein\" angeschlossen und patrouillieren, um die Straßen sicherer zu machen. Doch dann wird beim Überfall auf eine Zoohandlung der Sohn des Inhabers Peter Deisböck erschossen. Max Ballauf und Freddy Schenk ermitteln....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYTY4M2I1ZjAtZDMwZi00NTIwLTk0MGUtNTc2Y2M5NTZjZjZl",
+      "duration": 5290,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -697,169 +927,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NTE2MDYtNDMyMDQ2",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NTE2MDYtNDMyMDQ2L2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5217,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ich töte niemand",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2018 In einem heruntergekommenen Haus am Rande Nürnbergs werden zwei Leichen gefunden. Ein 58-jähriger Libyer und seine Schwester, beide wurden grausam mit einer Betonstahlstange erschlagen. Sie kamen vor 15 Jahren nach Deutschland, waren voll integriert und liegen nun seit Tagen in ihrem verwesten Blut. Die Brutalität der Tat ist erschütternd....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC80MjQ4YmYwYi1iOTVhLTQ4YmUtYmM5Yy0wMjNiNTBiMDhjYWNfb25saW5lYnJvYWRjYXN0",
-      "duration": 5303,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Rechnung ohne Wirt (1984) (klare Sprache)",
-      "type": "tv",
-      "overview": "+++ Kommissar Schimanski ist gut bekannt mit Guido, dem Wirt eines italienischen Restaurants. Guido steht unter Druck, er soll \"Schutzgeld\" zahlen, aber er weigert sich. Zuerst wird sein Lokal demoliert, dann schlägt man ihn zusammen. Er bleibt stur....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort Schimanski | restauriert in HD"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNjVmNWNiMjktYWQ4YS00YjNiLWE4YzctNzM4MDg0MzM5OTRl",
-      "duration": 5421,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Rechnung ohne Wirt (1984)",
-      "type": "tv",
-      "overview": "+++ Kommissar Schimanski ist gut bekannt mit Guido, dem Wirt eines italienischen Restaurants. Guido steht unter Druck, er soll \"Schutzgeld\" zahlen, aber er weigert sich. Zuerst wird sein Lokal demoliert, dann schlägt man ihn zusammen. Er bleibt stur....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort Schimanski | restauriert in HD"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZmE5OTViNWMtYjYwMC00MjA2LThmM2QtMzMzMTI1OTQ3MjkyL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5421,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Grenzgänger (1981) (klare Sprache)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1981 +++ Schimanskis Kollege und Freund, Inspektor Hollai, der drei Jahre als V-Mann im Untergrund gearbeitet hatte, ist aufgeflogen. (Version in klarer Sprache) Kurz zuvor hörte Hollai noch von einem \"Millionending\", das geplant ist: der Überfall auf einen Geldtransporter. Er ermittelt zusammen mit Schimanski....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort Schimanski | restauriert in HD"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTkwNjQzMTFlLTMwOTctNDg5Yy05YTRiLWRlYzhmY2Y4MzMwNw",
-      "duration": 5700,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Grenzgänger (1981)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1981 +++ Schimanskis Kollege und Freund, Inspektor Hollai, der drei Jahre als V-Mann im Untergrund gearbeitet hatte, ist aufgeflogen. Kurz zuvor hörte Hollai noch von einem \"Millionending\", das geplant ist: der Überfall auf einen Geldtransporter. Er ermittelt zusammen mit Schimanski. Dieser merkt, wie schwierig es für seinen Freund ist, die falsche Identität als Krimineller wieder abzulegen....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort Schimanski | restauriert in HD"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWJjZTQ4YmQ5LWRmOWUtNDBlZi04MGI4LTM4ZWFiMTc4ODg4MA",
-      "duration": 5549,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Elefant im Raum",
-      "type": "tv",
-      "overview": "Fernsehfilm Schweiz 2019 Ein gediegenes Dinner auf dem Vierwaldstättersee: Luzerns Elite aus Wirtschaft, Politik und Gesellschaft – und mitten drin Reto Flückiger (Stefan Gubser), der seine Freundin Eveline (Brigitte Beyeler) widerwillig zu diesem illustren Anlass begleitet....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS84OTRlOGUxNS01MWI3LTRhNjEtOGQ2OS0wYzJlMDUxN2JlN2ZfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5171,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Schmale Schultern (2009) (klare Sprache)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2009 +++ Jens Otten kann es nicht fassen: Seine Verlobte Regina Scheffler wurde ermordet. Unbekannte haben sie vom Balkon gestoßen. Ihre Wohnung wurde verwüstet und mit Graffiti beschmiert. Während Kommissar Schenk sich auf die Suche nach dem Graffiti-Sprayer macht, nimmt sein Kollege Ballauf das private Umfeld der Toten unter die Lupe. Und dort liegt einiges im Argen. +++ mit Klaus J....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTA2NGMwZTkxLTEwMzMtNDhiZS1hNDE5LWI5NTQ4ZDE1MmExZA",
-      "duration": 5310,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1226,6 +1295,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Vesper Chronicles (Englisch)",
+      "type": "tv",
+      "overview": "Nachdem das Ökosystem der Erde fast vollständig zerstört wurde, leben eine Jugendliche und ihr gelähmter Vater in katastrophalen Verhältnissen. Doch plötzlich scheint Rettung in Sicht.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/vesper-chronicles-movie-100/vesper-chronicles-100",
+      "duration": 6563,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Vesper Chronicles",
+      "type": "tv",
+      "overview": "Nachdem das Ökosystem der Erde fast vollständig zerstört wurde, leben eine Jugendliche und ihr gelähmter Vater in katastrophalen Verhältnissen. Doch plötzlich scheint Rettung in Sicht.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/vesper-chronicles-movie-100/vesper-chronicles-100",
+      "duration": 6563,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Subservience",
       "type": "tv",
       "overview": "Nick stellt aufgrund einer Herzoperation seiner Frau Maggie die humanoide Haushaltshilfe und Babysitterin Alice an, doch sie entwickelt sich bald zu einer Gefahr.",
@@ -1306,28 +1419,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/filme/booksmart-movie-100/booksmart-100",
       "duration": 5892,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Licorice Pizza",
-      "type": "tv",
-      "overview": "Ein Teenager und eine Mittzwangzigerin stoßen zwischen geschäftlichen Abenteuern und wirtschaftlichen Krisen auf ihre erste große Liebe.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/licorice-pizza-movie-100/licorice-pizza-102",
-      "duration": 7689,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1424,20 +1515,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Emily - Spielfilm, Großbritannien/USA 2022",
+      "title": "Die Toten am Meer - Der Wikinger - Fernsehfilm, Deutschland 2022",
       "type": "tv",
-      "overview": "Emily wächst als Pfarrerstochter im ländlichen Yorkshire auf, wo sie für sonderbar gehalten wird. Wohl fühlt sie sich nur, wenn sie sich schreibend in ihre Fantasiewelt zurückziehen kann.",
+      "overview": "Am Strand von Husum spült die Flut einen erschlagenen Wikingerkrieger an: Der ungewöhnliche \"Tote am Meer\" ist jedoch kein Fall für Historiker, sondern für Kommissarin Ria Larsen.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/emily-102.html",
-      "duration": 7507,
+      "url": "https://www.3sat.de/film/fernsehfilm/die-toten-am-meer--der-wikinger-krimi-100.html",
+      "duration": 5253,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1600,28 +1691,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Mutter, Kutter, Kind - Fernsehfilm, Deutschland 2021",
-      "type": "tv",
-      "overview": "Küstenfischerin Heddi ist selbstbewusst und hart im Nehmen. Doch das Kutterfischen war nie leicht, und in Zeiten der Überfischung kommt sie kaum noch über die Runden.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/fernsehfilm/mutter-kutter-kind-100.html",
-      "duration": 5329,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Der Froschkönig",
       "type": "tv",
       "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
@@ -1760,6 +1829,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Ehrlich Brothers: Was geben uns Geschwister?",
+      "type": "tv",
+      "overview": "Nähe, Streit, Rivalität: Geschwister begleiten uns oft ein Leben lang. Leon Windscheid spricht mit den Ehrlich Brothers über ihre Kindheit und fragt, wie Geschwister unsere Persönlichkeit prägen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/terra-xplore-ehrlich-brothers-was-geben-uns-geschwister-movie-100",
+      "duration": 2604,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Was ist deutsch? Die Geschichte der Migration",
       "type": "tv",
       "overview": "Bei uns reden manche von \"deutschen Wurzeln\" und lehnen Zuwanderer als \"fremd\" ab. Sie glauben an das \"Volk\" als homogene Gruppe. Doch wissenschaftlich ist das nicht haltbar.",
@@ -1774,28 +1865,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/dokus/terra-x-history-102/was-ist-deutsch-die-geschichte-der-migration-100",
       "duration": 2673,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "ZDFroyal: Kommt Prinz Harry zurück?",
-      "type": "tv",
-      "overview": "Seit dem Rückzug aus dem Königshaus eskalierte der Konflikt: Enthüllungen, Vorwürfe und Funkstille prägten das Verhältnis zu König Charles und Prinz William. Nun gab es erste Annäherungen.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X History"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/zdfroyal-kommt-prinz-harry-zurueck-movie-100/zdfroyal-kommt-prinz-harry-zurueck-100",
-      "duration": 2610,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1932,6 +2001,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Reisen in ferne Welten - Alaska Highway",
+      "type": "tv",
+      "overview": "Noch heute ist der Alaska Highway die einzige Straßenverbindung nach Alaska. In nur sieben Monaten wurde die Wildnisstraße durch den hohen Norden Nordamerikas im Sommer 1942 vom US-Militär gebaut. Eine 2400 Kilometer lange Piste durch unendliche Sümpfe und über noch namenlose Bergketten. Auf dem Highway sollte im Zweiten Weltkrieg Nachschub nach Alaska gebracht werden, um einen Angriff von Japan abzuwehren....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen und Reportagen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.sr-mediathek.de/index.php?seite=7&id=136844",
+      "duration": 2700,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2178,24 +2269,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Das Schicksal der Anne Boleyn (2/3)",
+      "title": "Systemfehler: Der Cum-Ex Skandal",
       "type": "tv",
-      "overview": "Das Schicksal der Anne Boleyn · Der Prozess",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQxMjY3Mg",
-      "duration": 2696,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2218,28 +2309,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2762,7 +2831,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVo",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5300,
       "providers": {
         "netflix": null,
@@ -2882,6 +2951,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Severin Groebner: ÜberHaltung",
+      "type": "tv",
+      "overview": "Sie bleibt Auslandskorrespondentin, er Krisengebiet: Severin Groebner brilliert am Abgrund. Severin Groebner spielt den treuen weißen Mann des Mittelalters, der seit Jahrzehnten vergeblich auf seine große Liebe wartet – sie als Auslandskorrespondentin, er als selbsternanntes Krisengebiet. Mit scharfem Humor und aufrechter Haltung streift er Themen wie Social Media, Body Positivity, Laktosetoleranz und simulierte Ehrlichkeit....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14336586/severin-groebner-ueberhaltung",
+      "duration": 3424,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Lydia Prenner-Kasper - Salon Lydia",
       "type": "tv",
       "overview": "Ein humorvollen Seelenstriptease: Das Chaos des Lebens charmant zerlegt und scharfsinnig serviert. Mit viel Wiener Schmäh und treffsicherem Humor lädt Lydia Prenner-Kasper in den \"Salon Lydia\" – einen Ort voller kabarettistischer Glückseligkeit. In stilvoller Atmosphäre philosophiert sie über die Absurditäten des Alltags, erzählt von den Sonnen- und Schattenseiten des Lebens und nimmt dabei auch sich selbst pointiert aufs Korn....",
@@ -2962,28 +3053,6 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14334690/gernot-kulis-kulisionen-2-2",
       "duration": 2827,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Gernot Kulis: Kulisionen (1/2)",
-      "type": "tv",
-      "overview": "Zwischen Alltag, Anrufen und Absturz: Gernot Kulis zeigt sein Leben im Ausnahmezustand. Gernot Kulis wird 50 – und feiert das Jubiläum mit einer pointenreichen Stand-up-Show voller Stimmen, Figuren und Alltagschaos. In \"Kulisionen\" nimmt der Comedian das Publikum mit hinter die Kulissen seines Lebens zwischen Bühnenruhm und privaten Pannen....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14334689/gernot-kulis-kulisionen-1-2",
-      "duration": 2967,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3080,6 +3149,98 @@
     },
     {
       "tmdb_id": null,
+      "title": "Adolf Kanter - Der Spion, der zu viel wusste",
+      "type": "tv",
+      "overview": "Hinter dem in den 1980ern als Flick-Affäre bekannt gewordenen Schmiergeldskandal verbirgt sich tatsächlich ein deutsch-deutscher Spionagekrimi, der den frisch gewählten Kanzler Helmut Kohl die Karriere hätte kosten können. Die Doku enthüllt die Verstrickungen der DDR in den Flick-Parteispendenskandal und ihren Zugang zum Bonner Kanzleramt der 1980er Jahre.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/109370-000-A/adolf-kanter-der-spion-der-zu-viel-wusste/",
+      "duration": 2669,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die letzten Tage von Kabul (3/3) - Der Fall von Kabul",
+      "type": "tv",
+      "overview": "Die USA schließen ein Friedensabkommen mit den Taliban. Ohne die Unterstützung der USA zerfällt die afghanische Armee, die Taliban erobern 2021 in rasantem Tempo das Land und stehen am 15. August vor Kabul. Panik bricht aus, Tausende Menschen drängen zum Flughafen. Während Präsident Ashraf Ghani flieht, versinkt die Hauptstadt im Chaos.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116084-003-A/die-letzten-tage-von-kabul-3-3/",
+      "duration": 3641,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die letzten Tage von Kabul (2/3) - Amerikas Krieg",
+      "type": "tv",
+      "overview": "Nach dem Sturz der Taliban 2001 wurde eine internationale Koalition nach Afghanistan entsandt, um Terrorismus zu bekämpfen und das Land zu stabilisieren. Die Aussicht auf Wiederaufbau brachte Millionen Rückkehrer zurück ins Land. Doch die Hoffnung auf Frieden und Demokratie scheiterte an Korruption und Gewalt.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116084-002-A/die-letzten-tage-von-kabul-2-3/",
+      "duration": 3635,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die letzten Tage von Kabul (1/3) - Verlorenes Land",
+      "type": "tv",
+      "overview": "Am 15. August 2021 übernehmen die Taliban Kabul – das dramatische Ende eines 20-jährigen internationalen Einsatzes. Wie begann alles? Die persönlichen Geschichten afghanischer und internationaler Akteure führen zurück zu den Ursprüngen der Taliban und den Anschlägen vom 11. September.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116084-001-A/die-letzten-tage-von-kabul-1-3/",
+      "duration": 3627,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der Dresdner Zwinger - Sachsens Pracht und Prunk",
       "type": "tv",
       "overview": "August der Starke, Sachsens ehrgeiziger Herrscher, wollte in Dresden mit Pracht und Prunk auftrumpfen wie Frankreichs Sonnenkönig. Herzstück seiner Residenzstadt ist ein Ensemble, darunter der Zwinger, in dem heute Bilder wie die weltberühmte \"Sixtinische Madonna\" zu bewundern sind. Der Film erzählt die Geschichten, die sich um den Zwinger und das historische Dresden ranken.",
@@ -3164,98 +3325,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/127008-000-A/die-queen-und-ich/",
       "duration": 2620,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die schnellsten Beine der Welt",
-      "type": "tv",
-      "overview": "Am 4. August 2024 haben rund drei Milliarden Menschen weltweit das 100-Meter-Finale der 33. Olympischen Sommerspiele aus dem Pariser Stade de France live mitverfolgt. Der seit mehr als 200 Jahren ausgetragene Wettkampf hat eine hohe Symbolkraft und wirft die Frage auf, ob die menschliche Fähigkeit, so schnell zu laufen, angeboren, erlernt oder vielleicht sogar schädlich ist.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/114617-000-A/die-schnellsten-beine-der-welt/",
-      "duration": 3147,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Das Geheimnis von Santorini",
-      "type": "tv",
-      "overview": "Vor rund 3.600 Jahren zerriss eine Eruption, größer als die von Pompeji, die Insel Santorini und überzog das östliche Mittelmeer mit einer dicken Ascheschicht. Ist es möglich, dass dieser Ausbruch das Ende der Minoer einläutete – der ersten Hochkultur Europas? Sensationelle Funde zeigen, wie gefährlich ein erneuter Ausbruch selbst für weit entfernte Regionen werden kann.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110277-000-A/das-geheimnis-von-santorini/",
-      "duration": 5240,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Norden auf Super 8: Familie und Wohnen (2/3)",
-      "type": "tv",
-      "overview": "Das außergewöhnliche Geschichtsformat erzählt aus der Perspektive von Amateurfilmern, was in den ersten Jahrzehnten nach dem Zweiten Weltkrieg den Norden prägte. 162 Filmrollen von 14 Amateurfilmern sind die Basis für eine emotionale und filmische Reise zu den norddeutschen Wurzeln. Zeitzeugen aus Ostfriesland erinnern sich an die Armut in den 1950er Jahren und wie sie bei der Tante in der Stadt, stundenlang eine Wand anstarrten....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Unsere Geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI4MDc3NV9nYW56ZVNlbmR1bmc",
-      "duration": 2642,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "100 Jahre Route 66 - Highway der Träume?",
-      "type": "tv",
-      "overview": "Die Route 66 steht auf vielen Bucket Lists: einmal von Chicago nach Los Angeles fahren. Erleben, was man aus Filmen kennt: die Weite der Plains, die Wüsten, die kleinstädtischen USA. Auch nach 100 Jahren steht die Route 66 für Freiheit und das Glücksversprechen Amerikas. Zugleich erzählt sie von den Menschen abseits der Erfolgsgeschichte – und von den Widersprüchen der USA.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/122158-000-A/100-jahre-route-66/",
-      "duration": 5405,
       "providers": {
         "netflix": null,
         "prime": null,
