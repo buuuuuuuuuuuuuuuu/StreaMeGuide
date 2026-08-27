@@ -1,7 +1,63 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-26T05:25:06.821Z",
+  "generated_at": "2026-08-27T16:00:09.555Z",
   "items": [
+    {
+      "tmdb_id": 1516698,
+      "title": "The Last Sunrise",
+      "type": "movie",
+      "overview": "Basierend auf dem beliebten Roman erzählt \"The Last Sunrise\" die Geschichte von Ry, einer chronisch kranken Studentin, die einen Sommerurlaub auf Mallorca mit ihrer Mutter verbringt. Als sie sich in Julián verliebt und lernt, im Moment zu leben, drohen ihr Gesundheitszustand und lang gehegte Familiengeheimnisse vor Sommerende alles zu zerstören.",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "spain",
+        "based on novel or book",
+        "tension",
+        "summer",
+        "chronic illness",
+        "appreciative",
+        "audacious",
+        "comforting",
+        "enthusiastic"
+      ],
+      "rating": 7.881,
+      "vote_count": 21,
+      "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1383731,
+      "title": "Protector",
+      "type": "movie",
+      "overview": "Nikki ist eine Kriegsheldin, will ihre gewaltvolle Vergangenheit aber nun endlich hinter sich lassen und sich ganz dem Familienleben mit ihrer Tochter Chloe widmen. Doch ein Leben in Frieden scheint ihr nicht vergönnt, denn eines Tages erwacht sie in einer verlassenen Fabrikhalle und stellt fest: Ihre Tochter wurde entführt! Nikki bleibt nichts anderes übrig, als sich auf ihre ausgeprägten kämpferischen Fähigkeiten zu besinnen, um ihre Tochter zurückzubekommen. Sie begibt sie in die Unterwelt der Stadt, um die Entführer aufzuspüren. Weil sie dabei aber ordentlich Staub aufwirbelt, sind ihr auch schon bald die Polizei und das Militär auf den Fersen.",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "keywords": [
+        "kidnapping",
+        "rescue mission",
+        "war hero",
+        "underworld",
+        "action"
+      ],
+      "rating": 8.449,
+      "vote_count": 540,
+      "poster_path": "/2QArqwbtw4gXVfpE6yMnSVxTwmn.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1383731-protector/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1621552,
       "title": "Die Festnahme",
@@ -16,13 +72,51 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.385,
-      "vote_count": 148,
+      "rating": 8.749,
+      "vote_count": 213,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 687163,
+      "title": "Der Astronaut - Project Hail Mary",
+      "type": "movie",
+      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+      "genres": [
+        "Science Fiction",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "friendship",
+        "coma",
+        "based on novel or book",
+        "bravery",
+        "sun",
+        "language barrier",
+        "space travel",
+        "space mission",
+        "alien",
+        "space",
+        "memory loss",
+        "astronaut",
+        "scientist",
+        "science teacher",
+        "save the planet",
+        "spaceship",
+        "interspecies friendship"
+      ],
+      "rating": 8.648,
+      "vote_count": 7357,
+      "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -48,13 +142,36 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.087,
-      "vote_count": 3126,
+      "rating": 8.092,
+      "vote_count": 3150,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 246246,
+      "title": "Beauty in Black",
+      "type": "tv",
+      "overview": "Das Schicksal einer Stripperin nimmt eine Wendung, als sie auf eine reiche, dysfunktionale Familie mit einer Kosmetikdynastie stößt, die perfiden Menschenhandel betreibt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "business",
+        "entrepreneur",
+        "sex work"
+      ],
+      "rating": 8.2,
+      "vote_count": 256,
+      "poster_path": "/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/246246-beauty-in-black/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -87,13 +204,74 @@
         "premier league",
         "joyful"
       ],
-      "rating": 8.362,
-      "vote_count": 2589,
+      "rating": 8.4,
+      "vote_count": 2591,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 252751,
+      "title": "Leanne",
+      "type": "tv",
+      "overview": "Als ihr Mann sie wegen einer anderen Frau verlässt, wagt eine zähe Südstaaten-Frau einen Neubeginn, unterstützt von ihrer liebevollen, aber tabulosen Familie.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "church",
+        "divorce",
+        "belief in god",
+        "sitcom",
+        "grandchild",
+        "adult children",
+        "sister sister relationship",
+        "husband leaves wife",
+        "elderly parents",
+        "unfiltered",
+        "knoxville, tennessee"
+      ],
+      "rating": 7.1,
+      "vote_count": 21,
+      "poster_path": "/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/252751-leanne/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 207333,
+      "title": "Hundert Jahre Einsamkeit",
+      "type": "tv",
+      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "affectation",
+        "miniseries",
+        "magic realism",
+        "nostalgic",
+        "latin american history",
+        "political",
+        "period piece",
+        "intimate"
+      ],
+      "rating": 8,
+      "vote_count": 245,
+      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -129,7 +307,7 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.8,
+      "rating": 8.751,
       "vote_count": 5498,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
@@ -157,8 +335,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.093,
-      "vote_count": 1411,
+      "rating": 8.095,
+      "vote_count": 1423,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -190,147 +368,12 @@
         "adventure"
       ],
       "rating": 8.245,
-      "vote_count": 1244,
+      "vote_count": 1246,
       "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
       "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 303351,
-      "title": "Blutopfer",
-      "type": "tv",
-      "overview": "Nach dem brutalen Mord an zwei Polizist*innen verbündet sich ein Kommissar widerwillig mit seinem entfremdeten Vater, einem Ex-Polizisten, um den Mörder zu fassen.",
-      "genres": [
-        "Drama",
-        "Krimi",
-        "Mystery"
-      ],
-      "keywords": [
-        "detective",
-        "cop-killer",
-        "stockholm, sweden",
-        "ex-cop",
-        "serial killer",
-        "estranged father",
-        "nordic noir",
-        "thriller"
-      ],
-      "rating": 5.947,
-      "vote_count": 19,
-      "poster_path": "/7XLnpb7I9gTzwCUZiyDSiU29yCd.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/303351-blodsoffer/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "type": "tv",
-      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
-      "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "magic",
-        "teleportation",
-        "reincarnation",
-        "polygamy",
-        "harem",
-        "romance",
-        "displacement",
-        "second chance",
-        "fantasy world",
-        "seinen",
-        "ecchi",
-        "anime",
-        "high fantasy",
-        "search for mother",
-        "neet",
-        "life challenges",
-        "other world",
-        "sword and sorcery",
-        "isekai",
-        "otaku",
-        "erotic",
-        "fantasy",
-        "based on light novel",
-        "adventure"
-      ],
-      "rating": 8.41,
-      "vote_count": 1685,
-      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 60625,
-      "title": "Rick and Morty",
-      "type": "tv",
-      "overview": "Rick ist ein geistig unausgeglichener, aber wissenschaftlich begabter alter Mann, der vor kurzem wieder mit seiner Familie zusammengefunden hat. Er verbringt die meiste Zeit damit, seinen jungen Enkel Morty in gefährliche, ausgefallene Abenteuer im Weltraum und in alternativen Universen zu verwickeln. Zusammen mit Mortys ohnehin schon instabilem Familienleben verursachen diese Ereignisse Morty viel Kummer zu Hause und in der Schule.",
-      "genres": [
-        "Animation",
-        "Komödie",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "keywords": [
-        "time travel",
-        "grandfather",
-        "alcoholism",
-        "alien",
-        "dysfunctional family",
-        "mad scientist",
-        "scientist",
-        "adult animation",
-        "father figure",
-        "machinist",
-        "multiple dimensions",
-        "spaceship"
-      ],
-      "rating": 8.683,
-      "vote_count": 11318,
-      "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 283297,
-      "title": "Sterling Point",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "keywords": [
-        "romantic drama",
-        "adoring",
-        "compassionate"
-      ],
-      "rating": 8.2,
-      "vote_count": 99,
-      "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/283297-sterling-point/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -353,8 +396,8 @@
         "excited",
         "dangerous rain"
       ],
-      "rating": 6.922,
-      "vote_count": 1046,
+      "rating": 6.929,
+      "vote_count": 1066,
       "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
       "providers": {
@@ -383,8 +426,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.389,
-      "vote_count": 4610,
+      "rating": 8.392,
+      "vote_count": 4621,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -428,7 +471,7 @@
         "gritty"
       ],
       "rating": 7.959,
-      "vote_count": 4318,
+      "vote_count": 4319,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -463,8 +506,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.545,
-      "vote_count": 3486,
+      "rating": 8.5,
+      "vote_count": 3488,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -474,125 +517,31 @@
       }
     },
     {
-      "tmdb_id": 329,
-      "title": "Jurassic Park",
+      "tmdb_id": 1858,
+      "title": "Transformers",
       "type": "movie",
-      "overview": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
+      "overview": "Zwei außerirdische Roboterrassen, die den Menschen gut gesinnten Autobots und die zerstörerischen Decepticons, kommen auf die Erde und tragen dort ihren Kampf gegeneinander aus. Es stellen sich ihnen nur wenige mutige Menschen in den Weg - wie Teenager Sam, der zum Geburtstag einen Autobot \"geschenkt\" bekam. Zusammen mit dem Militär, einigen Zivilisten und seiner Freundin Mikaela beginnt ein verzweifelter Kampf ums Schicksal der Menschheit...",
       "genres": [
         "Abenteuer",
-        "Science Fiction"
+        "Science Fiction",
+        "Action"
       ],
       "keywords": [
-        "exotic island",
-        "island",
-        "triceratops",
-        "brontosaurus",
-        "electric fence",
-        "dna",
-        "tyrannosaurus rex",
-        "paleontology",
-        "dinosaur",
-        "amusement park",
-        "theme park"
-      ],
-      "rating": 8,
-      "vote_count": 18240,
-      "poster_path": "/zgvLWNSKBrufJM8OAtVxJ2s7Nf8.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/329-jurassic-park/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219721.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 63351,
-      "title": "Narcos",
-      "type": "tv",
-      "overview": "Diese düstere Gangster-Dramaserie basiert auf der wahren Geschichte der berüchtigten, gewalttätigen und einflussreichen Drogenkartelle Kolumbiens.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "cocaine",
-        "drug dealer",
-        "outlaw",
-        "based on true story",
-        "drug cartel",
-        "conflict",
-        "drugs",
-        "drug lord",
-        "illegal drugs",
-        "dea",
-        "narcotics",
-        "angry",
-        "cartel",
-        "1980s",
-        "escobar",
-        "pablo escobar",
-        "dark",
-        "narcos",
-        "colombia",
-        "gritty",
-        "thriller",
-        "action",
-        "harsh"
-      ],
-      "rating": 8.078,
-      "vote_count": 3412,
-      "poster_path": "/bZYjPDckPXIA75RGeqk00eOJAbI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/63351-narcos/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219723.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 5548,
-      "title": "RoboCop",
-      "type": "movie",
-      "overview": "Detroit in naher Zukunft. Die Kriminalitätsrate ist drastisch angestiegen. Eine Lösung bietet das RoboCop-Programm der Firma Omni, die auch die Polizei übernommen hat. Als der Polizist Murphy von Bandenchef Clarence und seinen Männern zusammengeschossen wird, verwandelt man den Körper des Toten in eine stählerne, hochgerüstete Law &amp; Order-Maschine. Obwohl perfekt programmiert, ist seine Erinnerung nicht vollständig ausgelöscht worden. Murphy macht sich auf die Suche nach seinen Mördern und entdeckt, daß der Drahtzieher hinter Clarance' Verbrechen, Jones, in der Chefetage von Omni sitzt. Nachdem Murphy Clarence ausgeschaltet hat, kann er auch Jones töten.",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "keywords": [
-        "experiment",
-        "cyborg",
-        "crime fighter",
-        "dystopia",
-        "allegory",
+        "transformation",
+        "destroy",
+        "alien",
+        "based on toy",
         "giant robot",
-        "evil corporation",
-        "cyberpunk",
-        "transhumanism",
-        "detroit, michigan",
-        "law enforcement",
-        "gentrification",
-        "corrupt system",
-        "megacorporation",
-        "ghosts of the past",
-        "shocking",
-        "deep",
-        "emotional"
+        "robot",
+        "duringcreditsstinger",
+        "teenage hero",
+        "griffith observatory",
+        "alien robot"
       ],
-      "rating": 7.364,
-      "vote_count": 5901,
-      "poster_path": "/kYXkZRA5DVrfU30NTnSlMifYHoK.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/5548-robocop/watch?locale=DE",
+      "rating": 6.843,
+      "vote_count": 12468,
+      "poster_path": "/qtjn8nYcl8gX3owkqi0BmYbE14R.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1858-transformers/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -600,54 +549,56 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219731.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000220107.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 78191,
-      "title": "You - Du wirst mich lieben",
+      "tmdb_id": 249042,
+      "title": "Adolescence",
       "type": "tv",
-      "overview": "Ein gefährlicher, aber äußerst charmanter junger Mann mit obsessiven Tendenzen zieht alle Register, um Teil des Lebens seiner Angebeteten zu werden.",
+      "overview": "Als ein 13-Jähriger des Mordes an einer Mitschülerin verdächtigt wird, wollen seine Familie, seine Psychologin und der leitende Ermittler herausfinden, was passiert ist.",
       "genres": [
-        "Mystery",
-        "Krimi",
-        "Drama"
+        "Drama",
+        "Krimi"
       ],
       "keywords": [
-        "new york city",
-        "based on novel or book",
-        "jealousy",
-        "infidelity",
-        "cheating",
-        "obsession",
-        "female friendship",
-        "addiction",
-        "stalker",
-        "love",
+        "england",
+        "sexism",
+        "violence against women",
+        "patriarchy",
+        "bullying",
         "murder",
-        "serial killer",
-        "literary agent",
-        "psychological thriller",
-        "writer",
-        "relationship",
-        "fatal attraction",
-        "obsessive love",
+        "family relationships",
+        "miniseries",
+        "parenting",
+        "confrontation",
+        "insecurity",
+        "teenage boy",
+        "blunt",
+        "visceral",
+        "mental health",
+        "misogyny",
+        "british youth",
         "social media",
-        "voyeur",
-        "mind game",
-        "dark romance",
-        "dark",
-        "psychological",
-        "childhood memory",
-        "essay",
-        "thriller",
-        "bookstore"
+        "british school system",
+        "social structures",
+        "objectification",
+        "single take",
+        "teenage killer",
+        "thought provoking",
+        "today's youth",
+        "psychological drama",
+        "intense",
+        "foreboding",
+        "slut shaming",
+        "andrew tate",
+        "today's society"
       ],
-      "rating": 8.004,
-      "vote_count": 4056,
-      "poster_path": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/78191-you/watch?locale=DE",
+      "rating": 7.821,
+      "vote_count": 1720,
+      "poster_path": "/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/249042-adolescence/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -655,15 +606,15 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219654.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000220087.html",
         "mentions": 2
       }
     },
     {
       "tmdb_id": null,
-      "title": "Brüder (1997)",
+      "title": "Die kleine Zeugin",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1997 +++ Eine Studentin wird am Steuer einer Limousine erschossen. Das Merkwürdige: Ihr Wagen war gepanzert, die tödliche Kugel ein Stahlmantelgeschoss. Der Wagen war für den Spitzenkandidaten der \"Bürgerpartei\", den Anwalt Karl Flemming, geleast. Galt der Anschlag also dem Politiker und war der Mord an Birgit Lauffer, Mitarbeiterin im Wahlkampfteam, nur ein \"Versehen\"?...",
+      "overview": "Ein illegales Straßenkind beobachtet den Mord an einer schönen Frau mitten in der Nacht in einem Parkhaus. Es ist dem Mörder begegnet, hat ihm einen Moment lang in die Augen geschaut. Kommissarin Lena Odenthal möchte das Vertrauen des Kindes gewinnen. Doch sie scheitert an seinem Schweigen. Sie ahnt, dass das Kind unmittelbar bedroht ist. Ein Wettlauf gegen die Zeit beginnt....",
       "genres": [
         "Krimi",
         "Drama"
@@ -674,8 +625,31 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWE5YWU2YzJlLTM3ODUtNGY1Ni1iOTUxLWI0MGU2OTcyM2MzZg",
-      "duration": 5255,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDUyNTc",
+      "duration": 5333,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatort: Das Haus am Ende der Straße",
+      "type": "tv",
+      "overview": "Kriminalfilm Deutschland 2015 In seinem letzten Fall wird Kommissar Steier von seiner Alkoholsucht eingeholt: In einem Strafprozess um den Tod eines kleinen Mädchens wird seine Zeugenaussage in Zweifel gezogen und der Angeklagte freigelassen. Steier quittiert den Dienst und fasst einen folgenschweren Entschluss. Mit Joachim Król, Armin Rohde, Maik Rogge, Vincent Krüger, Janina Schauer u.a....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmc",
+      "duration": 5327,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -707,9 +681,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Liebe mich! (2022)",
+      "title": "Brüder (1997)",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 20222 +++Vor einem Jahr verschwand Feline Wagner, eine Freundin meldete sie damals als vermisst. Jetzt wird ihre Leiche in einem Bestattungswald gefunden. Rosa Herzog und Jan Pawlak nehmen Kontakt zum Bestattungsunternehmen Ihle auf: Hier wurde die Grabstätte reserviert, wenige Tage nach dem Verschwinden von Feline Wagner. Es wurde bar bezahlt, von einem Mann, der einen falschen Namen angab....",
+      "overview": "Fernsehfilm Deutschland 1997 +++ Eine Studentin wird am Steuer einer Limousine erschossen. Das Merkwürdige: Ihr Wagen war gepanzert, die tödliche Kugel ein Stahlmantelgeschoss. Der Wagen war für den Spitzenkandidaten der \"Bürgerpartei\", den Anwalt Karl Flemming, geleast. Galt der Anschlag also dem Politiker und war der Mord an Birgit Lauffer, Mitarbeiterin im Wahlkampfteam, nur ein \"Versehen\"?...",
       "genres": [
         "Krimi",
         "Drama"
@@ -720,8 +694,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OQ",
-      "duration": 5330,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWE5YWU2YzJlLTM3ODUtNGY1Ni1iOTUxLWI0MGU2OTcyM2MzZg",
+      "duration": 5255,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -744,6 +718,29 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTdhYmU0NWE3LWUzODgtNGM5Yy04NWZmLWM1Y2M4NjIzMzM4OA",
+      "duration": 5330,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Liebe mich! (2022)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 20222 +++Vor einem Jahr verschwand Feline Wagner, eine Freundin meldete sie damals als vermisst. Jetzt wird ihre Leiche in einem Bestattungswald gefunden. Rosa Herzog und Jan Pawlak nehmen Kontakt zum Bestattungsunternehmen Ihle auf: Hier wurde die Grabstätte reserviert, wenige Tage nach dem Verschwinden von Feline Wagner. Es wurde bar bezahlt, von einem Mann, der einen falschen Namen angab....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OQ",
       "duration": 5330,
       "providers": {
         "netflix": null,
@@ -883,52 +880,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIxNDc2Njg",
       "duration": 5328,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ausgeklinkt",
-      "type": "tv",
-      "overview": "Ein Mann wird auf brutale Weise getötet. Er war Patient in einer psychiatrischen Klinik. Kommissarin Wiegand kennt den Ermordeten. Erst vor zwei Wochen erschien der Mann im Kommissariat und wollte etwas mitteilen, ohne bei ihr Gehör gefunden zu haben. Wie kam dieser Mann so plötzlich in die psychiatrische Klinik? Mit Karin Anselm, Michael Lesch, Wolfgang Hinze, Helmut Zierl, Helga Grimme Regie Sylvia Hoffman",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDQ3MDI",
-      "duration": 5631,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Außer Kontrolle",
-      "type": "tv",
-      "overview": "Die Leipziger Kommissare Ehrlicher und Kain untersuchen den Tod des Stadtstreichers Eddie Löser. Der Tote ist ein alter Schulfreund von Kain. Doch die Spuren führen zu einem Netz aus Intrigen und persönlichen Dramen.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NTE2MDYtNDMyMDQ2L2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5217,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1295,7 +1246,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Vesper Chronicles (Englisch)",
+      "title": "Vesper Chronicles",
       "type": "tv",
       "overview": "Nachdem das Ökosystem der Erde fast vollständig zerstört wurde, leben eine Jugendliche und ihr gelähmter Vater in katastrophalen Verhältnissen. Doch plötzlich scheint Rettung in Sicht.",
       "genres": [
@@ -1317,7 +1268,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Vesper Chronicles",
+      "title": "Vesper Chronicles (Englisch)",
       "type": "tv",
       "overview": "Nachdem das Ökosystem der Erde fast vollständig zerstört wurde, leben eine Jugendliche und ihr gelähmter Vater in katastrophalen Verhältnissen. Doch plötzlich scheint Rettung in Sicht.",
       "genres": [
@@ -1983,28 +1934,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Longevity - für immer jung?",
-      "type": "tv",
-      "overview": "Longevity: Alle wollen lange leben, aber alt sein will niemand. Biohacking verspricht ewige Jugend. Super-Ager setzen auf ein positives Mindset. Psychologe Leon Windscheid ist dem Hype auf der Spur.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra Xplore"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/longevity---fuer-immer-jung-movie-100",
-      "duration": 2610,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Reisen in ferne Welten - Alaska Highway",
       "type": "tv",
       "overview": "Noch heute ist der Alaska Highway die einzige Straßenverbindung nach Alaska. In nur sieben Monaten wurde die Wildnisstraße durch den hohen Norden Nordamerikas im Sommer 1942 vom US-Militär gebaut. Eine 2400 Kilometer lange Piste durch unendliche Sümpfe und über noch namenlose Bergketten. Auf dem Highway sollte im Zweiten Weltkrieg Nachschub nach Alaska gebracht werden, um einen Angriff von Japan abzuwehren....",
@@ -2017,7 +1946,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.sr-mediathek.de/index.php?seite=7&id=136844",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9EVVJfMTM2ODQ0",
       "duration": 2700,
       "providers": {
         "netflix": null,
@@ -2247,20 +2176,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Als Maria ins Dorf kam – Die Marienerscheinungen in Marpingen",
+      "title": "Unser Immunsystem - Wächter der Gesundheit",
       "type": "tv",
-      "overview": "Sommer 1999 – Ausnahmezustand im saarländischen Marpingen. Im Härtelwald erscheint mehrfach die Gottesmutter Maria, das sagen Christine, Marion und Judith, die drei Seherinnen. Zehntausende Gläubige aus ganz Europa, den USA und sogar Südkorea rücken an – in das kleine Dorf im Nordsaarland.",
+      "overview": "Das Immunsystem ist so unverzichtbar für den Menschen wie das Herz oder die Lunge. Es sorgt fürs Überleben, kann sich aber auch gegen uns selbst richten und uns dabei schaden. Es ist komplex und faszinierend zugleich. Spätestens seit der Corona-Krise steht das Immunsystem im Mittelpunkt der Medizinforschung. Was ist das Immunsystem? Wie lässt es sich stärken? Wann und warum kann es scheitern?...",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen und Reportagen"
+        "Doku & Reportage"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9EVVJfMTQ3Mzc3",
-      "duration": 2700,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9iYTY5YmVmNi1hZDNkLTQ1NTMtODI5Mi1jNzIzNzM0YWJkM2Q",
+      "duration": 3165,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2335,46 +2264,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Weltberühmt & depressiv: Von Sisi bis Adenauer",
+      "title": "Kritisch Reisen: Nordseeinseln - Wird der Urlaub unbezahlbar?",
       "type": "tv",
-      "overview": "Der \"Besuch vom schwarzen Hund\" oder \"Melancholie\"? Die Krankheit Depression kennt in der Geschichte viele Namen. Psychologe Leon Windscheid blickt für die Doku in die Vergangenheit.",
+      "overview": "Urlaub auf einer Nordseeinsel: In Zeiten steigender Kerosinpreise und abgesagter Flüge bieten die inländischen Ziele vor den Küsten nicht nur eine garantierte Erreichbarkeit. In Zeiten sommerlicher Hitzerekorde in den Urlaubsregionen im Süden Europas stehen sie auch für gut verträgliche Klimabedingungen. Die \"Kritisch Reisen\"-Autoren Dirk Bitzer und Fritz Sprengart besuchen Norderney, Amrum und Pellworm....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokus"
+        "die story"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/dokus/weltberuehmt-und-depressiv-von-sisi-bis-adenauer-movie-100",
-      "duration": 2625,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNWEwNGU2MDctNmNhYi00MTc5LTk1M2ItZDI5OTBmNzNhMGVh",
+      "duration": 2651,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "ZDFroyal: Die Queen und ich",
-      "type": "tv",
-      "overview": "Für viele schien sie unsterblich, für manche bleibt sie es: Elizabeth II. - die Jahrhundertkönigin. Vertraute aus dem \"Inner Circle\" teilen für ZDFroyal erstmals ihre Erinnerungen an die Queen.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/zdfroyal-die-queen-und-ich-movie-100",
-      "duration": 2622,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2467,24 +2374,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "Im Land der halben Dörfer",
+      "title": "Kurzschluss - Prinzip Stadt",
       "type": "tv",
-      "overview": "Bernd Pieper steht vor seinem alten Haus in Keyenberg, das eigentlich im großen Loch des Braunkohletagebaus Garzweiler II verschwinden sollte. Er ist in Keyenberg groß geworden, hat sein Haus mit eigenen Händen gebaut für seine Familie. Schützenverein, Kirche, Nachbarschaft – das war alles Heimat. Und sollte dem Tagebau geopfert werden....",
+      "overview": "(1) Bad for a Moment (2) Begegnung: Daniel Soares (3) Acid City (4) Zoom: Acid City",
       "genres": [
-        "Dokumentarfilm"
+        "Drama"
       ],
       "keywords": [
-        "die story"
+        "Kino - Kurzfilme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTljNTNkYTUtY2U5OC00NmEzLTlmODktYjNkZjY1ZDMxMzI3",
-      "duration": 3286,
+      "url": "https://www.arte.tv/de/videos/130048-006-A/kurzschluss/",
+      "duration": 2588,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die innere Sicherheit",
+      "type": "tv",
+      "overview": "Zusammen mit ihren Eltern hat die 15-jährige Jeanne ihr Leben lang im Untergrund gelebt. Die Ausreise aus Portugal steht bevor, als plötzlich der ganze Plan zusammenbricht: Die Familie tritt die Flucht nach Deutschland an...",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/021939-000-A/die-innere-sicherheit/",
+      "duration": 6047,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Phoenix",
+      "type": "tv",
+      "overview": "Deutschland nach dem Krieg: Schwer verletzt hat Nelly das Konzentrationslager überlebt und trifft nach einer Gesichtsoperation auf ihren Mann. Doch Johnny erkennt sie nicht. Er engagiert sie jedoch, in dem Glauben, dass seine Frau tot ist, als Doppelgängerin, um an das Erbe ihrer Familie zu kommen. Nelly möchte wissen: Hat Johnny sie je geliebt – oder vielleicht sogar verraten?",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/050833-000-A/phoenix/",
+      "duration": 5488,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2591,72 +2542,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/092916-000-A/abteil-nr-6/",
       "duration": 6034,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Je suis Karl",
-      "type": "tv",
-      "overview": "Ein Bombenattentat zerreißt Maxis Leben. In ihrer Trauer lernt sie Karl kennen, der ihr Halt verspricht. Doch es zeichnet sich ab, dass Karl nicht der ist, für den er sich ausgibt. \"Je suis Karl\" zeigt, wie rechtsextreme Bewegungen gesellschaftliche Ängste schüren und nutzen, um junge Menschen für ihre Ideologie zu gewinnen. Ein politisches Drama von Christian Schwochow.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/088387-000-A/je-suis-karl/",
-      "duration": 6895,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mein Leben, mein Ding",
-      "type": "tv",
-      "overview": "Mit 55 Jahren gerät Barberie Bichette, kurz Barbie, in eine Lebenskrise. Zwischen Selbstzweifeln, familiären Spannungen und skurrilen Begegnungen versucht sie, ihrem Leben eine neue Richtung zu geben. Die letzte Tragikomödie von Sophie Fillières, erzählt mit feinem Humor und Melancholie, ist das eigenwillige Porträt einer Frau auf der Suche nach sich selbst.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/127945-000-A/mein-leben-mein-ding/",
-      "duration": 5672,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sir Michael Caine - Vom Arbeiterkind zum Hollywoodstar",
-      "type": "tv",
-      "overview": "Michael Caine blickt auf eine glänzende Karriere zurück: Der Oscar-Preisträger drehte mehr als 150 Filme unter anderem mit Shirley MacLaine oder Jane Fonda, arbeitete mit großen Regisseuren wie Paolo Sorrentino oder Christopher Nolan. Der Weg dorthin war schwer für ein Kind aus der Arbeiterklasse.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/096285-000-A/sir-michael-caine-vom-arbeiterkind-zum-hollywoodstar/",
-      "duration": 3166,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2831,7 +2716,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVo",
       "duration": 5300,
       "providers": {
         "netflix": null,
@@ -3149,6 +3034,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Mallorca - Tod im Paradies",
+      "type": "tv",
+      "overview": "In den 1930er Jahren wird Mallorca zu einem Fluchtpunkt für Emigrantinnen und Emigranten aus Deutschland. Im demokratischen Spanien der Zweiten Republik fühlen sie sich in Sicherheit. Auf der paradiesischen Insel versuchen sie, sich neue Existenzen aufzubauen. Doch als im Juli 1936 General Franco gegen die Republik putscht, wird Mallorca über Nacht zur tödlichen Falle ...",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/105593-000-A/mallorca-tod-im-paradies/",
+      "duration": 3147,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Adolf Kanter - Der Spion, der zu viel wusste",
       "type": "tv",
       "overview": "Hinter dem in den 1980ern als Flick-Affäre bekannt gewordenen Schmiergeldskandal verbirgt sich tatsächlich ein deutsch-deutscher Spionagekrimi, der den frisch gewählten Kanzler Helmut Kohl die Karriere hätte kosten können. Die Doku enthüllt die Verstrickungen der DDR in den Flick-Parteispendenskandal und ihren Zugang zum Bonner Kanzleramt der 1980er Jahre.",
@@ -3306,29 +3214,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Queen und ich",
-      "type": "tv",
-      "overview": "Über ihren Tod hinaus ist Königin Elizabeth II. die berühmteste Frau der Welt. Doch wie sie dachte und empfand, was sie bewegte und inspirierte, blieb ein Geheimnis. \"Die Queen und ich\" kommt der legendären Monarchin näher denn je. Die Privatsekretärin, der Freund, der Bischof, der Schneider – erstmals teilen Vertraute aus dem \"Inner Circle\" ihre Erinnerungen an die Queen.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/127008-000-A/die-queen-und-ich/",
-      "duration": 2620,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     }
   ]
