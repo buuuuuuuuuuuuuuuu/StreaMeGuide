@@ -1,7 +1,41 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-27T16:00:09.555Z",
+  "generated_at": "2026-08-28T17:01:02.872Z",
   "items": [
+    {
+      "tmdb_id": 1744462,
+      "title": "Grand Theft Auto VI: Ein ausführlicher Blick",
+      "type": "movie",
+      "overview": "Schaue dir die nächste Evolution der bahnbrechenden Grand-Theft-Auto-Reihe an.",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Animation",
+        "Krimi"
+      ],
+      "keywords": [
+        "video game",
+        "grand theft auto",
+        "nostalgic",
+        "police raid",
+        "aggressive",
+        "grand",
+        "admiring",
+        "antagonistic",
+        "defiant",
+        "vibrant",
+        "violent"
+      ],
+      "rating": 9,
+      "vote_count": 200,
+      "poster_path": "/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1744462-grand-theft-auto-vi-an-extended-look/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1516698,
       "title": "The Last Sunrise",
@@ -22,98 +56,10 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 7.881,
-      "vote_count": 21,
+      "rating": 7.4,
+      "vote_count": 32,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1383731,
-      "title": "Protector",
-      "type": "movie",
-      "overview": "Nikki ist eine Kriegsheldin, will ihre gewaltvolle Vergangenheit aber nun endlich hinter sich lassen und sich ganz dem Familienleben mit ihrer Tochter Chloe widmen. Doch ein Leben in Frieden scheint ihr nicht vergönnt, denn eines Tages erwacht sie in einer verlassenen Fabrikhalle und stellt fest: Ihre Tochter wurde entführt! Nikki bleibt nichts anderes übrig, als sich auf ihre ausgeprägten kämpferischen Fähigkeiten zu besinnen, um ihre Tochter zurückzubekommen. Sie begibt sie in die Unterwelt der Stadt, um die Entführer aufzuspüren. Weil sie dabei aber ordentlich Staub aufwirbelt, sind ihr auch schon bald die Polizei und das Militär auf den Fersen.",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "keywords": [
-        "kidnapping",
-        "rescue mission",
-        "war hero",
-        "underworld",
-        "action"
-      ],
-      "rating": 8.449,
-      "vote_count": 540,
-      "poster_path": "/2QArqwbtw4gXVfpE6yMnSVxTwmn.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1383731-protector/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1621552,
-      "title": "Die Festnahme",
-      "type": "movie",
-      "overview": "Basierend auf wahren Begebenheiten: Der international gesuchte Drogenkartellboss Joaquin „El Chapo“ Guzmán flüchtet am 8. Januar 2016 vor dem Zugriff der mexikanischen Marine durch die Kanalisation aus seinem Anwesen. Anschließend bringt er ein Auto in seine Gewalt und wähnt sich bald in Sicherheit. Doch dann gerät er in eine Routinekontrolle durch zwei ganz normale Polizisten, die ihn jedoch direkt erkennen. Nachdem der Gangster bei ihnen mit Bestechungsversuchen auf Granit beißt, droht er ihnen unverhohlen mit dem Tod durch seine Leute, sollten sie ihn nicht freilassen. Für die beiden braven Gesetzeshüter beginnen die härtesten Stunden ihres bisherigen Lebens.",
-      "genres": [
-        "Krimi",
-        "Action",
-        "Thriller"
-      ],
-      "keywords": [
-        "fast-paced",
-        "based on true events"
-      ],
-      "rating": 8.749,
-      "vote_count": 213,
-      "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 687163,
-      "title": "Der Astronaut - Project Hail Mary",
-      "type": "movie",
-      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
-      "genres": [
-        "Science Fiction",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "friendship",
-        "coma",
-        "based on novel or book",
-        "bravery",
-        "sun",
-        "language barrier",
-        "space travel",
-        "space mission",
-        "alien",
-        "space",
-        "memory loss",
-        "astronaut",
-        "scientist",
-        "science teacher",
-        "save the planet",
-        "spaceship",
-        "interspecies friendship"
-      ],
-      "rating": 8.648,
-      "vote_count": 7357,
-      "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -142,8 +88,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.092,
-      "vote_count": 3150,
+      "rating": 8.093,
+      "vote_count": 3153,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -165,9 +111,9 @@
         "entrepreneur",
         "sex work"
       ],
-      "rating": 8.2,
-      "vote_count": 256,
-      "poster_path": "/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
+      "rating": 8.231,
+      "vote_count": 264,
+      "poster_path": "/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
       "justwatch": "https://www.themoviedb.org/tv/246246-beauty-in-black/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
@@ -205,7 +151,7 @@
         "joyful"
       ],
       "rating": 8.4,
-      "vote_count": 2591,
+      "vote_count": 2593,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
@@ -246,71 +192,21 @@
       }
     },
     {
-      "tmdb_id": 207333,
-      "title": "Hundert Jahre Einsamkeit",
+      "tmdb_id": 299952,
+      "title": "早春晴朗",
       "type": "tv",
-      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
+      "overview": "",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
       "keywords": [
-        "based on novel or book",
-        "affectation",
-        "miniseries",
-        "magic realism",
-        "nostalgic",
-        "latin american history",
-        "political",
-        "period piece",
-        "intimate"
+        "romance",
+        "based on web novel"
       ],
-      "rating": 8,
-      "vote_count": 245,
-      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 37854,
-      "title": "One Piece",
-      "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
-      "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
-      ],
-      "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
-      ],
-      "rating": 8.751,
-      "vote_count": 5498,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "rating": 6.167,
+      "vote_count": 3,
+      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -335,8 +231,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.095,
-      "vote_count": 1423,
+      "rating": 8.096,
+      "vote_count": 1425,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -346,31 +242,29 @@
       }
     },
     {
-      "tmdb_id": 100757,
-      "title": "Outer Banks",
+      "tmdb_id": 207333,
+      "title": "Hundert Jahre Einsamkeit",
       "type": "tv",
-      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
+      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
       "genres": [
-        "Action & Adventure",
-        "Mystery"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "diving",
-        "surfing",
-        "north carolina",
-        "treasure hunt",
-        "on the run",
-        "boat chase",
-        "illegal drugs",
-        "outer banks",
-        "teenager",
-        "exciting",
-        "adventure"
+        "based on novel or book",
+        "affectation",
+        "miniseries",
+        "magic realism",
+        "nostalgic",
+        "latin american history",
+        "political",
+        "period piece",
+        "intimate"
       ],
-      "rating": 8.245,
-      "vote_count": 1246,
-      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
+      "rating": 8,
+      "vote_count": 246,
+      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -378,28 +272,23 @@
       }
     },
     {
-      "tmdb_id": 1284041,
-      "title": "The Last House",
+      "tmdb_id": 1621552,
+      "title": "Die Festnahme",
       "type": "movie",
-      "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
+      "overview": "Basierend auf wahren Begebenheiten: Der international gesuchte Drogenkartellboss Joaquin „El Chapo“ Guzmán flüchtet am 8. Januar 2016 vor dem Zugriff der mexikanischen Marine durch die Kanalisation aus seinem Anwesen. Anschließend bringt er ein Auto in seine Gewalt und wähnt sich bald in Sicherheit. Doch dann gerät er in eine Routinekontrolle durch zwei ganz normale Polizisten, die ihn jedoch direkt erkennen. Nachdem der Gangster bei ihnen mit Bestechungsversuchen auf Granit beißt, droht er ihnen unverhohlen mit dem Tod durch seine Leute, sollten sie ihn nicht freilassen. Für die beiden braven Gesetzeshüter beginnen die härtesten Stunden ihres bisherigen Lebens.",
       "genres": [
-        "Horror",
-        "Science Fiction",
+        "Krimi",
+        "Action",
         "Thriller"
       ],
       "keywords": [
-        "monster",
-        "isolation",
-        "water monster",
-        "sea creature",
-        "baffled",
-        "excited",
-        "dangerous rain"
+        "fast-paced",
+        "based on true events"
       ],
-      "rating": 6.929,
-      "vote_count": 1066,
-      "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=DE",
+      "rating": 8.785,
+      "vote_count": 258,
+      "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -426,13 +315,45 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.392,
-      "vote_count": 4621,
+      "rating": 8.393,
+      "vote_count": 4623,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 100757,
+      "title": "Outer Banks",
+      "type": "tv",
+      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
+      "genres": [
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "keywords": [
+        "diving",
+        "surfing",
+        "north carolina",
+        "treasure hunt",
+        "on the run",
+        "boat chase",
+        "illegal drugs",
+        "outer banks",
+        "teenager",
+        "exciting",
+        "adventure"
+      ],
+      "rating": 8.246,
+      "vote_count": 1247,
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -470,8 +391,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.959,
-      "vote_count": 4319,
+      "rating": 7.958,
+      "vote_count": 4320,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -506,8 +427,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.5,
-      "vote_count": 3488,
+      "rating": 8.544,
+      "vote_count": 3489,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -517,96 +438,92 @@
       }
     },
     {
-      "tmdb_id": 1858,
-      "title": "Transformers",
-      "type": "movie",
-      "overview": "Zwei außerirdische Roboterrassen, die den Menschen gut gesinnten Autobots und die zerstörerischen Decepticons, kommen auf die Erde und tragen dort ihren Kampf gegeneinander aus. Es stellen sich ihnen nur wenige mutige Menschen in den Weg - wie Teenager Sam, der zum Geburtstag einen Autobot \"geschenkt\" bekam. Zusammen mit dem Militär, einigen Zivilisten und seiner Freundin Mikaela beginnt ein verzweifelter Kampf ums Schicksal der Menschheit...",
+      "tmdb_id": 1622,
+      "title": "Supernatural",
+      "type": "tv",
+      "overview": "Als Jungen verloren Sam und Dean Winchester ihre Mutter an eine mysteriöse und dämonische übernatürliche Kraft. Anschließend erklärte ihr Vater ihnen das paranormale Böse bei, das in den dunklen Ecken und auf den Nebenstraßen Amerikas lebt und wie man es tötet. Jetzt durchqueren die Winchester-Brüder das Land und bekämpfen jede Art von übernatürlicher Bedrohung, die ihnen auf dem Weg begegnet.",
       "genres": [
-        "Abenteuer",
-        "Science Fiction",
-        "Action"
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "transformation",
-        "destroy",
-        "alien",
-        "based on toy",
-        "giant robot",
-        "robot",
-        "duringcreditsstinger",
-        "teenage hero",
-        "griffith observatory",
-        "alien robot"
+        "angel",
+        "witch",
+        "monster",
+        "exorcism",
+        "supernatural",
+        "paranormal",
+        "purgatory",
+        "paranormal phenomena",
+        "apocalypse",
+        "bromance",
+        "dead mother",
+        "demon",
+        "on the road",
+        "demonic possession",
+        "ghost",
+        "dark fantasy",
+        "demon hunter",
+        "four horsemen of the apocalypse",
+        "fighting evil",
+        "brother brother relationship",
+        "leviathan",
+        "ressurection",
+        "brothers",
+        "horror"
       ],
-      "rating": 6.843,
-      "vote_count": 12468,
-      "poster_path": "/qtjn8nYcl8gX3owkqi0BmYbE14R.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1858-transformers/watch?locale=DE",
+      "rating": 8.314,
+      "vote_count": 8628,
+      "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
-        "netflix": null,
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 68735,
+      "title": "Warcraft: The Beginning",
+      "type": "movie",
+      "overview": "In Azeroth, dem Reich der Menschen, herrscht seit vielen Jahren Frieden. Doch urplötzlich sieht sich seine Zivilisation von einer furchteinflößenden Rasse bedroht. Ork-Krieger haben ihre, dem Untergang geweihte, Heimat Draenor verlassen, um sich andernorts eine neue aufzubauen. Als sich ein Portal öffnet, um die beiden Welten miteinander zu verbinden, bricht ein unbarmherziger und erbitterter Krieg um die Vorherrschaft in Azeroth los, der auf beiden Seiten große Opfer fordert. Die vermeintlichen Gegner ahnen jedoch nicht, dass bald schon eine weitere Bedrohung auftaucht, die beide Völker vernichten könnte. Statt sich zu bekämpfen, müssen sie nun zusammenhalten. Ein Bündnis wird geschlossen und zwei Helden, ein Mensch, Anduin Lothar, und ein Ork, Durotan machen sich gemeinsam auf den Weg, dem Bösen im Kampf entgegenzutreten - für ihre Familien, ihre Völker und ihre Heimat.",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "keywords": [
+        "elves",
+        "dwarf",
+        "magic",
+        "betrayal",
+        "king",
+        "guardian",
+        "based on video game",
+        "wizard",
+        "chieftain",
+        "fictional language",
+        "warrior",
+        "clans",
+        "horde",
+        "sword and sorcery",
+        "mage",
+        "evil sorcerer",
+        "draining souls"
+      ],
+      "rating": 6.409,
+      "vote_count": 7413,
+      "poster_path": "/6xzwgdanFWKZNCYO5s1GN4Fapnj.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/68735-warcraft/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220107.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 249042,
-      "title": "Adolescence",
-      "type": "tv",
-      "overview": "Als ein 13-Jähriger des Mordes an einer Mitschülerin verdächtigt wird, wollen seine Familie, seine Psychologin und der leitende Ermittler herausfinden, was passiert ist.",
-      "genres": [
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
-        "england",
-        "sexism",
-        "violence against women",
-        "patriarchy",
-        "bullying",
-        "murder",
-        "family relationships",
-        "miniseries",
-        "parenting",
-        "confrontation",
-        "insecurity",
-        "teenage boy",
-        "blunt",
-        "visceral",
-        "mental health",
-        "misogyny",
-        "british youth",
-        "social media",
-        "british school system",
-        "social structures",
-        "objectification",
-        "single take",
-        "teenage killer",
-        "thought provoking",
-        "today's youth",
-        "psychological drama",
-        "intense",
-        "foreboding",
-        "slut shaming",
-        "andrew tate",
-        "today's society"
-      ],
-      "rating": 7.821,
-      "vote_count": 1720,
-      "poster_path": "/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/249042-adolescence/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220087.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000220273.html",
         "mentions": 2
       }
     },
@@ -878,8 +795,31 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIxNDc2Njg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIxNDc2NjgvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5328,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Käfer und Prinzessin",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2014 +++ In der Öko-Kommune herrscht Entsetzen: Harald „Harry“ Wacker wird tot in der Jauchegrube eines benachbarten Hofs gefunden. Mord oder Unfall? Kriminalhauptkommissarin Olga Lenski und Polizeihauptmeister Horst Krause beginnen zu ermitteln. Der Fall wird für Olga persönlich, als sie auf Ruth trifft, ihre Schulfreundin und Harrys Lebensgefährtin....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Polizeiruf 110"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9iODA3M2U4Zi0yNzU3LTRiMDQtOTBjMy1iM2VkOWU5ZTEyYWZfcHVibGljYXRpb24",
+      "duration": 5309,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -995,29 +935,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYi1vbmxpbmUuZGUvZmlsbXplaXQvMjAxOS0wMS0wMVQyMzozMDowMF84NzdlMmEwYi0xYzc5LTRjY2EtYTZjMi1mNjZmMmU5M2FlNjUvcG9saXplaXJ1Zi0xMTAtLXZvci1hbGxlci1hdWdlbg",
       "duration": 5316,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Schweine",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2024 +++ Leon Herne wird auf der deutschen Seite der Oder erschossen aufgefunden. Die Kommissare Alexandra Luschke und Karl Rogov, die erstmals zusammen ermitteln, folgen seiner Spur auf die polnische Seite, wo die Jagdgesellschaft übernachtete. Dort stoßen sie auf den betrunkenen Konstantin Richtmann, während der dritte Jäger, Daniel Pillokat, spurlos verschwunden ist....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl80YjdhNjk0Yy0xMmQ5LTQwZDAtOTdjNi05MWM0Y2I0ZmQ3ZDRfcHVibGljYXRpb24",
-      "duration": 5292,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1246,6 +1163,94 @@
     },
     {
       "tmdb_id": null,
+      "title": "Lauf Junge lauf - Spielfilm, Deutschland/Frankreich 2013",
+      "type": "tv",
+      "overview": "\"Lauf Junge lauf\" erzählt die wahre Geschichte des neunjährigen Srulik, dem die Flucht aus dem Warschauer Ghetto gelingt. Bis zum Kriegsende muss er allein ums Überleben kämpfen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/lauf-junge-lauf-102.html",
+      "duration": 5917,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Code 3 (Englisch)",
+      "type": "tv",
+      "overview": "In seiner letzten 24-Stunden-Schicht erlebt der ausgebrannte Rettungssanitäter Randy eine weitere Nacht mit vielen schicksalhaften Begegnungen auf den Straßen von Los Angeles.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/code-3-movie-100/code-3-100",
+      "duration": 5748,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Code 3",
+      "type": "tv",
+      "overview": "In seiner letzten 24-Stunden-Schicht erlebt der ausgebrannte Rettungssanitäter Randy eine weitere Nacht mit vielen schicksalhaften Begegnungen auf den Straßen von Los Angeles.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/code-3-movie-100/code-3-100",
+      "duration": 5748,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Promising Young Woman",
+      "type": "tv",
+      "overview": "Nahezu besinnungslos sitzt eine junge Frau immer wieder alleine in verschiedenen Bars. Doch die Männer, die sie für leichte Beute halten, werden eine böse Überraschung erleben.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/promising-young-woman-movie-100/promising-young-woman-100",
+      "duration": 6561,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Vesper Chronicles",
       "type": "tv",
       "overview": "Nachdem das Ökosystem der Erde fast vollständig zerstört wurde, leben eine Jugendliche und ihr gelähmter Vater in katastrophalen Verhältnissen. Doch plötzlich scheint Rettung in Sicht.",
@@ -1378,90 +1383,90 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kommt ein Vogel geflogen - Spielfilm, Deutschland 2023",
+      "title": "Mord im Mittsommer - Staffel 10 (2/3) - Fall 21: Nikki & Evelina",
       "type": "tv",
-      "overview": "Birgit Singer ist Tierpflegerin und trägt die Hauptlast der Familie: Sie leitet ein Tierheim, finanziert die Promotion ihres Mannes und kümmert sich um ihre stotternde Tochter Sarah.",
+      "overview": "Trotz des schweren Traumas, das er durch den Bombenanschlag erlitten hat, kehrt Kommissar Alexander Forsman in den Polizeidienst zurück. Ein neuer Fall erwartet ihn: Bootshändler Bruno wurde brutal überfallen und liegt nun im Koma. Er soll seinem ehemaligen Geschäftspartner Geld schulden. Doch auch die eifersüchtige Freundin seiner Ehefrau könnte ein Motiv haben.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/kommt-ein-vogel-geflogen-100.html",
-      "duration": 6347,
+      "url": "https://www.arte.tv/de/videos/122314-000-A/mord-im-mittsommer-staffel-10-2-3/",
+      "duration": 5310,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Starve Acre - Spielfilm, Großbritannien 2023",
+      "title": "Hafen ohne Gnade (6/6)",
       "type": "tv",
-      "overview": "Ein abgelegenes Bauernhaus im ländlichen England der 70er Jahre. Das Leben von Richard und Juliette gerät aus den Fugen, als ihr Sohn anfängt, sich außergewöhnlich zu verhalten.",
+      "overview": "Jeans Frau liegt schwer verletzt im Krankenhaus. Außer sich vor Ohnmacht und Wut, will Jean an seinem Onkel Christophe Rache nehmen. Zur gleichen Zeit kapern Simon und Emma einen Lkw voller Drogen, den Christophe in Empfang nehmen soll ...",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/starve-acre-100.html",
-      "duration": 5662,
+      "url": "https://www.arte.tv/de/videos/109422-006-A/hafen-ohne-gnade-6-6/",
+      "duration": 2817,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Starve Acre - Spielfilm, Großbritannien 2023 (Englisch)",
+      "title": "Hafen ohne Gnade (5/6)",
       "type": "tv",
-      "overview": "Ein abgelegenes Bauernhaus im ländlichen England der 70er Jahre. Das Leben von Richard und Juliette gerät aus den Fugen, als ihr Sohn anfängt, sich außergewöhnlich zu verhalten.",
+      "overview": "Beim Notartermin erfahren Laurence, Emma, Jean und Simon, dass die junge Prostituierte Joy Pierres Elternhaus im Quartier des Neiges erben soll. Laurence ist empört und schockiert, da sie Joy nie zuvor gesehen und Pierre nie von ihr erzählt hat.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/starve-acre-100.html",
-      "duration": 5662,
+      "url": "https://www.arte.tv/de/videos/109422-005-A/hafen-ohne-gnade-5-6/",
+      "duration": 2824,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Ray & Liz - Spielfilm, Großbritannien 2018",
+      "title": "Hafen ohne Gnade (4/6)",
       "type": "tv",
-      "overview": "In einem Vorort von Birmingham lebt die Familie Billingham ein Leben am Rand der Gesellschaft – bestimmt von Zwängen, Extremen und Regeln, die sich ihrer Kontrolle entziehen.",
+      "overview": "Nach seinem Seitensprung hat sich Céline von Jean getrennt und verbietet ihm den Kontakt zu ihrer gemeinsamen Tochter. Doch Jean nimmt sie heimlich mit auf einen Segeltörn, der allerdings in einem Fiasko endet ...",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/ray--liz-100.html",
-      "duration": 6230,
+      "url": "https://www.arte.tv/de/videos/109422-004-A/hafen-ohne-gnade-4-6/",
+      "duration": 2900,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
@@ -1546,94 +1551,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/110226-000-A/mord-im-mittsommer-staffel-9-3-3/",
       "duration": 5233,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Blackout bei Wellmanns",
-      "type": "tv",
-      "overview": "Thomas Wellmann ist Elektroingenieur bei den Stadtwerken eines kleinen Ortes und wird mit Mitte 50 durch eine KI ersetzt. Dann wird ein längerer Stromausfall für Thomas zum Auslöser, seine Frau, seine zwei Töchter und sich selbst auf den Ernstfall vorzubereiten ... – Die Zeitgeist-Komödie von Leo Khasin ist eine unterhaltsame Auseinandersetzung (2023) mit aktuellen Themen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Fernsehfilme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/114162-000-A/blackout-bei-wellmanns/",
-      "duration": 5316,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hafen ohne Gnade (3/6)",
-      "type": "tv",
-      "overview": "Die Gedenkfeier für Pierre, organisiert vom Gewerkschaftsverband, enthüllt tiefe Risse unter den Kollegen. Chefgewerkschafter Prévost hält eine heuchlerische Rede, während Emma vor Wut kocht. Jean erscheint mit Verspätung und erkennt die Frau wieder, die ihn zuvor bewusstlos geschlagen hat ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/109422-003-A/hafen-ohne-gnade-3-6/",
-      "duration": 2982,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hafen ohne Gnade (2/6)",
-      "type": "tv",
-      "overview": "Der Mord an Pierre löst ein gewaltiges Beben in der Familie Leprieur aus. Könnte es sein, dass sein Tod mit seinem kompromisslosen Kampf gegen den Drogenschmuggel am Hafen in Verbindung steht? Emma glaubt, dass ihr Bruder Jean wichtige Informationen verheimlicht, die helfen könnten, den Täter zu finden.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/109422-002-A/hafen-ohne-gnade-2-6/",
-      "duration": 2909,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hafen ohne Gnade (1/6)",
-      "type": "tv",
-      "overview": "Pierre Leprieur, ein stolzer Hafenarbeiter aus Le Havre, hat sein ganzes Leben in den Docks verbracht. Die Überraschungsfeier anlässlich seines 60. Geburtstags nimmt eine unerwartete Wendung, als er erfährt, dass sein jüngster Sohn Simon wegen Drogenschmuggels verhaftet wurde. Das bringt die ganze Familie in Bedrängnis ... – Serie (2023) in sechs Episoden von Vincent Maël Cardona.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/109422-001-A/hafen-ohne-gnade-1-6/",
-      "duration": 3103,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1772,6 +1689,28 @@
       "poster_path": null,
       "url": "https://www.zdf.de/filme/herzkino/weihnachten-im-schnee-100.html",
       "duration": 5324,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Neureuthers: Was macht einen Papa aus?",
+      "type": "tv",
+      "overview": "Felix Neureuther und sein Vater Christian sprechen mit Leon Windscheid darüber, was einen guten Papa ausmacht. Weitere Vater-Kind-Beziehungen und Forschung zeigen, wie wichtig Nähe und Bindung sind.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/die-neureuthers-was-macht-einen-papa-aus-movie-100",
+      "duration": 2611,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1930,6 +1869,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nordmänner - Die wahre Geschichte der Wikinger",
+      "type": "tv",
+      "overview": "Nordmänner - Die wahre Geschichte der Wikinger",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.phoenix.de/sendungen/dokumentationen/nordmaenner-a-5191873.html",
+      "duration": 2587,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2154,24 +2115,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Das Ende des Paradieses - Klimawandel am Polarkreis",
+      "title": "NANO Doku: Zunge – Das Super-Organ",
       "type": "tv",
-      "overview": "Ein Film von Rémy Marion",
+      "overview": "Die Zunge ist nicht nur ein vielseitiges Sinnesorgan, sondern auch unser beweglichster Muskel. Ihr hochkomplexes Mikrobiom besteht aus 700 verschiedenen Bakterienarten.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "NANO Doku"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE4NjQzOQ",
-      "duration": 3038,
+      "url": "https://www.3sat.de/wissen/nano-doku/260827-nano-doku-zunge-das-superorgan-ndk-104.html",
+      "duration": 2627,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
       }
     },
     {
@@ -2374,6 +2335,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Vatersland",
+      "type": "tv",
+      "overview": "Reise zurück in die 50er und 60er Jahre: Durch Fotos und Filmaufnahmen aus ihrer Kindheit, erinnert sich Filmemacherin Marie an ihr Aufwachsen im Nachkriegs-Deutschland. Eine Jugend, geprägt von ständiger Rebellion gegen eine Gesellschaft, die von Mädchen nur eines erwartet hat: Hübsch in die Kamera lächeln und keinesfalls selbst Regie führen. - Familiendrama von Petra Seeger.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/082712-000-A/vatersland/",
+      "duration": 6933,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kurzschluss - Prinzip Stadt",
       "type": "tv",
       "overview": "(1) Bad for a Moment (2) Begegnung: Daniel Soares (3) Acid City (4) Zoom: Acid City",
@@ -2528,24 +2511,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Abteil Nr. 6",
+      "title": "Schlepper – Der Usedom-Krimi",
       "type": "tv",
-      "overview": "Um eine Trennung zu verarbeiten, flieht die Finnin Laura mit dem Zug in den Norden Russlands. Im Abteil sitzt bereits der russische Minenarbeiter Ljoha. Die ungleichen Passagiere müssen nun auf engstem Raum miteinander auskommen ... – Ljoha wird von Yuriy Borisov gespielt, der durch seine Rolle in \"Anora\" internationale Popularität gewann. Ein Roadmovie-Drama von Juho Kuosmanen.",
+      "overview": "Als Kommissar Rainer Witt (Till Firit) vom Autounfall seiner Tante Karin Lossow (Katrin Sass) auf der polnischen Seite Usedoms erfährt, gelingt es ihm gerade noch rechtzeitig, die Rettungskräfte zu ihr zu navigieren....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Der Usedom-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/092916-000-A/abteil-nr-6/",
-      "duration": 6034,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0yMV8yMC0xNS1NRVo",
+      "duration": 5279,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2650,7 +2633,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0xNF8yMC0xNS1NRVo",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0xNF8yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5289,
       "providers": {
         "netflix": null,
@@ -2696,28 +2679,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWg",
       "duration": 5277,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Friedhof der Welpen (20) – Der Usedom-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2023 Eine junge Frau wird durch den Usedomer Wald gejagt und stürzt in eine Fallgrube, der Verfolger dicht auf den Fersen. Die Szene entpuppt sich als ein Survival-Training, das der Eigenbrötler Ivo Klose (Moritz Führmann) der 18-jährigen Fabienne Leppin (Ada Philine Stappenbeck) anbietet. Zeitgleich entdeckt Karin Lossow (Katrin Sass) beim Spaziergang mit Hund Lucky tote Hundewelpen im Wald....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Usedom-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0wN18yMC0xNS1NRVo",
-      "duration": 5300,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2836,6 +2797,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Kernölamazonen: Die große Jubiläumsshow",
+      "type": "tv",
+      "overview": "Sie sind DAS dynamische Duo auf Österreichs Kabarettbühnen, Publikumslieblinge und Kabarettstars sondergleichen: die Kernölamazonen. Anlässlich des 20-jährigen Jubiläums präsentierten Caroline Athanasiadis und Gudrun Nikodem-Eichenhardt eine Show der Sonderklasse im Globe Wien. Mit großartigen Überraschungsgästen wie Viktor Gernot, einer komödiantischen und musikalischen Zeitreise und herrlich komischen Blicken hinter die Kulisse....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14336899/kernoelamazonen-die-grosse-jubilaeumsshow",
+      "duration": 4345,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Severin Groebner: ÜberHaltung",
       "type": "tv",
       "overview": "Sie bleibt Auslandskorrespondentin, er Krisengebiet: Severin Groebner brilliert am Abgrund. Severin Groebner spielt den treuen weißen Mann des Mittelalters, der seit Jahrzehnten vergeblich auf seine große Liebe wartet – sie als Auslandskorrespondentin, er als selbsternanntes Krisengebiet. Mit scharfem Humor und aufrechter Haltung streift er Themen wie Social Media, Body Positivity, Laktosetoleranz und simulierte Ehrlichkeit....",
@@ -2924,28 +2907,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Gernot Kulis: Kulisionen (2/2)",
-      "type": "tv",
-      "overview": "Teil Zwei der Gernot Kulis-Show \"Kulisionen\", bei dem der Comedien mit sich, Österreich und der Welt auf Kulisonskurs geht. Er blickt er hinter die Kulissen seines ganz normalen Alltagswahnsinns. Beruflich hat er Spaß, privat tut er sich ungleich schwerer. Wer glaubt ihm noch irgendetwas?  \n\nBildquelle: ORF/Hoanzl/Markus Wache",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14334690/gernot-kulis-kulisionen-2-2",
-      "duration": 2827,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Ray Dalton",
       "type": "tv",
       "overview": "13.500 Fans auf dem Festplatz im mittelfränkischen Herrieden freuen sich auf den US-amerikanischen Sänger aus Seattle: Ray Dalton.",
@@ -3030,6 +2991,52 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mythos Côte d'Azur - Liebe, Luxus, Leidenschaft",
+      "type": "tv",
+      "overview": "Die Côte d'Azur ist nicht nur eine atemberaubend schöne Landschaft. Sie steht für Glamour und Luxus, für Filmfestspiele und Stars, für legendäre Hotels, für Megajachten und Prachtvillen. Die berühmtesten Persönlichkeiten des letzten Jahrhunderts trafen sich hier und haben diese Küste geprägt. Ihren Lieben und Leidenschaften verdankt die Côte d'Azur ihren einmaligen Mythos.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/098094-000-A/mythos-cote-d-azur/",
+      "duration": 3111,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mythos Amalfiküste - Liebe, Laster, Dolce Vita",
+      "type": "tv",
+      "overview": "Die Amalfiküste ist nicht nur eine der landschaftlich schönsten Regionen Europas. Im vergangenen Jahrhundert wurde sie zum mondänen Treffpunkt für Stars, Künstlerinnen und Künstler, Reiche und Berühmte, und die Städte Amalfi, Ravello und Positano zur Bühne schillernder Geschichten. Vorgelagert im Meer lockt die Insel Capri als ein Eldorado für verbotene Sehnsüchte und Lebenslust.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/108984-000-A/mythos-amalfikueste/",
+      "duration": 2593,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -3168,52 +3175,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Habsburg gegen Hohenzollern - Die Schlacht bei Königgrätz",
-      "type": "tv",
-      "overview": "Am 3. Juli 1866 besiegt Preußen überraschend den Platzhirsch Österreich. Die Schlacht bei Königgrätz beendet die Dominanz der Habsburger, ebnet den Weg zu einem geeinten Deutschland und befeuert die deutsch-französische Rivalität. Das Dokudrama \"Habsburg gegen Hohenzollern – Die Schlacht bei Königgrätz\" räumt mit alten Mythen auf.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/123937-000-A/habsburg-gegen-hohenzollern/",
-      "duration": 5253,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Norden auf Super 8: Arbeit und Konsum (3/3)",
-      "type": "tv",
-      "overview": "Das außergewöhnliche Geschichtsformat erzählt aus der Perspektive von Amateurfilmern, was in den ersten Jahrzenten nach dem zweiten Weltkrieg den Norden prägte. 162 Filmrollen von 14 Amateurfilmern sind die Basis für eine emotionale und filmische Reise zu den norddeutschen Wurzeln. Mit viel Humor erzählt, entsteht eine einzigartige filmische Reise in die jüngste Vergangenheit.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Unsere Geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI4MDc3Nl9nYW56ZVNlbmR1bmc",
-      "duration": 2671,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     }
   ]
