@@ -1,33 +1,53 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-28T17:01:02.872Z",
+  "generated_at": "2026-08-29T11:25:45.571Z",
   "items": [
+    {
+      "tmdb_id": 1631807,
+      "title": "Die Frau ohne Vergangenheit",
+      "type": "movie",
+      "overview": "Louise Andersen lebt gemeinsam mit ihrem Partner Joachim ein zurückgezogenes Leben auf der norwegischen Insel Hidra, wo sie ein kleines Café betreibt. Ihr Alltag gerät jedoch aus den Fugen, als eine Fremde sie als Helene Söderberg erkennt – eine Frau, die vor drei Jahren in Dänemark spurlos verschwand. Nach und nach erfährt Louise, dass sie einst verheiratet war und einen kleinen Sohn hat. Entschlossen, die Wahrheit über ihre Identität und die Ereignisse ihres Verschwindens herauszufinden, lässt sie ihr bisheriges Leben hinter sich und kehrt in ihre Vergangenheit zurück. Je tiefer sie in die Nachforschungen eintaucht, desto mehr verborgene Geheimnisse kommen ans Licht und führen zu einer Enthüllung, die ihr gesamtes Leben infrage stellt.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "psychological",
+        "ominous"
+      ],
+      "rating": 6.65,
+      "vote_count": 10,
+      "poster_path": "/woHZDPzS51tup8MlwA2PIyzMUtI.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1744462,
       "title": "Grand Theft Auto VI: Ein ausführlicher Blick",
       "type": "movie",
       "overview": "Schaue dir die nächste Evolution der bahnbrechenden Grand-Theft-Auto-Reihe an.",
       "genres": [
+        "Animation",
         "Action",
         "Abenteuer",
-        "Animation",
         "Krimi"
       ],
       "keywords": [
         "video game",
         "grand theft auto",
-        "nostalgic",
-        "police raid",
-        "aggressive",
-        "grand",
-        "admiring",
-        "antagonistic",
-        "defiant",
-        "vibrant",
-        "violent"
+        "crime",
+        "enthusiastic",
+        "straightforward",
+        "vibrant"
       ],
-      "rating": 9,
-      "vote_count": 200,
+      "rating": 8.936,
+      "vote_count": 241,
       "poster_path": "/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1744462-grand-theft-auto-vi-an-extended-look/watch?locale=DE",
       "providers": {
@@ -50,14 +70,15 @@
         "based on novel or book",
         "tension",
         "summer",
+        "woman director",
         "chronic illness",
         "appreciative",
         "audacious",
         "comforting",
         "enthusiastic"
       ],
-      "rating": 7.4,
-      "vote_count": 32,
+      "rating": 7.232,
+      "vote_count": 41,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
@@ -88,8 +109,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.093,
-      "vote_count": 3153,
+      "rating": 8.095,
+      "vote_count": 3161,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -111,8 +132,8 @@
         "entrepreneur",
         "sex work"
       ],
-      "rating": 8.231,
-      "vote_count": 264,
+      "rating": 8.257,
+      "vote_count": 269,
       "poster_path": "/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
       "justwatch": "https://www.themoviedb.org/tv/246246-beauty-in-black/watch?locale=DE",
       "providers": {
@@ -150,8 +171,8 @@
         "premier league",
         "joyful"
       ],
-      "rating": 8.4,
-      "vote_count": 2593,
+      "rating": 8.365,
+      "vote_count": 2598,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
@@ -161,52 +182,22 @@
       }
     },
     {
-      "tmdb_id": 252751,
-      "title": "Leanne",
+      "tmdb_id": 204255,
+      "title": "Mezarlık - Der Friedhof",
       "type": "tv",
-      "overview": "Als ihr Mann sie wegen einer anderen Frau verlässt, wagt eine zähe Südstaaten-Frau einen Neubeginn, unterstützt von ihrer liebevollen, aber tabulosen Familie.",
+      "overview": "Hauptkommissarin Önem leitet eine Sonderermittlungseinheit, die schwierige Fälle von Gewalt gegen Frauen aufklärt.",
       "genres": [
-        "Komödie"
+        "Krimi",
+        "Drama",
+        "Mystery"
       ],
       "keywords": [
-        "church",
-        "divorce",
-        "belief in god",
-        "sitcom",
-        "grandchild",
-        "adult children",
-        "sister sister relationship",
-        "husband leaves wife",
-        "elderly parents",
-        "unfiltered",
-        "knoxville, tennessee"
+        "murder"
       ],
-      "rating": 7.1,
-      "vote_count": 21,
-      "poster_path": "/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/252751-leanne/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "based on web novel"
-      ],
-      "rating": 6.167,
-      "vote_count": 3,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
+      "rating": 7.3,
+      "vote_count": 38,
+      "poster_path": "/p22xaH2ZpxhdJa1ZFF528Yk7AWc.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/204255-mezarlik/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -231,8 +222,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.096,
-      "vote_count": 1425,
+      "rating": 8.098,
+      "vote_count": 1430,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -262,9 +253,51 @@
         "intimate"
       ],
       "rating": 8,
-      "vote_count": 246,
+      "vote_count": 248,
       "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
       "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 37854,
+      "title": "One Piece",
+      "type": "tv",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+      "genres": [
+        "Action & Adventure",
+        "Komödie",
+        "Animation"
+      ],
+      "keywords": [
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
+        "friendship",
+        "friends",
+        "pirate",
+        "based on manga",
+        "super power",
+        "adventurer",
+        "shounen",
+        "sea adventure",
+        "anime",
+        "wonder",
+        "fantasy",
+        "adventure",
+        "defiant"
+      ],
+      "rating": 8.75,
+      "vote_count": 5502,
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -285,8 +318,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.785,
-      "vote_count": 258,
+      "rating": 8.73,
+      "vote_count": 300,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -315,45 +348,13 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.393,
-      "vote_count": 4623,
+      "rating": 8.395,
+      "vote_count": 4629,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 100757,
-      "title": "Outer Banks",
-      "type": "tv",
-      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
-      "genres": [
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "keywords": [
-        "diving",
-        "surfing",
-        "north carolina",
-        "treasure hunt",
-        "on the run",
-        "boat chase",
-        "illegal drugs",
-        "outer banks",
-        "teenager",
-        "exciting",
-        "adventure"
-      ],
-      "rating": 8.246,
-      "vote_count": 1247,
-      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -391,8 +392,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.958,
-      "vote_count": 4320,
+      "rating": 7.959,
+      "vote_count": 4323,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -431,6 +432,38 @@
       "vote_count": 3489,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 100757,
+      "title": "Outer Banks",
+      "type": "tv",
+      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
+      "genres": [
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "keywords": [
+        "diving",
+        "surfing",
+        "north carolina",
+        "treasure hunt",
+        "on the run",
+        "boat chase",
+        "illegal drugs",
+        "outer banks",
+        "teenager",
+        "exciting",
+        "adventure"
+      ],
+      "rating": 8.2,
+      "vote_count": 1249,
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -484,46 +517,146 @@
       }
     },
     {
-      "tmdb_id": 68735,
-      "title": "Warcraft: The Beginning",
-      "type": "movie",
-      "overview": "In Azeroth, dem Reich der Menschen, herrscht seit vielen Jahren Frieden. Doch urplötzlich sieht sich seine Zivilisation von einer furchteinflößenden Rasse bedroht. Ork-Krieger haben ihre, dem Untergang geweihte, Heimat Draenor verlassen, um sich andernorts eine neue aufzubauen. Als sich ein Portal öffnet, um die beiden Welten miteinander zu verbinden, bricht ein unbarmherziger und erbitterter Krieg um die Vorherrschaft in Azeroth los, der auf beiden Seiten große Opfer fordert. Die vermeintlichen Gegner ahnen jedoch nicht, dass bald schon eine weitere Bedrohung auftaucht, die beide Völker vernichten könnte. Statt sich zu bekämpfen, müssen sie nun zusammenhalten. Ein Bündnis wird geschlossen und zwei Helden, ein Mensch, Anduin Lothar, und ein Ork, Durotan machen sich gemeinsam auf den Weg, dem Bösen im Kampf entgegenzutreten - für ihre Familien, ihre Völker und ihre Heimat.",
+      "tmdb_id": 44217,
+      "title": "Vikings",
+      "type": "tv",
+      "overview": "Inspiriert von den überlieferten Sagen des legendären Wikingerkönigs Ragnar Lothbrok entführt die gefeierte Hitserie in den eisigen Norden des europäischen Kontinents im 8. Jahrhundert: Krieger Ragnar glaubt, dass jenseits des wilden Ozeans im unerforschten Westen ein neues Land mit reichen Schätzen auf die Wikingerhorden wartet. Für seine Überzeugungen setzt er alles auf eine Karte, lässt ein neues Schiff bauen und macht sich in den packenden neun Episoden der ersten Staffel auf, um Geschichte zu schreiben.",
       "genres": [
-        "Action",
-        "Abenteuer",
-        "Fantasy"
+        "Action & Adventure",
+        "Drama",
+        "War & Politics"
       ],
       "keywords": [
-        "elves",
-        "dwarf",
-        "magic",
-        "betrayal",
+        "scandinavia",
+        "vikings (norsemen)",
+        "royalty",
+        "historical fiction",
         "king",
-        "guardian",
-        "based on video game",
-        "wizard",
-        "chieftain",
-        "fictional language",
+        "battle",
+        "historical",
+        "middle ages (476-1453)",
+        "dark ages",
+        "norse mythology",
+        "historical drama",
         "warrior",
-        "clans",
-        "horde",
-        "sword and sorcery",
-        "mage",
-        "evil sorcerer",
-        "draining souls"
+        "8th century",
+        "period piece",
+        "violence",
+        "sword and sandal",
+        "exciting",
+        "action",
+        "antagonistic",
+        "violent"
       ],
-      "rating": 6.409,
-      "vote_count": 7413,
-      "poster_path": "/6xzwgdanFWKZNCYO5s1GN4Fapnj.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/68735-warcraft/watch?locale=DE",
+      "rating": 8.101,
+      "vote_count": 7848,
+      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/44217-vikings/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000219559.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 13475,
+      "title": "Star Trek",
+      "type": "movie",
+      "overview": "Wir schreiben das 23. Jahrhundert. Der junge James Tiberius Kirk ist ein Draufgänger, der keiner Kneipenschlägerei aus den Weg geht und bevorzugt mit dem Kopf durch die Wand marschiert. Der Heißsporn bewirbt sich auf Rat eines alten Freundes seines verstorbenen Vaters bei der Sternenflotten-Akademie der Föderation und findet in dem kauzigen Arzt Dr. Leonard \"Pille\" McCoy sogar gleich einen neuen Kumpel. Ansonsten macht sich der Frauenheld auf der Akademie eher Feinde. So wie den Halb-Vulkanier Spock, dem auffällt, dass Tiberius bei einer Prüfung gemogelt hat. Die beiden entwickeln sich zu erbitterten Rivalen, müssen ihre Feindseligkeiten jedoch aufgeben, als die U.S.S. Enterprise vom Stapel läuft und Captain Pike bei einer Mission von dem romulanischen Outlaw Nero gefangen genommen wird, der nur von einem Gedanken beseelt ist: Rache!",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "spacecraft",
+        "teleportation",
+        "san francisco, california",
+        "space battle",
+        "time travel",
+        "space mission",
+        "parachute",
+        "black hole",
+        "supernova",
+        "prequel",
+        "futuristic",
+        "warp speed",
+        "warp engine",
+        "space",
+        "romulans",
+        "space opera",
+        "reboot",
+        "unlikely friendship",
+        "child driving car",
+        "alternative reality",
+        "23rd century",
+        "based on tv series",
+        "24th century",
+        "suspenseful",
+        "excited",
+        "exhilarated"
+      ],
+      "rating": 7.4,
+      "vote_count": 10682,
+      "poster_path": "/hbFaX3xicuHbfdW0XpUy6uHS3EN.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/13475-star-trek/watch?locale=DE",
+      "providers": {
+        "netflix": null,
         "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220273.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000219835.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 9799,
+      "title": "The Fast and the Furious",
+      "type": "movie",
+      "overview": "Eine Reihe von Trucküberfällen hält die Polizei von Los Angeles in Atem. Mit frisierten Autos jagen Verbrecher LKWs, kapern diese und klauen die Fracht. Die Polizei glaubt, dass hinter den Überfällen der PS-Junkie Dominic steckt. Er organisiert mit seiner Freundin Letty illegale Straßenrennen in der Großstadt. Die teilnehmenden Fahrzeuge sind allesamt frisiert. Also wird jemand eingeschleust: Brian. Er arbeitet undercover für die Polizei und ist in Doms Schwester verliebt...",
+      "genres": [
+        "Action",
+        "Krimi",
+        "Thriller"
+      ],
+      "keywords": [
+        "street gang",
+        "undercover",
+        "car race",
+        "auto-tuning",
+        "street race",
+        "los angeles, california",
+        "nostalgic",
+        "aftercreditsstinger",
+        "duringcreditsstinger",
+        "aggressive",
+        "based on magazine, newspaper or article",
+        "cars",
+        "furious",
+        "ambiguous",
+        "bold",
+        "earnest",
+        "excited"
+      ],
+      "rating": 7.014,
+      "vote_count": 11062,
+      "poster_path": "/qmRrB8HFhEThLDhqJ7bZqZb6pm9.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000220044.html",
         "mentions": 2
       }
     },
@@ -795,7 +928,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIxNDc2NjgvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIxNDc2Njg",
       "duration": 5328,
       "providers": {
         "netflix": null,
@@ -1361,24 +1494,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Booksmart",
+      "title": "Kommt ein Vogel geflogen - Spielfilm, Deutschland 2023",
       "type": "tv",
-      "overview": "Die Highschool-Besten Amy und Molly erkennen am Vorabend ihres Abschlusses, dass sie zu viel gelernt und viel zu wenig gefeiert haben. Sie beschließen, alle Partys in einer Nacht nachzuholen.",
+      "overview": "Birgit Singer ist Tierpflegerin und trägt die Hauptlast der Familie: Sie leitet ein Tierheim, finanziert die Promotion ihres Mannes und kümmert sich um ihre stotternde Tochter Sarah.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Spielfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/booksmart-movie-100/booksmart-100",
-      "duration": 5892,
+      "url": "https://www.3sat.de/film/spielfilm/kommt-ein-vogel-geflogen-100.html",
+      "duration": 6347,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mord im Mittsommer - Staffel 10 (3/3) - Fall 22: Birgitta",
+      "type": "tv",
+      "overview": "Ein neuer Fall in Sandhamn beschäftigt Kommissar Alexander Forsman und sein Team: Die berühmte Krimiautorin Birgitta wird tot in ihrem Haus aufgefunden – vergiftet. Die Ermittler versuchen, die Nacht vor ihrem Tod zu rekonstruieren. Fest steht, dass Noras Ex-Schwiegermutter in den Fall verwickelt ist, weshalb sich Nora eigentlich heraushalten muss ...",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/122315-000-A/mord-im-mittsommer-staffel-10-3-3/",
+      "duration": 5313,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -1529,28 +1684,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/122313-000-A/mord-im-mittsommer-staffel-10-1-3/",
       "duration": 5315,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 9 (3/3) - Fall 19: Max",
-      "type": "tv",
-      "overview": "Endlich haben Nora und Alexander als Paar zusammengefunden. Doch bei einer Verabredung zum Mittagessen versetzt der Kommissar die Staatsanwältin. Nora macht sich bald Sorgen, weil Alexander auch nicht auf ihre Anrufe antwortet. – Die schwedische Serie (2022) basiert auf den Romanen der Schriftstellerin Viveca Sten.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/110226-000-A/mord-im-mittsommer-staffel-9-3-3/",
-      "duration": 5233,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1873,6 +2006,116 @@
     },
     {
       "tmdb_id": null,
+      "title": "Into the Blue - Rund um die Molukken",
+      "type": "tv",
+      "overview": "Im Dreieck zwischen den Philippinen im Norden und dem zentralen und östlichen Indonesien befindet sich ein Gebiet mit einer außergewöhnlichen Artenvielfalt: das Korallendreieck.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE3Nw",
+      "duration": 2598,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Into the Blue - Im Nationalpark Komodo",
+      "type": "tv",
+      "overview": "Auf der indonesischen Insel Komodo leben die größten Echsen der Welt, die Komodowarane. Sie haben sich perfekt an die Lebensbedingungen der wasserarmen Insel angepasst. Der Komodo-Nationalpark ist auch ein beliebtes Ziel für Taucher.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE4Nw",
+      "duration": 2601,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Into the Blue - Im Archipel Raja Ampat",
+      "type": "tv",
+      "overview": "Der indonesische Archipel Raja Ampat liegt inmitten des artenreichen Korallendreiecks. Er besteht aus rund 1500 meist unbewohnten Inseln, die von Riffen und Mangrovenwäldern umgeben sind.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE4Mg",
+      "duration": 2599,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Into the Blue - Die Banda Sea vor Flores",
+      "type": "tv",
+      "overview": "Diese Folge führt zu der Vulkaninsel Flores und ins artenreiche Meer der Bandasee. Hier fällt der Meeresboden neben den Korallenriffen steil bis über 7000 Meter hinab.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE5Mg",
+      "duration": 2600,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der große Traum - Geld für alle",
+      "type": "tv",
+      "overview": "Der große Traum - Geld für alle",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIyNzg2MA",
+      "duration": 5343,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Nordmänner - Die wahre Geschichte der Wikinger",
       "type": "tv",
       "overview": "Nordmänner - Die wahre Geschichte der Wikinger",
@@ -2005,116 +2248,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "The Great Way · Der Jakobsweg",
-      "type": "tv",
-      "overview": "Der berühmte Jakobsweg besteht aus einem Netzwerk aus grenzüberschreitenden Pilgerwegen und endet in der Kathedrale Camino de Compostela. Alba und Raul wandern den französischen Jakobsweg, den Camino Francés.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDU0MDcxMg",
-      "duration": 2602,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Geheimnisvolle Moorlandschaften",
-      "type": "tv",
-      "overview": "Ein Film von Waltraud Paschinger",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE4NjIxMA",
-      "duration": 3042,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Migrantinnen für die Altersbetreuung – Die neuen Sklavinnen",
-      "type": "tv",
-      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: nah dran – und so vielfältig wie das Land.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/migrantinnen-fuer-die-altersbetreuung--die-neuen-sklavinnen?urn=urn:srf:video:a6cf5a5f-fc34-4398-85d8-c7cbf6db0ef4",
-      "duration": 3129,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "SRF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kritisch Reisen: Gardasee - Wo alle Urlaub machen",
-      "type": "tv",
-      "overview": "Gardasee - Wo alle Urlaub machen",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.phoenix.de/sendungen/dokumentationen/kritisch-reisen-gardasee-a-5156771.html",
-      "duration": 2669,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Legendäre Zugabenteuer - Kanadas VIA Rail",
-      "type": "tv",
-      "overview": "Legendäre Zugabenteuer - Kanadas VIA Rail",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.phoenix.de/sendungen/dokumentationen/legendaere-zugabenteuer-a-4793907.html",
-      "duration": 2576,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "NANO Doku: Zunge – Das Super-Organ",
       "type": "tv",
       "overview": "Die Zunge ist nicht nur ein vielseitiges Sinnesorgan, sondern auch unser beweglichster Muskel. Ihr hochkomplexes Mikrobiom besteht aus 700 verschiedenen Bakterienarten.",
@@ -2159,72 +2292,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Vom Mooserboden auf das Kitzsteinhorn",
-      "type": "tv",
-      "overview": "Die Hochgebirgsstauseen Mooserboden und Wasserfallboden liegen wie Fjorde eingebettet in die Berglandschaft im Kapruner Tal. Auf einer weitläufigen Almlandschaft auf über 1.800 m Seehöhe leben im Sommer über 1.000 Tiere auf der Fürthermoa Alm, die mit viel Hingabe von der Familie Aberger-Dick bewirtschaftet wird. Über drei Generationen arbeiten hier zusammen, und teilen altes Wissen im Einklang mit der Natur....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen im BR"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjUzQTA",
-      "duration": 2587,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mit dem Boot elbaufwärts - Von Hamburg nach Lübeck",
-      "type": "tv",
-      "overview": "Ben und Nic, zwei Freunde aus Norddeutschland, erkunden ihre Heimat neu: vom Wasser aus. Mit einem Motorboot geht es von Hamburg aus elbaufwärts. Obwohl sie hier aufgewachsen sind, staunen die beiden, wie viel überraschende Geschichten es zu entdecken gibt. Die Elbregion bietet einzigartige Natur, verblüffenden Erfindergeist und beeindruckende Rekorde.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3NjU0MF9nYW56ZVNlbmR1bmc",
-      "duration": 5329,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Kritisch Reisen: Nordseeinseln - Wird der Urlaub unbezahlbar?",
       "type": "tv",
       "overview": "Urlaub auf einer Nordseeinsel: In Zeiten steigender Kerosinpreise und abgesagter Flüge bieten die inländischen Ziele vor den Küsten nicht nur eine garantierte Erreichbarkeit. In Zeiten sommerlicher Hitzerekorde in den Urlaubsregionen im Süden Europas stehen sie auch für gut verträgliche Klimabedingungen. Die \"Kritisch Reisen\"-Autoren Dirk Bitzer und Fritz Sprengart besuchen Norderney, Amrum und Pellworm....",
@@ -2239,6 +2306,28 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNWEwNGU2MDctNmNhYi00MTc5LTk1M2ItZDI5OTBmNzNhMGVh",
       "duration": 2651,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kritisch Reisen: Gardasee - Wo alle Urlaub machen",
+      "type": "tv",
+      "overview": "Alberto Rania ist der einzige Fischer, der im Norden des Sees noch geblieben ist, denn mittlerweile ist der Gardasee eines der beliebtesten Urlaubsziele im Norden Italiens. Rania kann verstehen, dass es viele Deutsche hierher zieht – in eine wunderschöne Landschaft mit kristallklarem Wasser, Bergen, Olivenhainen und malerischen Dörfern. \"Der Gardasee, das ist mein Herz....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "die story"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDc5ZGUxMmYtM2ZkZi00MzI3LWI1ODctYmQwYjM5MDQ2ZjQ0",
+      "duration": 2670,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2331,6 +2420,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Adern der Welt",
+      "type": "tv",
+      "overview": "In der mongolischen Steppe lebt der elfjährige Amra mit seiner Familie ein traditionelles Nomadenleben. Als ein Bergbauunternehmen ihren Lebensraum zerstören will, versucht Amras Vater Erdene, Widerstand zu leisten. Doch als Erdene bei einem tragischen Unfall ums Leben kommt, liegt es an Amra, den Kampf seines Vaters fortzusetzen. – Coming-of-Age-Drama von Byambasuren Davaa.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/082664-000-A/die-adern-der-welt/",
+      "duration": 5252,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2489,28 +2600,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Jane Fonda - Eine Rebellin in Hollywood",
-      "type": "tv",
-      "overview": "Jane Fonda verkörpert wie kaum eine andere Ikone die Mythen ihres Landes und offenbart gleichzeitig dessen Widersprüche. Sie ist alles in einem: Erbin von Hollywoods Starsystem und Muse des französischen Autorenfilms, Oscarpreisträgerin und Aktivistin, Feministin und Aerobic-Queen. In einem einzigen Leben vereint Jane Fonda alle Gesichter der USA.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/086109-000-A/jane-fonda-eine-rebellin-in-hollywood/",
-      "duration": 3154,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Schlepper – Der Usedom-Krimi",
       "type": "tv",
       "overview": "Als Kommissar Rainer Witt (Till Firit) vom Autounfall seiner Tante Karin Lossow (Katrin Sass) auf der polnischen Seite Usedoms erfährt, gelingt es ihm gerade noch rechtzeitig, die Rettungskräfte zu ihr zu navigieren....",
@@ -2545,7 +2634,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -2611,7 +2700,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5314,
       "providers": {
         "netflix": null,
@@ -2633,7 +2722,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0xNF8yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0xNF8yMC0xNS1NRVo",
       "duration": 5289,
       "providers": {
         "netflix": null,
@@ -2677,7 +2766,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5277,
       "providers": {
         "netflix": null,
@@ -2995,6 +3084,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Als der Norden schwimmen lernte",
+      "type": "tv",
+      "overview": "Sommer, Sonne, rote Augen vom Chlorwasser und Anstehen für Pommes: Kindheitserinnerungen an einen Tag im Freibad. Viele dieser Bäder wurden Anfang der 1970er-Jahre gebaut und sind in die Jahre gekommen. In der Stadt und auf dem Land werden immer mehr Schwimmbäder geschlossen, laut einer Untersuchung der DRLG etwa 80 jedes Jahr....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Unsere Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjMwNDk0OF9nYW56ZVNlbmR1bmc",
+      "duration": 2639,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Mythos Côte d'Azur - Liebe, Luxus, Leidenschaft",
       "type": "tv",
       "overview": "Die Côte d'Azur ist nicht nur eine atemberaubend schöne Landschaft. Sie steht für Glamour und Luxus, für Filmfestspiele und Stars, für legendäre Hotels, für Megajachten und Prachtvillen. Die berühmtesten Persönlichkeiten des letzten Jahrhunderts trafen sich hier und haben diese Küste geprägt. Ihren Lieben und Leidenschaften verdankt die Côte d'Azur ihren einmaligen Mythos.",
@@ -3148,29 +3260,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/116084-001-A/die-letzten-tage-von-kabul-1-3/",
       "duration": 3627,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Dresdner Zwinger - Sachsens Pracht und Prunk",
-      "type": "tv",
-      "overview": "August der Starke, Sachsens ehrgeiziger Herrscher, wollte in Dresden mit Pracht und Prunk auftrumpfen wie Frankreichs Sonnenkönig. Herzstück seiner Residenzstadt ist ein Ensemble, darunter der Zwinger, in dem heute Bilder wie die weltberühmte \"Sixtinische Madonna\" zu bewundern sind. Der Film erzählt die Geschichten, die sich um den Zwinger und das historische Dresden ranken.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/113568-000-A/der-dresdner-zwinger/",
-      "duration": 5390,
       "providers": {
         "netflix": null,
         "prime": null,
