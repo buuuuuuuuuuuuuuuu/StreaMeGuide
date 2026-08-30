@@ -1,7 +1,32 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-29T11:25:45.571Z",
+  "generated_at": "2026-08-30T10:11:35.985Z",
   "items": [
+    {
+      "tmdb_id": 860508,
+      "title": "Der Kinderflüsterer",
+      "type": "movie",
+      "overview": "Als sein Sohn verschwindet, bittet ein Witwer seinen entfremdeten Vater um Hilfe – einen pensionierten Polizisten, der den nun verdächtigen Serienkiller einst verhaftete.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Thriller"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "serial killer",
+        "father son relationship"
+      ],
+      "rating": 6.341,
+      "vote_count": 110,
+      "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1631807,
       "title": "Die Frau ohne Vergangenheit",
@@ -17,39 +42,10 @@
         "psychological",
         "ominous"
       ],
-      "rating": 6.65,
-      "vote_count": 10,
+      "rating": 6.5,
+      "vote_count": 23,
       "poster_path": "/woHZDPzS51tup8MlwA2PIyzMUtI.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1744462,
-      "title": "Grand Theft Auto VI: Ein ausführlicher Blick",
-      "type": "movie",
-      "overview": "Schaue dir die nächste Evolution der bahnbrechenden Grand-Theft-Auto-Reihe an.",
-      "genres": [
-        "Animation",
-        "Action",
-        "Abenteuer",
-        "Krimi"
-      ],
-      "keywords": [
-        "video game",
-        "grand theft auto",
-        "crime",
-        "enthusiastic",
-        "straightforward",
-        "vibrant"
-      ],
-      "rating": 8.936,
-      "vote_count": 241,
-      "poster_path": "/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1744462-grand-theft-auto-vi-an-extended-look/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -77,13 +73,71 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 7.232,
-      "vote_count": 41,
+      "rating": 7.082,
+      "vote_count": 49,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1744462,
+      "title": "Grand Theft Auto VI: Ein ausführlicher Blick",
+      "type": "movie",
+      "overview": "Schaue dir die nächste Evolution der bahnbrechenden Grand-Theft-Auto-Reihe an.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Abenteuer",
+        "Krimi"
+      ],
+      "keywords": [
+        "video game",
+        "grand theft auto",
+        "crime",
+        "enthusiastic",
+        "straightforward",
+        "vibrant"
+      ],
+      "rating": 9,
+      "vote_count": 263,
+      "poster_path": "/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1744462-grand-theft-auto-vi-an-extended-look/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 290193,
+      "title": "Mousetrap",
+      "type": "tv",
+      "overview": "Ein zurückgezogener Schriftsteller, dem die Identität von einem Mann namens „Ratte“ gestohlen wurde, will sie sich mithilfe eines skrupellosen Kredithais zurückholen.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "identity theft",
+        "psychological",
+        "korean",
+        "based on webcomic or webtoon",
+        "suspenseful",
+        "korean noir",
+        "suspense thriller"
+      ],
+      "rating": 8.308,
+      "vote_count": 13,
+      "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -109,98 +163,13 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.095,
-      "vote_count": 3161,
+      "rating": 8.099,
+      "vote_count": 3168,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 246246,
-      "title": "Beauty in Black",
-      "type": "tv",
-      "overview": "Das Schicksal einer Stripperin nimmt eine Wendung, als sie auf eine reiche, dysfunktionale Familie mit einer Kosmetikdynastie stößt, die perfiden Menschenhandel betreibt.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "business",
-        "entrepreneur",
-        "sex work"
-      ],
-      "rating": 8.257,
-      "vote_count": 269,
-      "poster_path": "/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/246246-beauty-in-black/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 97546,
-      "title": "Ted Lasso",
-      "type": "tv",
-      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
-      "genres": [
-        "Drama",
-        "Komödie"
-      ],
-      "keywords": [
-        "england",
-        "male friendship",
-        "friendship",
-        "fish out of water",
-        "football (soccer)",
-        "american abroad",
-        "teammate",
-        "professional sports",
-        "football (soccer) team",
-        "workplace comedy",
-        "team owner",
-        "football (soccer) coach",
-        "reflective",
-        "optimist",
-        "coaching",
-        "nice guy",
-        "premier league",
-        "joyful"
-      ],
-      "rating": 8.365,
-      "vote_count": 2598,
-      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 204255,
-      "title": "Mezarlık - Der Friedhof",
-      "type": "tv",
-      "overview": "Hauptkommissarin Önem leitet eine Sonderermittlungseinheit, die schwierige Fälle von Gewalt gegen Frauen aufklärt.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "murder"
-      ],
-      "rating": 7.3,
-      "vote_count": 38,
-      "poster_path": "/p22xaH2ZpxhdJa1ZFF528Yk7AWc.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/204255-mezarlik/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -222,8 +191,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.098,
-      "vote_count": 1430,
+      "rating": 8.1,
+      "vote_count": 1435,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -233,29 +202,21 @@
       }
     },
     {
-      "tmdb_id": 207333,
-      "title": "Hundert Jahre Einsamkeit",
+      "tmdb_id": 299952,
+      "title": "早春晴朗",
       "type": "tv",
-      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
+      "overview": "",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
       "keywords": [
-        "based on novel or book",
-        "affectation",
-        "miniseries",
-        "magic realism",
-        "nostalgic",
-        "latin american history",
-        "political",
-        "period piece",
-        "intimate"
+        "romance",
+        "based on web novel"
       ],
-      "rating": 8,
-      "vote_count": 248,
-      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
+      "rating": 6.2,
+      "vote_count": 3,
+      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -295,9 +256,125 @@
         "defiant"
       ],
       "rating": 8.75,
-      "vote_count": 5502,
+      "vote_count": 5507,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 246246,
+      "title": "Beauty in Black",
+      "type": "tv",
+      "overview": "Das Schicksal einer Stripperin nimmt eine Wendung, als sie auf eine reiche, dysfunktionale Familie mit einer Kosmetikdynastie stößt, die perfiden Menschenhandel betreibt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "business",
+        "entrepreneur",
+        "sex work"
+      ],
+      "rating": 8.286,
+      "vote_count": 276,
+      "poster_path": "/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/246246-beauty-in-black/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 97546,
+      "title": "Ted Lasso",
+      "type": "tv",
+      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "england",
+        "male friendship",
+        "friendship",
+        "fish out of water",
+        "football (soccer)",
+        "american abroad",
+        "teammate",
+        "professional sports",
+        "football (soccer) team",
+        "workplace comedy",
+        "team owner",
+        "football (soccer) coach",
+        "reflective",
+        "optimist",
+        "coaching",
+        "nice guy",
+        "premier league",
+        "joyful"
+      ],
+      "rating": 8.367,
+      "vote_count": 2601,
+      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 292558,
+      "title": "Die ganze Wahrheit hinter meinen Lügen",
+      "type": "tv",
+      "overview": "Die besten Freundinnen Coco und Marín brechen zu einer Wohnwagenreise auf, um Blancas Junggesellinnenabschied zu feiern – doch ihr Abenteuer entwickelt sich zu einer Zeitbombe, als Geheimnisse ans Licht kommen.",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "road trip",
+        "romance"
+      ],
+      "rating": 7,
+      "vote_count": 2,
+      "poster_path": "/dAISEl3uXtw64jlkTCm1H1XnQ4W.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/292558-toda-la-verdad-de-mis-mentiras/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 207333,
+      "title": "Hundert Jahre Einsamkeit",
+      "type": "tv",
+      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "affectation",
+        "miniseries",
+        "magic realism",
+        "nostalgic",
+        "latin american history",
+        "political",
+        "period piece",
+        "intimate"
+      ],
+      "rating": 8.018,
+      "vote_count": 251,
+      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -318,8 +395,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.73,
-      "vote_count": 300,
+      "rating": 8.773,
+      "vote_count": 339,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -348,8 +425,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.395,
-      "vote_count": 4629,
+      "rating": 8.4,
+      "vote_count": 4630,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -403,6 +480,38 @@
       }
     },
     {
+      "tmdb_id": 100757,
+      "title": "Outer Banks",
+      "type": "tv",
+      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
+      "genres": [
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "keywords": [
+        "diving",
+        "surfing",
+        "north carolina",
+        "treasure hunt",
+        "on the run",
+        "boat chase",
+        "illegal drugs",
+        "outer banks",
+        "teenager",
+        "exciting",
+        "adventure"
+      ],
+      "rating": 8.2,
+      "vote_count": 1250,
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
       "tmdb_id": 79744,
       "title": "The Rookie",
       "type": "tv",
@@ -429,41 +538,9 @@
         "dramatic"
       ],
       "rating": 8.544,
-      "vote_count": 3489,
+      "vote_count": 3490,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 100757,
-      "title": "Outer Banks",
-      "type": "tv",
-      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
-      "genres": [
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "keywords": [
-        "diving",
-        "surfing",
-        "north carolina",
-        "treasure hunt",
-        "on the run",
-        "boat chase",
-        "illegal drugs",
-        "outer banks",
-        "teenager",
-        "exciting",
-        "adventure"
-      ],
-      "rating": 8.2,
-      "vote_count": 1249,
-      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -507,157 +584,13 @@
         "horror"
       ],
       "rating": 8.314,
-      "vote_count": 8628,
+      "vote_count": 8630,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 44217,
-      "title": "Vikings",
-      "type": "tv",
-      "overview": "Inspiriert von den überlieferten Sagen des legendären Wikingerkönigs Ragnar Lothbrok entführt die gefeierte Hitserie in den eisigen Norden des europäischen Kontinents im 8. Jahrhundert: Krieger Ragnar glaubt, dass jenseits des wilden Ozeans im unerforschten Westen ein neues Land mit reichen Schätzen auf die Wikingerhorden wartet. Für seine Überzeugungen setzt er alles auf eine Karte, lässt ein neues Schiff bauen und macht sich in den packenden neun Episoden der ersten Staffel auf, um Geschichte zu schreiben.",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "scandinavia",
-        "vikings (norsemen)",
-        "royalty",
-        "historical fiction",
-        "king",
-        "battle",
-        "historical",
-        "middle ages (476-1453)",
-        "dark ages",
-        "norse mythology",
-        "historical drama",
-        "warrior",
-        "8th century",
-        "period piece",
-        "violence",
-        "sword and sandal",
-        "exciting",
-        "action",
-        "antagonistic",
-        "violent"
-      ],
-      "rating": 8.101,
-      "vote_count": 7848,
-      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/44217-vikings/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219559.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 13475,
-      "title": "Star Trek",
-      "type": "movie",
-      "overview": "Wir schreiben das 23. Jahrhundert. Der junge James Tiberius Kirk ist ein Draufgänger, der keiner Kneipenschlägerei aus den Weg geht und bevorzugt mit dem Kopf durch die Wand marschiert. Der Heißsporn bewirbt sich auf Rat eines alten Freundes seines verstorbenen Vaters bei der Sternenflotten-Akademie der Föderation und findet in dem kauzigen Arzt Dr. Leonard \"Pille\" McCoy sogar gleich einen neuen Kumpel. Ansonsten macht sich der Frauenheld auf der Akademie eher Feinde. So wie den Halb-Vulkanier Spock, dem auffällt, dass Tiberius bei einer Prüfung gemogelt hat. Die beiden entwickeln sich zu erbitterten Rivalen, müssen ihre Feindseligkeiten jedoch aufgeben, als die U.S.S. Enterprise vom Stapel läuft und Captain Pike bei einer Mission von dem romulanischen Outlaw Nero gefangen genommen wird, der nur von einem Gedanken beseelt ist: Rache!",
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "spacecraft",
-        "teleportation",
-        "san francisco, california",
-        "space battle",
-        "time travel",
-        "space mission",
-        "parachute",
-        "black hole",
-        "supernova",
-        "prequel",
-        "futuristic",
-        "warp speed",
-        "warp engine",
-        "space",
-        "romulans",
-        "space opera",
-        "reboot",
-        "unlikely friendship",
-        "child driving car",
-        "alternative reality",
-        "23rd century",
-        "based on tv series",
-        "24th century",
-        "suspenseful",
-        "excited",
-        "exhilarated"
-      ],
-      "rating": 7.4,
-      "vote_count": 10682,
-      "poster_path": "/hbFaX3xicuHbfdW0XpUy6uHS3EN.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/13475-star-trek/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219835.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 9799,
-      "title": "The Fast and the Furious",
-      "type": "movie",
-      "overview": "Eine Reihe von Trucküberfällen hält die Polizei von Los Angeles in Atem. Mit frisierten Autos jagen Verbrecher LKWs, kapern diese und klauen die Fracht. Die Polizei glaubt, dass hinter den Überfällen der PS-Junkie Dominic steckt. Er organisiert mit seiner Freundin Letty illegale Straßenrennen in der Großstadt. Die teilnehmenden Fahrzeuge sind allesamt frisiert. Also wird jemand eingeschleust: Brian. Er arbeitet undercover für die Polizei und ist in Doms Schwester verliebt...",
-      "genres": [
-        "Action",
-        "Krimi",
-        "Thriller"
-      ],
-      "keywords": [
-        "street gang",
-        "undercover",
-        "car race",
-        "auto-tuning",
-        "street race",
-        "los angeles, california",
-        "nostalgic",
-        "aftercreditsstinger",
-        "duringcreditsstinger",
-        "aggressive",
-        "based on magazine, newspaper or article",
-        "cars",
-        "furious",
-        "ambiguous",
-        "bold",
-        "earnest",
-        "excited"
-      ],
-      "rating": 7.014,
-      "vote_count": 11062,
-      "poster_path": "/qmRrB8HFhEThLDhqJ7bZqZb6pm9.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220044.html",
-        "mentions": 2
       }
     },
     {
@@ -1516,6 +1449,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Ich will mein Glück zurück - Fernsehfilm, Deutschland 2023",
+      "type": "tv",
+      "overview": "Zur Goldenen Hochzeit plant Ulla auf dem Partyschiff \"Alte Liebe\" die Erneuerung des Eheversprechens. Doch vor allen Gästen gesteht ihr Mann Paul seine Liebe zu ihrer Freundin Rita.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/fernsehfilm/ich-will-mein-glueck-zurueck-100.html",
+      "duration": 5326,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Mord im Mittsommer - Staffel 10 (3/3) - Fall 22: Birgitta",
       "type": "tv",
       "overview": "Ein neuer Fall in Sandhamn beschäftigt Kommissar Alexander Forsman und sein Team: Die berühmte Krimiautorin Birgitta wird tot in ihrem Haus aufgefunden – vergiftet. Die Ermittler versuchen, die Nacht vor ihrem Tod zu rekonstruieren. Fest steht, dass Noras Ex-Schwiegermutter in den Fall verwickelt ist, weshalb sich Nora eigentlich heraushalten muss ...",
@@ -1666,28 +1621,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 10 (1/3) - Fall 20: Madeleine",
-      "type": "tv",
-      "overview": "Nach dem Bombenanschlag kämpft Kommissar Alexander Forsman um sein Leben. Während Alexanders Aufenthalt in der Rehaklinik geschieht ein Mord: Mitpatientin Madeleine, eine Malerin, wird tot in ihrem Bett aufgefunden. Der junge Kommissar Valpen übernimmt den Fall und sieht sich bald mit ungewöhnlichen Wendungen konfrontiert ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/122313-000-A/mord-im-mittsommer-staffel-10-1-3/",
-      "duration": 5315,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     },
     {
@@ -2006,6 +1939,138 @@
     },
     {
       "tmdb_id": null,
+      "title": "Naturparadiese am Äquator",
+      "type": "tv",
+      "overview": "Entlang des Äquators erstrecken sich zahlreiche Korallenriffe im Pazifik - die artenreichsten der Erde. Komplexe Lebensgemeinschaften, in denen viele Arten aufeinander angewiesen sind.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjM2Mg",
+      "duration": 2606,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Robert Bernardis · Ein vergessener Held",
+      "type": "tv",
+      "overview": "Der geborene Tiroler Robert Bernardis war als Oberstleutnant des Generalstabs in Berlin der einzige österreichische Offizier, der beim Hitlerattentat am 20. Juli 1944 eine Schlüsselrolle spielte.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDgyNjMwNw",
+      "duration": 3355,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Naturparadiese am Äquator: Nebelwald und Anden-Hochland",
+      "type": "tv",
+      "overview": "In Ecuador verläuft der Äquator quer über die Anden. In der spektakulären Gebirgslandschaft hat sich eine große Artenvielfalt aus Waldbewohnern und Hochgebirgsspezialisten entwickelt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjQxMg",
+      "duration": 2596,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Naturparadiese am Äquator: Borneo und Sumatra",
+      "type": "tv",
+      "overview": "Auf den Inseln Borneo und Sumatra leben einzigartige und rätselhafte Tiere und Pflanzen. Lebenskünstler wie Zwergelefanten, Flugechsen, Orang-Utans und andere Primaten, aber auch bizarre Insekten sind bestens an das Leben in den Urwaldgebieten angepasst.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjM5Mg",
+      "duration": 2615,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mao - Despoten",
+      "type": "tv",
+      "overview": "Drei Jahrzehnte lang steht er an der Spitze Chinas: Mao Zedong. Ein sadistischer, kommunistischer Autokrat süchtig nach Brutalität.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ5NDA0Nw",
+      "duration": 2620,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Naturparadiese am Äquator: Afrikas Regenwälder und Savannen",
+      "type": "tv",
+      "overview": "Der Äquator verläuft quer durch den afrikanischen Kontinent und durch ganz unterschiedliche Lebensräume – von den Regenwäldern Gabuns im Westen bis zur trockenen Savanne Kenias im Osten.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjM4Mg",
+      "duration": 2604,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Into the Blue - Rund um die Molukken",
       "type": "tv",
       "overview": "Im Dreieck zwischen den Philippinen im Norden und dem zentralen und östlichen Indonesien befindet sich ein Gebiet mit einer außergewöhnlichen Artenvielfalt: das Korallendreieck.",
@@ -2134,160 +2199,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Reisen in ferne Welten - Alaska Highway",
-      "type": "tv",
-      "overview": "Noch heute ist der Alaska Highway die einzige Straßenverbindung nach Alaska. In nur sieben Monaten wurde die Wildnisstraße durch den hohen Norden Nordamerikas im Sommer 1942 vom US-Militär gebaut. Eine 2400 Kilometer lange Piste durch unendliche Sümpfe und über noch namenlose Bergketten. Auf dem Highway sollte im Zweiten Weltkrieg Nachschub nach Alaska gebracht werden, um einen Angriff von Japan abzuwehren....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen und Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9EVVJfMTM2ODQ0",
-      "duration": 2700,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mysterium Gotik",
-      "type": "tv",
-      "overview": "Mysterium Gotik - Als die Kathedralen in den Himmel wuchsen",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDcwNDk5Nw",
-      "duration": 2764,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kanada · Der weite Norden",
-      "type": "tv",
-      "overview": "Kanada: ein Land der Superlative. 10 Millionen Quadratkilometer groß, mit mehr als zwei Millionen Flüssen und Seen, dem größten intakten Waldgebiet und der längsten Küstenlinie der Welt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg1NzU1Nw",
-      "duration": 3008,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wüstenkönige (1/2) - Die Löwen der Namib",
-      "type": "tv",
-      "overview": "Film von Lianne und Will Steenkamp",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE4NjM3MA",
-      "duration": 2762,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wüstenkönige (2/2) - Die Löwen der Namib",
-      "type": "tv",
-      "overview": "Film von Lianne und Will Steenkamp",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE4NjIwNQ",
-      "duration": 2644,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "NANO Doku: Zunge – Das Super-Organ",
-      "type": "tv",
-      "overview": "Die Zunge ist nicht nur ein vielseitiges Sinnesorgan, sondern auch unser beweglichster Muskel. Ihr hochkomplexes Mikrobiom besteht aus 700 verschiedenen Bakterienarten.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "NANO Doku"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/nano-doku/260827-nano-doku-zunge-das-superorgan-ndk-104.html",
-      "duration": 2627,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Unser Immunsystem - Wächter der Gesundheit",
-      "type": "tv",
-      "overview": "Das Immunsystem ist so unverzichtbar für den Menschen wie das Herz oder die Lunge. Es sorgt fürs Überleben, kann sich aber auch gegen uns selbst richten und uns dabei schaden. Es ist komplex und faszinierend zugleich. Spätestens seit der Corona-Krise steht das Immunsystem im Mittelpunkt der Medizinforschung. Was ist das Immunsystem? Wie lässt es sich stärken? Wann und warum kann es scheitern?...",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9iYTY5YmVmNi1hZDNkLTQ1NTMtODI5Mi1jNzIzNzM0YWJkM2Q",
-      "duration": 3165,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2600,6 +2511,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Blind ermittelt – Tod im Prater",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland/Österreich 2022 Eine Frau stößt im Streit ihren Mann aus dem Fenster seines Hochhausbüros und nimmt anschließend eine fast tödliche Dosis Schlaftabletten. Kommissarin Janda bittet ihren blinden Ex-Chef Haller und seine \"rechte Hand\" Niko um Unterstützung. Mit Philipp Hochmair, Andreas Guenther, Jaschka Lämmert, Michael Edlinger, Karin Hanczewski u. a....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Wien-Krimi: Blind ermittelt"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2UxYTM0ZjZmLWYxMmQtNDI1NS04MTY1LTI5NGVhODhkYWFiMV9nYW56ZVNlbmR1bmc",
+      "duration": 5280,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Schlepper – Der Usedom-Krimi",
       "type": "tv",
       "overview": "Als Kommissar Rainer Witt (Till Firit) vom Autounfall seiner Tante Karin Lossow (Katrin Sass) auf der polnischen Seite Usedoms erfährt, gelingt es ihm gerade noch rechtzeitig, die Rettungskräfte zu ihr zu navigieren....",
@@ -2634,7 +2567,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNa",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -2666,28 +2599,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Lebendig begraben | Der Wien-Krimi: Blind ermittelt",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland/Österreich 2021 Es gibt einen Tag, der das Leben von Ex-Kommissar Alexander Haller (Philipp Hochmair) für immer verändert hat: Am 17. Oktober 2017 verlor er durch einen Bombenanschlag seine Verlobte Kara und das Augenlicht! Als nun bei einem Mordopfer eine rätselhafte Notiz mit genau diesem Datum auftaucht, bittet ihn seine Nachfolgerin Laura Janda (Jaschka Lämmert) um Unterstützung....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Wien-Krimi: Blind ermittelt"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzg5NDZkNDg0LThlYzItNGIwYS05NTZjLTc4ZDVlODMxOWVlMF9nYW56ZVNlbmR1bmc",
-      "duration": 5238,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Borchert und der Mord im Taxi (S01/E11)",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2020 Borchert (Christian Kohlund) und Dominique Kuster (Ina Paule Klink) übernehmen die Verteidigung des Taxifahrers Jürg Zollinger (Tim Kalkhof). Hauptmann Furrer (Pierre Kiwitt) verdächtigt ihn des Mordes an einem Fahrgast, dem afrikanischen Investigativ-Journalisten Nuka Baluba (Pierre Rousselet). Alle Indizien belasten den unbeherrschten Verdächtigen, dessen Aussage zunächst wenig glaubwürdig erscheint....",
@@ -2700,7 +2611,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWg",
       "duration": 5314,
       "providers": {
         "netflix": null,
@@ -2744,7 +2655,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzk4OGZjOGU1LTczYTktNGFmMC05YzhiLTY0YmI0ODM0Njc0NV9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzk4OGZjOGU1LTczYTktNGFmMC05YzhiLTY0YmI0ODM0Njc0NV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5316,
       "providers": {
         "netflix": null,
@@ -2886,6 +2797,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Klaus Eckel - Die besten Momente",
+      "type": "tv",
+      "overview": "Er ist einer der beliebtesten Kabarettisten des Landes, seine Vorstellungen weit im Voraus ausverkauft: Klaus Eckel. Keiner spricht so schnell wie er, niemand setzt so viele Pointen in der Minute. Anlass genug, um dem Star der Kleinkunst ein Denkmal zu errichten. ORF III hat sich durch die Bühnenprogramme gewühlt und zeigt zahlreiche Highlights aus seinen Programmen sowie unbekannte Schätze aus dem Archiv. Bildquelle: ORF/Hans Leitner",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14337024/klaus-eckel-die-besten-momente",
+      "duration": 2580,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kernölamazonen: Die große Jubiläumsshow",
       "type": "tv",
       "overview": "Sie sind DAS dynamische Duo auf Österreichs Kabarettbühnen, Publikumslieblinge und Kabarettstars sondergleichen: die Kernölamazonen. Anlässlich des 20-jährigen Jubiläums präsentierten Caroline Athanasiadis und Gudrun Nikodem-Eichenhardt eine Show der Sonderklasse im Globe Wien. Mit großartigen Überraschungsgästen wie Viktor Gernot, einer komödiantischen und musikalischen Zeitreise und herrlich komischen Blicken hinter die Kulisse....",
@@ -2970,28 +2903,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Best-of mit Constanze Lindner, Christian Schulte-Loh, Jonas Greiner ...",
-      "type": "tv",
-      "overview": "Zu Gast: Constanze Lindner, Christian Schulte-Loh, Jonas Greiner, Hans Thalhammer, Luise Kinseher, Matthias Egersdörfer und Kathie Freudenschuss",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarett aus Franken"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMTYzQTA",
-      "duration": 2580,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -3084,6 +2995,98 @@
     },
     {
       "tmdb_id": null,
+      "title": "California! - Von Revolten und Tech-Revolutionen",
+      "type": "tv",
+      "overview": "Skateboards, Personal Computer, California Cuisine, Hollywood – ohne Kalifornien wäre die Welt eine andere. Egal, ob aus Umweltkatastrophen neue bahnbrechende Gesetze erwachsen, einige Nerds im Silicon Valley einen weltweiten Tech-Boom auslösen oder ein Österreicher die kalifornische Küche neu erfindet. Der \"Goldene Staat\" an der Westküste Amerikas ist immer einen Schritt voraus.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/097513-002-A/california/",
+      "duration": 3123,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "California! - Testlabor für die Welt",
+      "type": "tv",
+      "overview": "Surfer, Hollywood, Free Speech, Hippie-Kultur, Raumfahrt – ohne Kalifornien wäre die Welt eine andere. Egal, ob in Pasadena die größte Mission der Menschheit vorbereit wird, Studenten in Berkeley für ihr Recht auf Meinungsfreiheit kämpfen oder die Hippies die Gesellschaft auf den Kopf stellen – der \"Goldene Staat\" an der Westküste Amerikas ist immer einen Schritt voraus.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/097513-001-A/california/",
+      "duration": 3099,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Auf den Spuren der Cheops-Pyramide - Wunder der Architektur",
+      "type": "tv",
+      "overview": "Die Cheops-Pyramide gehört zu den Pyramiden von Gizeh, dem einzigen noch erhaltenen Weltwunder der Antike. Sie wird auch als \"Große Pyramide\" bezeichnet und wurde vor über 4.500 Jahren im westlichen Niltal, etwa 25 Kilometer von Kairo entfernt, als Grabmal des Königs Cheops erbaut. Wie konnten die Ägypter ohne moderne Werkzeuge ein derart monumentales Bauwerk errichten?",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/088412-000-A/auf-den-spuren-der-cheops-pyramide/",
+      "duration": 3134,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Pharaoninnen. Frauen, die das Reich Ägypten formten",
+      "type": "tv",
+      "overview": "Vor über 5.000 Jahren entstand am Nil der erste Flächenstaat der Welt und Frauen spielten dabei eine entscheidende Rolle. Ein internationales Forschungsteam enthüllt anhand aktueller Grabungen neue Erkenntnisse über Machtstrukturen und den Einfluss von Frauen. Der Film zeigt, wie moderne Wissenschaft alte Mythen korrigiert – und warum Ägypten uns bis heute fasziniert.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/119927-000-A/die-pharaoninnen-frauen-die-das-reich-aegypten-formten/",
+      "duration": 5359,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Als der Norden schwimmen lernte",
       "type": "tv",
       "overview": "Sommer, Sonne, rote Augen vom Chlorwasser und Anstehen für Pommes: Kindheitserinnerungen an einen Tag im Freibad. Viele dieser Bäder wurden Anfang der 1970er-Jahre gebaut und sind in die Jahre gekommen. In der Stadt und auf dem Land werden immer mehr Schwimmbäder geschlossen, laut einer Untersuchung der DRLG etwa 80 jedes Jahr....",
@@ -3168,98 +3171,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/105593-000-A/mallorca-tod-im-paradies/",
       "duration": 3147,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Adolf Kanter - Der Spion, der zu viel wusste",
-      "type": "tv",
-      "overview": "Hinter dem in den 1980ern als Flick-Affäre bekannt gewordenen Schmiergeldskandal verbirgt sich tatsächlich ein deutsch-deutscher Spionagekrimi, der den frisch gewählten Kanzler Helmut Kohl die Karriere hätte kosten können. Die Doku enthüllt die Verstrickungen der DDR in den Flick-Parteispendenskandal und ihren Zugang zum Bonner Kanzleramt der 1980er Jahre.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/109370-000-A/adolf-kanter-der-spion-der-zu-viel-wusste/",
-      "duration": 2669,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die letzten Tage von Kabul (3/3) - Der Fall von Kabul",
-      "type": "tv",
-      "overview": "Die USA schließen ein Friedensabkommen mit den Taliban. Ohne die Unterstützung der USA zerfällt die afghanische Armee, die Taliban erobern 2021 in rasantem Tempo das Land und stehen am 15. August vor Kabul. Panik bricht aus, Tausende Menschen drängen zum Flughafen. Während Präsident Ashraf Ghani flieht, versinkt die Hauptstadt im Chaos.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116084-003-A/die-letzten-tage-von-kabul-3-3/",
-      "duration": 3641,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die letzten Tage von Kabul (2/3) - Amerikas Krieg",
-      "type": "tv",
-      "overview": "Nach dem Sturz der Taliban 2001 wurde eine internationale Koalition nach Afghanistan entsandt, um Terrorismus zu bekämpfen und das Land zu stabilisieren. Die Aussicht auf Wiederaufbau brachte Millionen Rückkehrer zurück ins Land. Doch die Hoffnung auf Frieden und Demokratie scheiterte an Korruption und Gewalt.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116084-002-A/die-letzten-tage-von-kabul-2-3/",
-      "duration": 3635,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die letzten Tage von Kabul (1/3) - Verlorenes Land",
-      "type": "tv",
-      "overview": "Am 15. August 2021 übernehmen die Taliban Kabul – das dramatische Ende eines 20-jährigen internationalen Einsatzes. Wie begann alles? Die persönlichen Geschichten afghanischer und internationaler Akteure führen zurück zu den Ursprüngen der Taliban und den Anschlägen vom 11. September.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116084-001-A/die-letzten-tage-von-kabul-1-3/",
-      "duration": 3627,
       "providers": {
         "netflix": null,
         "prime": null,
