@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-30T10:11:35.985Z",
+  "generated_at": "2026-08-31T11:14:48.527Z",
   "items": [
     {
       "tmdb_id": 860508,
@@ -17,35 +17,10 @@
         "serial killer",
         "father son relationship"
       ],
-      "rating": 6.341,
-      "vote_count": 110,
+      "rating": 6.281,
+      "vote_count": 176,
       "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
       "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1631807,
-      "title": "Die Frau ohne Vergangenheit",
-      "type": "movie",
-      "overview": "Louise Andersen lebt gemeinsam mit ihrem Partner Joachim ein zurückgezogenes Leben auf der norwegischen Insel Hidra, wo sie ein kleines Café betreibt. Ihr Alltag gerät jedoch aus den Fugen, als eine Fremde sie als Helene Söderberg erkennt – eine Frau, die vor drei Jahren in Dänemark spurlos verschwand. Nach und nach erfährt Louise, dass sie einst verheiratet war und einen kleinen Sohn hat. Entschlossen, die Wahrheit über ihre Identität und die Ereignisse ihres Verschwindens herauszufinden, lässt sie ihr bisheriges Leben hinter sich und kehrt in ihre Vergangenheit zurück. Je tiefer sie in die Nachforschungen eintaucht, desto mehr verborgene Geheimnisse kommen ans Licht und führen zu einer Enthüllung, die ihr gesamtes Leben infrage stellt.",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Mystery"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "psychological",
-        "ominous"
-      ],
-      "rating": 6.5,
-      "vote_count": 23,
-      "poster_path": "/woHZDPzS51tup8MlwA2PIyzMUtI.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -73,13 +48,38 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 7.082,
-      "vote_count": 49,
+      "rating": 7,
+      "vote_count": 68,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1631807,
+      "title": "Die Frau ohne Vergangenheit",
+      "type": "movie",
+      "overview": "Louise Andersen lebt gemeinsam mit ihrem Partner Joachim ein zurückgezogenes Leben auf der norwegischen Insel Hidra, wo sie ein kleines Café betreibt. Ihr Alltag gerät jedoch aus den Fugen, als eine Fremde sie als Helene Söderberg erkennt – eine Frau, die vor drei Jahren in Dänemark spurlos verschwand. Nach und nach erfährt Louise, dass sie einst verheiratet war und einen kleinen Sohn hat. Entschlossen, die Wahrheit über ihre Identität und die Ereignisse ihres Verschwindens herauszufinden, lässt sie ihr bisheriges Leben hinter sich und kehrt in ihre Vergangenheit zurück. Je tiefer sie in die Nachforschungen eintaucht, desto mehr verborgene Geheimnisse kommen ans Licht und führen zu einer Enthüllung, die ihr gesamtes Leben infrage stellt.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "psychological",
+        "ominous"
+      ],
+      "rating": 6.3,
+      "vote_count": 30,
+      "poster_path": "/woHZDPzS51tup8MlwA2PIyzMUtI.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -102,10 +102,38 @@
         "straightforward",
         "vibrant"
       ],
-      "rating": 9,
-      "vote_count": 263,
+      "rating": 8.98,
+      "vote_count": 281,
       "poster_path": "/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1744462-grand-theft-auto-vi-an-extended-look/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.111,
+      "vote_count": 1443,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -131,8 +159,8 @@
         "korean noir",
         "suspense thriller"
       ],
-      "rating": 8.308,
-      "vote_count": 13,
+      "rating": 7.9,
+      "vote_count": 17,
       "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
       "providers": {
@@ -163,63 +191,13 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.099,
-      "vote_count": 3168,
+      "rating": 8.102,
+      "vote_count": 3178,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.1,
-      "vote_count": 1435,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "based on web novel"
-      ],
-      "rating": 6.2,
-      "vote_count": 3,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -255,8 +233,8 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.75,
-      "vote_count": 5507,
+      "rating": 8.749,
+      "vote_count": 5509,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -266,22 +244,21 @@
       }
     },
     {
-      "tmdb_id": 246246,
-      "title": "Beauty in Black",
+      "tmdb_id": 299952,
+      "title": "早春晴朗",
       "type": "tv",
-      "overview": "Das Schicksal einer Stripperin nimmt eine Wendung, als sie auf eine reiche, dysfunktionale Familie mit einer Kosmetikdynastie stößt, die perfiden Menschenhandel betreibt.",
+      "overview": "",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "business",
-        "entrepreneur",
-        "sex work"
+        "romance",
+        "based on web novel"
       ],
-      "rating": 8.286,
-      "vote_count": 276,
-      "poster_path": "/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/246246-beauty-in-black/watch?locale=DE",
+      "rating": 6.125,
+      "vote_count": 4,
+      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -318,7 +295,7 @@
         "joyful"
       ],
       "rating": 8.367,
-      "vote_count": 2601,
+      "vote_count": 2605,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
@@ -328,23 +305,27 @@
       }
     },
     {
-      "tmdb_id": 292558,
-      "title": "Die ganze Wahrheit hinter meinen Lügen",
+      "tmdb_id": 236235,
+      "title": "The Gentlemen",
       "type": "tv",
-      "overview": "Die besten Freundinnen Coco und Marín brechen zu einer Wohnwagenreise auf, um Blancas Junggesellinnenabschied zu feiern – doch ihr Abenteuer entwickelt sich zu einer Zeitbombe, als Geheimnisse ans Licht kommen.",
+      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
       "genres": [
+        "Komödie",
         "Drama",
-        "Komödie"
+        "Krimi"
       ],
       "keywords": [
-        "based on novel or book",
-        "road trip",
-        "romance"
+        "dark comedy",
+        "aristocrat",
+        "based on movie",
+        "irreverent",
+        "offbeat",
+        "action"
       ],
-      "rating": 7,
-      "vote_count": 2,
-      "poster_path": "/dAISEl3uXtw64jlkTCm1H1XnQ4W.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/292558-toda-la-verdad-de-mis-mentiras/watch?locale=DE",
+      "rating": 7.816,
+      "vote_count": 844,
+      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -352,29 +333,45 @@
       }
     },
     {
-      "tmdb_id": 207333,
-      "title": "Hundert Jahre Einsamkeit",
+      "tmdb_id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
       "type": "tv",
-      "overview": "In der Kleinstadt Macondo meistern sieben Generationen der Familie Buendía die Liebe, das Vergessen sowie die Unausweichlichkeit ihrer Vergangenheit und ihres Schicksals.",
+      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
       "genres": [
-        "Drama",
+        "Action & Adventure",
+        "Animation",
         "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "based on novel or book",
-        "affectation",
-        "miniseries",
-        "magic realism",
-        "nostalgic",
-        "latin american history",
-        "political",
-        "period piece",
-        "intimate"
+        "magic",
+        "teleportation",
+        "reincarnation",
+        "polygamy",
+        "harem",
+        "romance",
+        "displacement",
+        "second chance",
+        "fantasy world",
+        "seinen",
+        "ecchi",
+        "anime",
+        "high fantasy",
+        "search for mother",
+        "neet",
+        "life challenges",
+        "other world",
+        "sword and sorcery",
+        "isekai",
+        "otaku",
+        "erotic",
+        "fantasy",
+        "based on light novel",
+        "adventure"
       ],
-      "rating": 8.018,
-      "vote_count": 251,
-      "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/207333-cien-anos-de-soledad/watch?locale=DE",
+      "rating": 8.414,
+      "vote_count": 1690,
+      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -395,8 +392,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.773,
-      "vote_count": 339,
+      "rating": 8.825,
+      "vote_count": 400,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -425,8 +422,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.4,
-      "vote_count": 4630,
+      "rating": 8.395,
+      "vote_count": 4632,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -469,42 +466,10 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.959,
-      "vote_count": 4323,
+      "rating": 7.96,
+      "vote_count": 4324,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 100757,
-      "title": "Outer Banks",
-      "type": "tv",
-      "overview": "Auf einer Insel in North Carolina stoßen John B und seine Freundesclique auf der Suche nach einem verlorenen Schatz auf viele Geheimnisse und Abenteuer.",
-      "genres": [
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "keywords": [
-        "diving",
-        "surfing",
-        "north carolina",
-        "treasure hunt",
-        "on the run",
-        "boat chase",
-        "illegal drugs",
-        "outer banks",
-        "teenager",
-        "exciting",
-        "adventure"
-      ],
-      "rating": 8.2,
-      "vote_count": 1250,
-      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/100757-outer-banks/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -538,7 +503,7 @@
         "dramatic"
       ],
       "rating": 8.544,
-      "vote_count": 3490,
+      "vote_count": 3491,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -584,13 +549,59 @@
         "horror"
       ],
       "rating": 8.314,
-      "vote_count": 8630,
+      "vote_count": 8633,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Roomservice",
+      "type": "tv",
+      "overview": "Das Zimmermädchen Yasemin Akhtar kommt beim Sturz im Treppenhaus eines Luxushotels zu Tode. Fremdverschulden oder nicht, fragen sich Lena Odenthal und Mario Kopper bei ihren Ermittlungen. Aber auch: Steht ihr Tod in Zusammenhang damit, dass der Politiker Joseph Sattler kurz zuvor in Suite 426 Sex mit Yasemin hatte?...",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDY4MjgvYXVkaW9kZXNrcmlwdGlvbg",
+      "duration": 5322,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatort: Was ist das für eine Welt",
+      "type": "tv",
+      "overview": "In ihrem dreißigsten Tatort-Fall an der Seite von Moritz Eisner bekommt Bibi Fellner es mit dem Mord an einem jungen, beliebten und extrem erfolgreichen IT-Mitarbeiter zu tun. Everybody's Darling, möchte man auf den ersten Blick meinen - doch im Zuge der Ermittlungen kommen Hinweise und Erkenntnisse ans Tageslicht, die nicht nur Moritz und Bibi, sondern vor allem deren Kollegin Meret Schande vor eine große Bewährungsprobe stellen....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort aus Österreich"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14337127/tatort-was-ist-das-fuer-eine-welt",
+      "duration": 5310,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
       }
     },
     {
@@ -817,52 +828,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMjE3N2U4My1lM2QzLTQ4MmMtOGUzMy05OWMzMjk0MTQ1M2VfcHVibGljYXRpb24",
       "duration": 5314,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatort: Glück allein",
-      "type": "tv",
-      "overview": "Blut an den Händen, Lügen im Haus: Ein Mordfall zerlegt das Bild der perfekten Politikerfamilie. Als ein Nationalratsabgeordneter blutverschmiert vor seinem Haus gefunden wird, beginnt für Moritz Eisner und Bibi Fellner ein verstörender Fall: Seine Frau wurde ermordet, die Tochter schwer verletzt. Zunächst deutet alles auf einen brutalen Raubüberfall hin, doch die Ermittlungen legen immer mehr Widersprüche offen....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort aus Österreich"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14336341/tatort-glueck-allein",
-      "duration": 5338,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Aus dem Dunkel",
-      "type": "tv",
-      "overview": "Eine Frau stürzt vom Balkon ihrer Wohnung. Die Fenster sind verklebt, der Wohnungszustand spricht für Verzweiflung. Es war offensichtlich Selbstmord. Doch Kommissarin Ellen Berlinger trifft Hauptkommissar Thomas Engels von der Schutzpolizei, der vergeblich versucht hatte, Amira Hassan vor einem anonymen Stalker zu beschützen. Er glaubt, dass sie in den Tod getrieben wurde....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIxNDc2Njg",
-      "duration": 5328,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1229,6 +1194,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Saltburn",
+      "type": "tv",
+      "overview": "Ein Außenseiter nistet sich in der Welt einer reichen Aristokratenfamilie ein. Intrigen und Machtspiele beginnen hinter der glänzenden Fassade zu brodeln und lassen niemanden unberührt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/saltburn-movie-100/saltburn-100",
+      "duration": 7538,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Saltburn (Englisch)",
+      "type": "tv",
+      "overview": "Ein Außenseiter nistet sich in der Welt einer reichen Aristokratenfamilie ein. Intrigen und Machtspiele beginnen hinter der glänzenden Fassade zu brodeln und lassen niemanden unberührt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/saltburn-movie-100/saltburn-100",
+      "duration": 7538,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ein Schloss am Wörthersee - Der Film - Kinofilm, Österreich 1992",
+      "type": "tv",
+      "overview": "Der charmante Lennie Berger hat von seinem Onkel das Schlosshotel Velden geerbt und will es auf Vordermann bringen. Das stößt bei den Angestellten und der Konkurrenz nicht nur auf Zuspruch.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/ein-schloss-am-woerthersee---der-film-100.html",
+      "duration": 4938,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Lauf Junge lauf - Spielfilm, Deutschland/Frankreich 2013",
       "type": "tv",
       "overview": "\"Lauf Junge lauf\" erzählt die wahre Geschichte des neunjährigen Srulik, dem die Flucht aus dem Warschauer Ghetto gelingt. Bis zum Kriegsende muss er allein ums Überleben kämpfen.",
@@ -1379,72 +1410,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Subservience (Englisch)",
-      "type": "tv",
-      "overview": "Nick stellt aufgrund einer Herzoperation seiner Frau Maggie die humanoide Haushaltshilfe und Babysitterin Alice an, doch sie entwickelt sich bald zu einer Gefahr.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/subservience-movie-100/subservience-100",
-      "duration": 5543,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Schachnovelle - Spielfilm, Deutschland/Österreich 2020",
-      "type": "tv",
-      "overview": "Österreich, 1938. Der Wiener Lebemann Dr. Josef Bartok verdrängt die Gefahr der NS-Machtübernahme. Erst kurz vor dem \"Anschluss\" an das Deutsche Reich entschließt er sich zur Flucht.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/schachnovelle-102.html",
-      "duration": 6084,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kommt ein Vogel geflogen - Spielfilm, Deutschland 2023",
-      "type": "tv",
-      "overview": "Birgit Singer ist Tierpflegerin und trägt die Hauptlast der Familie: Sie leitet ein Tierheim, finanziert die Promotion ihres Mannes und kümmert sich um ihre stotternde Tochter Sarah.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/kommt-ein-vogel-geflogen-100.html",
-      "duration": 6347,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -1625,6 +1590,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Eine Wingwoman verliebt sich nicht",
+      "type": "tv",
+      "overview": "Als professionelle Wingwoman hilft Caro Sander Menschen beim Dating. Doch dann trifft sie selbst auf \"den Einen\" und soll ausgerechnet ihn mit einer ihrer Klientinnen verkuppeln.",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "Herzkino"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/eine-wingwoman-verliebt-sich-nicht-movie-100/eine-wingwoman-verliebt-sich-nicht-100",
+      "duration": 5337,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der Froschkönig",
       "type": "tv",
       "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
@@ -1740,21 +1728,42 @@
     },
     {
       "tmdb_id": null,
-      "title": "Weihnachten im Schnee",
+      "title": "Unsere Vereine: Mehr als Kegeln und Kaninchen",
       "type": "tv",
-      "overview": "Die erwachsenen Geschwister Annika, Sanne und Bastian fallen aus allen Wolken: Weihnachten soll dieses Jahr im Schnee stattfinden, genauer gesagt in einer Hütte in Norwegen.",
+      "overview": "Ob Sport, Musik, Tiere oder soziales Engagement: Kaum ein Gemeinschaftsunternehmen ist so ausgefallen, dass es nicht den passenden Verein dazu gäbe.",
       "genres": [
-        "Liebesfilm",
-        "Drama"
+        "Dokumentarfilm"
       ],
       "keywords": [
-        "Herzkino"
+        "Terra X History"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/weihnachten-im-schnee-100.html",
-      "duration": 5324,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/unsere-vereine--mehr-als-kegeln-und-kaninchen-100",
+      "duration": 2659,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "London - Weltstädte Staffel 2",
+      "type": "tv",
+      "overview": "Vibrierendes London: Einst Machtzentrum eines Weltreichs, heute eine Weltstadt, die Trends setzt. Für \"Terra X\" ergründet Leon Windscheid die außergewöhnliche Anziehungskraft der Metropole an der Themse.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-weltstaedte-mit-leon-windscheid-dokureihe-100/terra-x-weltstaedte-london-mit-leon-windscheid-doku-100",
+      "duration": 2614,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1807,14 +1816,14 @@
     },
     {
       "tmdb_id": null,
-      "title": "Was ist deutsch? Die Geschichte der Migration",
+      "title": "Was ist deutsch? Die Geschichte der Migration (S2026/E22)",
       "type": "tv",
-      "overview": "Bei uns reden manche von \"deutschen Wurzeln\" und lehnen Zuwanderer als \"fremd\" ab. Sie glauben an das \"Volk\" als homogene Gruppe. Doch wissenschaftlich ist das nicht haltbar.",
+      "overview": "\"Terra X History\" zeigt: Europa ist geprägt von Migration. Seit Jahrtausenden verlassen Menschen ihre angestammte Heimat und suchen ihr Glück woanders. Gründe dafür gibt es viele.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History"
+        "Terra X History - die Einzeldokus"
       ],
       "rating": null,
       "vote_count": 0,
@@ -1895,46 +1904,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Sonnenfinsternis über Mallorca - Eine Spezialausgabe von „Terra X Harald Lesch“",
+      "title": "Mussolini - Despoten",
       "type": "tv",
-      "overview": "Eine totale Sonnenfinsternis ist ein \"Once-in-a-Lifetime\"-Ereignis: Am 12. August 2026 lässt sich das Naturphänomen live auf Mallorca erleben – zusammen mit Harald Lesch und Gästen.",
+      "overview": "\"Dummer kleiner Clown\", sagte Benito Mussolini über Hitler nach deren erstem Zusammentreffen. Doch für Hitler war der erste faschistische Herrscher das große Vorbild und Vorläufer.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X"
+        "Dokumentationen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/wissen/terra-x/livestream-sonnenfinsternis-ueber-mallorca-lesch-100.html",
-      "duration": 2689,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ5Mzk5Nw",
+      "duration": 2589,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "Phoenix"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Extreme Jobs der Geschichte (S2026/E20)",
+      "title": "Stalin - Despoten",
       "type": "tv",
-      "overview": "Es gibt extreme Jobs, manche sind sogar lebensgefährlich. \"Terra X History\" zeigt: Minenräumer, Gladiatoren und Bergleute brauchen starke Nerven und sind oft nur einen Schritt vom Tod entfernt.",
+      "overview": "Noch heute verehren viele Russen Josef Stalin als Sieger des großen vaterländischen Krieges gegen Hitler. Doch der „Rote Zar“ war nicht nur der mächtigste, sondern auch der grausamste Herrscher der russischen Geschichte.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History - die Einzeldokus"
+        "Dokumentationen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/extreme-jobs-der-geschichte-100",
-      "duration": 2604,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ5NDAzNw",
+      "duration": 2625,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2159,50 +2168,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Der große Traum - Geld für alle",
-      "type": "tv",
-      "overview": "Der große Traum - Geld für alle",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIyNzg2MA",
-      "duration": 5343,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Nordmänner - Die wahre Geschichte der Wikinger",
-      "type": "tv",
-      "overview": "Nordmänner - Die wahre Geschichte der Wikinger",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.phoenix.de/sendungen/dokumentationen/nordmaenner-a-5191873.html",
-      "duration": 2587,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Kritisch Reisen: Nordseeinseln - Wird der Urlaub unbezahlbar?",
       "type": "tv",
       "overview": "Urlaub auf einer Nordseeinsel: In Zeiten steigender Kerosinpreise und abgesagter Flüge bieten die inländischen Ziele vor den Küsten nicht nur eine garantierte Erreichbarkeit. In Zeiten sommerlicher Hitzerekorde in den Urlaubsregionen im Süden Europas stehen sie auch für gut verträgliche Klimabedingungen. Die \"Kritisch Reisen\"-Autoren Dirk Bitzer und Fritz Sprengart besuchen Norderney, Amrum und Pellworm....",
@@ -2331,6 +2296,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Firma",
+      "type": "tv",
+      "overview": "Der aufstrebende Rechtsanwalt Mitch hat privat und beruflich das große Los gezogen. Er ist mit der charmanten Abby verheiratet und findet in einer renommierten Kanzlei in Memphis eine Anstellung. Doch dann gerät er ins Fadenkreuz der Mafia ... – Justizdrama aus dem Jahr 1993 von Starregisseur Sydney Pollack, mit Tom Cruise in der Hauptrolle.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/045719-000-A/die-firma/",
+      "duration": 8805,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2489,28 +2476,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Sieben Tote hat die Woche",
-      "type": "tv",
-      "overview": "Nach einem lukrativen Drogengeschäft geraten fünf Kriminelle in einen Strudel aus Verrat, Misstrauen und Gewalt. Was als gemeinsamer Coup beginnt, entwickelt sich zu einem tödlichen Machtkampf, bei dem jeder versucht, die Beute für sich zu sichern. Französischer Gangsterfilm von Jacques Deray (1963).",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/131522-000-A/sieben-tote-hat-die-woche/",
-      "duration": 6320,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Blind ermittelt – Tod im Prater",
       "type": "tv",
       "overview": "Spielfilm Deutschland/Österreich 2022 Eine Frau stößt im Streit ihren Mann aus dem Fenster seines Hochhausbüros und nimmt anschließend eine fast tödliche Dosis Schlaftabletten. Kommissarin Janda bittet ihren blinden Ex-Chef Haller und seine \"rechte Hand\" Niko um Unterstützung. Mit Philipp Hochmair, Andreas Guenther, Jaschka Lämmert, Michael Edlinger, Karin Hanczewski u. a....",
@@ -2567,7 +2532,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -2677,7 +2642,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWg",
       "duration": 5277,
       "providers": {
         "netflix": null,
@@ -2995,6 +2960,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "California! - Zwischen Utopie und Realität",
+      "type": "tv",
+      "overview": "Netflix, Blockbuster, Architektur, iPhone oder Elektroauto – ohne Kalifornien wäre die Welt eine andere. Egal, ob Steve Jobs Arbeit zum Spaß erklärt, Roland Emmerich in seinen Blockbustern den Klimawandel prophezeit oder Elon Musk Touristen ins Weltall befördert. Der \"Goldene Staat\" an der Westküste Amerikas ist immer einen Schritt voraus.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/097513-003-A/california/",
+      "duration": 2893,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "California! - Von Revolten und Tech-Revolutionen",
       "type": "tv",
       "overview": "Skateboards, Personal Computer, California Cuisine, Hollywood – ohne Kalifornien wäre die Welt eine andere. Egal, ob aus Umweltkatastrophen neue bahnbrechende Gesetze erwachsen, einige Nerds im Silicon Valley einen weltweiten Tech-Boom auslösen oder ein Österreicher die kalifornische Küche neu erfindet. Der \"Goldene Staat\" an der Westküste Amerikas ist immer einen Schritt voraus.",
@@ -3148,29 +3136,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/108984-000-A/mythos-amalfikueste/",
       "duration": 2593,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mallorca - Tod im Paradies",
-      "type": "tv",
-      "overview": "In den 1930er Jahren wird Mallorca zu einem Fluchtpunkt für Emigrantinnen und Emigranten aus Deutschland. Im demokratischen Spanien der Zweiten Republik fühlen sie sich in Sicherheit. Auf der paradiesischen Insel versuchen sie, sich neue Existenzen aufzubauen. Doch als im Juli 1936 General Franco gegen die Republik putscht, wird Mallorca über Nacht zur tödlichen Falle ...",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/105593-000-A/mallorca-tod-im-paradies/",
-      "duration": 3147,
       "providers": {
         "netflix": null,
         "prime": null,
