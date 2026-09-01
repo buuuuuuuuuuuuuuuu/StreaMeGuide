@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-31T11:14:48.527Z",
+  "generated_at": "2026-09-01T09:40:22.426Z",
   "items": [
     {
       "tmdb_id": 860508,
@@ -17,10 +17,35 @@
         "serial killer",
         "father son relationship"
       ],
-      "rating": 6.281,
-      "vote_count": 176,
+      "rating": 6.363,
+      "vote_count": 219,
       "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
       "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1631807,
+      "title": "Die Frau ohne Vergangenheit",
+      "type": "movie",
+      "overview": "Louise Andersen lebt gemeinsam mit ihrem Partner Joachim ein zurückgezogenes Leben auf der norwegischen Insel Hidra, wo sie ein kleines Café betreibt. Ihr Alltag gerät jedoch aus den Fugen, als eine Fremde sie als Helene Söderberg erkennt – eine Frau, die vor drei Jahren in Dänemark spurlos verschwand. Nach und nach erfährt Louise, dass sie einst verheiratet war und einen kleinen Sohn hat. Entschlossen, die Wahrheit über ihre Identität und die Ereignisse ihres Verschwindens herauszufinden, lässt sie ihr bisheriges Leben hinter sich und kehrt in ihre Vergangenheit zurück. Je tiefer sie in die Nachforschungen eintaucht, desto mehr verborgene Geheimnisse kommen ans Licht und führen zu einer Enthüllung, die ihr gesamtes Leben infrage stellt.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "psychological",
+        "ominous"
+      ],
+      "rating": 6.4,
+      "vote_count": 34,
+      "poster_path": "/woHZDPzS51tup8MlwA2PIyzMUtI.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -48,8 +73,8 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 7,
-      "vote_count": 68,
+      "rating": 6.703,
+      "vote_count": 79,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
@@ -59,53 +84,28 @@
       }
     },
     {
-      "tmdb_id": 1631807,
-      "title": "Die Frau ohne Vergangenheit",
-      "type": "movie",
-      "overview": "Louise Andersen lebt gemeinsam mit ihrem Partner Joachim ein zurückgezogenes Leben auf der norwegischen Insel Hidra, wo sie ein kleines Café betreibt. Ihr Alltag gerät jedoch aus den Fugen, als eine Fremde sie als Helene Söderberg erkennt – eine Frau, die vor drei Jahren in Dänemark spurlos verschwand. Nach und nach erfährt Louise, dass sie einst verheiratet war und einen kleinen Sohn hat. Entschlossen, die Wahrheit über ihre Identität und die Ereignisse ihres Verschwindens herauszufinden, lässt sie ihr bisheriges Leben hinter sich und kehrt in ihre Vergangenheit zurück. Je tiefer sie in die Nachforschungen eintaucht, desto mehr verborgene Geheimnisse kommen ans Licht und führen zu einer Enthüllung, die ihr gesamtes Leben infrage stellt.",
+      "tmdb_id": 290193,
+      "title": "Mousetrap",
+      "type": "tv",
+      "overview": "Ein zurückgezogener Schriftsteller, dem die Identität von einem Mann namens „Ratte“ gestohlen wurde, will sie sich mithilfe eines skrupellosen Kredithais zurückholen.",
       "genres": [
+        "Krimi",
         "Drama",
-        "Thriller",
         "Mystery"
       ],
       "keywords": [
-        "based on novel or book",
+        "identity theft",
         "psychological",
-        "ominous"
+        "korean",
+        "based on webcomic or webtoon",
+        "suspenseful",
+        "korean noir",
+        "suspense thriller"
       ],
-      "rating": 6.3,
-      "vote_count": 30,
-      "poster_path": "/woHZDPzS51tup8MlwA2PIyzMUtI.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1744462,
-      "title": "Grand Theft Auto VI: Ein ausführlicher Blick",
-      "type": "movie",
-      "overview": "Schaue dir die nächste Evolution der bahnbrechenden Grand-Theft-Auto-Reihe an.",
-      "genres": [
-        "Animation",
-        "Action",
-        "Abenteuer",
-        "Krimi"
-      ],
-      "keywords": [
-        "video game",
-        "grand theft auto",
-        "crime",
-        "enthusiastic",
-        "straightforward",
-        "vibrant"
-      ],
-      "rating": 8.98,
-      "vote_count": 281,
-      "poster_path": "/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1744462-grand-theft-auto-vi-an-extended-look/watch?locale=DE",
+      "rating": 7.789,
+      "vote_count": 19,
+      "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -130,74 +130,13 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.111,
-      "vote_count": 1443,
+      "rating": 8.11,
+      "vote_count": 1445,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 290193,
-      "title": "Mousetrap",
-      "type": "tv",
-      "overview": "Ein zurückgezogener Schriftsteller, dem die Identität von einem Mann namens „Ratte“ gestohlen wurde, will sie sich mithilfe eines skrupellosen Kredithais zurückholen.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "identity theft",
-        "psychological",
-        "korean",
-        "based on webcomic or webtoon",
-        "suspenseful",
-        "korean noir",
-        "suspense thriller"
-      ],
-      "rating": 7.9,
-      "vote_count": 17,
-      "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "blunt",
-        "reboot",
-        "military police"
-      ],
-      "rating": 8.102,
-      "vote_count": 3178,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -234,7 +173,7 @@
         "defiant"
       ],
       "rating": 8.749,
-      "vote_count": 5509,
+      "vote_count": 5510,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -244,24 +183,34 @@
       }
     },
     {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
+      "tmdb_id": 108978,
+      "title": "Reacher",
       "type": "tv",
-      "overview": "",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
       "genres": [
-        "Drama"
+        "Action & Adventure",
+        "Krimi"
       ],
       "keywords": [
-        "romance",
-        "based on web novel"
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "blunt",
+        "reboot",
+        "military police"
       ],
-      "rating": 6.125,
-      "vote_count": 4,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
+      "rating": 8.102,
+      "vote_count": 3186,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -294,13 +243,76 @@
         "premier league",
         "joyful"
       ],
-      "rating": 8.367,
-      "vote_count": 2605,
+      "rating": 8.366,
+      "vote_count": 2607,
       "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 299952,
+      "title": "早春晴朗",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "romance",
+        "based on web novel"
+      ],
+      "rating": 6.1,
+      "vote_count": 4,
+      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 305644,
+      "title": "포핸즈",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "orchestra",
+        "friendship",
+        "high school",
+        "rivalry",
+        "romance",
+        "bromance",
+        "pianist",
+        "childhood friends",
+        "perfectionist",
+        "orchestra conductor",
+        "transfer student",
+        "music school",
+        "free spirited",
+        "music",
+        "youth",
+        "best friends",
+        "high school classmates",
+        "childhood friends relationship",
+        "classmates relationship",
+        "piano prodigy",
+        "rising star"
+      ],
+      "rating": 9.5,
+      "vote_count": 6,
+      "poster_path": "/sdvxrJMzACBUG87YS1YYKmRzTN8.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/305644/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -322,8 +334,8 @@
         "offbeat",
         "action"
       ],
-      "rating": 7.816,
-      "vote_count": 844,
+      "rating": 7.8,
+      "vote_count": 848,
       "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
       "providers": {
@@ -368,8 +380,8 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.414,
-      "vote_count": 1690,
+      "rating": 8.416,
+      "vote_count": 1692,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
@@ -392,8 +404,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.825,
-      "vote_count": 400,
+      "rating": 8.868,
+      "vote_count": 432,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -422,8 +434,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.395,
-      "vote_count": 4632,
+      "rating": 8.396,
+      "vote_count": 4635,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -467,7 +479,7 @@
         "gritty"
       ],
       "rating": 7.96,
-      "vote_count": 4324,
+      "vote_count": 4325,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -503,7 +515,7 @@
         "dramatic"
       ],
       "rating": 8.544,
-      "vote_count": 3491,
+      "vote_count": 3492,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -548,7 +560,7 @@
         "brothers",
         "horror"
       ],
-      "rating": 8.314,
+      "rating": 8.3,
       "vote_count": 8633,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
@@ -556,6 +568,36 @@
         "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 250670,
+      "title": "Maxton Hall - Die Welt zwischen uns",
+      "type": "tv",
+      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "romance",
+        "millionaire",
+        "bookworm",
+        "drama",
+        "school setting"
+      ],
+      "rating": 8.3,
+      "vote_count": 675,
+      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000220573.html",
+        "mentions": 2
       }
     },
     {
@@ -573,7 +615,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDY4MjgvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDY4Mjg",
       "duration": 5322,
       "providers": {
         "netflix": null,
@@ -734,7 +776,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OQ",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OS9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5330,
       "providers": {
         "netflix": null,
@@ -757,31 +799,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0L2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5264,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wacht am Rhein (2017)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2017 +++ Im \"Veedel\" liegen die Nerven blank: Auch der Ladenbesitzer Adil Faras und die junge Mutter Nina Schmitz finden, man muss etwas tun. Sie haben sich der selbst ernannten Bürgerwehr \"Wacht am Rhein\" angeschlossen und patrouillieren, um die Straßen sicherer zu machen. Doch dann wird beim Überfall auf eine Zoohandlung der Sohn des Inhabers Peter Deisböck erschossen. Max Ballauf und Freddy Schenk ermitteln....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDkwZTgwZmQtZTE5OC00YjcyLTkzZmQtMDk1Mzc0MjA1M2Jh",
-      "duration": 5290,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -813,6 +832,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Wacht am Rhein (2017)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2017 +++ Im \"Veedel\" liegen die Nerven blank: Auch der Ladenbesitzer Adil Faras und die junge Mutter Nina Schmitz finden, man muss etwas tun. Sie haben sich der selbst ernannten Bürgerwehr \"Wacht am Rhein\" angeschlossen und patrouillieren, um die Straßen sicherer zu machen. Doch dann wird beim Überfall auf eine Zoohandlung der Sohn des Inhabers Peter Deisböck erschossen. Max Ballauf und Freddy Schenk ermitteln....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDkwZTgwZmQtZTE5OC00YjcyLTkzZmQtMDk1Mzc0MjA1M2JhL2F1ZGlvZGVza3JpcHRpb24",
+      "duration": 5290,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Gegen den Kopf",
       "type": "tv",
       "overview": "Fernsehfilm Deutschland 2013 +++ In der Berliner U-Bahn wendet sich ein Mann gegen Jugendliche, die einem alten Herrn seinen Stock wegnehmen. Nach dem Aussteigen wird er von den Jugendlichen verprügelt, er erliegt seinen Verletzungen. Trotz vieler Zeugen und jeder Menge Videokameras auf dem Bahnhof ist es mühsam für Ritter und Stark, den Tathergang zu ermitteln....",
@@ -826,8 +868,54 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMjE3N2U4My1lM2QzLTQ4MmMtOGUzMy05OWMzMjk0MTQ1M2VfcHVibGljYXRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMjE3N2U4My1lM2QzLTQ4MmMtOGUzMy05OWMzMjk0MTQ1M2VfcHVibGljYXRpb24vYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5314,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die letzte Chance",
+      "type": "tv",
+      "overview": "Die Polizei verfolgt den jungen Gerd (Henry Hübchen), der wegen diverser Delikte wie Trickbetrug gesucht wird. Gerd flüchtet auf ein Hochhausdach und droht, in die Tiefe zu springen.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Polizeiruf 110 - Klassiker"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NDc1MDYtNDI3OTIx",
+      "duration": 4488,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Risiko",
+      "type": "tv",
+      "overview": "Die siebzehnjährige Nadine wird tot aufgefunden. Der exklusive Tennisclub, in dem die Schülerin gejobbt hat, ist ein erster Anlaufpunkt für Schmücke, Schneider und Oberkommissarin Lindner. (D, 2010)",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Polizeiruf 110"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80Njg4NTMtNDQ5MTg3",
+      "duration": 5327,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -920,52 +1008,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NjE1ODktNDQyMDIy",
       "duration": 5295,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Söhne Rostocks",
-      "type": "tv",
-      "overview": "In Sascha Bukows Armen stirbt der 36-jährige Frank Fischer - und der aufstrebende Rostocker Jungunternehmer Michael Norden, der dabei zugesehen hat, ist auf der Flucht. Bald finden sich Hinweise, dass Norden sich irgendwo in Rostock versteckt hält - und etwas mit der Sache zu tun hat. König und Bukow treffen sich mit Nordens Jugendliebe Beate, einer Alleinerziehenden....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI3MzE3NF9nYW56ZVNlbmR1bmc",
-      "duration": 5297,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Vor aller Augen",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2013 +++ Nach einem Betriebsausflug der Bootswerft Stolze in eine Westernstadt, bricht die Geschäftsführerin Michaela Stolze am nächsten Morgen zusammen und kommt ins Krankenhaus. Sie leidet an starker Diabetes und muss sich regelmäßig mit Insulin versorgen. Doch hat sie wirklich vergessen, ihr Medikament zu nehmen?...",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYi1vbmxpbmUuZGUvZmlsbXplaXQvMjAxOS0wMS0wMVQyMzozMDowMF84NzdlMmEwYi0xYzc5LTRjY2EtYTZjMi1mNjZmMmU5M2FlNjUvcG9saXplaXJ1Zi0xMTAtLXZvci1hbGxlci1hdWdlbg",
-      "duration": 5316,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1194,6 +1236,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "The Silent Hour (Englisch)",
+      "type": "tv",
+      "overview": "Ein hörgeschädigter Polizist wird zur letzten Hoffnung einer gehörlosen Mordzeugin, als diese ins Visier der Killer gerät. Dabei bleiben die Verbrecher nicht die einzige Gefahr für das Duo.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/the-silent-hour-movie-100/the-silent-hour-100",
+      "duration": 5732,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "The Silent Hour",
+      "type": "tv",
+      "overview": "Ein hörgeschädigter Polizist wird zur letzten Hoffnung einer gehörlosen Mordzeugin, als diese ins Visier der Killer gerät. Dabei bleiben die Verbrecher nicht die einzige Gefahr für das Duo.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/the-silent-hour-movie-100/the-silent-hour-100",
+      "duration": 5732,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Saltburn",
       "type": "tv",
       "overview": "Ein Außenseiter nistet sich in der Welt einer reichen Aristokratenfamilie ein. Intrigen und Machtspiele beginnen hinter der glänzenden Fassade zu brodeln und lassen niemanden unberührt.",
@@ -1362,50 +1448,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/filme/vesper-chronicles-movie-100/vesper-chronicles-100",
       "duration": 6563,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Vesper Chronicles (Englisch)",
-      "type": "tv",
-      "overview": "Nachdem das Ökosystem der Erde fast vollständig zerstört wurde, leben eine Jugendliche und ihr gelähmter Vater in katastrophalen Verhältnissen. Doch plötzlich scheint Rettung in Sicht.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/vesper-chronicles-movie-100/vesper-chronicles-100",
-      "duration": 6563,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Subservience",
-      "type": "tv",
-      "overview": "Nick stellt aufgrund einer Herzoperation seiner Frau Maggie die humanoide Haushaltshilfe und Babysitterin Alice an, doch sie entwickelt sich bald zu einer Gefahr.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/subservience-movie-100/subservience-100",
-      "duration": 5543,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1948,50 +1990,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Naturparadiese am Äquator",
-      "type": "tv",
-      "overview": "Entlang des Äquators erstrecken sich zahlreiche Korallenriffe im Pazifik - die artenreichsten der Erde. Komplexe Lebensgemeinschaften, in denen viele Arten aufeinander angewiesen sind.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjM2Mg",
-      "duration": 2606,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Robert Bernardis · Ein vergessener Held",
-      "type": "tv",
-      "overview": "Der geborene Tiroler Robert Bernardis war als Oberstleutnant des Generalstabs in Berlin der einzige österreichische Offizier, der beim Hitlerattentat am 20. Juli 1944 eine Schlüsselrolle spielte.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDgyNjMwNw",
-      "duration": 3355,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Naturparadiese am Äquator: Nebelwald und Anden-Hochland",
       "type": "tv",
       "overview": "In Ecuador verläuft der Äquator quer über die Anden. In der spektakulären Gebirgslandschaft hat sich eine große Artenvielfalt aus Waldbewohnern und Hochgebirgsspezialisten entwickelt.",
@@ -2072,6 +2070,50 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjM4Mg",
       "duration": 2604,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Robert Bernardis · Widerstand gegen Hitler",
+      "type": "tv",
+      "overview": "Der geborene Tiroler Robert Bernardis war als Oberstleutnant des Generalstabs in Berlin der einzige österreichische Offizier, der beim Hitlerattentat am 20. Juli 1944 eine Schlüsselrolle spielte.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDgyNjMwNw",
+      "duration": 3355,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Naturparadiese am Äquator: Pazifische Korallengärten",
+      "type": "tv",
+      "overview": "Entlang des Äquators erstrecken sich zahlreiche Korallenriffe im Pazifik - die artenreichsten der Erde. Komplexe Lebensgemeinschaften, in denen viele Arten aufeinander angewiesen sind.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjM2Mg",
+      "duration": 2606,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2164,6 +2206,50 @@
         "netflix": null,
         "prime": null,
         "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Anja Niedringhaus – Die Fotografin und der Krieg - Dokumentarfilm von Yury und Sonya Winterberg,",
+      "type": "tv",
+      "overview": "Anja Niedringhaus wurde als Fotografin für die Bildagenturen EPA und AP zur Wegbereiterin in einem bis heute männlich dominierten Beruf. Ihr Blick galt vor allem den Menschen im Krieg.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentarfilmzeit"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/dokumentarfilmzeit/anja-niedringhaus---die-fotografin-und-der-krieg-100.html",
+      "duration": 5391,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Von Werfenweng ins Tennengebirge",
+      "type": "tv",
+      "overview": "Vom Hausberg, dem Bischling, reicht die Sicht an klaren Tagen vom Tennengebirge über Hochkönig, Dachstein und die markante Bischofsmütze bis hin zum Großglockner in Werfenweng. Bis heute ist die enge Verbindung zwischen Mensch und Natur spürbar. Die Kamera begleitet Menschen, die im Rhythmus der Berge leben und Tradition nicht als Folklore verstehen, sondern als gelebte Gegenwart....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus & Reportagen im BR"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU3QTA",
+      "duration": 2622,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2300,6 +2386,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf",
+      "type": "tv",
+      "overview": "Katharine Hepburn wurde am 12. Mai 1907 in Connecticut geboren. Sie entwickelte sich zu einer der prägendsten Figuren Hollywoods. Sie brach mit den Konventionen ihrer Zeit und setzte mit ihrem außergewöhnlichen Talent neue Maßstäbe – sowohl auf der Leinwand als auch abseits davon. So wurde Hepburn zum Vorbild vieler Schauspielerinnen und mit vier Oscars ausgezeichnet.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filmgrößen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/118624-000-A/call-me-kate/",
+      "duration": 5159,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf (Originalversion)",
+      "type": "tv",
+      "overview": "Katharine Hepburn wurde am 12. Mai 1907 in Connecticut geboren. Sie entwickelte sich zu einer der prägendsten Figuren Hollywoods. Sie brach mit den Konventionen ihrer Zeit und setzte mit ihrem außergewöhnlichen Talent neue Maßstäbe – sowohl auf der Leinwand als auch abseits davon. So wurde Hepburn zum Vorbild vieler Schauspielerinnen und mit vier Oscars ausgezeichnet.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filmgrößen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/118624-000-A/call-me-kate/",
+      "duration": 5159,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Schieß, solange du kannst",
+      "type": "tv",
+      "overview": "Der erfahrene Segler Jacques Cournot wird von einem zwielichtigen Geschäftsmann engagiert, in Santa Maddalena die Jacht Dragoon zu erwerben. Doch kurz nach Besichtigung des Objektes wird es gestohlen. Was Cournot nicht weiß: Er ist unter Waffenhändler geraten und wird Teil eines gefährlichen Spiels auf hoher See. Abenteuerfilm von Claude Sautet.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/129311-000-A/schiess-solange-du-kannst/",
+      "duration": 5850,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Die Firma",
       "type": "tv",
       "overview": "Der aufstrebende Rechtsanwalt Mitch hat privat und beruflich das große Los gezogen. Er ist mit der charmanten Abby verheiratet und findet in einer renommierten Kanzlei in Memphis eine Anstellung. Doch dann gerät er ins Fadenkreuz der Mafia ... – Justizdrama aus dem Jahr 1993 von Starregisseur Sydney Pollack, mit Tom Cruise in der Hauptrolle.",
@@ -2366,31 +2518,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kurzschluss - Prinzip Stadt",
+      "title": "Ungarische Rhapsodie (Originalversion)",
       "type": "tv",
-      "overview": "(1) Bad for a Moment (2) Begegnung: Daniel Soares (3) Acid City (4) Zoom: Acid City",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Kurzfilme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/130048-006-A/kurzschluss/",
-      "duration": 2588,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die innere Sicherheit",
-      "type": "tv",
-      "overview": "Zusammen mit ihren Eltern hat die 15-jährige Jeanne ihr Leben lang im Untergrund gelebt. Die Ausreise aus Portugal steht bevor, als plötzlich der ganze Plan zusammenbricht: Die Familie tritt die Flucht nach Deutschland an...",
+      "overview": "Zwei Brüder aus dem ungarischen Adel gehen während der politischen Umwälzungen zu Beginn des 20. Jahrhunderts getrennte Wege: Der eine bleibt der Armee treu, während der andere sich revolutionäre Ideale zu eigen macht. Ihr Konflikt symbolisiert die Spaltungen innerhalb einer Nation in der Krise.",
       "genres": [
         "Drama"
       ],
@@ -2400,8 +2530,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/021939-000-A/die-innere-sicherheit/",
-      "duration": 6047,
+      "url": "https://www.arte.tv/de/videos/133821-000-A/ungarische-rhapsodie/",
+      "duration": 5528,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2410,9 +2540,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Phoenix",
+      "title": "Zurück zur Familie (Originalversion)",
       "type": "tv",
-      "overview": "Deutschland nach dem Krieg: Schwer verletzt hat Nelly das Konzentrationslager überlebt und trifft nach einer Gesichtsoperation auf ihren Mann. Doch Johnny erkennt sie nicht. Er engagiert sie jedoch, in dem Glauben, dass seine Frau tot ist, als Doppelgängerin, um an das Erbe ihrer Familie zu kommen. Nelly möchte wissen: Hat Johnny sie je geliebt – oder vielleicht sogar verraten?",
+      "overview": "Simona kehrt ans Sterbebett ihrer Großmutter nach Hause zurück, wo sie ihre Eltern vorfindet, die von Alkohol und Reue zerfressen sind. Jeder Versuch, wieder eine Verbindung zu ihnen aufzubauen, scheitert, bringt dunkle Geheimnisse ans Licht und entfacht alte Konflikte neu. Vor dem Hintergrund dieser erdrückenden Atmosphäre zeigt „Zurück zur Familie“, dass Liebe nicht immer ausreicht, um unüberbrückbare familiäre Gräben zu überwinden.",
       "genres": [
         "Drama"
       ],
@@ -2422,52 +2552,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/050833-000-A/phoenix/",
-      "duration": 5488,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sweet Disaster",
-      "type": "tv",
-      "overview": "Nach einem Besuch bei ihren Eltern in Finnland trifft Frida auf dem Flughafen den Piloten Felix, der gerade von seiner Freundin verlassen worden ist. Sie verbringen einen zauberhaften Tag zusammen und werden ein Paar. Dann wird Frida unerwartet schwanger – und Felix geht zurück zu seiner Ex. - Langfilmdebüt (2021) der finnischen Regisseurin Laura Lehmus.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/098046-000-A/sweet-disaster/",
-      "duration": 5174,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Zwei Leben",
-      "type": "tv",
-      "overview": "Norwegen, 1990: Katrine hat scheinbar ihr Familienglück gefunden. Doch dann fällt die Berliner Mauer und die Weltgeschichte bricht in Katrines Leben ein. In den 1970er Jahren kam Katrine als DDR-Spionin nach Norwegen - mit einer fiktiven Identität. Georg Maas inszenierte das historisch inspirierte Drama (2012) mit Juliane Köhler in der Hauptrolle.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/087374-000-A/zwei-leben/",
-      "duration": 5555,
+      "url": "https://www.arte.tv/de/videos/134127-000-A/zurueck-zur-familie/",
+      "duration": 5255,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2564,6 +2650,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Lebendig begraben | Der Wien-Krimi: Blind ermittelt",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland/Österreich 2021 Es gibt einen Tag, der das Leben von Ex-Kommissar Alexander Haller (Philipp Hochmair) für immer verändert hat: Am 17. Oktober 2017 verlor er durch einen Bombenanschlag seine Verlobte Kara und das Augenlicht! Als nun bei einem Mordopfer eine rätselhafte Notiz mit genau diesem Datum auftaucht, bittet ihn seine Nachfolgerin Laura Janda (Jaschka Lämmert) um Unterstützung....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Wien-Krimi: Blind ermittelt"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzg5NDZkNDg0LThlYzItNGIwYS05NTZjLTc4ZDVlODMxOWVlMF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "duration": 5238,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Borchert und der Mord im Taxi (S01/E11)",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2020 Borchert (Christian Kohlund) und Dominique Kuster (Ina Paule Klink) übernehmen die Verteidigung des Taxifahrers Jürg Zollinger (Tim Kalkhof). Hauptmann Furrer (Pierre Kiwitt) verdächtigt ihn des Mordes an einem Fahrgast, dem afrikanischen Investigativ-Journalisten Nuka Baluba (Pierre Rousselet). Alle Indizien belasten den unbeherrschten Verdächtigen, dessen Aussage zunächst wenig glaubwürdig erscheint....",
@@ -2630,20 +2738,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Borchert und der Tote im See (S01/E09)",
+      "title": "Das Beste der St. Ingberter Pfanne 2025",
       "type": "tv",
-      "overview": "Spielfilm Deutschland 2020 Borchert (Christian Kohlund) hat sich das Wiedersehen mit seiner Patentochter anders vorgestellt: Statt sie am Flughafen in die Arme zu schließen, muss er Jenny (Lea Freund) bei der Zollfahndung herausboxen. Jemand hat der angehenden Kinderärztin, die ein Praxissemester bei der Hilfsorganisation des albanischen Geschäftsmannes Gentian Gjeluci (Peter Davor) absolviert, ein halbes Kilo Haschisch untergeschoben....",
+      "overview": "Die St. Ingberter Pfanne feiert 2025 ihr 40-jähriges Jubiläum - vier Jahrzehnte Kleinkunst in vielen Facetten. Wer 2025 in der Kleinkunst ausgezeichnet wurde und wer das Publikum begeisterte, zeigt dieses Best-of des Wettbewerbs: Von Musik-Kabarett über Stand-up-Comedy bis zu Visual Comedy erwartet die Zuschauer:innen ein Programm der Spitzenklasse.",
       "genres": [
-        "Krimi"
+        "Komödie"
       ],
       "keywords": [
-        "Der Zürich-Krimi"
+        "Unterhaltung & Comedy"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMDYtMjVfMjEtNDUtTUVTWg",
-      "duration": 5277,
+      "url": "https://www.sr-mediathek.de/index.php?seite=7&id=157984",
+      "duration": 3600,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2736,28 +2844,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Martin Frank – Live auf der Bühne!",
-      "type": "tv",
-      "overview": "Mit 20 Jahren gab Martin Frank seinen Job als Standesbeamter und die Ausbildung zum Organisten auf und setzte alles auf eine Karte: Ab an die Schauspielschule!",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarett & Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/kabarett/kabarett-in-3sat/martin-frank-live-hoehepunkte-einer-fuer-alle-102.html",
-      "duration": 2574,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
