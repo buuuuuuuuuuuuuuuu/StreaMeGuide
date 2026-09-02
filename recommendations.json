@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-01T09:40:22.426Z",
+  "generated_at": "2026-09-02T09:11:58.372Z",
   "items": [
     {
       "tmdb_id": 860508,
@@ -17,35 +17,10 @@
         "serial killer",
         "father son relationship"
       ],
-      "rating": 6.363,
-      "vote_count": 219,
+      "rating": 6.4,
+      "vote_count": 262,
       "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
       "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1631807,
-      "title": "Die Frau ohne Vergangenheit",
-      "type": "movie",
-      "overview": "Louise Andersen lebt gemeinsam mit ihrem Partner Joachim ein zurückgezogenes Leben auf der norwegischen Insel Hidra, wo sie ein kleines Café betreibt. Ihr Alltag gerät jedoch aus den Fugen, als eine Fremde sie als Helene Söderberg erkennt – eine Frau, die vor drei Jahren in Dänemark spurlos verschwand. Nach und nach erfährt Louise, dass sie einst verheiratet war und einen kleinen Sohn hat. Entschlossen, die Wahrheit über ihre Identität und die Ereignisse ihres Verschwindens herauszufinden, lässt sie ihr bisheriges Leben hinter sich und kehrt in ihre Vergangenheit zurück. Je tiefer sie in die Nachforschungen eintaucht, desto mehr verborgene Geheimnisse kommen ans Licht und führen zu einer Enthüllung, die ihr gesamtes Leben infrage stellt.",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Mystery"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "psychological",
-        "ominous"
-      ],
-      "rating": 6.4,
-      "vote_count": 34,
-      "poster_path": "/woHZDPzS51tup8MlwA2PIyzMUtI.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -73,10 +48,43 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.703,
-      "vote_count": 79,
+      "rating": 6.606,
+      "vote_count": 90,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "blunt",
+        "reboot",
+        "military police",
+        "powerful"
+      ],
+      "rating": 8.105,
+      "vote_count": 3194,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -102,38 +110,10 @@
         "korean noir",
         "suspense thriller"
       ],
-      "rating": 7.789,
-      "vote_count": 19,
+      "rating": 7.522,
+      "vote_count": 23,
       "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.11,
-      "vote_count": 1445,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -172,8 +152,8 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.749,
-      "vote_count": 5510,
+      "rating": 8.8,
+      "vote_count": 5513,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -183,73 +163,30 @@
       }
     },
     {
-      "tmdb_id": 108978,
-      "title": "Reacher",
+      "tmdb_id": 113962,
+      "title": "Lioness",
       "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "blunt",
-        "reboot",
-        "military police"
-      ],
-      "rating": 8.102,
-      "vote_count": 3186,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 97546,
-      "title": "Ted Lasso",
-      "type": "tv",
-      "overview": "Der amerikanische Football-Coach Ted Lasso soll trotz fehlender Erfahrung ein Fußball-Team in England trainieren. Wird er die zynischen Spieler und die skeptische Stadt trotzdem von sich überzeugen können?",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
         "Drama",
-        "Komödie"
+        "War & Politics"
       ],
       "keywords": [
-        "england",
-        "male friendship",
-        "friendship",
-        "fish out of water",
-        "football (soccer)",
-        "american abroad",
-        "teammate",
-        "professional sports",
-        "football (soccer) team",
-        "workplace comedy",
-        "team owner",
-        "football (soccer) coach",
-        "reflective",
-        "optimist",
-        "coaching",
-        "nice guy",
-        "premier league",
-        "joyful"
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
       ],
-      "rating": 8.366,
-      "vote_count": 2607,
-      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
+      "rating": 8.114,
+      "vote_count": 1452,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -265,8 +202,8 @@
         "romance",
         "based on web novel"
       ],
-      "rating": 6.1,
-      "vote_count": 4,
+      "rating": 6.7,
+      "vote_count": 5,
       "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
@@ -276,43 +213,33 @@
       }
     },
     {
-      "tmdb_id": 305644,
-      "title": "포핸즈",
+      "tmdb_id": 255358,
+      "title": "The Ghost in the Shell",
       "type": "tv",
-      "overview": "",
+      "overview": "2029, Japan in naher Zukunft. Cyborg Motoko Kusanagi und ihr Team werden von Daisuke Aramaki als „Sektion 9 der Staatssicherheit\", auch bekannt als „Shell-Einheit\", rekrutiert, um Bedrohungen präventiv zu bekämpfen. Eine internationale Verschwörung deutet auf den Hacker „Puppenspieler\" hin. Welches Schicksal erwartet Kusanagi? Was hat der Hacker vor? Eine neue Cyberpunk-Ära beginnt!",
       "genres": [
-        "Drama"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "orchestra",
-        "friendship",
-        "high school",
-        "rivalry",
-        "romance",
-        "bromance",
-        "pianist",
-        "childhood friends",
-        "perfectionist",
-        "orchestra conductor",
-        "transfer student",
-        "music school",
-        "free spirited",
-        "music",
-        "youth",
-        "best friends",
-        "high school classmates",
-        "childhood friends relationship",
-        "classmates relationship",
-        "piano prodigy",
-        "rising star"
+        "cyborg",
+        "police",
+        "cyberpunk",
+        "based on manga",
+        "counterterrorism",
+        "cybercrime",
+        "anime",
+        "female cyborg",
+        "public security"
       ],
-      "rating": 9.5,
-      "vote_count": 6,
-      "poster_path": "/sdvxrJMzACBUG87YS1YYKmRzTN8.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/305644/watch?locale=DE",
+      "rating": 8.417,
+      "vote_count": 42,
+      "poster_path": "/v6D7aBJynhY6opGugGJkofzknw6.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/255358-the-ghost-in-the-shell/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -334,56 +261,10 @@
         "offbeat",
         "action"
       ],
-      "rating": 7.8,
-      "vote_count": 848,
+      "rating": 7.816,
+      "vote_count": 850,
       "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "type": "tv",
-      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
-      "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "magic",
-        "teleportation",
-        "reincarnation",
-        "polygamy",
-        "harem",
-        "romance",
-        "displacement",
-        "second chance",
-        "fantasy world",
-        "seinen",
-        "ecchi",
-        "anime",
-        "high fantasy",
-        "search for mother",
-        "neet",
-        "life challenges",
-        "other world",
-        "sword and sorcery",
-        "isekai",
-        "otaku",
-        "erotic",
-        "fantasy",
-        "based on light novel",
-        "adventure"
-      ],
-      "rating": 8.416,
-      "vote_count": 1692,
-      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -404,8 +285,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.868,
-      "vote_count": 432,
+      "rating": 8.866,
+      "vote_count": 451,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -434,8 +315,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.396,
-      "vote_count": 4635,
+      "rating": 8.397,
+      "vote_count": 4639,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -479,7 +360,7 @@
         "gritty"
       ],
       "rating": 7.96,
-      "vote_count": 4325,
+      "vote_count": 4327,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -514,13 +395,13 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.544,
-      "vote_count": 3492,
+      "rating": 8.543,
+      "vote_count": 3494,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -560,8 +441,8 @@
         "brothers",
         "horror"
       ],
-      "rating": 8.3,
-      "vote_count": 8633,
+      "rating": 8.314,
+      "vote_count": 8637,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
@@ -571,24 +452,84 @@
       }
     },
     {
-      "tmdb_id": 250670,
-      "title": "Maxton Hall - Die Welt zwischen uns",
+      "tmdb_id": 95594,
+      "title": "Fast & Furious Spy Racers",
       "type": "tv",
-      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
+      "overview": "Teenager Tony Toretto ist der Cousin des berühmten Dom. Er eifert seinem Verwandten nach, als er und seine Freunde von einer Regierungsorganisation damit beauftragt werden, sich in eine Elite-Renn-Liga einzuschleusen. Die wird von einer kriminellen Organisation namens SH1FT3R organisiert, die nach der Weltherrschaft greift. Das Team muss sich durch gewiefte Pläne das Vertrauen der Organisation erschleichen und den Balanceakt meistern, nicht aufzufallen und zugleich doch die schlimmsten Pläne zu vereiteln.",
       "genres": [
-        "Drama"
+        "Animation",
+        "Action & Adventure",
+        "Kids",
+        "Familie"
       ],
       "keywords": [
-        "romance",
-        "millionaire",
-        "bookworm",
-        "drama",
-        "school setting"
+        "street race",
+        "computer animation",
+        "mission",
+        "race car driver",
+        "criminal",
+        "based on movie",
+        "3d animation",
+        "cars",
+        "vehicle"
       ],
-      "rating": 8.3,
-      "vote_count": 675,
-      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
+      "rating": 6.984,
+      "vote_count": 2206,
+      "poster_path": "/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/95594-fast-furious-spy-racers/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000220402.html",
+        "mentions": 4
+      }
+    },
+    {
+      "tmdb_id": 98,
+      "title": "Gladiator",
+      "type": "movie",
+      "overview": "Der gefeierte römische Feldherr Maximus wird vom sterbenden Kaiser Marcus Aurelius gebeten, seine Nachfolge anzutreten. Um dies zu verhindern, tötet Aurelius’ Sohn seinen Vater und ordnet die Exekution von Maximus und seiner Familie an. Maximus gelingt die Flucht. Verwundet wird er von einem Sklavenhändler gefangen genommen und muss sich fortan als Gladiator beweisen. Als Kampfmaschine hat er schließlich nur noch ein Ziel: Rache an seinem Peiniger zu nehmen …",
+      "genres": [
+        "Action",
+        "Drama",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "gladiator",
+        "rome, italy",
+        "arena",
+        "senate",
+        "roman empire",
+        "parent child relationship",
+        "emperor",
+        "slavery",
+        "ancient rome",
+        "revenge",
+        "battlefield",
+        "slave auction",
+        "historical fiction",
+        "ancient world",
+        "period drama",
+        "combat",
+        "chariot",
+        "philosopher",
+        "grim",
+        "barbarian horde",
+        "2nd century",
+        "successor",
+        "commodus",
+        "maximus",
+        "antiquity",
+        "gladiador"
+      ],
+      "rating": 8.231,
+      "vote_count": 21394,
+      "poster_path": "/32wJunadteAxUkXnbQ1lHjjp5pa.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/98-gladiator/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -596,7 +537,75 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220573.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000220712.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 1402,
+      "title": "The Walking Dead",
+      "type": "tv",
+      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "post-apocalyptic future",
+        "gore",
+        "undead",
+        "survival",
+        "zombie",
+        "based on graphic novel",
+        "horror"
+      ],
+      "rating": 8.083,
+      "vote_count": 18146,
+      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000220773.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 46952,
+      "title": "The Blacklist",
+      "type": "tv",
+      "overview": "Raymond „Red“ Reddington ist ein ehemaliger Offizier des amerikanischen Marinegeheimdienstes und einer der meistgesuchten Verbrecher der USA. Eines Tages stellt er sich in der FBI-Hauptzentrale in Washington, D.C. und bietet dem FBI an, bei der Suche nach Verbrechern und Terroristen zu helfen. Allerdings verlangt er, einzig mit der FBI-Agentin Elizabeth Keen zu verhandeln, die vor Kurzem erst aus Quantico zugezogen ist. Die Informationen, die er weitergibt, stammen von einer von ihm über Jahre angelegten Liste, der sogenannten Blacklist.",
+      "genres": [
+        "Drama",
+        "Krimi",
+        "Mystery"
+      ],
+      "keywords": [
+        "fbi",
+        "investigation",
+        "terrorism",
+        "criminal mastermind",
+        "crime lord",
+        "hidden identity",
+        "criminal consultant"
+      ],
+      "rating": 7.633,
+      "vote_count": 3694,
+      "poster_path": "/zwXY8e26RahW6mEcvGSshP0ef43.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/46952-the-blacklist/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000220770.html",
         "mentions": 2
       }
     },
@@ -615,7 +624,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDY4Mjg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDY4MjgvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5322,
       "providers": {
         "netflix": null,
@@ -684,7 +693,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5327,
       "providers": {
         "netflix": null,
@@ -776,7 +785,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OS9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OQ",
       "duration": 5330,
       "providers": {
         "netflix": null,
@@ -799,7 +808,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0L2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0",
       "duration": 5264,
       "providers": {
         "netflix": null,
@@ -845,7 +854,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDkwZTgwZmQtZTE5OC00YjcyLTkzZmQtMDk1Mzc0MjA1M2JhL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDkwZTgwZmQtZTE5OC00YjcyLTkzZmQtMDk1Mzc0MjA1M2Jh",
       "duration": 5290,
       "providers": {
         "netflix": null,
@@ -868,7 +877,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMjE3N2U4My1lM2QzLTQ4MmMtOGUzMy05OWMzMjk0MTQ1M2VfcHVibGljYXRpb24vYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMjE3N2U4My1lM2QzLTQ4MmMtOGUzMy05OWMzMjk0MTQ1M2VfcHVibGljYXRpb24",
       "duration": 5314,
       "providers": {
         "netflix": null,
@@ -1434,24 +1443,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Vesper Chronicles",
+      "title": "Schachnovelle - Spielfilm, Deutschland/Österreich 2020",
       "type": "tv",
-      "overview": "Nachdem das Ökosystem der Erde fast vollständig zerstört wurde, leben eine Jugendliche und ihr gelähmter Vater in katastrophalen Verhältnissen. Doch plötzlich scheint Rettung in Sicht.",
+      "overview": "Österreich, 1938. Der Wiener Lebemann Dr. Josef Bartok verdrängt die Gefahr der NS-Machtübernahme. Erst kurz vor dem \"Anschluss\" an das Deutsche Reich entschließt er sich zur Flucht.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Spielfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/vesper-chronicles-movie-100/vesper-chronicles-100",
-      "duration": 6563,
+      "url": "https://www.3sat.de/film/spielfilm/schachnovelle-102.html",
+      "duration": 6084,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "3sat"
       }
     },
     {
@@ -1836,6 +1845,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Tokyo - Weltstädte Staffel 2",
+      "type": "tv",
+      "overview": "Kaum eine Millionenmetropole ist so sauber und sicher wie Tokyo. Wie dies der japanischen Megacity gelingt und was ihre Geschichte damit zu tun hat, ergründet Psychologe Leon Windscheid für Terra X.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-weltstaedte-mit-leon-windscheid-dokureihe-100/terra-x-weltstaedte-tokyo-mit-leon-windscheid-doku-100",
+      "duration": 2603,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Ehrlich Brothers: Was geben uns Geschwister?",
       "type": "tv",
       "overview": "Nähe, Streit, Rivalität: Geschwister begleiten uns oft ein Leben lang. Leon Windscheid spricht mit den Ehrlich Brothers über ihre Kindheit und fragt, wie Geschwister unsere Persönlichkeit prägen.",
@@ -1916,28 +1947,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/dokus/terra-x-history-102/geld-her--die-grossen-bankueberfaelle-100",
       "duration": 2694,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Forensik: Was tun mit psychisch kranken Tätern?",
-      "type": "tv",
-      "overview": "Mörder und andere Straftäter gehören in Haft – oder? Liegt eine psychische Erkrankung vor, werden Täter in die Forensische Psychiatrie eingewiesen. Doch was bedeutet “schuldunfähig”?",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra Xplore"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/forensik-was-tun-mit-psychisch-kranken-taetern-movie-100",
-      "duration": 2599,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2210,6 +2219,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Born in Evin",
+      "type": "tv",
+      "overview": "In \"Born in Evin\" erzählt Regisseurin und Schauspielerin Maryam Zaree von der Suche nach den gewaltvollen Umständen ihrer Geburt in einem der berüchtigtsten Gefängnisse der Welt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/born-in-evin-movie-100",
+      "duration": 5582,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Weltberühmt & depressiv: Von Sisi bis Adenauer",
+      "type": "tv",
+      "overview": "Der \"Besuch vom schwarzen Hund\" oder \"Melancholie\"? Die Krankheit Depression kennt in der Geschichte viele Namen. Psychologe Leon Windscheid blickt für die Doku in die Vergangenheit.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/weltberuehmt-und-depressiv-von-sisi-bis-adenauer-movie-100",
+      "duration": 2625,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "ZDFroyal: Die Queen und ich",
+      "type": "tv",
+      "overview": "Für viele schien sie unsterblich, für manche bleibt sie es: Elizabeth II. - die Jahrhundertkönigin. Vertraute aus dem \"Inner Circle\" teilen für ZDFroyal erstmals ihre Erinnerungen an die Queen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/zdfroyal-die-queen-und-ich-movie-100",
+      "duration": 2622,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Anja Niedringhaus – Die Fotografin und der Krieg - Dokumentarfilm von Yury und Sonya Winterberg,",
       "type": "tv",
       "overview": "Anja Niedringhaus wurde als Fotografin für die Bildagenturen EPA und AP zur Wegbereiterin in einem bis heute männlich dominierten Beruf. Ihr Blick galt vor allem den Menschen im Krieg.",
@@ -2386,7 +2461,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf",
+      "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf (Originalversion)",
       "type": "tv",
       "overview": "Katharine Hepburn wurde am 12. Mai 1907 in Connecticut geboren. Sie entwickelte sich zu einer der prägendsten Figuren Hollywoods. Sie brach mit den Konventionen ihrer Zeit und setzte mit ihrem außergewöhnlichen Talent neue Maßstäbe – sowohl auf der Leinwand als auch abseits davon. So wurde Hepburn zum Vorbild vieler Schauspielerinnen und mit vier Oscars ausgezeichnet.",
       "genres": [
@@ -2408,7 +2483,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf (Originalversion)",
+      "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf",
       "type": "tv",
       "overview": "Katharine Hepburn wurde am 12. Mai 1907 in Connecticut geboren. Sie entwickelte sich zu einer der prägendsten Figuren Hollywoods. Sie brach mit den Konventionen ihrer Zeit und setzte mit ihrem außergewöhnlichen Talent neue Maßstäbe – sowohl auf der Leinwand als auch abseits davon. So wurde Hepburn zum Vorbild vieler Schauspielerinnen und mit vier Oscars ausgezeichnet.",
       "genres": [
@@ -2558,6 +2633,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Das verschwundene Kind – Der Amsterdam-Krimi (4)",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2020 Der ehemalige LKA-Ermittler Alex Pollack gerät selbst in den Mittelpunkt einer mörderischen Erpressung. Kidnapper haben den Sohn seiner Nachbarin Annika entführt, um Pollack dazu zu zwingen, seinen neuen Kollegen Bram zu töten. Wenn der Undercover-Spezialist diese ungewöhnliche Forderung nicht innerhalb einer Stunde ausführt, ist der elfjährige Sam tot – so lautet die Drohung....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Amsterdam-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDI1LTEyLTA2XzIzLTQwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "duration": 5174,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2716,28 +2813,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die letzte Zeugin – Der Amsterdam-Krimi (10)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2025 Safiya (Shanaya Dap) ist jung, intelligent, ehrgeizig – und in tödlicher Gefahr! Sie und ihre kleine Schwester wurden illegal in die Niederlande geschleust. Doch der Preis für den Start in ein vermeintlich besseres Leben ist hoch: Safiya soll eine Niere entnommen werden. In letzter Minute gelingt ihr die Flucht, ihre Schwester muss sie jedoch zurücklassen....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Amsterdam-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzk4OGZjOGU1LTczYTktNGFmMC05YzhiLTY0YmI0ODM0Njc0NV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5316,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Das Beste der St. Ingberter Pfanne 2025",
       "type": "tv",
       "overview": "Die St. Ingberter Pfanne feiert 2025 ihr 40-jähriges Jubiläum - vier Jahrzehnte Kleinkunst in vielen Facetten. Wer 2025 in der Kleinkunst ausgezeichnet wurde und wer das Publikum begeisterte, zeigt dieses Best-of des Wettbewerbs: Von Musik-Kabarett über Stand-up-Comedy bis zu Visual Comedy erwartet die Zuschauer:innen ein Programm der Spitzenklasse.",
@@ -2750,7 +2825,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.sr-mediathek.de/index.php?seite=7&id=157984",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTU3OTg0",
       "duration": 3600,
       "providers": {
         "netflix": null,
@@ -2818,28 +2893,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNlZGRjZWRjLWQyNTktNDUwNS05OTYzLWZhYThhMTAzZTUxMg",
       "duration": 5314,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Best of Ingrid Kühne",
-      "type": "tv",
-      "overview": "60 Minuten. Keine Pause fürs Zwerchfell. Der ganz normale Wahnsinn bekommt hier eine neue Intensität. Ob Technik, die grundsätzlich gegen sie arbeitet, Pakete auf Weltreise oder ein Sohn, der die Pubertät auf ein neues Level hebt. Ingrid Kühne erzählt von dem ganz normalen Wahnsinn, den wir alle kennen. Und plötzlich wird klar: Wir sind mit unserem Chaos nicht allein....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtN2I1MmU4MWMtMTkxYi00OTQ1LWFhODgtZGIyNjc3NWU5YmM5",
-      "duration": 3583,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3046,6 +3099,98 @@
     },
     {
       "tmdb_id": null,
+      "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs",
+      "type": "tv",
+      "overview": "Zum 125. Jahrestag des Boxerprotokolls erzählt die Dokumentation \"Der Boxerkrieg – Das Ende des chinesischen Kaiserreichs\" vom Aufstand chinesischer Bauern gegen ausländische Kolonialmächte, darunter Frankreich und Deutschland. Seltene Bildquellen zeigen einen Krieg, der von extremer Gewalt geprägt war und der im Westen – anders als in China – weitgehend vergessen ist.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/131569-000-A/der-boxerkrieg/",
+      "duration": 3151,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mao - Chinas roter Kaiser (3/3) - Kulturrevolution",
+      "type": "tv",
+      "overview": "Nach dem Desaster des \"Großen Sprungs nach vorn\" ist Mao von innerparteilichen Feinden umzingelt. Er plant den Gegenangriff: \"Die große proletarische Kulturrevolution\". Dabei kann er sich auf die Hilfe der Jugend verlassen, die als Rote Garden Jagd auf \"Konterrevolutionäre\" machen. Das Land versinkt im Chaos, doch Mao geht als Sieger hervor und wird Staatschef auf Lebenszeit.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/113586-003-A/mao-chinas-roter-kaiser-3-3/",
+      "duration": 3143,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mao - Chinas roter Kaiser (2/3) - Großer Sprung",
+      "type": "tv",
+      "overview": "Nach der Ausrufung der Volksrepublik beginnt Mao mit der Umgestaltung des Landes in einen sozialistischen Staat, doch der Koreakrieg holt ihn ein. Als er die industrielle Entwicklung vorantreibt, führt er das Land an den Abgrund: Eine der größten Hungerkatastrophen der Geschichte mit Millionen Toten ist die Folge.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/113586-002-A/mao-chinas-roter-kaiser-2-3/",
+      "duration": 3103,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mao - Chinas roter Kaiser (1/3) - Langer Marsch",
+      "type": "tv",
+      "overview": "Der junge Revolutionär Mao Zedong erlebt ein China am Boden. Nach Ende des Kaiserreichs befindet sich das Land im festen Griff von imperialistischen Mächten. In Mao wächst der Traum von einer kommunistischen Gesellschaft, die das Land wieder zu alter Größe führt. Mao und seine Bewegung sind in einen blutigen Bürgerkrieg verwickelt, bis er 1949 vor den Toren Pekings steht.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/113586-001-A/mao-chinas-roter-kaiser-1-3/",
+      "duration": 3102,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "California! - Zwischen Utopie und Realität",
       "type": "tv",
       "overview": "Netflix, Blockbuster, Architektur, iPhone oder Elektroauto – ohne Kalifornien wäre die Welt eine andere. Egal, ob Steve Jobs Arbeit zum Spaß erklärt, Roland Emmerich in seinen Blockbustern den Klimawandel prophezeit oder Elon Musk Touristen ins Weltall befördert. Der \"Goldene Staat\" an der Westküste Amerikas ist immer einen Schritt voraus.",
@@ -3130,98 +3275,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/088412-000-A/auf-den-spuren-der-cheops-pyramide/",
       "duration": 3134,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Pharaoninnen. Frauen, die das Reich Ägypten formten",
-      "type": "tv",
-      "overview": "Vor über 5.000 Jahren entstand am Nil der erste Flächenstaat der Welt und Frauen spielten dabei eine entscheidende Rolle. Ein internationales Forschungsteam enthüllt anhand aktueller Grabungen neue Erkenntnisse über Machtstrukturen und den Einfluss von Frauen. Der Film zeigt, wie moderne Wissenschaft alte Mythen korrigiert – und warum Ägypten uns bis heute fasziniert.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/119927-000-A/die-pharaoninnen-frauen-die-das-reich-aegypten-formten/",
-      "duration": 5359,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Als der Norden schwimmen lernte",
-      "type": "tv",
-      "overview": "Sommer, Sonne, rote Augen vom Chlorwasser und Anstehen für Pommes: Kindheitserinnerungen an einen Tag im Freibad. Viele dieser Bäder wurden Anfang der 1970er-Jahre gebaut und sind in die Jahre gekommen. In der Stadt und auf dem Land werden immer mehr Schwimmbäder geschlossen, laut einer Untersuchung der DRLG etwa 80 jedes Jahr....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Unsere Geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjMwNDk0OF9nYW56ZVNlbmR1bmc",
-      "duration": 2639,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mythos Côte d'Azur - Liebe, Luxus, Leidenschaft",
-      "type": "tv",
-      "overview": "Die Côte d'Azur ist nicht nur eine atemberaubend schöne Landschaft. Sie steht für Glamour und Luxus, für Filmfestspiele und Stars, für legendäre Hotels, für Megajachten und Prachtvillen. Die berühmtesten Persönlichkeiten des letzten Jahrhunderts trafen sich hier und haben diese Küste geprägt. Ihren Lieben und Leidenschaften verdankt die Côte d'Azur ihren einmaligen Mythos.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/098094-000-A/mythos-cote-d-azur/",
-      "duration": 3111,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mythos Amalfiküste - Liebe, Laster, Dolce Vita",
-      "type": "tv",
-      "overview": "Die Amalfiküste ist nicht nur eine der landschaftlich schönsten Regionen Europas. Im vergangenen Jahrhundert wurde sie zum mondänen Treffpunkt für Stars, Künstlerinnen und Künstler, Reiche und Berühmte, und die Städte Amalfi, Ravello und Positano zur Bühne schillernder Geschichten. Vorgelagert im Meer lockt die Insel Capri als ein Eldorado für verbotene Sehnsüchte und Lebenslust.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/108984-000-A/mythos-amalfikueste/",
-      "duration": 2593,
       "providers": {
         "netflix": null,
         "prime": null,
