@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-02T09:11:58.372Z",
+  "generated_at": "2026-09-03T09:18:50.932Z",
   "items": [
     {
       "tmdb_id": 860508,
@@ -17,8 +17,8 @@
         "serial killer",
         "father son relationship"
       ],
-      "rating": 6.4,
-      "vote_count": 262,
+      "rating": 6.593,
+      "vote_count": 318,
       "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
       "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
       "providers": {
@@ -28,33 +28,30 @@
       }
     },
     {
-      "tmdb_id": 1516698,
-      "title": "The Last Sunrise",
-      "type": "movie",
-      "overview": "Basierend auf dem beliebten Roman erzählt \"The Last Sunrise\" die Geschichte von Ry, einer chronisch kranken Studentin, die einen Sommerurlaub auf Mallorca mit ihrer Mutter verbringt. Als sie sich in Julián verliebt und lernt, im Moment zu leben, drohen ihr Gesundheitszustand und lang gehegte Familiengeheimnisse vor Sommerende alles zu zerstören.",
+      "tmdb_id": 236235,
+      "title": "The Gentlemen",
+      "type": "tv",
+      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
       "genres": [
-        "Liebesfilm",
-        "Drama"
+        "Komödie",
+        "Drama",
+        "Krimi"
       ],
       "keywords": [
-        "spain",
-        "based on novel or book",
-        "tension",
-        "summer",
-        "woman director",
-        "chronic illness",
-        "appreciative",
-        "audacious",
-        "comforting",
-        "enthusiastic"
+        "dark comedy",
+        "aristocrat",
+        "based on movie",
+        "irreverent",
+        "offbeat",
+        "action"
       ],
-      "rating": 6.606,
-      "vote_count": 90,
-      "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
+      "rating": 7.8,
+      "vote_count": 852,
+      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -81,42 +78,13 @@
         "military police",
         "powerful"
       ],
-      "rating": 8.105,
-      "vote_count": 3194,
+      "rating": 8.104,
+      "vote_count": 3203,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 290193,
-      "title": "Mousetrap",
-      "type": "tv",
-      "overview": "Ein zurückgezogener Schriftsteller, dem die Identität von einem Mann namens „Ratte“ gestohlen wurde, will sie sich mithilfe eines skrupellosen Kredithais zurückholen.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "identity theft",
-        "psychological",
-        "korean",
-        "based on webcomic or webtoon",
-        "suspenseful",
-        "korean noir",
-        "suspense thriller"
-      ],
-      "rating": 7.522,
-      "vote_count": 23,
-      "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -153,9 +121,60 @@
         "defiant"
       ],
       "rating": 8.8,
-      "vote_count": 5513,
+      "vote_count": 5518,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 299952,
+      "title": "早春晴朗",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "romance",
+        "based on web novel"
+      ],
+      "rating": 7.25,
+      "vote_count": 6,
+      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 290193,
+      "title": "Mousetrap",
+      "type": "tv",
+      "overview": "Ein zurückgezogener Schriftsteller, dem die Identität von einem Mann namens „Ratte“ gestohlen wurde, will sie sich mithilfe eines skrupellosen Kredithais zurückholen.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "identity theft",
+        "psychological",
+        "korean",
+        "based on webcomic or webtoon",
+        "suspenseful",
+        "korean noir",
+        "suspense thriller"
+      ],
+      "rating": 7.542,
+      "vote_count": 24,
+      "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -180,8 +199,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.114,
-      "vote_count": 1452,
+      "rating": 8.1,
+      "vote_count": 1453,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -191,83 +210,33 @@
       }
     },
     {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
-      "type": "tv",
-      "overview": "",
+      "tmdb_id": 1516698,
+      "title": "The Last Sunrise",
+      "type": "movie",
+      "overview": "Basierend auf dem beliebten Roman erzählt \"The Last Sunrise\" die Geschichte von Ry, einer chronisch kranken Studentin, die einen Sommerurlaub auf Mallorca mit ihrer Mutter verbringt. Als sie sich in Julián verliebt und lernt, im Moment zu leben, drohen ihr Gesundheitszustand und lang gehegte Familiengeheimnisse vor Sommerende alles zu zerstören.",
       "genres": [
+        "Liebesfilm",
         "Drama"
       ],
       "keywords": [
-        "romance",
-        "based on web novel"
+        "spain",
+        "based on novel or book",
+        "tension",
+        "summer",
+        "woman director",
+        "chronic illness",
+        "appreciative",
+        "audacious",
+        "comforting",
+        "enthusiastic"
       ],
-      "rating": 6.7,
-      "vote_count": 5,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 255358,
-      "title": "The Ghost in the Shell",
-      "type": "tv",
-      "overview": "2029, Japan in naher Zukunft. Cyborg Motoko Kusanagi und ihr Team werden von Daisuke Aramaki als „Sektion 9 der Staatssicherheit\", auch bekannt als „Shell-Einheit\", rekrutiert, um Bedrohungen präventiv zu bekämpfen. Eine internationale Verschwörung deutet auf den Hacker „Puppenspieler\" hin. Welches Schicksal erwartet Kusanagi? Was hat der Hacker vor? Eine neue Cyberpunk-Ära beginnt!",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "cyborg",
-        "police",
-        "cyberpunk",
-        "based on manga",
-        "counterterrorism",
-        "cybercrime",
-        "anime",
-        "female cyborg",
-        "public security"
-      ],
-      "rating": 8.417,
-      "vote_count": 42,
-      "poster_path": "/v6D7aBJynhY6opGugGJkofzknw6.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/255358-the-ghost-in-the-shell/watch?locale=DE",
+      "rating": 6.6,
+      "vote_count": 95,
+      "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 236235,
-      "title": "The Gentlemen",
-      "type": "tv",
-      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
-      "genres": [
-        "Komödie",
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
-        "dark comedy",
-        "aristocrat",
-        "based on movie",
-        "irreverent",
-        "offbeat",
-        "action"
-      ],
-      "rating": 7.816,
-      "vote_count": 850,
-      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -285,8 +254,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.866,
-      "vote_count": 451,
+      "rating": 8.844,
+      "vote_count": 469,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -316,7 +285,7 @@
         "police procedural"
       ],
       "rating": 8.397,
-      "vote_count": 4639,
+      "vote_count": 4640,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -359,8 +328,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.96,
-      "vote_count": 4327,
+      "rating": 7.961,
+      "vote_count": 4329,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -395,8 +364,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.543,
-      "vote_count": 3494,
+      "rating": 8.542,
+      "vote_count": 3497,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -441,8 +410,8 @@
         "brothers",
         "horror"
       ],
-      "rating": 8.314,
-      "vote_count": 8637,
+      "rating": 8.313,
+      "vote_count": 8640,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
@@ -452,84 +421,37 @@
       }
     },
     {
-      "tmdb_id": 95594,
-      "title": "Fast & Furious Spy Racers",
-      "type": "tv",
-      "overview": "Teenager Tony Toretto ist der Cousin des berühmten Dom. Er eifert seinem Verwandten nach, als er und seine Freunde von einer Regierungsorganisation damit beauftragt werden, sich in eine Elite-Renn-Liga einzuschleusen. Die wird von einer kriminellen Organisation namens SH1FT3R organisiert, die nach der Weltherrschaft greift. Das Team muss sich durch gewiefte Pläne das Vertrauen der Organisation erschleichen und den Balanceakt meistern, nicht aufzufallen und zugleich doch die schlimmsten Pläne zu vereiteln.",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Kids",
-        "Familie"
-      ],
-      "keywords": [
-        "street race",
-        "computer animation",
-        "mission",
-        "race car driver",
-        "criminal",
-        "based on movie",
-        "3d animation",
-        "cars",
-        "vehicle"
-      ],
-      "rating": 6.984,
-      "vote_count": 2206,
-      "poster_path": "/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/95594-fast-furious-spy-racers/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220402.html",
-        "mentions": 4
-      }
-    },
-    {
-      "tmdb_id": 98,
-      "title": "Gladiator",
+      "tmdb_id": 744,
+      "title": "Top Gun - Sie fürchten weder Tod noch Teufel",
       "type": "movie",
-      "overview": "Der gefeierte römische Feldherr Maximus wird vom sterbenden Kaiser Marcus Aurelius gebeten, seine Nachfolge anzutreten. Um dies zu verhindern, tötet Aurelius’ Sohn seinen Vater und ordnet die Exekution von Maximus und seiner Familie an. Maximus gelingt die Flucht. Verwundet wird er von einem Sklavenhändler gefangen genommen und muss sich fortan als Gladiator beweisen. Als Kampfmaschine hat er schließlich nur noch ein Ziel: Rache an seinem Peiniger zu nehmen …",
+      "overview": "Der junge Lieutenant Pete „Maverick“ Mitchell ist ein Kampfpilot bei der United States Navy. Bei einer heiklen Mission müssen Maverick und sein Waffensystemoffizier Nick „Goose“ Bradshaw die Befehle ihres Kommandanten „Stinger“ missachten, um einem Kameraden zu helfen, der eine Panikattacke bekommen hat. Dadurch werden Maverick und Goose von Stinger widerwillig für die Ausbildung bei der United States Navy Fighter Weapons School, genannt „Top Gun“, vorgeschlagen. Dort liefert sich Maverick gleich eine Rivalität mit dem Flugschüler Tom „Iceman“ Kazanski. Außerdem bekommt er durch seine rücksichtslose Flugweise Probleme. Er gewinnt zwar regelmäßig Flugkämpfe, z.B. gegen Ausbilder Leutnant Commander Rick „Jester“ Heatherly, bricht dabei jedoch Einsatzregeln und handelt nicht gerade teamfähig.",
       "genres": [
         "Action",
         "Drama",
-        "Abenteuer"
+        "Liebesfilm"
       ],
       "keywords": [
-        "gladiator",
-        "rome, italy",
-        "arena",
-        "senate",
-        "roman empire",
-        "parent child relationship",
-        "emperor",
-        "slavery",
-        "ancient rome",
-        "revenge",
-        "battlefield",
-        "slave auction",
-        "historical fiction",
-        "ancient world",
-        "period drama",
-        "combat",
-        "chariot",
-        "philosopher",
-        "grim",
-        "barbarian horde",
-        "2nd century",
-        "successor",
-        "commodus",
-        "maximus",
-        "antiquity",
-        "gladiador"
+        "dying and death",
+        "secret love",
+        "lovesickness",
+        "airplane",
+        "loss of loved one",
+        "self-discovery",
+        "hostility",
+        "fighter pilot",
+        "pilot",
+        "training camp",
+        "battle assignment",
+        "u.s. navy",
+        "cowardliness",
+        "homoeroticism",
+        "pilot school",
+        "based on magazine, newspaper or article"
       ],
-      "rating": 8.231,
-      "vote_count": 21394,
-      "poster_path": "/32wJunadteAxUkXnbQ1lHjjp5pa.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/98-gladiator/watch?locale=DE",
+      "rating": 7.07,
+      "vote_count": 9863,
+      "poster_path": "/3GYnkgHS06sW5CUwDcQThh4fhp4.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/744-top-gun/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -537,76 +459,31 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220712.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000220405.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 1402,
-      "title": "The Walking Dead",
+      "tmdb_id": null,
+      "title": "Die Professorin - Tatort Ölfeld",
       "type": "tv",
-      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
+      "overview": "Die emeritierte Historikerin Adelgunde soll in Wien ein Institut für Europäische Sozialgeschichte aufbauen, als die junge Russin Jekaterina auftaucht. Offiziell recherchiert sie für ihre Dissertation über die Nachkriegszeit, doch tatsächlich verbindet sie ein dunkles Familiengeheimnis mit Adelgunde: Deren Vater wurde einst nach Sibirien verschleppt und gründete dort eine zweite Familie....",
       "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "post-apocalyptic future",
-        "gore",
-        "undead",
-        "survival",
-        "zombie",
-        "based on graphic novel",
-        "horror"
-      ],
-      "rating": 8.083,
-      "vote_count": 18146,
-      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220773.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 46952,
-      "title": "The Blacklist",
-      "type": "tv",
-      "overview": "Raymond „Red“ Reddington ist ein ehemaliger Offizier des amerikanischen Marinegeheimdienstes und einer der meistgesuchten Verbrecher der USA. Eines Tages stellt er sich in der FBI-Hauptzentrale in Washington, D.C. und bietet dem FBI an, bei der Suche nach Verbrechern und Terroristen zu helfen. Allerdings verlangt er, einzig mit der FBI-Agentin Elizabeth Keen zu verhandeln, die vor Kurzem erst aus Quantico zugezogen ist. Die Informationen, die er weitergibt, stammen von einer von ihm über Jahre angelegten Liste, der sogenannten Blacklist.",
-      "genres": [
-        "Drama",
         "Krimi",
-        "Mystery"
+        "Drama"
       ],
       "keywords": [
-        "fbi",
-        "investigation",
-        "terrorism",
-        "criminal mastermind",
-        "crime lord",
-        "hidden identity",
-        "criminal consultant"
+        "Die Professorin - Tatort Ölfeld"
       ],
-      "rating": 7.633,
-      "vote_count": 3694,
-      "poster_path": "/zwXY8e26RahW6mEcvGSshP0ef43.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/46952-the-blacklist/watch?locale=DE",
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14337372/die-professorin-tatort-oelfeld",
+      "duration": 5240,
       "providers": {
-        "netflix": "flatrate",
+        "netflix": null,
         "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220770.html",
-        "mentions": 2
+        "mediathek": "ORF"
       }
     },
     {
@@ -624,7 +501,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDY4MjgvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDY4Mjg",
       "duration": 5322,
       "providers": {
         "netflix": null,
@@ -785,7 +662,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OQ",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OS9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5330,
       "providers": {
         "netflix": null,
@@ -864,21 +741,21 @@
     },
     {
       "tmdb_id": null,
-      "title": "Gegen den Kopf",
+      "title": "Zehn Rosen",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2013 +++ In der Berliner U-Bahn wendet sich ein Mann gegen Jugendliche, die einem alten Herrn seinen Stock wegnehmen. Nach dem Aussteigen wird er von den Jugendlichen verprügelt, er erliegt seinen Verletzungen. Trotz vieler Zeugen und jeder Menge Videokameras auf dem Bahnhof ist es mühsam für Ritter und Stark, den Tathergang zu ermitteln....",
+      "overview": "In einem Hinterhof Magdeburgs wird die schwer zugerichtete Leiche einer jungen Frau gefunden. Hauptkommissarin Brasch vermutet aufgrund der symbolischen Fesselung einen Serientäter. Eine Transfrau gerät unter Verdacht.",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Polizeiruf 110"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9hMjE3N2U4My1lM2QzLTQ4MmMtOGUzMy05OWMzMjk0MTQ1M2VfcHVibGljYXRpb24",
-      "duration": 5314,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80MDU3NTItMzg4OTAy",
+      "duration": 5287,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -994,29 +871,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYi1vbmxpbmUuZGUvZmlsbXplaXQvMjAxOS0wNi0wOVQyMzozMDowMF8wYzk1NDA2NC0wNmMzLTQ3MTctYTJmYy00OTM0ZDk1ZTc2YzkvcG9saXplaXJ1Zi0xMTAtLXdvbGZzbGFuZA",
       "duration": 5319,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Fehlschuss",
-      "type": "tv",
-      "overview": "Eine alte Frau wird erschlagen in ihrer Wohnung aufgefunden. Schmücke und Schneider vermuten einen Zusammenhang mit einer Einbruchserie. Als die Kommissare die Einbrecher wenig später zufällig erwischen, fallen Schüsse.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NjE1ODktNDQyMDIy",
-      "duration": 5295,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1465,6 +1319,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Großstadtförsterin - Berliner Besonderheiten - Fernsehfilm, Deutschland 2024",
+      "type": "tv",
+      "overview": "Die junge Försterin Jana Doussière tritt kurzfristig eine Stelle im Forstamt Grunewald an. Aus einem wilden Wald in den Vogesen kommend, prallt die Einzelgängerin auf den Großstadtwald.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/fernsehfilm/grossstadtfoersterin-berliner-besonderheiten-104.html",
+      "duration": 5337,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Querschuss",
+      "type": "tv",
+      "overview": "Als Großvater Joachim kurz vor den Feierlichkeiten zu seinem 80. Geburtstag sich das Leben nimmt, trifft dies seine Angehörigen völlig unvorbereitet. Sohn Andreas erfasst neben der Trauer auch hilflose Wut. Seine Familie und seine labile Schwester Ulrike, die stets von den Eltern bevorzugt wurde, kämpfen auf je eigene Weise mit dem Verlust. Regie: Nicole Weegmann",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Fernsehfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/113550-000-A/querschuss/",
+      "duration": 5357,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Ich will mein Glück zurück - Fernsehfilm, Deutschland 2023",
       "type": "tv",
       "overview": "Zur Goldenen Hochzeit plant Ulla auf dem Partyschiff \"Alte Liebe\" die Erneuerung des Eheversprechens. Doch vor allen Gästen gesteht ihr Mann Paul seine Liebe zu ihrer Freundin Rita.",
@@ -1593,50 +1491,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Toten am Meer - Der Wikinger - Fernsehfilm, Deutschland 2022",
-      "type": "tv",
-      "overview": "Am Strand von Husum spült die Flut einen erschlagenen Wikingerkrieger an: Der ungewöhnliche \"Tote am Meer\" ist jedoch kein Fall für Historiker, sondern für Kommissarin Ria Larsen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/fernsehfilm/die-toten-am-meer--der-wikinger-krimi-100.html",
-      "duration": 5253,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ein Wahnsinnstag - Fernsehfilm, Deutschland 2021",
-      "type": "tv",
-      "overview": "Lässiger Singlemann mit Tochter trifft smarte Alleinerziehende mit Sohn - das klingt nach einem guten Anfang! Leider sind die Vorzeichen bei Philipp und Frederike alles andere als günstig.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/fernsehfilm/ein-wahnsinnstag-106.html",
-      "duration": 5313,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -1801,28 +1655,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "London - Weltstädte Staffel 2",
-      "type": "tv",
-      "overview": "Vibrierendes London: Einst Machtzentrum eines Weltreichs, heute eine Weltstadt, die Trends setzt. Für \"Terra X\" ergründet Leon Windscheid die außergewöhnliche Anziehungskraft der Metropole an der Themse.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-weltstaedte-mit-leon-windscheid-dokureihe-100/terra-x-weltstaedte-london-mit-leon-windscheid-doku-100",
-      "duration": 2614,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Die Neureuthers: Was macht einen Papa aus?",
       "type": "tv",
       "overview": "Felix Neureuther und sein Vater Christian sprechen mit Leon Windscheid darüber, was einen guten Papa ausmacht. Weitere Vater-Kind-Beziehungen und Forschung zeigen, wie wichtig Nähe und Bindung sind.",
@@ -1837,28 +1669,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/reportagen/die-neureuthers-was-macht-einen-papa-aus-movie-100",
       "duration": 2611,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tokyo - Weltstädte Staffel 2",
-      "type": "tv",
-      "overview": "Kaum eine Millionenmetropole ist so sauber und sicher wie Tokyo. Wie dies der japanischen Megacity gelingt und was ihre Geschichte damit zu tun hat, ergründet Psychologe Leon Windscheid für Terra X.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-weltstaedte-mit-leon-windscheid-dokureihe-100/terra-x-weltstaedte-tokyo-mit-leon-windscheid-doku-100",
-      "duration": 2603,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1951,6 +1761,50 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Forensik: Was tun mit psychisch kranken Tätern?",
+      "type": "tv",
+      "overview": "Mörder und andere Straftäter gehören in Haft – oder? Liegt eine psychische Erkrankung vor, werden Täter in die Forensische Psychiatrie eingewiesen. Doch was bedeutet “schuldunfähig”?",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/forensik-was-tun-mit-psychisch-kranken-taetern-movie-100",
+      "duration": 2599,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Sonnenfinsternis über Mallorca - Eine Spezialausgabe von „Terra X Harald Lesch“",
+      "type": "tv",
+      "overview": "Eine totale Sonnenfinsternis ist ein \"Once-in-a-Lifetime\"-Ereignis: Am 12. August 2026 lässt sich das Naturphänomen live auf Mallorca erleben – zusammen mit Harald Lesch und Gästen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/wissen/terra-x/livestream-sonnenfinsternis-ueber-mallorca-lesch-100.html",
+      "duration": 2689,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
       }
     },
     {
@@ -2219,9 +2073,31 @@
     },
     {
       "tmdb_id": null,
-      "title": "Born in Evin",
+      "title": "JD Vance - Der Mann nach Trump - Dokumentarfilm von Damien Pasinetti, Thomas Snégaroff,",
       "type": "tv",
-      "overview": "In \"Born in Evin\" erzählt Regisseurin und Schauspielerin Maryam Zaree von der Suche nach den gewaltvollen Umständen ihrer Geburt in einem der berüchtigtsten Gefängnisse der Welt.",
+      "overview": "Die persönliche und politische Reise von JD Vance, der seine Arbeiterklassen-Herkunft im Bestseller \"Hillbilly Elegy\" beschrieb und heute der zweitmächtigste Politiker der USA ist.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentarfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/dokumentarfilm/jd-vance-donald-trump-usa-100.html",
+      "duration": 4885,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Systemfehler: Der Cum-Ex Skandal",
+      "type": "tv",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -2231,8 +2107,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/dokus/born-in-evin-movie-100",
-      "duration": 5582,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2255,6 +2131,28 @@
       "poster_path": null,
       "url": "https://www.zdf.de/dokus/weltberuehmt-und-depressiv-von-sisi-bis-adenauer-movie-100",
       "duration": 2625,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Born in Evin",
+      "type": "tv",
+      "overview": "In \"Born in Evin\" erzählt Regisseurin und Schauspielerin Maryam Zaree von der Suche nach den gewaltvollen Umständen ihrer Geburt in einem der berüchtigtsten Gefängnisse der Welt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/born-in-evin-movie-100",
+      "duration": 5582,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2309,7 +2207,7 @@
       "tmdb_id": null,
       "title": "Von Werfenweng ins Tennengebirge",
       "type": "tv",
-      "overview": "Vom Hausberg, dem Bischling, reicht die Sicht an klaren Tagen vom Tennengebirge über Hochkönig, Dachstein und die markante Bischofsmütze bis hin zum Großglockner in Werfenweng. Bis heute ist die enge Verbindung zwischen Mensch und Natur spürbar. Die Kamera begleitet Menschen, die im Rhythmus der Berge leben und Tradition nicht als Folklore verstehen, sondern als gelebte Gegenwart....",
+      "overview": "Werfenweng zeigt sich als stilles Kraftzentrum der Alpen: Eingebettet in eine hügelige Hochebene, umgeben von einer monumentalen Bergkulisse, öffnet der Ort einen Rundblick, der selbst in den Alpen Seltenheitswert hat. Es ist eine Landschaft mit ...",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -2461,6 +2359,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Kurzschluss - Enttäuschte Liebe",
+      "type": "tv",
+      "overview": "(1) Letzter Frühling / (2) Mein Schnuckelchen / (3) Das erste Mal – Tran Anh Hùng / (4) Malo fährt Fahrrad",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Kurzfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/128693-016-A/kurzschluss/",
+      "duration": 3360,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Türkisch für Anfänger",
+      "type": "tv",
+      "overview": "Lena war mit ihrer Mutter auf dem Weg in den Urlaub, doch stattdessen strandet sie mit Cem Öztürk, seiner Schwester Yagmur und dem Griechen Costa auf einer Insel. Zusammen müssen sie überleben, bis Rettung kommt. Aber die Gruppe ist zu verschieden – zwischen Culture-Clash und Gefühlschaos entsteht ein bizarres Abenteuer. Der Film zur gleichnamigen Kultserie von Bora Dagtekin.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/079365-000-A/tuerkisch-fuer-anfaenger/",
+      "duration": 6246,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Kardinal",
+      "type": "tv",
+      "overview": "Vom jungen Priester zum Kardinal: Stephen Fermoyle widmet sein Leben dem Glauben und der katholischen Kirche – und gerät dabei immer wieder in Konflikt mit seinem Gewissen. Vor dem Hintergrund der politischen Umbrüche des 20. Jahrhunderts erzählt Otto Preminger ein Drama über Verantwortung und moralische Entscheidungen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/130956-000-A/der-kardinal/",
+      "duration": 10088,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf (Originalversion)",
       "type": "tv",
       "overview": "Katharine Hepburn wurde am 12. Mai 1907 in Connecticut geboren. Sie entwickelte sich zu einer der prägendsten Figuren Hollywoods. Sie brach mit den Konventionen ihrer Zeit und setzte mit ihrem außergewöhnlichen Talent neue Maßstäbe – sowohl auf der Leinwand als auch abseits davon. So wurde Hepburn zum Vorbild vieler Schauspielerinnen und mit vier Oscars ausgezeichnet.",
@@ -2571,68 +2535,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Vatersland",
+      "title": "Herz-Jesu-Blut – Der Bozen-Krimi (S01/E03)",
       "type": "tv",
-      "overview": "Reise zurück in die 50er und 60er Jahre: Durch Fotos und Filmaufnahmen aus ihrer Kindheit, erinnert sich Filmemacherin Marie an ihr Aufwachsen im Nachkriegs-Deutschland. Eine Jugend, geprägt von ständiger Rebellion gegen eine Gesellschaft, die von Mädchen nur eines erwartet hat: Hübsch in die Kamera lächeln und keinesfalls selbst Regie führen. - Familiendrama von Petra Seeger.",
+      "overview": "Spielfilm Deutschland 2016 Auch wenn sie auf sich allein gestellt ist: Wie eine Löwin kämpft Sonja Schwarz (Chiara Schoras) für ihren Mann Thomas (Xaver Hutter), der wegen Mordverdachts in U-Haft sitzt. Endlich tauchen Indizien für seine Unschuld auf. Anteil daran haben dessen Tochter Laura (Charleen Deetz) und Jonas Kerschbaumers (Gabriel Raab) Bruder Ludwig (Kai Malina), der als Schäfer über die einsamen Alpenbergstrecken zieht....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Der Bozen-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/082712-000-A/vatersland/",
-      "duration": 6933,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI0LTA1LTE5XzAwLTI1LU1FU1o",
+      "duration": 5313,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ungarische Rhapsodie (Originalversion)",
-      "type": "tv",
-      "overview": "Zwei Brüder aus dem ungarischen Adel gehen während der politischen Umwälzungen zu Beginn des 20. Jahrhunderts getrennte Wege: Der eine bleibt der Armee treu, während der andere sich revolutionäre Ideale zu eigen macht. Ihr Konflikt symbolisiert die Spaltungen innerhalb einer Nation in der Krise.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/133821-000-A/ungarische-rhapsodie/",
-      "duration": 5528,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Zurück zur Familie (Originalversion)",
-      "type": "tv",
-      "overview": "Simona kehrt ans Sterbebett ihrer Großmutter nach Hause zurück, wo sie ihre Eltern vorfindet, die von Alkohol und Reue zerfressen sind. Jeder Versuch, wieder eine Verbindung zu ihnen aufzubauen, scheitert, bringt dunkle Geheimnisse ans Licht und entfacht alte Konflikte neu. Vor dem Hintergrund dieser erdrückenden Atmosphäre zeigt „Zurück zur Familie“, dass Liebe nicht immer ausreicht, um unüberbrückbare familiäre Gräben zu überwinden.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/134127-000-A/zurueck-zur-familie/",
-      "duration": 5255,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2693,7 +2613,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0yMV8yMC0xNS1NRVo",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0yMV8yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5279,
       "providers": {
         "netflix": null,
@@ -2715,7 +2635,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNa",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -2739,28 +2659,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgwNzA4N2RjLWU5OGQtNDhhZS04NzE4LTNmNzFiOTg4N2U2N19nYW56ZVNlbmR1bmc",
       "duration": 5342,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Lebendig begraben | Der Wien-Krimi: Blind ermittelt",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland/Österreich 2021 Es gibt einen Tag, der das Leben von Ex-Kommissar Alexander Haller (Philipp Hochmair) für immer verändert hat: Am 17. Oktober 2017 verlor er durch einen Bombenanschlag seine Verlobte Kara und das Augenlicht! Als nun bei einem Mordopfer eine rätselhafte Notiz mit genau diesem Datum auftaucht, bittet ihn seine Nachfolgerin Laura Janda (Jaschka Lämmert) um Unterstützung....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Wien-Krimi: Blind ermittelt"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzg5NDZkNDg0LThlYzItNGIwYS05NTZjLTc4ZDVlODMxOWVlMF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5238,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2945,28 +2843,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Severin Groebner: ÜberHaltung",
-      "type": "tv",
-      "overview": "Sie bleibt Auslandskorrespondentin, er Krisengebiet: Severin Groebner brilliert am Abgrund. Severin Groebner spielt den treuen weißen Mann des Mittelalters, der seit Jahrzehnten vergeblich auf seine große Liebe wartet – sie als Auslandskorrespondentin, er als selbsternanntes Krisengebiet. Mit scharfem Humor und aufrechter Haltung streift er Themen wie Social Media, Body Positivity, Laktosetoleranz und simulierte Ehrlichkeit....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14336586/severin-groebner-ueberhaltung",
-      "duration": 3424,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Lydia Prenner-Kasper - Salon Lydia",
       "type": "tv",
       "overview": "Ein humorvollen Seelenstriptease: Das Chaos des Lebens charmant zerlegt und scharfsinnig serviert. Mit viel Wiener Schmäh und treffsicherem Humor lädt Lydia Prenner-Kasper in den \"Salon Lydia\" – einen Ort voller kabarettistischer Glückseligkeit. In stilvoller Atmosphäre philosophiert sie über die Absurditäten des Alltags, erzählt von den Sonnen- und Schattenseiten des Lebens und nimmt dabei auch sich selbst pointiert aufs Korn....",
@@ -3007,6 +2883,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Best-of mit Constanze Lindner, Christian Schulte-Loh, Jonas Greiner ...",
+      "type": "tv",
+      "overview": "Zu Gast: Constanze Lindner, Christian Schulte-Loh, Jonas Greiner, Hans Thalhammer, Luise Kinseher, Matthias Egersdörfer und Kathie Freudenschuss",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarett aus Franken"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMTYzQTA",
+      "duration": 2580,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -3095,6 +2993,29 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kaiserin Leopoldina von Habsburg - Kampf für die Unabhängigkeit Brasiliens",
+      "type": "tv",
+      "overview": "Das High-End-Dokudrama von 2022 über Kaiserin Leopoldina von Habsburg und die Unabhängigkeit Brasiliens erzählt von der Genese der brasilianischen Republik über mehrere Jahrzehnte hinweg. Im Zentrum steht Leopoldina als eine der treibenden Kräfte, sich von der Kolonialmacht Portugal loszusagen und so der Fremdbestimmung und Ausbeutung Brasiliens ein Ende zu setzen.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/102990-000-A/kaiserin-leopoldina-von-habsburg/",
+      "duration": 3086,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -3252,29 +3173,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/097513-001-A/california/",
       "duration": 3099,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Auf den Spuren der Cheops-Pyramide - Wunder der Architektur",
-      "type": "tv",
-      "overview": "Die Cheops-Pyramide gehört zu den Pyramiden von Gizeh, dem einzigen noch erhaltenen Weltwunder der Antike. Sie wird auch als \"Große Pyramide\" bezeichnet und wurde vor über 4.500 Jahren im westlichen Niltal, etwa 25 Kilometer von Kairo entfernt, als Grabmal des Königs Cheops erbaut. Wie konnten die Ägypter ohne moderne Werkzeuge ein derart monumentales Bauwerk errichten?",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/088412-000-A/auf-den-spuren-der-cheops-pyramide/",
-      "duration": 3134,
       "providers": {
         "netflix": null,
         "prime": null,
