@@ -1,7 +1,37 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-03T09:18:50.932Z",
+  "generated_at": "2026-09-04T09:12:08.514Z",
   "items": [
+    {
+      "tmdb_id": 1386315,
+      "title": "The Runner",
+      "type": "movie",
+      "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
+      "genres": [
+        "Thriller"
+      ],
+      "keywords": [
+        "mother",
+        "london, england",
+        "kidnapping",
+        "son",
+        "child kidnapping",
+        "abduction",
+        "child rescue",
+        "mother son relationship",
+        "child abduction",
+        "attorney"
+      ],
+      "rating": 6.2,
+      "vote_count": 129,
+      "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 860508,
       "title": "Der Kinderflüsterer",
@@ -17,8 +47,8 @@
         "serial killer",
         "father son relationship"
       ],
-      "rating": 6.593,
-      "vote_count": 318,
+      "rating": 6.645,
+      "vote_count": 346,
       "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
       "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
       "providers": {
@@ -46,8 +76,8 @@
         "action"
       ],
       "rating": 7.8,
-      "vote_count": 852,
-      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "vote_count": 859,
+      "poster_path": "/8sQ0oDunlRpesa5vIO6UPhbJNxC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
@@ -79,12 +109,35 @@
         "powerful"
       ],
       "rating": 8.104,
-      "vote_count": 3203,
+      "vote_count": 3208,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 290234,
+      "title": "Emilia",
+      "type": "tv",
+      "overview": "Die mexikanische Dramaserie Emilia aus dem Hause Netflix basiert auf dem Roman Mal de Amores von Ángeles Mastretta und erzählt die Geschichte von Emilia Sauri, die zur Zeit der mexikanischen Revolution aufwächst und davon träumt, Ärztin zu werden.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "mexican revolution",
+        "love"
+      ],
+      "rating": 8,
+      "vote_count": 2,
+      "poster_path": "/b6EDUkIFUM9ZSngtPXy4YjGGn2d.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290234-mal-de-amores/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -120,7 +173,7 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.8,
+      "rating": 8.75,
       "vote_count": 5518,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
@@ -142,7 +195,7 @@
         "romance",
         "based on web novel"
       ],
-      "rating": 7.25,
+      "rating": 7.643,
       "vote_count": 6,
       "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
@@ -153,56 +206,23 @@
       }
     },
     {
-      "tmdb_id": 290193,
-      "title": "Mousetrap",
-      "type": "tv",
-      "overview": "Ein zurückgezogener Schriftsteller, dem die Identität von einem Mann namens „Ratte“ gestohlen wurde, will sie sich mithilfe eines skrupellosen Kredithais zurückholen.",
+      "tmdb_id": 1621552,
+      "title": "Die Festnahme",
+      "type": "movie",
+      "overview": "Basierend auf wahren Begebenheiten: Der international gesuchte Drogenkartellboss Joaquin „El Chapo“ Guzmán flüchtet am 8. Januar 2016 vor dem Zugriff der mexikanischen Marine durch die Kanalisation aus seinem Anwesen. Anschließend bringt er ein Auto in seine Gewalt und wähnt sich bald in Sicherheit. Doch dann gerät er in eine Routinekontrolle durch zwei ganz normale Polizisten, die ihn jedoch direkt erkennen. Nachdem der Gangster bei ihnen mit Bestechungsversuchen auf Granit beißt, droht er ihnen unverhohlen mit dem Tod durch seine Leute, sollten sie ihn nicht freilassen. Für die beiden braven Gesetzeshüter beginnen die härtesten Stunden ihres bisherigen Lebens.",
       "genres": [
         "Krimi",
-        "Drama",
-        "Mystery"
+        "Action",
+        "Thriller"
       ],
       "keywords": [
-        "identity theft",
-        "psychological",
-        "korean",
-        "based on webcomic or webtoon",
-        "suspenseful",
-        "korean noir",
-        "suspense thriller"
+        "fast-paced",
+        "based on true events"
       ],
-      "rating": 7.542,
-      "vote_count": 24,
-      "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.1,
-      "vote_count": 1453,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "rating": 8.841,
+      "vote_count": 490,
+      "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -230,37 +250,13 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.6,
-      "vote_count": 95,
+      "rating": 6.695,
+      "vote_count": 105,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1621552,
-      "title": "Die Festnahme",
-      "type": "movie",
-      "overview": "Basierend auf wahren Begebenheiten: Der international gesuchte Drogenkartellboss Joaquin „El Chapo“ Guzmán flüchtet am 8. Januar 2016 vor dem Zugriff der mexikanischen Marine durch die Kanalisation aus seinem Anwesen. Anschließend bringt er ein Auto in seine Gewalt und wähnt sich bald in Sicherheit. Doch dann gerät er in eine Routinekontrolle durch zwei ganz normale Polizisten, die ihn jedoch direkt erkennen. Nachdem der Gangster bei ihnen mit Bestechungsversuchen auf Granit beißt, droht er ihnen unverhohlen mit dem Tod durch seine Leute, sollten sie ihn nicht freilassen. Für die beiden braven Gesetzeshüter beginnen die härtesten Stunden ihres bisherigen Lebens.",
-      "genres": [
-        "Krimi",
-        "Action",
-        "Thriller"
-      ],
-      "keywords": [
-        "fast-paced",
-        "based on true events"
-      ],
-      "rating": 8.844,
-      "vote_count": 469,
-      "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -284,13 +280,41 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.397,
-      "vote_count": 4640,
+      "rating": 8.4,
+      "vote_count": 4647,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.116,
+      "vote_count": 1455,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -328,8 +352,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.961,
-      "vote_count": 4329,
+      "rating": 7.96,
+      "vote_count": 4330,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -365,7 +389,7 @@
         "dramatic"
       ],
       "rating": 8.542,
-      "vote_count": 3497,
+      "vote_count": 3498,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -408,10 +432,11 @@
         "leviathan",
         "ressurection",
         "brothers",
-        "horror"
+        "horror",
+        "ambiguous"
       ],
-      "rating": 8.313,
-      "vote_count": 8640,
+      "rating": 8.3,
+      "vote_count": 8643,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
@@ -421,37 +446,24 @@
       }
     },
     {
-      "tmdb_id": 744,
-      "title": "Top Gun - Sie fürchten weder Tod noch Teufel",
-      "type": "movie",
-      "overview": "Der junge Lieutenant Pete „Maverick“ Mitchell ist ein Kampfpilot bei der United States Navy. Bei einer heiklen Mission müssen Maverick und sein Waffensystemoffizier Nick „Goose“ Bradshaw die Befehle ihres Kommandanten „Stinger“ missachten, um einem Kameraden zu helfen, der eine Panikattacke bekommen hat. Dadurch werden Maverick und Goose von Stinger widerwillig für die Ausbildung bei der United States Navy Fighter Weapons School, genannt „Top Gun“, vorgeschlagen. Dort liefert sich Maverick gleich eine Rivalität mit dem Flugschüler Tom „Iceman“ Kazanski. Außerdem bekommt er durch seine rücksichtslose Flugweise Probleme. Er gewinnt zwar regelmäßig Flugkämpfe, z.B. gegen Ausbilder Leutnant Commander Rick „Jester“ Heatherly, bricht dabei jedoch Einsatzregeln und handelt nicht gerade teamfähig.",
+      "tmdb_id": 250670,
+      "title": "Maxton Hall - Die Welt zwischen uns",
+      "type": "tv",
+      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
       "genres": [
-        "Action",
-        "Drama",
-        "Liebesfilm"
+        "Drama"
       ],
       "keywords": [
-        "dying and death",
-        "secret love",
-        "lovesickness",
-        "airplane",
-        "loss of loved one",
-        "self-discovery",
-        "hostility",
-        "fighter pilot",
-        "pilot",
-        "training camp",
-        "battle assignment",
-        "u.s. navy",
-        "cowardliness",
-        "homoeroticism",
-        "pilot school",
-        "based on magazine, newspaper or article"
+        "romance",
+        "millionaire",
+        "bookworm",
+        "drama",
+        "school setting"
       ],
-      "rating": 7.07,
-      "vote_count": 9863,
-      "poster_path": "/3GYnkgHS06sW5CUwDcQThh4fhp4.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/744-top-gun/watch?locale=DE",
+      "rating": 8.264,
+      "vote_count": 677,
+      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -459,7 +471,69 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220405.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000221240.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 234202,
+      "title": "Perfekt verpasst",
+      "type": "tv",
+      "overview": "Maria und Ralf stecken beide in ihren Leben fest. Zusammen allerdings wären sie das absolute Dreamteam – wenn sie sich nur endlich begegnen würden",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [],
+      "rating": 7.4,
+      "vote_count": 25,
+      "poster_path": "/w0N79spypO6ucqwpCRydwzBofDv.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/234202-perfekt-verpasst/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000221235.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 73586,
+      "title": "Yellowstone",
+      "type": "tv",
+      "overview": "„Yellowstone“ folgt der einflussreichen Familie Dutton, die eine der größten Ranches in den USA besitzt und ständig um deren Erhalt kämpfen muss. Die Serie zeigt, wie sie sich gegen politische Interessen, Landentwickler und rivalisierende Gruppen behaupten. Gleichzeitig beleuchtet sie die komplexen Beziehungen innerhalb der Familie und die moralischen Grenzen, die sie zu überschreiten bereit sind. Insgesamt verbindet die Serie moderne Western‑Atmosphäre mit Machtkämpfen, Loyalität und Konflikten um Land und Identität.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "keywords": [
+        "montana",
+        "ranch",
+        "family drama",
+        "crime family",
+        "cattle ranch",
+        "neo-western",
+        "yellowstone",
+        "wildlife conservation",
+        "trend",
+        "arrogant",
+        "complicated",
+        "contemporary western"
+      ],
+      "rating": 8.271,
+      "vote_count": 3309,
+      "poster_path": "/n3LvkTNTULObSGmDOixRtahBLjR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000219677.html",
         "mentions": 2
       }
     },
@@ -731,7 +805,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDkwZTgwZmQtZTE5OC00YjcyLTkzZmQtMDk1Mzc0MjA1M2Jh",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZDkwZTgwZmQtZTE5OC00YjcyLTkzZmQtMDk1Mzc0MjA1M2JhL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5290,
       "providers": {
         "netflix": null,
@@ -1319,6 +1393,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Familiengeheimnisse (3/6)",
+      "type": "tv",
+      "overview": "Lucía postet ein Video, in dem sie Pol, Steven und Roger als Vergewaltiger von Manu bezichtigt. Die Eltern geraten in Panik; sollen sie Lucía glauben? Bei einer Krisensitzung der Colla zögert die Gemeinschaft, Pol anzuzeigen, denn er ist 14 und könnte vor Gericht strafrechtlich belangt werden. Nun taucht ein Video der Jungen auf, das Júlias Anschuldigen unterstützt ...",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/127977-003-A/familiengeheimnisse-3-6/",
+      "duration": 2747,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Familiengeheimnisse (2/6)",
+      "type": "tv",
+      "overview": "Das Gerücht von einer Vergewaltigung geht um und Júlia findet auf dem Handy ihres Sohnes Roger Nachrichten, die ihn bezichtigen, einer der Täter zu sein. Durch Lucía erfährt sie, dass auch Rogers Cousin Pol und dessen Freund Steven dabei gewesen sein sollen. Júlia, die für Frauenrechte kämpft, gerät als Mutter in einen Gewissenskonflikt ...",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/127977-002-A/familiengeheimnisse-2-6/",
+      "duration": 2616,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Familiengeheimnisse (1/6)",
+      "type": "tv",
+      "overview": "Eine Anschuldigung wegen sexueller Gewalt unter Jugendlichen erschüttert die eingespielte Gemeinschaft eines katalanischen Castell-Vereins. Die Erwachsenen reagieren wie erstarrt und schieben die Gerüchte beiseite. Oder haben sich ihre Kinder wirklich schuldig gemacht? Leticia Doleras Drama beleuchtet Fragen von Vertrauen und Moral.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/127977-001-A/familiengeheimnisse-1-6/",
+      "duration": 2490,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Großstadtförsterin - Berliner Besonderheiten - Fernsehfilm, Deutschland 2024",
       "type": "tv",
       "overview": "Die junge Försterin Jana Doussière tritt kurzfristig eine Stelle im Forstamt Grunewald an. Aus einem wilden Wald in den Vogesen kommend, prallt die Einzelgängerin auf den Großstadtwald.",
@@ -1421,72 +1561,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/122314-000-A/mord-im-mittsommer-staffel-10-2-3/",
       "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hafen ohne Gnade (6/6)",
-      "type": "tv",
-      "overview": "Jeans Frau liegt schwer verletzt im Krankenhaus. Außer sich vor Ohnmacht und Wut, will Jean an seinem Onkel Christophe Rache nehmen. Zur gleichen Zeit kapern Simon und Emma einen Lkw voller Drogen, den Christophe in Empfang nehmen soll ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/109422-006-A/hafen-ohne-gnade-6-6/",
-      "duration": 2817,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hafen ohne Gnade (5/6)",
-      "type": "tv",
-      "overview": "Beim Notartermin erfahren Laurence, Emma, Jean und Simon, dass die junge Prostituierte Joy Pierres Elternhaus im Quartier des Neiges erben soll. Laurence ist empört und schockiert, da sie Joy nie zuvor gesehen und Pierre nie von ihr erzählt hat.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/109422-005-A/hafen-ohne-gnade-5-6/",
-      "duration": 2824,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hafen ohne Gnade (4/6)",
-      "type": "tv",
-      "overview": "Nach seinem Seitensprung hat sich Céline von Jean getrennt und verbietet ihm den Kontakt zu ihrer gemeinsamen Tochter. Doch Jean nimmt sie heimlich mit auf einen Segeltörn, der allerdings in einem Fiasko endet ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/109422-004-A/hafen-ohne-gnade-4-6/",
-      "duration": 2900,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1655,6 +1729,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Weltstädte: London - Mit Leon Windscheid",
+      "type": "tv",
+      "overview": "Vibrierendes London. In der \"Terra X\"-Sendung \"Weltstädte – London\" ergründet \"Terra X\"-Moderator und Psychologe Leon Windscheid die außergewöhnliche Anziehungskraft der Metropole an der Themse.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/wissen/terra-x/terra-x-weltstaedte-london-mit-leon-windscheid-doku-100.html",
+      "duration": 2614,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Die Neureuthers: Was macht einen Papa aus?",
       "type": "tv",
       "overview": "Felix Neureuther und sein Vater Christian sprechen mit Leon Windscheid darüber, was einen guten Papa ausmacht. Weitere Vater-Kind-Beziehungen und Forschung zeigen, wie wichtig Nähe und Bindung sind.",
@@ -1787,24 +1883,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Sonnenfinsternis über Mallorca - Eine Spezialausgabe von „Terra X Harald Lesch“",
+      "title": "Sieben Winter in Teheran",
       "type": "tv",
-      "overview": "Eine totale Sonnenfinsternis ist ein \"Once-in-a-Lifetime\"-Ereignis: Am 12. August 2026 lässt sich das Naturphänomen live auf Mallorca erleben – zusammen mit Harald Lesch und Gästen.",
+      "overview": "Die iranische Studentin Reyhaneh Jabbari ist 19 Jahre alt, als ein Geschäftsmann sie vergewaltigt und sie ihn in Notwehr ersticht.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X"
+        "Dokumentationen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/wissen/terra-x/livestream-sonnenfinsternis-ueber-mallorca-lesch-100.html",
-      "duration": 2689,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE4MTYwNA",
+      "duration": 5331,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2043,28 +2139,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE4Mg",
       "duration": 2599,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Into the Blue - Die Banda Sea vor Flores",
-      "type": "tv",
-      "overview": "Diese Folge führt zu der Vulkaninsel Flores und ins artenreiche Meer der Bandasee. Hier fällt der Meeresboden neben den Korallenriffen steil bis über 7000 Meter hinab.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE5Mg",
-      "duration": 2600,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2359,6 +2433,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Pelikanblut",
+      "type": "tv",
+      "overview": "Wiebke lebt zusammen mit ihrer neunjährigen Adoptivtochter Nicolina auf ihrem eigenen Reiterhof. Nach langem Warten darf sie auch die fünfjährige Raya aus Bulgarien adoptieren. Doch bald zeigt Raya immer mehr Verhaltensauffälligkeiten ... Eine Mischung aus Drama, Horrorfilm und Psychothriller von Katrin Gebbe, in deren Zentrum das Thema Mutterschaft steht.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/078094-000-A/pelikanblut/",
+      "duration": 7162,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kurzschluss - Enttäuschte Liebe",
       "type": "tv",
       "overview": "(1) Letzter Frühling / (2) Mein Schnuckelchen / (3) Das erste Mal – Tran Anh Hùng / (4) Malo fährt Fahrrad",
@@ -2513,24 +2609,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Adern der Welt",
+      "title": "Wendepunkt (25) · Der Usedom-Krimi",
       "type": "tv",
-      "overview": "In der mongolischen Steppe lebt der elfjährige Amra mit seiner Familie ein traditionelles Nomadenleben. Als ein Bergbauunternehmen ihren Lebensraum zerstören will, versucht Amras Vater Erdene, Widerstand zu leisten. Doch als Erdene bei einem tragischen Unfall ums Leben kommt, liegt es an Amra, den Kampf seines Vaters fortzusetzen. – Coming-of-Age-Drama von Byambasuren Davaa.",
+      "overview": "Spielfilm Deutschland 2025 Karin Lossow (Katrin Sass) lernt die geheimnisvolle Mandy (Anne Haug) kennen, die offenbar ihren Kollegen Martin Rabe (Lasse Myhr) und dessen Eltern verfolgt. Kurz darauf wird Martins Verlobte Antonia (Anna Baranowska) tot aufgefunden....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Der Usedom-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/082664-000-A/die-adern-der-welt/",
-      "duration": 5252,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0yM18yMC0xNS1NRVNa",
+      "duration": 5329,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2569,7 +2665,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDI1LTEyLTA2XzIzLTQwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDI1LTEyLTA2XzIzLTQwLU1FWg",
       "duration": 5174,
       "providers": {
         "netflix": null,
@@ -2635,7 +2731,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -2679,30 +2775,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5314,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Geburt der Drachenfrau – Der Usedom-Krimi",
-      "type": "tv",
-      "overview": "Während Karin Lossow (Katrin Sass) auf Usedom die Baustelle ihres künftigen Domizils begutachtet, warten an der belarussisch-polnischen Grenze acht Flüchtlinge aus Afghanistan und Syrien auf ihre weitere Beförderung durch eine Schleusergruppe. Unter ihnen sind Ahmad Bashmani (Yasin El Harrouk) und seine kleine Tochter Amira (Valtina Simogy)....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Usedom-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0xNF8yMC0xNS1NRVo",
-      "duration": 5289,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2997,6 +3071,52 @@
     },
     {
       "tmdb_id": null,
+      "title": "Wilhelm und Rudolf - Die verfeindeten Prinzen",
+      "type": "tv",
+      "overview": "Zwei Kronprinzen, zwei Weltreiche und zwei völlig unterschiedliche Lebensläufe, schicksalhaft verbunden: Rudolf von Österreich und Wilhelm von Preußen. Beide leiden unter der ihnen zugedachten Rolle, eine Welt aufrechtzuerhalten, die im Bröckeln begriffen ist. Und beide erdulden Kindheitstraumata. Doch ihre Ziele und Weltanschauungen könnten unterschiedlicher nicht sein.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/104043-000-A/wilhelm-und-rudolf-die-verfeindeten-prinzen/",
+      "duration": 3063,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Sachsen - Piraten. Heiden. Kaiser",
+      "type": "tv",
+      "overview": "Die Geschichte der Sachsen ist ein Mysterium. Die Römer bezeichneten sie als Piratenvolk, das ihre Siedlungen mit Booten überfiel. Für Karl den Großen waren sie vor allem Heiden, Ungläubige, die er im achten Jahrhundert \"mit dem Schwert missioniert\". Aber dann gelingt den Sachsen das Erstaunliche – 160 Jahre nach Karl sitzt einer von ihnen, Otto der Große, auf dem Kaiserthron.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/113569-000-A/die-sachsen-piraten-heiden-kaiser/",
+      "duration": 5399,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kaiserin Leopoldina von Habsburg - Kampf für die Unabhängigkeit Brasiliens",
       "type": "tv",
       "overview": "Das High-End-Dokudrama von 2022 über Kaiserin Leopoldina von Habsburg und die Unabhängigkeit Brasiliens erzählt von der Genese der brasilianischen Republik über mehrere Jahrzehnte hinweg. Im Zentrum steht Leopoldina als eine der treibenden Kräfte, sich von der Kolonialmacht Portugal loszusagen und so der Fremdbestimmung und Ausbeutung Brasiliens ein Ende zu setzen.",
@@ -3127,52 +3247,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/097513-003-A/california/",
       "duration": 2893,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "California! - Von Revolten und Tech-Revolutionen",
-      "type": "tv",
-      "overview": "Skateboards, Personal Computer, California Cuisine, Hollywood – ohne Kalifornien wäre die Welt eine andere. Egal, ob aus Umweltkatastrophen neue bahnbrechende Gesetze erwachsen, einige Nerds im Silicon Valley einen weltweiten Tech-Boom auslösen oder ein Österreicher die kalifornische Küche neu erfindet. Der \"Goldene Staat\" an der Westküste Amerikas ist immer einen Schritt voraus.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/097513-002-A/california/",
-      "duration": 3123,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "California! - Testlabor für die Welt",
-      "type": "tv",
-      "overview": "Surfer, Hollywood, Free Speech, Hippie-Kultur, Raumfahrt – ohne Kalifornien wäre die Welt eine andere. Egal, ob in Pasadena die größte Mission der Menschheit vorbereit wird, Studenten in Berkeley für ihr Recht auf Meinungsfreiheit kämpfen oder die Hippies die Gesellschaft auf den Kopf stellen – der \"Goldene Staat\" an der Westküste Amerikas ist immer einen Schritt voraus.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/097513-001-A/california/",
-      "duration": 3099,
       "providers": {
         "netflix": null,
         "prime": null,
