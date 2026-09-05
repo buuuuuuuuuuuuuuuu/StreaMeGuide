@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-04T09:12:08.514Z",
+  "generated_at": "2026-09-05T08:42:56.612Z",
   "items": [
     {
       "tmdb_id": 1386315,
@@ -8,7 +8,8 @@
       "type": "movie",
       "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
       "genres": [
-        "Thriller"
+        "Thriller",
+        "Action"
       ],
       "keywords": [
         "mother",
@@ -20,10 +21,11 @@
         "child rescue",
         "mother son relationship",
         "child abduction",
+        "pathetic",
         "attorney"
       ],
-      "rating": 6.2,
-      "vote_count": 129,
+      "rating": 6.3,
+      "vote_count": 185,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
@@ -47,8 +49,8 @@
         "serial killer",
         "father son relationship"
       ],
-      "rating": 6.645,
-      "vote_count": 346,
+      "rating": 6.721,
+      "vote_count": 391,
       "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
       "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
       "providers": {
@@ -76,8 +78,8 @@
         "action"
       ],
       "rating": 7.8,
-      "vote_count": 859,
-      "poster_path": "/8sQ0oDunlRpesa5vIO6UPhbJNxC.jpg",
+      "vote_count": 864,
+      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
@@ -108,10 +110,49 @@
         "military police",
         "powerful"
       ],
-      "rating": 8.104,
-      "vote_count": 3208,
+      "rating": 8.108,
+      "vote_count": 3217,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 220102,
+      "title": "Spider-Noir",
+      "type": "tv",
+      "overview": "Der Privatdetektiv Ben Reilly wird für ein paar einfache Fälle engagiert... bis Gangster, Monster und eine geheimnisvolle Femme fatale ein Netz spinnen, das ihn mit seinem früheren Leben als New Yorks einziger Superheld konfrontiert, der \"Spinne\".",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Krimi",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "new york city",
+        "detective",
+        "great depression",
+        "femme fatale",
+        "superhero",
+        "based on comic",
+        "film noir",
+        "private investigator",
+        "mobster",
+        "black and white",
+        "period drama",
+        "supervillain",
+        "mysterious",
+        "1930s",
+        "admiring",
+        "euphoric"
+      ],
+      "rating": 8.355,
+      "vote_count": 819,
+      "poster_path": "/sTMAx1ixj9uARiv1jP10uHmG5H7.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/220102-spider-noir/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -131,8 +172,8 @@
         "mexican revolution",
         "love"
       ],
-      "rating": 8,
-      "vote_count": 2,
+      "rating": 5,
+      "vote_count": 4,
       "poster_path": "/b6EDUkIFUM9ZSngtPXy4YjGGn2d.jpg",
       "justwatch": "https://www.themoviedb.org/tv/290234-mal-de-amores/watch?locale=DE",
       "providers": {
@@ -174,7 +215,7 @@
         "defiant"
       ],
       "rating": 8.75,
-      "vote_count": 5518,
+      "vote_count": 5520,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -195,34 +236,10 @@
         "romance",
         "based on web novel"
       ],
-      "rating": 7.643,
-      "vote_count": 6,
+      "rating": 7.6,
+      "vote_count": 7,
       "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1621552,
-      "title": "Die Festnahme",
-      "type": "movie",
-      "overview": "Basierend auf wahren Begebenheiten: Der international gesuchte Drogenkartellboss Joaquin „El Chapo“ Guzmán flüchtet am 8. Januar 2016 vor dem Zugriff der mexikanischen Marine durch die Kanalisation aus seinem Anwesen. Anschließend bringt er ein Auto in seine Gewalt und wähnt sich bald in Sicherheit. Doch dann gerät er in eine Routinekontrolle durch zwei ganz normale Polizisten, die ihn jedoch direkt erkennen. Nachdem der Gangster bei ihnen mit Bestechungsversuchen auf Granit beißt, droht er ihnen unverhohlen mit dem Tod durch seine Leute, sollten sie ihn nicht freilassen. Für die beiden braven Gesetzeshüter beginnen die härtesten Stunden ihres bisherigen Lebens.",
-      "genres": [
-        "Krimi",
-        "Action",
-        "Thriller"
-      ],
-      "keywords": [
-        "fast-paced",
-        "based on true events"
-      ],
-      "rating": 8.841,
-      "vote_count": 490,
-      "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -250,13 +267,37 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.695,
-      "vote_count": 105,
+      "rating": 6.651,
+      "vote_count": 116,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1621552,
+      "title": "Die Festnahme",
+      "type": "movie",
+      "overview": "Basierend auf wahren Begebenheiten: Der international gesuchte Drogenkartellboss Joaquin „El Chapo“ Guzmán flüchtet am 8. Januar 2016 vor dem Zugriff der mexikanischen Marine durch die Kanalisation aus seinem Anwesen. Anschließend bringt er ein Auto in seine Gewalt und wähnt sich bald in Sicherheit. Doch dann gerät er in eine Routinekontrolle durch zwei ganz normale Polizisten, die ihn jedoch direkt erkennen. Nachdem der Gangster bei ihnen mit Bestechungsversuchen auf Granit beißt, droht er ihnen unverhohlen mit dem Tod durch seine Leute, sollten sie ihn nicht freilassen. Für die beiden braven Gesetzeshüter beginnen die härtesten Stunden ihres bisherigen Lebens.",
+      "genres": [
+        "Krimi",
+        "Action",
+        "Thriller"
+      ],
+      "keywords": [
+        "fast-paced",
+        "based on true events"
+      ],
+      "rating": 8.835,
+      "vote_count": 498,
+      "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -281,7 +322,7 @@
         "police procedural"
       ],
       "rating": 8.4,
-      "vote_count": 4647,
+      "vote_count": 4652,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -308,8 +349,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.116,
-      "vote_count": 1455,
+      "rating": 8.122,
+      "vote_count": 1459,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -353,7 +394,7 @@
         "gritty"
       ],
       "rating": 7.96,
-      "vote_count": 4330,
+      "vote_count": 4331,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -388,8 +429,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.542,
-      "vote_count": 3498,
+      "rating": 8.541,
+      "vote_count": 3502,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -435,106 +476,14 @@
         "horror",
         "ambiguous"
       ],
-      "rating": 8.3,
-      "vote_count": 8643,
+      "rating": 8.314,
+      "vote_count": 8647,
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 250670,
-      "title": "Maxton Hall - Die Welt zwischen uns",
-      "type": "tv",
-      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "millionaire",
-        "bookworm",
-        "drama",
-        "school setting"
-      ],
-      "rating": 8.264,
-      "vote_count": 677,
-      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000221240.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 234202,
-      "title": "Perfekt verpasst",
-      "type": "tv",
-      "overview": "Maria und Ralf stecken beide in ihren Leben fest. Zusammen allerdings wären sie das absolute Dreamteam – wenn sie sich nur endlich begegnen würden",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [],
-      "rating": 7.4,
-      "vote_count": 25,
-      "poster_path": "/w0N79spypO6ucqwpCRydwzBofDv.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/234202-perfekt-verpasst/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000221235.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 73586,
-      "title": "Yellowstone",
-      "type": "tv",
-      "overview": "„Yellowstone“ folgt der einflussreichen Familie Dutton, die eine der größten Ranches in den USA besitzt und ständig um deren Erhalt kämpfen muss. Die Serie zeigt, wie sie sich gegen politische Interessen, Landentwickler und rivalisierende Gruppen behaupten. Gleichzeitig beleuchtet sie die komplexen Beziehungen innerhalb der Familie und die moralischen Grenzen, die sie zu überschreiten bereit sind. Insgesamt verbindet die Serie moderne Western‑Atmosphäre mit Machtkämpfen, Loyalität und Konflikten um Land und Identität.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "keywords": [
-        "montana",
-        "ranch",
-        "family drama",
-        "crime family",
-        "cattle ranch",
-        "neo-western",
-        "yellowstone",
-        "wildlife conservation",
-        "trend",
-        "arrogant",
-        "complicated",
-        "contemporary western"
-      ],
-      "rating": 8.271,
-      "vote_count": 3309,
-      "poster_path": "/n3LvkTNTULObSGmDOixRtahBLjR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000219677.html",
-        "mentions": 2
       }
     },
     {
@@ -644,7 +593,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmc",
       "duration": 5327,
       "providers": {
         "netflix": null,
@@ -759,7 +708,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0L2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5264,
       "providers": {
         "netflix": null,
@@ -1173,6 +1122,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Hot Summer Nights - Spielfilm, USA 2017",
+      "type": "tv",
+      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
+      "duration": 6051,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "The Silent Hour (Englisch)",
       "type": "tv",
       "overview": "Ein hörgeschädigter Polizist wird zur letzten Hoffnung einer gehörlosen Mordzeugin, als diese ins Visier der Killer gerät. Dabei bleiben die Verbrecher nicht die einzige Gefahr für das Duo.",
@@ -1305,72 +1276,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Code 3 (Englisch)",
-      "type": "tv",
-      "overview": "In seiner letzten 24-Stunden-Schicht erlebt der ausgebrannte Rettungssanitäter Randy eine weitere Nacht mit vielen schicksalhaften Begegnungen auf den Straßen von Los Angeles.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/code-3-movie-100/code-3-100",
-      "duration": 5748,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Code 3",
-      "type": "tv",
-      "overview": "In seiner letzten 24-Stunden-Schicht erlebt der ausgebrannte Rettungssanitäter Randy eine weitere Nacht mit vielen schicksalhaften Begegnungen auf den Straßen von Los Angeles.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/code-3-movie-100/code-3-100",
-      "duration": 5748,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Promising Young Woman",
-      "type": "tv",
-      "overview": "Nahezu besinnungslos sitzt eine junge Frau immer wieder alleine in verschiedenen Bars. Doch die Männer, die sie für leichte Beute halten, werden eine böse Überraschung erleben.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/promising-young-woman-movie-100/promising-young-woman-100",
-      "duration": 6561,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Schachnovelle - Spielfilm, Deutschland/Österreich 2020",
       "type": "tv",
       "overview": "Österreich, 1938. Der Wiener Lebemann Dr. Josef Bartok verdrängt die Gefahr der NS-Machtübernahme. Erst kurz vor dem \"Anschluss\" an das Deutsche Reich entschließt er sich zur Flucht.",
@@ -1389,6 +1294,94 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kommt ein Vogel geflogen - Spielfilm, Deutschland 2023",
+      "type": "tv",
+      "overview": "Birgit Singer ist Tierpflegerin und trägt die Hauptlast der Familie: Sie leitet ein Tierheim, finanziert die Promotion ihres Mannes und kümmert sich um ihre stotternde Tochter Sarah.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/kommt-ein-vogel-geflogen-100.html",
+      "duration": 6347,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Starve Acre - Spielfilm, Großbritannien 2023",
+      "type": "tv",
+      "overview": "Ein abgelegenes Bauernhaus im ländlichen England der 70er Jahre. Das Leben von Richard und Juliette gerät aus den Fugen, als ihr Sohn anfängt, sich außergewöhnlich zu verhalten.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/starve-acre-100.html",
+      "duration": 5662,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die schwarzen Schmetterlinge (1/6)",
+      "type": "tv",
+      "overview": "Adrien ist ein gescheiterter Schriftsteller, sein Erfolg liegt Jahre zurück. Als ihn Albert für eine große Summe beauftragt, seine Lebensgeschichte aufzuschreiben, sagt er sofort zu. Albert erzählt von seiner schwierigen Kindheit in der Nachkriegszeit und seiner großen Liebe Solange. Er legt auch eine Beichte ab: In Notwehr habe er mit Solange zwei junge Männer getötet.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/100886-001-A/die-schwarzen-schmetterlinge-1-6/",
+      "duration": 3561,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mord im Mittsommer - Staffel 11 (1/3) - Fall 23: Linnea",
+      "type": "tv",
+      "overview": "Svens Tochter Linnea verunglückt tragisch bei einem Bootsunfall. Zwei Jahre später will Sven seine Firma verkaufen und eine Stiftung in ihrem Namen gründen – da wird er vergiftet. Alexander, Valpen und Nora übernehmen den Fall. Doch Alexanders und Noras Gefühle füreinander machen die Zusammenarbeit schwer. \"Mord im Mittsommer\" – die Krimiserie zur gleichnamigen Romanreihe.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/125604-000-A/mord-im-mittsommer-staffel-11-1-3/",
+      "duration": 5315,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -1521,50 +1514,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 10 (3/3) - Fall 22: Birgitta",
-      "type": "tv",
-      "overview": "Ein neuer Fall in Sandhamn beschäftigt Kommissar Alexander Forsman und sein Team: Die berühmte Krimiautorin Birgitta wird tot in ihrem Haus aufgefunden – vergiftet. Die Ermittler versuchen, die Nacht vor ihrem Tod zu rekonstruieren. Fest steht, dass Noras Ex-Schwiegermutter in den Fall verwickelt ist, weshalb sich Nora eigentlich heraushalten muss ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/122315-000-A/mord-im-mittsommer-staffel-10-3-3/",
-      "duration": 5313,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 10 (2/3) - Fall 21: Nikki & Evelina",
-      "type": "tv",
-      "overview": "Trotz des schweren Traumas, das er durch den Bombenanschlag erlitten hat, kehrt Kommissar Alexander Forsman in den Polizeidienst zurück. Ein neuer Fall erwartet ihn: Bootshändler Bruno wurde brutal überfallen und liegt nun im Koma. Er soll seinem ehemaligen Geschäftspartner Geld schulden. Doch auch die eifersüchtige Freundin seiner Ehefrau könnte ein Motiv haben.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/122314-000-A/mord-im-mittsommer-staffel-10-2-3/",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     },
     {
@@ -1883,6 +1832,94 @@
     },
     {
       "tmdb_id": null,
+      "title": "Wanderungen · Der Pfad der Elefanten",
+      "type": "tv",
+      "overview": "Film von Kiri Cashell und Aidan Woodward, phoenix 2023",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDM5OQ",
+      "duration": 2889,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wanderungen · Der Zug der Zebras",
+      "type": "tv",
+      "overview": "Film von Mark Wheeler, phoenix 2023",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDQxNQ",
+      "duration": 2899,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wanderungen · Der Treck der Karibus",
+      "type": "tv",
+      "overview": "Film von Mark Wheeler, phoenix 2023",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDQwNw",
+      "duration": 2881,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Flucht in den Osten - GIs in der DDR",
+      "type": "tv",
+      "overview": "Flucht in den Osten - GIs in der DDR",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIyNzgzNQ",
+      "duration": 2696,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Sieben Winter in Teheran",
       "type": "tv",
       "overview": "Die iranische Studentin Reyhaneh Jabbari ist 19 Jahre alt, als ein Geschäftsmann sie vergewaltigt und sie ihn in Notwehr ersticht.",
@@ -2059,116 +2096,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Naturparadiese am Äquator: Pazifische Korallengärten",
-      "type": "tv",
-      "overview": "Entlang des Äquators erstrecken sich zahlreiche Korallenriffe im Pazifik - die artenreichsten der Erde. Komplexe Lebensgemeinschaften, in denen viele Arten aufeinander angewiesen sind.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjM2Mg",
-      "duration": 2606,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Into the Blue - Rund um die Molukken",
-      "type": "tv",
-      "overview": "Im Dreieck zwischen den Philippinen im Norden und dem zentralen und östlichen Indonesien befindet sich ein Gebiet mit einer außergewöhnlichen Artenvielfalt: das Korallendreieck.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE3Nw",
-      "duration": 2598,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Into the Blue - Im Nationalpark Komodo",
-      "type": "tv",
-      "overview": "Auf der indonesischen Insel Komodo leben die größten Echsen der Welt, die Komodowarane. Sie haben sich perfekt an die Lebensbedingungen der wasserarmen Insel angepasst. Der Komodo-Nationalpark ist auch ein beliebtes Ziel für Taucher.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE4Nw",
-      "duration": 2601,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Into the Blue - Im Archipel Raja Ampat",
-      "type": "tv",
-      "overview": "Der indonesische Archipel Raja Ampat liegt inmitten des artenreichen Korallendreiecks. Er besteht aus rund 1500 meist unbewohnten Inseln, die von Riffen und Mangrovenwäldern umgeben sind.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAxNzE4Mg",
-      "duration": 2599,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "JD Vance - Der Mann nach Trump - Dokumentarfilm von Damien Pasinetti, Thomas Snégaroff,",
-      "type": "tv",
-      "overview": "Die persönliche und politische Reise von JD Vance, der seine Arbeiterklassen-Herkunft im Bestseller \"Hillbilly Elegy\" beschrieb und heute der zweitmächtigste Politiker der USA ist.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilm/jd-vance-donald-trump-usa-100.html",
-      "duration": 4885,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Systemfehler: Der Cum-Ex Skandal",
       "type": "tv",
       "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
@@ -2213,28 +2140,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Born in Evin",
-      "type": "tv",
-      "overview": "In \"Born in Evin\" erzählt Regisseurin und Schauspielerin Maryam Zaree von der Suche nach den gewaltvollen Umständen ihrer Geburt in einem der berüchtigtsten Gefängnisse der Welt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/born-in-evin-movie-100",
-      "duration": 5582,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "ZDFroyal: Die Queen und ich",
       "type": "tv",
       "overview": "Für viele schien sie unsterblich, für manche bleibt sie es: Elizabeth II. - die Jahrhundertkönigin. Vertraute aus dem \"Inner Circle\" teilen für ZDFroyal erstmals ihre Erinnerungen an die Queen.",
@@ -2257,46 +2162,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Anja Niedringhaus – Die Fotografin und der Krieg - Dokumentarfilm von Yury und Sonya Winterberg,",
+      "title": "Trophy Men",
       "type": "tv",
-      "overview": "Anja Niedringhaus wurde als Fotografin für die Bildagenturen EPA und AP zur Wegbereiterin in einem bis heute männlich dominierten Beruf. Ihr Blick galt vor allem den Menschen im Krieg.",
+      "overview": "Die Champions League ist das größte jährliche Sportereignis der Welt. Was kaum jemand weiß: Zwei Deutsche haben sie erfunden. Nun erzählen sie ihre Geschichte.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentarfilmzeit"
+        "Dokus"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilmzeit/anja-niedringhaus---die-fotografin-und-der-krieg-100.html",
-      "duration": 5391,
+      "url": "https://www.zdf.de/dokus/die-erfindung-der-uefa-champions-league-movie-100",
+      "duration": 4958,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "ZDF"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Von Werfenweng ins Tennengebirge",
+      "title": "JD Vance - Der Mann nach Trump - Dokumentarfilm von Damien Pasinetti, Thomas Snégaroff,",
       "type": "tv",
-      "overview": "Werfenweng zeigt sich als stilles Kraftzentrum der Alpen: Eingebettet in eine hügelige Hochebene, umgeben von einer monumentalen Bergkulisse, öffnet der Ort einen Rundblick, der selbst in den Alpen Seltenheitswert hat. Es ist eine Landschaft mit ...",
+      "overview": "Die persönliche und politische Reise von JD Vance, der seine Arbeiterklassen-Herkunft im Bestseller \"Hillbilly Elegy\" beschrieb und heute der zweitmächtigste Politiker der USA ist.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokus & Reportagen im BR"
+        "Dokumentarfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU3QTA",
-      "duration": 2622,
+      "url": "https://www.3sat.de/film/dokumentarfilm/jd-vance-donald-trump-usa-100.html",
+      "duration": 4885,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "3sat"
       }
     },
     {
@@ -2665,7 +2570,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDI1LTEyLTA2XzIzLTQwLU1FWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDI1LTEyLTA2XzIzLTQwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5174,
       "providers": {
         "netflix": null,
@@ -2709,7 +2614,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0yMV8yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0yMV8yMC0xNS1NRVo",
       "duration": 5279,
       "providers": {
         "netflix": null,
@@ -2775,7 +2680,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWg",
       "duration": 5314,
       "providers": {
         "netflix": null,
@@ -2873,6 +2778,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Martin Frank: Wahrscheinlich liegt's an mir",
+      "type": "tv",
+      "overview": "Bayerischer Charme, spitze Pointen: Martin Frank ringt lachend mit Elternbildern und Partyritualen. Im fünften Soloprogramm führt Martin Frank das Publikum schelmisch durch die Turbulenzen eines Mehrgenerationenhauses. Er erklärt, wie man skurrile Einladungen und überambitionierte Festessen übersteht und fragt, ob Geburtstagsfeiern noch zeitgemäß sind....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14337656/martin-frank-wahrscheinlich-liegt-s-an-mir",
+      "duration": 3600,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Klaus Eckel - Die besten Momente",
       "type": "tv",
       "overview": "Er ist einer der beliebtesten Kabarettisten des Landes, seine Vorstellungen weit im Voraus ausverkauft: Klaus Eckel. Keiner spricht so schnell wie er, niemand setzt so viele Pointen in der Minute. Anlass genug, um dem Star der Kleinkunst ein Denkmal zu errichten. ORF III hat sich durch die Bühnenprogramme gewühlt und zeigt zahlreiche Highlights aus seinen Programmen sowie unbekannte Schätze aus dem Archiv. Bildquelle: ORF/Hans Leitner",
@@ -2957,28 +2884,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Best-of mit Constanze Lindner, Christian Schulte-Loh, Jonas Greiner ...",
-      "type": "tv",
-      "overview": "Zu Gast: Constanze Lindner, Christian Schulte-Loh, Jonas Greiner, Hans Thalhammer, Luise Kinseher, Matthias Egersdörfer und Kathie Freudenschuss",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarett aus Franken"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMTYzQTA",
-      "duration": 2580,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
