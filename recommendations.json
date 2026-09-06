@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-05T08:42:56.612Z",
+  "generated_at": "2026-09-06T09:04:00.466Z",
   "items": [
     {
       "tmdb_id": 1386315,
@@ -24,8 +24,8 @@
         "pathetic",
         "attorney"
       ],
-      "rating": 6.3,
-      "vote_count": 185,
+      "rating": 6.536,
+      "vote_count": 239,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
@@ -49,13 +49,91 @@
         "serial killer",
         "father son relationship"
       ],
-      "rating": 6.721,
-      "vote_count": 391,
+      "rating": 6.791,
+      "vote_count": 444,
       "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
       "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 687163,
+      "title": "Der Astronaut – Project Hail Mary",
+      "type": "movie",
+      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+      "genres": [
+        "Science Fiction",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "friendship",
+        "coma",
+        "based on novel or book",
+        "bravery",
+        "sun",
+        "language barrier",
+        "space travel",
+        "space mission",
+        "alien",
+        "space",
+        "memory loss",
+        "astronaut",
+        "scientist",
+        "science teacher",
+        "save the planet",
+        "spaceship",
+        "interspecies friendship"
+      ],
+      "rating": 8.644,
+      "vote_count": 7569,
+      "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1355228,
+      "title": "गांधारी",
+      "type": "movie",
+      "overview": "",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "keywords": [],
+      "rating": 4.6,
+      "vote_count": 4,
+      "poster_path": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1355228/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 329471,
+      "title": "The Grand Tour",
+      "type": "tv",
+      "overview": "Willkommen bei The Grand Tour. Die weltweit beste Autosendung kehrt mit den neuen Moderatoren Thomas Holland, James Engelsman und Francis Bourgeois und ihrer charakteristischen Mischung aus weltweiten Abenteuern, unglaublichen Fahrzeugen, spektakulären Stunts und pointierten Meinungen zurück.",
+      "genres": [
+        "Reality"
+      ],
+      "keywords": [],
+      "rating": 9.6,
+      "vote_count": 5,
+      "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/329471-the-grand-tour/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -77,9 +155,9 @@
         "offbeat",
         "action"
       ],
-      "rating": 7.8,
-      "vote_count": 864,
-      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "rating": 7.829,
+      "vote_count": 870,
+      "poster_path": "/2l0gBLpjcWo4ivmbHUhFIw3KGDn.jpg",
       "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
@@ -110,8 +188,8 @@
         "military police",
         "powerful"
       ],
-      "rating": 8.108,
-      "vote_count": 3217,
+      "rating": 8.1,
+      "vote_count": 3225,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -121,61 +199,49 @@
       }
     },
     {
-      "tmdb_id": 220102,
-      "title": "Spider-Noir",
+      "tmdb_id": 113962,
+      "title": "Lioness",
       "type": "tv",
-      "overview": "Der Privatdetektiv Ben Reilly wird für ein paar einfache Fälle engagiert... bis Gangster, Monster und eine geheimnisvolle Femme fatale ein Netz spinnen, das ihn mit seinem früheren Leben als New Yorks einziger Superheld konfrontiert, der \"Spinne\".",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
         "Drama",
-        "Mystery",
-        "Krimi",
-        "Action & Adventure"
+        "War & Politics"
       ],
       "keywords": [
-        "new york city",
-        "detective",
-        "great depression",
-        "femme fatale",
-        "superhero",
-        "based on comic",
-        "film noir",
-        "private investigator",
-        "mobster",
-        "black and white",
-        "period drama",
-        "supervillain",
-        "mysterious",
-        "1930s",
-        "admiring",
-        "euphoric"
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
       ],
-      "rating": 8.355,
-      "vote_count": 819,
-      "poster_path": "/sTMAx1ixj9uARiv1jP10uHmG5H7.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/220102-spider-noir/watch?locale=DE",
+      "rating": 8.126,
+      "vote_count": 1464,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
     {
-      "tmdb_id": 290234,
-      "title": "Emilia",
+      "tmdb_id": 299952,
+      "title": "早春晴朗",
       "type": "tv",
-      "overview": "Die mexikanische Dramaserie Emilia aus dem Hause Netflix basiert auf dem Roman Mal de Amores von Ángeles Mastretta und erzählt die Geschichte von Emilia Sauri, die zur Zeit der mexikanischen Revolution aufwächst und davon träumt, Ärztin zu werden.",
+      "overview": "",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "based on novel or book",
-        "mexican revolution",
-        "love"
+        "romance",
+        "based on web novel"
       ],
-      "rating": 5,
-      "vote_count": 4,
-      "poster_path": "/b6EDUkIFUM9ZSngtPXy4YjGGn2d.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/290234-mal-de-amores/watch?locale=DE",
+      "rating": 7.6,
+      "vote_count": 7,
+      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -214,8 +280,8 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.75,
-      "vote_count": 5520,
+      "rating": 8.7,
+      "vote_count": 5523,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -225,21 +291,60 @@
       }
     },
     {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
+      "tmdb_id": 247718,
+      "title": "MobLand",
       "type": "tv",
-      "overview": "",
+      "overview": "Hier steht eine professionelle Fixer-Familie die Donovans aus London im Mittelpunkt, die für die mächtigsten Menschen Europas arbeitet. In einem unsteten Business müssen die Donovans sich auf merkwürdige Verbündete und zahlreiche Überraschungen einstellen. In einem Geschäft, in dem Verrat überall möglich ist, ist es gut, dass wenigsten die Familie zusammenhält.",
       "genres": [
+        "Krimi",
         "Drama"
       ],
       "keywords": [
-        "romance",
-        "based on web novel"
+        "london, england",
+        "drug trafficking",
+        "gang war",
+        "gangster",
+        "family business ",
+        "murder",
+        "betrayal",
+        "crime family",
+        "fixer",
+        "corrupt cop",
+        "brutal violence"
       ],
-      "rating": 7.6,
-      "vote_count": 7,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
+      "rating": 8.35,
+      "vote_count": 819,
+      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 290193,
+      "title": "Mousetrap",
+      "type": "tv",
+      "overview": "Ein zurückgezogener Schriftsteller, dem die Identität von einem Mann namens „Ratte“ gestohlen wurde, will sie sich mithilfe eines skrupellosen Kredithais zurückholen.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "identity theft",
+        "psychological",
+        "korean",
+        "based on webcomic or webtoon",
+        "suspenseful",
+        "korean noir",
+        "suspense thriller"
+      ],
+      "rating": 7.903,
+      "vote_count": 31,
+      "poster_path": "/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290193/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -267,8 +372,8 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.651,
-      "vote_count": 116,
+      "rating": 6.6,
+      "vote_count": 122,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
@@ -291,8 +396,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.835,
-      "vote_count": 498,
+      "rating": 8.782,
+      "vote_count": 528,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -321,41 +426,13 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.4,
-      "vote_count": 4652,
+      "rating": 8.401,
+      "vote_count": 4659,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.122,
-      "vote_count": 1459,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -393,7 +470,7 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.96,
+      "rating": 7.961,
       "vote_count": 4331,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
@@ -430,7 +507,7 @@
         "dramatic"
       ],
       "rating": 8.541,
-      "vote_count": 3502,
+      "vote_count": 3506,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -440,50 +517,47 @@
       }
     },
     {
-      "tmdb_id": 1622,
-      "title": "Supernatural",
+      "tmdb_id": 106379,
+      "title": "Fallout",
       "type": "tv",
-      "overview": "Als Jungen verloren Sam und Dean Winchester ihre Mutter an eine mysteriöse und dämonische übernatürliche Kraft. Anschließend erklärte ihr Vater ihnen das paranormale Böse bei, das in den dunklen Ecken und auf den Nebenstraßen Amerikas lebt und wie man es tötet. Jetzt durchqueren die Winchester-Brüder das Land und bekämpfen jede Art von übernatürlicher Bedrohung, die ihnen auf dem Weg begegnet.",
+      "overview": "Basierend auf der größten Videospiel-Reihe aller Zeiten, erzählt „Fallout“ die Geschichte von Besitzenden und Besitzlosen in einer Welt, in der es fast nichts mehr zu besitzen gibt. 200 Jahre nach der Apokalypse ist eine friedliche Bewohnerin eines gemütlichen Atombunkers gezwungen, an die Oberfläche zurückzukehren… und ist erschüttert über das Ödland, das sie dort erwartet.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
       "keywords": [
-        "angel",
-        "witch",
-        "monster",
-        "exorcism",
-        "supernatural",
-        "paranormal",
-        "purgatory",
-        "paranormal phenomena",
-        "apocalypse",
-        "bromance",
-        "dead mother",
-        "demon",
-        "on the road",
-        "demonic possession",
-        "ghost",
-        "dark fantasy",
-        "demon hunter",
-        "four horsemen of the apocalypse",
-        "fighting evil",
-        "brother brother relationship",
-        "leviathan",
-        "ressurection",
-        "brothers",
-        "horror",
-        "ambiguous"
+        "capitalism",
+        "nuclear war",
+        "mutant",
+        "vault",
+        "bunker",
+        "post-apocalyptic future",
+        "drug use",
+        "alternate history",
+        "los angeles, california",
+        "robot",
+        "destruction",
+        "based on video game",
+        "nuclear fallout",
+        "corporate control",
+        "gun violence",
+        "red scare",
+        "retrofuturism"
       ],
-      "rating": 8.314,
-      "vote_count": 8647,
-      "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
+      "rating": 8.114,
+      "vote_count": 3081,
+      "poster_path": "/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/106379-fallout/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
+        "netflix": null,
         "prime": "flatrate",
         "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000221183.html",
+        "mentions": 2
       }
     },
     {
@@ -593,7 +667,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5327,
       "providers": {
         "netflix": null,
@@ -708,7 +782,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0L2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0",
       "duration": 5264,
       "providers": {
         "netflix": null,
@@ -1832,9 +1906,31 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wanderungen · Der Pfad der Elefanten",
+      "title": "So schmecken Berlin & Brandenburg: Vom Boxhagener Platz",
       "type": "tv",
-      "overview": "Film von Kiri Cashell und Aidan Woodward, phoenix 2023",
+      "overview": "Reportage Deutschland 2026 +++ Vom Wochenmarkt am Boxhagener Platz in Berlin-Friedrichshain geht es auf kulinarische Entdeckungsreise durch Berlin und Brandenburg. rbb88.8-Genussexpertin Jaele Vanuls entdeckt die Vielfalt der Berliner Restaurantszene: In Wilmersdorf trifft sie Asly Aguilar, der im Restaurant Mkhunaa peruanische Küche an den Ludwigkirchplatz bringt. In Mitte probiert sie sich durch die Aromen Südostasiens....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentation und Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9iYWI1OWQ3Yi0xYWM3LTRiNWMtODQwNC01ZjBlYTdhMWIzNzhfcHVibGljYXRpb24",
+      "duration": 2652,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wanderungen · Der Treck der Karibus",
+      "type": "tv",
+      "overview": "Film von Mark Wheeler, phoenix 2023",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -1844,8 +1940,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDM5OQ",
-      "duration": 2889,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDQwNw",
+      "duration": 2881,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1876,9 +1972,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wanderungen · Der Treck der Karibus",
+      "title": "Wanderungen · Der Pfad der Elefanten",
       "type": "tv",
-      "overview": "Film von Mark Wheeler, phoenix 2023",
+      "overview": "Film von Kiri Cashell und Aidan Woodward, phoenix 2023",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -1888,8 +1984,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDQwNw",
-      "duration": 2881,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDM5OQ",
+      "duration": 2889,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2074,28 +2170,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Robert Bernardis · Widerstand gegen Hitler",
-      "type": "tv",
-      "overview": "Der geborene Tiroler Robert Bernardis war als Oberstleutnant des Generalstabs in Berlin der einzige österreichische Offizier, der beim Hitlerattentat am 20. Juli 1944 eine Schlüsselrolle spielte.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDgyNjMwNw",
-      "duration": 3355,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Systemfehler: Der Cum-Ex Skandal",
       "type": "tv",
       "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
@@ -2180,28 +2254,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "JD Vance - Der Mann nach Trump - Dokumentarfilm von Damien Pasinetti, Thomas Snégaroff,",
-      "type": "tv",
-      "overview": "Die persönliche und politische Reise von JD Vance, der seine Arbeiterklassen-Herkunft im Bestseller \"Hillbilly Elegy\" beschrieb und heute der zweitmächtigste Politiker der USA ist.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilm/jd-vance-donald-trump-usa-100.html",
-      "duration": 4885,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -2514,6 +2566,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Die Donau ist tief. Ein Krimi aus Passau",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2020 Privatdetektiv Ferdinand Zankl (Michael Ostrowski) wird verdächtigt, seine Ex-Freundin, die Tierheimleiterin Nunzia Rossi (Dagny Dewath), ermordet zu haben. Er wird von der Passauer Polizei verhaftet. Ausgerechnet zu diesem Zeitpunkt steht Zankl wegen einer anderen Sache unter hohem Handlungsdruck....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Ein Krimi aus Passau"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMzBfMjAtMTUtTUVTWg",
+      "duration": 5245,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Freund oder Feind. Ein Krimi aus Passau",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2020 Frederike Bader (Marie Leuenberger) und ihre Tochter Mia (Nadja Sabersky) sind Neuankömmlinge in Passau. Die Vergangenheit der beiden hat so gut wie nichts mit dem zu tun, was Arbeitgeber, Kollegen und Nachbarn von ihnen wissen, und das ist wahrlich nicht viel. Nicht einmal die Namen stimmen. „Frederike Bader“ war noch vor wenigen Monaten Kommissarin beim Berliner LKA....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Ein Krimi aus Passau"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMjNfMjAtMTUtTUVTWg",
+      "duration": 5310,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Wien-Krimi: Blind ermittelt - Die nackte Kaiserin",
+      "type": "tv",
+      "overview": "Laufzeit: 88 Minuten In „Die nackte Kaiserin“ dient der Sissi-Mythos als Ausgangspunkt für einen Wien-Krimi, der einen rätselhaften Kriminalfall mit einem unheilvollen Fluch verbindet. Während sich Philipp Hochmair alias Ex-Kommissar Haller auf seine Ermittlerinstinkte verlässt, muss sein Partner Andreas Guenther irrationale Ängste überwinden....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Wien-Krimi: Blind ermittelt"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q0NjA0ODE0LTM4OGEtNGNlNi1hY2E5LTU2MzNmNmQxNDc2N19nYW56ZVNlbmR1bmc",
+      "duration": 5280,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Wendepunkt (25) · Der Usedom-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2025 Karin Lossow (Katrin Sass) lernt die geheimnisvolle Mandy (Anne Haug) kennen, die offenbar ihren Kollegen Martin Rabe (Lasse Myhr) und dessen Eltern verfolgt. Kurz darauf wird Martins Verlobte Antonia (Anna Baranowska) tot aufgefunden....",
@@ -2592,7 +2710,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2UxYTM0ZjZmLWYxMmQtNDI1NS04MTY1LTI5NGVhODhkYWFiMV9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2UxYTM0ZjZmLWYxMmQtNDI1NS04MTY1LTI5NGVhODhkYWFiMV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5280,
       "providers": {
         "netflix": null,
@@ -2624,64 +2742,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tod in der Prinzengracht – Der Amsterdam-Krimi",
+      "title": "Sträter & Lobrecht · 1LIVE Comedy-Talk",
       "type": "tv",
-      "overview": "Spielfilm Deutschland 2018 Der LKA-Ermittler Alex Pollack (Hannes Jaenicke) scheut kein Risiko, um den Drogenschmuggler Tom Fischer (Sascha Alexander Geršak) endlich hinter Gitter zu bringen. Um Beweise gegen seinen Erzfeind zu sammeln, hat er Katja Wolf (Alice Dwyer) als Fischers rechte Hand eingeschleust....",
+      "overview": "Torsten Sträter und Felix Lobrecht stehen ihrem Publikum im 1LIVE Haus Rede und Antwort – ein Talk, vollgepackt mit absurden Gedankensprüngen und besonderen Momenten. Es geht um Alltag und Erfolg, Humor und Scheitern, die kleinen Beobachtungen und die großen Fragen des Lebens. Ein Abend mit Witz und Tiefgang, der das Leben feiert und zeigt, dass unterschiedliche Generationen die gleichen Themen haben.",
       "genres": [
-        "Krimi"
+        "Komödie"
       ],
       "keywords": [
-        "Der Amsterdam-Krimi"
+        "Sträter & Lobrecht · 1LIVE Comedy-Talk"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW0ta3JpbWkvMjAyMy0wOS0yM18yMS00NS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Brennendes Land – Der Barcelona-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2025 Der einflussreiche Ernesto Quintana (Daniel Sellier), Anwalt der Wasserbetriebe \"Baraqua\", wird tot auf dem Golfplatz des Immobilienmoguls Boverla (Johannes Terne) aufgefunden. Dessen Geschäftsführer Casanueva (Louis Nitsche) weigert sich jedoch, der Mordkommission die Überwachungsvideos zu geben. Xavi Bonet (Clemens Schick) und Fina Valet (Anne Schäfer) versuchen zu ermitteln, wen er schützen will....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Barcelona-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgwNzA4N2RjLWU5OGQtNDhhZS04NzE4LTNmNzFiOTg4N2U2N19nYW56ZVNlbmR1bmc",
-      "duration": 5342,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Borchert und der Mord im Taxi (S01/E11)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2020 Borchert (Christian Kohlund) und Dominique Kuster (Ina Paule Klink) übernehmen die Verteidigung des Taxifahrers Jürg Zollinger (Tim Kalkhof). Hauptmann Furrer (Pierre Kiwitt) verdächtigt ihn des Mordes an einem Fahrgast, dem afrikanischen Investigativ-Journalisten Nuka Baluba (Pierre Rousselet). Alle Indizien belasten den unbeherrschten Verdächtigen, dessen Aussage zunächst wenig glaubwürdig erscheint....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Zürich-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjItMDYtMDlfMjAtMTUtTUVTWg",
-      "duration": 5314,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZmQwYWI3NTQtNTIyZC00ZGQyLTg2MzAtOTY0NTZjYWE2NWE4",
+      "duration": 3503,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2756,28 +2830,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Jürgen B. Hausmann: \"Wie jeht et? – Et jeht!\"",
-      "type": "tv",
-      "overview": "Heutzutage von der Küchenbank aus oder vor Jahrzehnten mit den Eltern im Auto unterwegs: Jürgen B. Hausmann war und ist ein feinfühliger Beobachter seiner Umwelt und der Helden:innen des Alltags. In seinem Bühnenprogramm \"Wie jeht et? – Et jeht!\" widmet er sich etlichen Redewendungen seiner Heimatregion, doch Jürgen B....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNlZGRjZWRjLWQyNTktNDUwNS05OTYzLWZhYThhMTAzZTUxMg",
-      "duration": 5314,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Martin Frank: Wahrscheinlich liegt's an mir",
       "type": "tv",
       "overview": "Bayerischer Charme, spitze Pointen: Martin Frank ringt lachend mit Elternbildern und Partyritualen. Im fünften Soloprogramm führt Martin Frank das Publikum schelmisch durch die Turbulenzen eines Mehrgenerationenhauses. Er erklärt, wie man skurrile Einladungen und überambitionierte Festessen übersteht und fragt, ob Geburtstagsfeiern noch zeitgemäß sind....",
@@ -2792,28 +2844,6 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14337656/martin-frank-wahrscheinlich-liegt-s-an-mir",
       "duration": 3600,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Klaus Eckel - Die besten Momente",
-      "type": "tv",
-      "overview": "Er ist einer der beliebtesten Kabarettisten des Landes, seine Vorstellungen weit im Voraus ausverkauft: Klaus Eckel. Keiner spricht so schnell wie er, niemand setzt so viele Pointen in der Minute. Anlass genug, um dem Star der Kleinkunst ein Denkmal zu errichten. ORF III hat sich durch die Bühnenprogramme gewühlt und zeigt zahlreiche Highlights aus seinen Programmen sowie unbekannte Schätze aus dem Archiv. Bildquelle: ORF/Hans Leitner",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14337024/klaus-eckel-die-besten-momente",
-      "duration": 2580,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2888,6 +2918,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Best-of mit Constanze Lindner, Christian Schulte-Loh, Jonas Greiner ...",
+      "type": "tv",
+      "overview": "Zu Gast: Constanze Lindner, Christian Schulte-Loh, Jonas Greiner, Hans Thalhammer, Luise Kinseher, Matthias Egersdörfer und Kathie Freudenschuss",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarett aus Franken"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMTYzQTA",
+      "duration": 2580,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "\"Hot like hell\" - die Mardi Gras Band Louisiana Avenue",
+      "type": "tv",
+      "overview": "Draußen rollt die Hitzewelle über Saarbrücken hinweg und auf die Bühne im E-Werk steigt ein junger Mann im Goldanzug, ist bester Laune und sagt: \"It's hot like hell\". Dann heizt Pär Stenhammars Mardi Gras Band das ohnehin schon schwitzende Publikum weiter an: \"Louisiana Avenue\" ist DIE Entdeckung beim internationalen Jazzfestival \"fill in\".",
+      "genres": [
+        "Musik"
+      ],
+      "keywords": [
+        "Musik & Konzerte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9NVUtfMTczMzk5",
+      "duration": 4762,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Ray Dalton",
       "type": "tv",
       "overview": "13.500 Fans auf dem Festplatz im mittelfränkischen Herrieden freuen sich auf den US-amerikanischen Sänger aus Seattle: Ray Dalton.",
@@ -2954,20 +3028,113 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wien 1900: Musik zur Jahrhundertwende",
+      "title": "42 Stunden 52 Minuten 51 Sekunden - 9/11 im ORF-Newsroom",
       "type": "tv",
-      "overview": "Das Rezept einer guten Operette: Man nehme eine frivol-freche Handlung, füge sympathische Protagonist:innen und romantische Liebesgeschichten hinzu, garniere mit Lokalkolorit und flotten Tanzrhythmen. Und zu guter Letzt: ein Happy End. Lehárs \"Lustige Witwe\" wurde auch wegen der starken Frauenfigur und der erotischen und politischen Anspielungen berühmt....",
+      "overview": "Die Anschläge vom 11. September stellten Nachrichtenredaktionen weltweit vor enorme Herausforderungen. Im deutschsprachigen Raum reagierte der ORF besonders schnell und umfassend: Dank eines kurz zuvor geschlossenen Abkommens mit CNN konnten Live-Bilder aus New York und Washington sofort übertragen werden. Für die \"ZIB\"-Moderatoren Hannelore Veit und Eugen Freund war es eine Bewährungsprobe....",
       "genres": [
-        "Musik"
+        "Historie",
+        "Dokumentarfilm"
       ],
       "keywords": [
-        "Musik & Konzerte"
+        "zeit.geschichte"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9NVUtfMTYyNTIw",
-      "duration": 5400,
+      "url": "https://on.orf.at/video/14337826/42-stunden-52-minuten-51-sekunden-9-11-im-orf-newsroom",
+      "duration": 2749,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "CIA: Im Schatten von 9/11 (2/3)",
+      "type": "tv",
+      "overview": "Die CIA wandelte sich nach den Anschlägen vom 11. September 2001 in eine paramilitärische Organisation mit globalem Auftrag zur Terrorbekämpfung. Die Doku beleuchtet den geheimen Krieg der USA - von Afghanistan über die Tötung Bin Ladens bis zum Aufstieg des IS und der Rückkehr der Taliban....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "zeit.geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14337824/cia-im-schatten-von-9112-3",
+      "duration": 2747,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "CIA: Im Schatten von 9/11 (1/3)",
+      "type": "tv",
+      "overview": "Nach den Anschlägen vom 11. September 2001 wandelte sich die CIA in eine paramilitärische Einheit mit einem beispiellosen Mandat. Die Doku beleuchtet anhand seltener Aussagen von Ex-Spionen, Offizieren und Analysten geheime Operationen - von Afghanistan über die Tötung Bin Ladens bis zum Aufstieg des IS - und zeigt, wie dieser Krieg die USA, den Nahen Osten und die globale Politik veränderte....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "zeit.geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14337823/cia-im-schatten-von-9111-3",
+      "duration": 2730,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Eisenbahn - Motor des Fortschritts",
+      "type": "tv",
+      "overview": "Seit etwa 200 Jahren gibt es die Eisenbahn – sie wurde zu einem der wichtigsten Verkehrsmittel der Menschheitsgeschichte. Die Bahn revolutionierte den Transport und demokratisierte das Reisen. Doch ihre Geschichte hat auch eine dunkle Seite: Sie war Werkzeug der Kolonialmächte und diente den Deportationen nach Auschwitz.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/113570-000-A/die-eisenbahn/",
+      "duration": 5328,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Interrail. Die beste Reise meines Lebens",
+      "type": "tv",
+      "overview": "Vor 50 Jahren, am 1. März 1972, wurde es erstmals ausgestellt: das Interrail-Ticket. Eltern bescherte es schlaflose Nächte, ihren Kindern öffnete es das Tor nach Europa in eine unbekannte Welt. Mit diesem Zugticket konnten Jugendliche einen Monat lang mit dem Zug durch 21 Länder fahren, egal wohin, egal wie weit! Für seine Dokumentation \"Interrail....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Unsere Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS8xNDYxXzIwMjItMDQtMDYtMjEtMDA",
+      "duration": 2639,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3037,121 +3204,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/102990-000-A/kaiserin-leopoldina-von-habsburg/",
       "duration": 3086,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs",
-      "type": "tv",
-      "overview": "Zum 125. Jahrestag des Boxerprotokolls erzählt die Dokumentation \"Der Boxerkrieg – Das Ende des chinesischen Kaiserreichs\" vom Aufstand chinesischer Bauern gegen ausländische Kolonialmächte, darunter Frankreich und Deutschland. Seltene Bildquellen zeigen einen Krieg, der von extremer Gewalt geprägt war und der im Westen – anders als in China – weitgehend vergessen ist.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/131569-000-A/der-boxerkrieg/",
-      "duration": 3151,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mao - Chinas roter Kaiser (3/3) - Kulturrevolution",
-      "type": "tv",
-      "overview": "Nach dem Desaster des \"Großen Sprungs nach vorn\" ist Mao von innerparteilichen Feinden umzingelt. Er plant den Gegenangriff: \"Die große proletarische Kulturrevolution\". Dabei kann er sich auf die Hilfe der Jugend verlassen, die als Rote Garden Jagd auf \"Konterrevolutionäre\" machen. Das Land versinkt im Chaos, doch Mao geht als Sieger hervor und wird Staatschef auf Lebenszeit.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/113586-003-A/mao-chinas-roter-kaiser-3-3/",
-      "duration": 3143,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mao - Chinas roter Kaiser (2/3) - Großer Sprung",
-      "type": "tv",
-      "overview": "Nach der Ausrufung der Volksrepublik beginnt Mao mit der Umgestaltung des Landes in einen sozialistischen Staat, doch der Koreakrieg holt ihn ein. Als er die industrielle Entwicklung vorantreibt, führt er das Land an den Abgrund: Eine der größten Hungerkatastrophen der Geschichte mit Millionen Toten ist die Folge.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/113586-002-A/mao-chinas-roter-kaiser-2-3/",
-      "duration": 3103,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mao - Chinas roter Kaiser (1/3) - Langer Marsch",
-      "type": "tv",
-      "overview": "Der junge Revolutionär Mao Zedong erlebt ein China am Boden. Nach Ende des Kaiserreichs befindet sich das Land im festen Griff von imperialistischen Mächten. In Mao wächst der Traum von einer kommunistischen Gesellschaft, die das Land wieder zu alter Größe führt. Mao und seine Bewegung sind in einen blutigen Bürgerkrieg verwickelt, bis er 1949 vor den Toren Pekings steht.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/113586-001-A/mao-chinas-roter-kaiser-1-3/",
-      "duration": 3102,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "California! - Zwischen Utopie und Realität",
-      "type": "tv",
-      "overview": "Netflix, Blockbuster, Architektur, iPhone oder Elektroauto – ohne Kalifornien wäre die Welt eine andere. Egal, ob Steve Jobs Arbeit zum Spaß erklärt, Roland Emmerich in seinen Blockbustern den Klimawandel prophezeit oder Elon Musk Touristen ins Weltall befördert. Der \"Goldene Staat\" an der Westküste Amerikas ist immer einen Schritt voraus.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/097513-003-A/california/",
-      "duration": 2893,
       "providers": {
         "netflix": null,
         "prime": null,
