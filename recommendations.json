@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-07T09:51:05.014Z",
+  "generated_at": "2026-09-08T09:15:41.029Z",
   "items": [
     {
       "tmdb_id": 1386315,
@@ -17,15 +17,19 @@
         "kidnapping",
         "son",
         "child kidnapping",
+        "nervous",
         "abduction",
         "child rescue",
         "mother son relationship",
+        "anxious",
         "child abduction",
-        "pathetic",
-        "attorney"
+        "serious",
+        "attorney",
+        "dramatic",
+        "suspenseful"
       ],
-      "rating": 6.747,
-      "vote_count": 299,
+      "rating": 6.7,
+      "vote_count": 321,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
@@ -49,51 +53,13 @@
         "serial killer",
         "father son relationship"
       ],
-      "rating": 6.811,
-      "vote_count": 490,
+      "rating": 6.8,
+      "vote_count": 521,
       "poster_path": "/jnSNuan6Rf4lsQL0utFxx7CiK5T.jpg",
       "justwatch": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 687163,
-      "title": "Der Astronaut – Project Hail Mary",
-      "type": "movie",
-      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
-      "genres": [
-        "Science Fiction",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "friendship",
-        "coma",
-        "based on novel or book",
-        "bravery",
-        "sun",
-        "language barrier",
-        "space travel",
-        "space mission",
-        "alien",
-        "space",
-        "memory loss",
-        "astronaut",
-        "scientist",
-        "science teacher",
-        "save the planet",
-        "spaceship",
-        "interspecies friendship"
-      ],
-      "rating": 8.6,
-      "vote_count": 7593,
-      "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -115,8 +81,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.133,
-      "vote_count": 1473,
+      "rating": 8.1,
+      "vote_count": 1484,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -142,13 +108,32 @@
         "offbeat",
         "action"
       ],
-      "rating": 7.832,
-      "vote_count": 879,
+      "rating": 7.836,
+      "vote_count": 882,
       "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 329471,
+      "title": "The Grand Tour",
+      "type": "tv",
+      "overview": "Willkommen bei The Grand Tour. Die weltweit beste Autosendung kehrt mit den neuen Moderatoren Thomas Holland, James Engelsman und Francis Bourgeois und ihrer charakteristischen Mischung aus weltweiten Abenteuern, unglaublichen Fahrzeugen, spektakulären Stunts und pointierten Meinungen zurück.",
+      "genres": [
+        "Reality"
+      ],
+      "keywords": [],
+      "rating": 9.5,
+      "vote_count": 6,
+      "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/329471-the-grand-tour/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -184,32 +169,13 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.749,
-      "vote_count": 5525,
+      "rating": 8.7,
+      "vote_count": 5527,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 329471,
-      "title": "The Grand Tour",
-      "type": "tv",
-      "overview": "Willkommen bei The Grand Tour. Die weltweit beste Autosendung kehrt mit den neuen Moderatoren Thomas Holland, James Engelsman und Francis Bourgeois und ihrer charakteristischen Mischung aus weltweiten Abenteuern, unglaublichen Fahrzeugen, spektakulären Stunts und pointierten Meinungen zurück.",
-      "genres": [
-        "Reality"
-      ],
-      "keywords": [],
-      "rating": 9.6,
-      "vote_count": 5,
-      "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/329471-the-grand-tour/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -236,13 +202,108 @@
         "military police",
         "powerful"
       ],
-      "rating": 8.108,
-      "vote_count": 3233,
+      "rating": 8.109,
+      "vote_count": 3238,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 299952,
+      "title": "早春晴朗",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "romance",
+        "employer employee relationship",
+        "secret relationship",
+        "workplace romance",
+        "based on web novel"
+      ],
+      "rating": 7.7,
+      "vote_count": 8,
+      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 387,
+      "title": "SpongeBob Schwammkopf",
+      "type": "tv",
+      "overview": "Unter dem Meeresspiegel in der kleinen Stadt Bikini Bottom haben sich viele Seelebewesen häuslich eingerichtet. Die liebenswürdigste aller Kreaturen ist SpongeBob Schwammkopf. Er lebt in einer Ananas zusammen mit seinem Haustier, der Schnecke Gary, und arbeitet in dem Fast-Food-Restaurant Krosse Krabbe. In seiner Nachbarschaft wohnen der griesgrämige Thaddäus Tentakel und der begeisterungsfähige, aber dumme Seestern Patrick Star. In jeder Folge stürzen sich SpongeBob und seine Freunde in neue, haarsträubende Aktivitäten.",
+      "genres": [
+        "Animation",
+        "Komödie",
+        "Familie"
+      ],
+      "keywords": [
+        "squirrel",
+        "fast food restaurant",
+        "squid",
+        "crab",
+        "underwater",
+        "jellyfish",
+        "starfish",
+        "sea creature",
+        "tiki culture",
+        "boating",
+        "job"
+      ],
+      "rating": 7.714,
+      "vote_count": 3265,
+      "poster_path": "/37xMwqkyfREmO94Do4hqmehwo35.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/387-spongebob-squarepants/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 69557,
+      "title": "Fauda",
+      "type": "tv",
+      "overview": "Fauda bedeutet zu Deutsch ungefähr so viel wie Chaos. Und genau darum geht es in der israelischen Action-Thriller-Serie. Im Mittelpunkt des Geschehens befinden sich palästinensische Hamaskämpfer, die auf der einen Seite ganz offensichtlich als Terroristen auf den Plan treten, auf der anderen Seite allerdings ganz normale Menschen sind.",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "keywords": [
+        "israel",
+        "war on terror",
+        "belgium",
+        "undercover agent",
+        "special unit",
+        "palestinian-israeli conflict",
+        "terrorism",
+        "israeli defense force",
+        "undercover operation",
+        "gaza strip",
+        "arab world",
+        "west bank",
+        "arab-israeli conflict",
+        "hamas palestinian militant",
+        "palestinian authority (pa)"
+      ],
+      "rating": 7.451,
+      "vote_count": 266,
+      "poster_path": "/3Z88sRM4lbXodN6DSIz4WsOEFO6.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/69557/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -282,73 +343,10 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.415,
-      "vote_count": 1703,
+      "rating": 8.4,
+      "vote_count": 1705,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "based on web novel"
-      ],
-      "rating": 7.688,
-      "vote_count": 8,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 305644,
-      "title": "포핸즈",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "orchestra",
-        "friendship",
-        "high school",
-        "rivalry",
-        "romance",
-        "bromance",
-        "pianist",
-        "childhood friends",
-        "perfectionist",
-        "orchestra conductor",
-        "transfer student",
-        "music school",
-        "free spirited",
-        "music",
-        "youth",
-        "best friends",
-        "high school classmates",
-        "childhood friends relationship",
-        "classmates relationship",
-        "piano prodigy",
-        "rising star"
-      ],
-      "rating": 9.583,
-      "vote_count": 12,
-      "poster_path": "/sdvxrJMzACBUG87YS1YYKmRzTN8.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/305644/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -376,8 +374,8 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.625,
-      "vote_count": 128,
+      "rating": 6.654,
+      "vote_count": 133,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
@@ -401,7 +399,7 @@
         "based on true events"
       ],
       "rating": 8.791,
-      "vote_count": 554,
+      "vote_count": 565,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -432,10 +430,46 @@
         "police procedural",
         "admiring"
       ],
-      "rating": 8.402,
-      "vote_count": 4663,
+      "rating": 8.403,
+      "vote_count": 4670,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 79744,
+      "title": "The Rookie",
+      "type": "tv",
+      "overview": "In einem Alter, in dem sich andere zur Ruhe setzen wollen, tauscht John Nolan das beschauliche Kleinstadtleben gegen einen Neuanfang in Los Angeles ein: Er möchte seinen Lebenstraum verwirklichen und als Polizist arbeiten. Inmitten von Anwärtern in ihren 20ern muss sich Nolan nun als ältester Rookie des LAPD bewähren.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "police chase",
+        "los angeles, california",
+        "police officer",
+        "police detective",
+        "street crime",
+        "lapd",
+        "police training",
+        "crime investigation",
+        "dramedy",
+        "police department",
+        "procedural",
+        "police drama",
+        "cautionary",
+        "dramatic"
+      ],
+      "rating": 8.542,
+      "vote_count": 3511,
+      "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
@@ -476,8 +510,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 8,
-      "vote_count": 4332,
+      "rating": 7.961,
+      "vote_count": 4333,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -487,63 +521,64 @@
       }
     },
     {
-      "tmdb_id": 79744,
-      "title": "The Rookie",
+      "tmdb_id": 119051,
+      "title": "Wednesday",
       "type": "tv",
-      "overview": "In einem Alter, in dem sich andere zur Ruhe setzen wollen, tauscht John Nolan das beschauliche Kleinstadtleben gegen einen Neuanfang in Los Angeles ein: Er möchte seinen Lebenstraum verwirklichen und als Polizist arbeiten. Inmitten von Anwärtern in ihren 20ern muss sich Nolan nun als ältester Rookie des LAPD bewähren.",
+      "overview": "Clever, sarkastisch und fast eiskalt will Wednesday Addams eine Mordserie aufklären. Dabei findet sie an der Nevermore Academy jedoch nicht nur Freunde.",
       "genres": [
-        "Krimi",
-        "Drama",
+        "Sci-Fi & Fantasy",
+        "Mystery",
         "Komödie"
       ],
       "keywords": [
-        "police chase",
-        "los angeles, california",
-        "police officer",
-        "police detective",
-        "street crime",
-        "lapd",
-        "police training",
-        "crime investigation",
-        "dramedy",
-        "police department",
-        "procedural",
-        "police drama",
-        "cautionary",
-        "dramatic"
+        "witch",
+        "friendship",
+        "teenage girl",
+        "spin off",
+        "gothic",
+        "dark fantasy",
+        "goth girls",
+        "academy",
+        "intimate",
+        "adoring",
+        "based on comic strip"
       ],
-      "rating": 8.541,
-      "vote_count": 3507,
-      "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
+      "rating": 8.332,
+      "vote_count": 10797,
+      "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/119051-wednesday/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 84969,
-      "title": "LOL: Last One Laughing Mexico",
-      "type": "tv",
-      "overview": "Zehn mexikanische Comedians treten in einem sechsstündigen Wettbewerb gegeneinander an. Wer über die Witze der anderen lacht, verliert. Wer übrig bleibt, darf sich über ein Preisgeld in Höhe von einer Million Pesos freuen.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [],
-      "rating": 7.414,
-      "vote_count": 321,
-      "poster_path": "/RHkYMwtfUuhddxZoXGDTq56rPT.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/84969-lol-last-one-laughing/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "prime": null,
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220885.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000221642.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Dein Name sei Harbinger",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2017\r\n\r\nIn einem ausgebrannten Transporter wurde ein Toter gefunden. Schnell ermitteln Rubin und Karow, dass es drei weitere, ältere Fälle mit ähnlichem Tathergang gab. Sie wurden nie aufgeklärt. Handelt es sich um einen Serienmörder?\r\n\r\nMit Meret Becker, Mark Waschke, Christoph Bach, Carolyn Genzkow,  Trystan Pütter | Regie: Florian Baxmeyer",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3NGEwODQzLTU0NGItNGNjZS1hMzc5LTAwNDQ4OGJlNDBjNF9nYW56ZVNlbmR1bmc",
+      "duration": 5305,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -699,7 +734,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5327,
       "providers": {
         "netflix": null,
@@ -791,7 +826,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OS9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLWZjOTQ1MGNiLWEzNDUtNDI5My04ZWQ1LWI5YWMyZjIwNWQ2OQ",
       "duration": 5330,
       "providers": {
         "netflix": null,
@@ -801,21 +836,21 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Nacht gehört dir",
+      "title": "Walzerbahn",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2020 Die erfolgreiche Geschäftsfrau Babs Sprenger stirbt an ihrem Geburtstag durch zwei Stiche ins Herz. Die Tatwaffe, ein Sushi-Messer, findet sich sauber gereinigt in der Spülmaschine. Ansonsten weist die Wohnung keinerlei Spuren auf. Als die Ermittler Babs‘ Kollegin Theresa Hein, die mit ihr zusammen Geburtstag gefeiert hat, zu der Tat befragen, gesteht diese sofort....",
+      "overview": "Saison an der Ostsee. Ein Unbekannter bricht auf Zeltplätzen, in Ferienheime, in Bungalows und Autos ein und stiehlt Geld und Wertgegenstände. Obwohl die Kriminalpolizei Tag und Nacht recherchiert, haben ihre Ermittlungen wenig Erfolg. Die Suche nach dem \"Küstenschreck\" führt die Polizei schließlich auf einen Rummel, dessen Route entlang der Küste mit den Tatorten übereinstimmt.",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Polizeiruf 110 - Klassiker"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC84NWJiMzk5YS0xMDcxLTQxNWYtOTM3NS0wOWIzNDcyZjNkMWFfb25saW5lYnJvYWRjYXN0",
-      "duration": 5264,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy83ZGI4YzRjZi01MTk5LTQ2M2ItYTJlNi04YjVlZjlmODEyYmU",
+      "duration": 3454,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -931,29 +966,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9mZmIzMWY2MS02MTIwLTQ2NjYtOTBkOC03ZjQ5ODRlZmEzMDc",
       "duration": 2836,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wolfsland",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2013 +++ Kriminalhauptkommissarin Olga Lenski und Polizeihauptmeister Horst Krause werden ins brandenburgische Kaskow gerufen. Ein Anrufer hat einen Leichenfund gemeldet. Vor Ort finden die beiden allerdings keine Leiche vor, sondern ein totes Tier und zwei aufgebrachte Menschen in einer skurrilen Situation....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYi1vbmxpbmUuZGUvZmlsbXplaXQvMjAxOS0wNi0wOVQyMzozMDowMF8wYzk1NDA2NC0wNmMzLTQ3MTctYTJmYy00OTM0ZDk1ZTc2YzkvcG9saXplaXJ1Zi0xMTAtLXdvbGZzbGFuZA",
-      "duration": 5319,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1182,6 +1194,94 @@
     },
     {
       "tmdb_id": null,
+      "title": "Liberace – Zu viel des Guten ist wundervoll",
+      "type": "tv",
+      "overview": "Als ein junger Mann zufällig einen weltberühmten Entertainer kennenlernt, verändert sich sein Leben komplett. Zwischen den unterschiedlichen Männern entwickelt sich eine Affäre.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/liberace--zu-viel-des-guten-ist-wundervoll-movie-100/liberace--zu-viel-des-guten-ist-wundervoll-100",
+      "duration": 6833,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Liberace – Zu viel des Guten ist wundervoll (Englisch)",
+      "type": "tv",
+      "overview": "Als ein junger Mann zufällig einen weltberühmten Entertainer kennenlernt, verändert sich sein Leben komplett. Zwischen den unterschiedlichen Männern entwickelt sich eine Affäre.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/liberace--zu-viel-des-guten-ist-wundervoll-movie-100/liberace--zu-viel-des-guten-ist-wundervoll-100",
+      "duration": 6833,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Night Call - Überlebe die Nacht",
+      "type": "tv",
+      "overview": "Der junge Mady arbeitet in Brüssel für einen Schlüsseldienst. Nachdem er für eine junge Frau eine Wohnungstür geöffnet hat, wird er von einem Fremden angegriffen und tötet ihn in Notwehr.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/night-call---ueberlebe-die-nacht-movie-100/night-call---ueberlebe-die-nacht-100",
+      "duration": 5637,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Night Call - Überlebe die Nacht (Französisch)",
+      "type": "tv",
+      "overview": "Der junge Mady arbeitet in Brüssel für einen Schlüsseldienst. Nachdem er für eine junge Frau eine Wohnungstür geöffnet hat, wird er von einem Fremden angegriffen und tötet ihn in Notwehr.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/night-call---ueberlebe-die-nacht-movie-100/night-call---ueberlebe-die-nacht-100",
+      "duration": 5637,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Hot Summer Nights - Spielfilm, USA 2017",
       "type": "tv",
       "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
@@ -1200,50 +1300,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "The Silent Hour (Englisch)",
-      "type": "tv",
-      "overview": "Ein hörgeschädigter Polizist wird zur letzten Hoffnung einer gehörlosen Mordzeugin, als diese ins Visier der Killer gerät. Dabei bleiben die Verbrecher nicht die einzige Gefahr für das Duo.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/the-silent-hour-movie-100/the-silent-hour-100",
-      "duration": 5732,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "The Silent Hour",
-      "type": "tv",
-      "overview": "Ein hörgeschädigter Polizist wird zur letzten Hoffnung einer gehörlosen Mordzeugin, als diese ins Visier der Killer gerät. Dabei bleiben die Verbrecher nicht die einzige Gefahr für das Duo.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/the-silent-hour-movie-100/the-silent-hour-100",
-      "duration": 5732,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -1350,50 +1406,6 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/starve-acre-100.html",
       "duration": 5662,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Starve Acre - Spielfilm, Großbritannien 2023 (Englisch)",
-      "type": "tv",
-      "overview": "Ein abgelegenes Bauernhaus im ländlichen England der 70er Jahre. Das Leben von Richard und Juliette gerät aus den Fugen, als ihr Sohn anfängt, sich außergewöhnlich zu verhalten.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/starve-acre-100.html",
-      "duration": 5662,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ray & Liz - Spielfilm, Großbritannien 2018",
-      "type": "tv",
-      "overview": "In einem Vorort von Birmingham lebt die Familie Billingham ein Leben am Rand der Gesellschaft – bestimmt von Zwängen, Extremen und Regeln, die sich ihrer Kontrolle entziehen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/ray--liz-100.html",
-      "duration": 6230,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1892,6 +1904,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Riefenstahl",
+      "type": "tv",
+      "overview": "Riefenstahl, Film von Andreas Veiel, WDR 2025",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.phoenix.de/sendungen/dokumentationen/riefenstahl-a-5228049.html",
+      "duration": 5910,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Familienbande · Der Geparden-Clan (1/3)",
       "type": "tv",
       "overview": "Zwei Gepardenmütter begegnen sich zufällig. Die eine – erfahren, souverän und eine geschickte Jägerin – zieht fünf Junge groß. Die andere ist jünger, hat vier Junge, ein blindes Auge – und beeindruckt durch Sanftmut und Geduld.",
@@ -1906,6 +1940,94 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1Nzg2NA",
       "duration": 3126,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kampf ums Überleben · Der Geparden-Clan (2/3)",
+      "type": "tv",
+      "overview": "Seit einem Monat hält Chilli die ungewöhnliche Großfamilie alleine zusammen – alle neun Jungtiere leben noch. Inara hingegen umwirbt Shadow und könnte inzwischen trächtig sein.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1Nzg2Ng",
+      "duration": 3129,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wildes Mexiko (1/3) - Bergwelten",
+      "type": "tv",
+      "overview": "Mexiko, ein Land der Superlative, bestehend aus Flüssen, Bergen, Regenwäldern, Wüsten, Stränden, Mangroven und Steppen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ3ODEyNw",
+      "duration": 2956,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wildes Mexiko (2/3) - Der Regenwald der Maya",
+      "type": "tv",
+      "overview": "In der zweiten Folge lüften Wissenschaftler das Erfolgsgeheimnis vom Dschungel-Imperium der Maya auf der Halbinsel Yukatan.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ3ODEzMg",
+      "duration": 3128,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wildes Mexiko (3/3) - Sengender Norden",
+      "type": "tv",
+      "overview": "Der dritte Teil erforscht Mexikos Prärien im Norden, dem Geburtsort des amerikanischen Cowboytums. Die teils kargen Felder sind außerdem Heimat von possierlichen Präriehunden und der letzten Aplomado-Falken.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ3ODE2Mg",
+      "duration": 3124,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2046,119 +2168,53 @@
     },
     {
       "tmdb_id": null,
-      "title": "Mussolini - Despoten",
+      "title": "Besuch im Bubenland - Dokumentarfilm von Katrin Schlösser,",
       "type": "tv",
-      "overview": "\"Dummer kleiner Clown\", sagte Benito Mussolini über Hitler nach deren erstem Zusammentreffen. Doch für Hitler war der erste faschistische Herrscher das große Vorbild und Vorläufer.",
+      "overview": "Im Südburgenland ist es still. Dort leben Männer unterschiedlichen Alters, deren Leben durch Schicksalsschläge oder Ungeschick aus der Bahn geraten ist.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokumentarfilmzeit"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ5Mzk5Nw",
-      "duration": 2589,
+      "url": "https://www.3sat.de/film/dokumentarfilmzeit/besuch-im-bubenland-100.html",
+      "duration": 5443,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Stalin - Despoten",
+      "title": "Die Tier-Docs: Ziege mit Haarausfall",
       "type": "tv",
-      "overview": "Noch heute verehren viele Russen Josef Stalin als Sieger des großen vaterländischen Krieges gegen Hitler. Doch der „Rote Zar“ war nicht nur der mächtigste, sondern auch der grausamste Herrscher der russischen Geschichte.",
+      "overview": "Auch Ziegen können Haarausfall haben. Jedenfalls ist Land-Tierarzt Lukas Bretzinger damit befasst, als er auf den Belchen im Schwarzwald fährt. Sein Vater Jörg muss sich um drei kranke Rinder in Bollschweil (Breisgau-Hochschwarzwald) kümmern. Eines davon hat eine Lungenentzündung und frisst nicht mehr. Damit Tiere untersucht werden können, müssen sie erstmal eingefangen werden....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Doku & Reportage"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ5NDAzNw",
-      "duration": 2625,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDgzNjg",
+      "duration": 2683,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Naturparadiese am Äquator: Nebelwald und Anden-Hochland",
+      "title": "Von Obertilliach in die Lienzer Dolomiten",
       "type": "tv",
-      "overview": "In Ecuador verläuft der Äquator quer über die Anden. In der spektakulären Gebirgslandschaft hat sich eine große Artenvielfalt aus Waldbewohnern und Hochgebirgsspezialisten entwickelt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjQxMg",
-      "duration": 2596,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Naturparadiese am Äquator: Borneo und Sumatra",
-      "type": "tv",
-      "overview": "Auf den Inseln Borneo und Sumatra leben einzigartige und rätselhafte Tiere und Pflanzen. Lebenskünstler wie Zwergelefanten, Flugechsen, Orang-Utans und andere Primaten, aber auch bizarre Insekten sind bestens an das Leben in den Urwaldgebieten angepasst.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjM5Mg",
-      "duration": 2615,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mao - Despoten",
-      "type": "tv",
-      "overview": "Drei Jahrzehnte lang steht er an der Spitze Chinas: Mao Zedong. Ein sadistischer, kommunistischer Autokrat süchtig nach Brutalität.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ5NDA0Nw",
-      "duration": 2620,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Herzog Franz von Bayern",
-      "type": "tv",
-      "overview": "Er ist ein König ohne Krone, und doch ist Herzog Franz von Bayern als Familienchef der Wittelsbacher äußerst beliebt und respektiert. Diskret und klug, gleichzeitig mit einer charmanten Nonchalance, lenkt er das Geschick der Familie und verbindet 800 Jahre Tradition mit der heutigen Zeit. Die Filmemacherin Julia Benkert hat den Wittelsbacher eine Woche lang, kurz vor seinem 90. Geburtstag, begleitet....",
+      "overview": "Obertilliach liegt im Lesachtal in Osttirol, zwischen den Lienzer Dolomiten und den Karnischen Alpen. Hier wechseln sich schroffe Kalkfelsen und bewaldete Bergrücken mit sanften Almmatten ab. Heute zählt es zu den schönsten Bergdörfern im Alpenraum, wo alte Traditionen stolz weitergetragen werden, wie die des Nachtwächters, der seit bald 600 Jahren den Ort beschützt....",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -2168,8 +2224,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyM1dPMDA1Mzc1QTA",
-      "duration": 2594,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU0QTA",
+      "duration": 2612,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2192,50 +2248,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
       "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Weltberühmt & depressiv: Von Sisi bis Adenauer",
-      "type": "tv",
-      "overview": "Der \"Besuch vom schwarzen Hund\" oder \"Melancholie\"? Die Krankheit Depression kennt in der Geschichte viele Namen. Psychologe Leon Windscheid blickt für die Doku in die Vergangenheit.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/weltberuehmt-und-depressiv-von-sisi-bis-adenauer-movie-100",
-      "duration": 2625,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "ZDFroyal: Die Queen und ich",
-      "type": "tv",
-      "overview": "Für viele schien sie unsterblich, für manche bleibt sie es: Elizabeth II. - die Jahrhundertkönigin. Vertraute aus dem \"Inner Circle\" teilen für ZDFroyal erstmals ihre Erinnerungen an die Queen.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/zdfroyal-die-queen-und-ich-movie-100",
-      "duration": 2622,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2376,6 +2388,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Mia Farrow - Zwischen Fiktion und Realität",
+      "type": "tv",
+      "overview": "Von der Verkörperung weiblicher Unschuld der Anfangsjahre bis hin zu ihrem humanitären Engagement in den letzten Jahrzehnten: Die Lebensgeschichte von Mia Farrow ist die einer leidenschaftlichen Schauspielerin, die von den großen Regisseuren ihrer Zeit in eine bestimmte Rolle der Weiblichkeit gedrängt wurde, irgendwo zwischen Unschuld und Wahnsinn.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filmgrößen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116876-000-A/mia-farrow-zwischen-fiktion-und-realitaet/",
+      "duration": 3133,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Stiefel, die den Tod bedeuten",
+      "type": "tv",
+      "overview": "Nachdem sie bei einem Reitunfall ihr Augenlicht verloren hat, wird Sarah bei Verwandten aufgenommen, um sich an das neue Leben zu gewöhnen. Als sie eines Abends ausgeht, wird das Haus der Familie zum Schauplatz eines Verbrechens. Blind und wehrlos gerät Sarah ins Visier des Mörders. Schonungsloses Spannungskino von Richard Fleischer. Mit Mia Farrow.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/129313-000-A/stiefel-die-den-tod-bedeuten/",
+      "duration": 5138,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Darling",
+      "type": "tv",
+      "overview": "Julie Christie spielt in John Schlesingers preisgekröntem Drama \"Darling\" das britische Fotomodell Diana Scott, das in den Swinging Sixties auf die Mittel der Verführung setzt, um nach oben zu gelangen. Mit verschiedenen Partnern genießt Diana ein exzessives Partyleben in London und Paris – bis sie sich unversehens in einem goldenen Käfig in Italien wiederfindet …",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/131501-000-A/darling/",
+      "duration": 6840,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Romy und Magda Schneider - Mutter - Tochter - Rivalinnen?",
       "type": "tv",
       "overview": "Schauspielerin Romy Schneider und ihre Mutter Magda – über die Mutter-Tochter-Beziehung wurde immer wieder spekuliert. Die Doku zeigt die enge Verbindung der beiden Frauen in einem ungeahnten Licht und thematisiert auch ihre Ängste und Sehnsüchte. Verschollen geglaubtes Filmmaterial und bisher unbekannte Briefe geben neue Einblicke.",
@@ -2478,72 +2556,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/079365-000-A/tuerkisch-fuer-anfaenger/",
       "duration": 6246,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Kardinal",
-      "type": "tv",
-      "overview": "Vom jungen Priester zum Kardinal: Stephen Fermoyle widmet sein Leben dem Glauben und der katholischen Kirche – und gerät dabei immer wieder in Konflikt mit seinem Gewissen. Vor dem Hintergrund der politischen Umbrüche des 20. Jahrhunderts erzählt Otto Preminger ein Drama über Verantwortung und moralische Entscheidungen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/130956-000-A/der-kardinal/",
-      "duration": 10088,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf (Originalversion)",
-      "type": "tv",
-      "overview": "Katharine Hepburn wurde am 12. Mai 1907 in Connecticut geboren. Sie entwickelte sich zu einer der prägendsten Figuren Hollywoods. Sie brach mit den Konventionen ihrer Zeit und setzte mit ihrem außergewöhnlichen Talent neue Maßstäbe – sowohl auf der Leinwand als auch abseits davon. So wurde Hepburn zum Vorbild vieler Schauspielerinnen und mit vier Oscars ausgezeichnet.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/118624-000-A/call-me-kate/",
-      "duration": 5159,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Call Me Kate - Katharine Hepburn, Star mit eigenem Kopf",
-      "type": "tv",
-      "overview": "Katharine Hepburn wurde am 12. Mai 1907 in Connecticut geboren. Sie entwickelte sich zu einer der prägendsten Figuren Hollywoods. Sie brach mit den Konventionen ihrer Zeit und setzte mit ihrem außergewöhnlichen Talent neue Maßstäbe – sowohl auf der Leinwand als auch abseits davon. So wurde Hepburn zum Vorbild vieler Schauspielerinnen und mit vier Oscars ausgezeichnet.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/118624-000-A/call-me-kate/",
-      "duration": 5159,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2718,8 +2730,30 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0yMV8yMC0xNS1NRVo",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMy0xMS0yMV8yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5279,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "1. Wettbewerbstag St. Ingberter Pfanne 2026",
+      "type": "tv",
+      "overview": "Hier sehen Sie die Highlights des ersten Wettbewerb-Tages aus der Industriekathedrale Alte Schmelz in St Ingbert mit queer-feministischer Comedy von AnnPhie Fritz, dem Stand-up-Comedian André Herrmann und der A Cappella Band „NOICE.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Unterhaltung & Comedy"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNTky",
+      "duration": 2406,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2816,24 +2850,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Folge 7: Best-of Teil 1 (S03/E07)",
+      "title": "Laura Braun in kabarett.com",
       "type": "tv",
-      "overview": "In dieser besonderen Folge präsentiert Michael Mittermeier die lustigsten Momente und Highlights aus der ersten Staffel des Lucky Punch Comedy Club. Michael Mittermeier hat sich in das Archiv des Lucky Punch Comedy Clubs begeben und die lustigsten Stand-Ups und absoluten Lieblingsmomente des Publikums zusammengestellt....",
+      "overview": "Autobiografische Texte, gesellschaftliche Kritik und emotionale Tiefe - Laura Brauns Lieder sind berührend und schaffen Raum für Hoffnung und Mut.",
       "genres": [
         "Komödie"
       ],
       "keywords": [
-        "Mittermeiers Lucky Punch Comedy Club"
+        "kabarett.com"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI2MTEzQTA",
-      "duration": 2612,
+      "url": "https://www.sr-mediathek.de/index.php?seite=7&id=160264",
+      "duration": 2700,
       "providers": {
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Stefan Haider - Director's Cut",
+      "type": "tv",
+      "overview": "Der Religionslehrer Stefan Haider erzählt in seinem neuen Programm, wie er überraschend zum Schuldirektor wurde. Dafür hat er aber eine klare Erklärung: Seine Bewerbung und eine visionäre Idee. Doch Haiders Pläne machen nicht vor dem Schulgebäude halt. Wenn schon die Schule neu aufgestellt wird, dann gleich das ganze Leben, die Welt und das Universum.\n\nBildquelle: ORF/Hubert Mican",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14338093/stefan-haider-director-s-cut",
+      "duration": 3828,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
       }
     },
     {
@@ -2874,50 +2930,6 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14336899/kernoelamazonen-die-grosse-jubilaeumsshow",
       "duration": 4345,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Lydia Prenner-Kasper - Salon Lydia",
-      "type": "tv",
-      "overview": "Ein humorvollen Seelenstriptease: Das Chaos des Lebens charmant zerlegt und scharfsinnig serviert. Mit viel Wiener Schmäh und treffsicherem Humor lädt Lydia Prenner-Kasper in den \"Salon Lydia\" – einen Ort voller kabarettistischer Glückseligkeit. In stilvoller Atmosphäre philosophiert sie über die Absurditäten des Alltags, erzählt von den Sonnen- und Schattenseiten des Lebens und nimmt dabei auch sich selbst pointiert aufs Korn....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14336116/lydia-prenner-kasper-salon-lydia",
-      "duration": 4168,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Stipsits & Rubey: Gott und Söhne",
-      "type": "tv",
-      "overview": "Zwei Kabarettisten, dutzende Rollen, ein fataler Plot: Sterben gehört hier zum Running Gag. Was passiert, wenn zwei Kabarettisten ihr eigenes Stück erfinden – und dabei ihre Figuren reihenweise umbringen? Thomas Stipsits und Manuel Rubey liefern sich eine irrwitzige Tour de Force mit Verfolgungsjagden, absurden Wendungen und jeder Menge Spielfreude. Bis plötzlich klar wird: Auch sie selbst sind nur Figuren in einem Drehbuch....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14335102/stipsits-rubey-gott-und-soehne",
-      "duration": 4800,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3029,6 +3041,29 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14337826/42-stunden-52-minuten-51-sekunden-9-11-im-orf-newsroom",
       "duration": 2749,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "CIA: Im Schatten von 9/11 (3/3)",
+      "type": "tv",
+      "overview": "Die Doku zeichnet nach, wie sich die CIA nach den Anschlägen vom 11. September 2001 von einem Geheimdienst zu einer global agierenden paramilitärischen Macht wandelte. Ehemalige Spione, Offiziere und Analysten berichten über den \"Krieg gegen den Terror\" - von Afghanistan über die Tötung Bin Ladens bis zum Aufstieg des IS und der Rückkehr der Taliban....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "zeit.geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14337825/cia-im-schatten-von-9113-3",
+      "duration": 2590,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3167,29 +3202,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/104043-000-A/wilhelm-und-rudolf-die-verfeindeten-prinzen/",
       "duration": 3063,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Sachsen - Piraten. Heiden. Kaiser",
-      "type": "tv",
-      "overview": "Die Geschichte der Sachsen ist ein Mysterium. Die Römer bezeichneten sie als Piratenvolk, das ihre Siedlungen mit Booten überfiel. Für Karl den Großen waren sie vor allem Heiden, Ungläubige, die er im achten Jahrhundert \"mit dem Schwert missioniert\". Aber dann gelingt den Sachsen das Erstaunliche – 160 Jahre nach Karl sitzt einer von ihnen, Otto der Große, auf dem Kaiserthron.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/113569-000-A/die-sachsen-piraten-heiden-kaiser/",
-      "duration": 5399,
       "providers": {
         "netflix": null,
         "prime": null,
