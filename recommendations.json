@@ -1,7 +1,57 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-10T09:17:31.950Z",
+  "generated_at": "2026-09-11T09:16:14.377Z",
   "items": [
+    {
+      "tmdb_id": 1440098,
+      "title": "Drawn Together",
+      "type": "movie",
+      "overview": "Marfil Cortés, die Tochter eines wohlhabenden spanischen Geschäftsmanns, wird entführt und wieder freigelassen, woraufhin ihr Vater Sebastian Moore als Bodyguard engagiert. Trotz anfänglicher Konflikte entwickeln sie eine unwiderstehliche Anziehungskraft und bewegen sich in einer Welt, in der niemand der ist, für den er sich ausgibt.",
+      "genres": [
+        "Liebesfilm",
+        "Thriller"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "kidnapping",
+        "bodyguard",
+        "family secrets",
+        "sexual tension",
+        "dark romance"
+      ],
+      "rating": 6.7,
+      "vote_count": 33,
+      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1522689,
+      "title": "Auch Liebe macht mal Ferien 3",
+      "type": "movie",
+      "overview": "Die Paare kommen zu einer Hochzeit wieder zusammen, was zu alten und neuen Dramen führt und sie dazu zwingt, sich zu fragen, warum sie eigentlich geheiratet haben.",
+      "genres": [
+        "Komödie",
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "sequel"
+      ],
+      "rating": 6.6,
+      "vote_count": 13,
+      "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1386315,
       "title": "The Runner",
@@ -28,8 +78,8 @@
         "dramatic",
         "suspenseful"
       ],
-      "rating": 6.714,
-      "vote_count": 359,
+      "rating": 6.708,
+      "vote_count": 375,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
@@ -59,8 +109,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.11,
-      "vote_count": 3258,
+      "rating": 8.112,
+      "vote_count": 3264,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -86,129 +136,10 @@
         "offbeat",
         "action"
       ],
-      "rating": 7.839,
-      "vote_count": 891,
+      "rating": 7.842,
+      "vote_count": 896,
       "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 69557,
-      "title": "Fauda",
-      "type": "tv",
-      "overview": "Fauda bedeutet zu Deutsch ungefähr so viel wie Chaos. Und genau darum geht es in der israelischen Action-Thriller-Serie. Im Mittelpunkt des Geschehens befinden sich palästinensische Hamaskämpfer, die auf der einen Seite ganz offensichtlich als Terroristen auf den Plan treten, auf der anderen Seite allerdings ganz normale Menschen sind.",
-      "genres": [
-        "Drama",
-        "Action & Adventure",
-        "War & Politics"
-      ],
-      "keywords": [
-        "israel",
-        "war on terror",
-        "belgium",
-        "undercover agent",
-        "special unit",
-        "palestinian-israeli conflict",
-        "terrorism",
-        "israeli defense force",
-        "undercover operation",
-        "gaza strip",
-        "arab world",
-        "west bank",
-        "arab-israeli conflict",
-        "hamas palestinian militant",
-        "palestinian authority (pa)"
-      ],
-      "rating": 7.4,
-      "vote_count": 271,
-      "poster_path": "/3Z88sRM4lbXodN6DSIz4WsOEFO6.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/69557/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "employer employee relationship",
-        "secret relationship",
-        "workplace romance",
-        "negative",
-        "based on web novel",
-        "arrogant"
-      ],
-      "rating": 8.2,
-      "vote_count": 11,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 255358,
-      "title": "The Ghost in the Shell",
-      "type": "tv",
-      "overview": "2029, Japan in naher Zukunft. Cyborg Motoko Kusanagi und ihr Team werden von Daisuke Aramaki als „Sektion 9 der Staatssicherheit\", auch bekannt als „Shell-Einheit\", rekrutiert, um Bedrohungen präventiv zu bekämpfen. Eine internationale Verschwörung deutet auf den Hacker „Puppenspieler\" hin. Welches Schicksal erwartet Kusanagi? Was hat der Hacker vor? Eine neue Cyberpunk-Ära beginnt!",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "cyborg",
-        "police",
-        "cyberpunk",
-        "based on manga",
-        "counterterrorism",
-        "cybercrime",
-        "anime",
-        "female cyborg",
-        "public security"
-      ],
-      "rating": 8.147,
-      "vote_count": 51,
-      "poster_path": "/v6D7aBJynhY6opGugGJkofzknw6.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/255358-the-ghost-in-the-shell/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 314478,
-      "title": "DANG!",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Animation",
-        "Komödie"
-      ],
-      "keywords": [
-        "new york city",
-        "adult animation",
-        "older sister"
-      ],
-      "rating": 8.333,
-      "vote_count": 3,
-      "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/314478-dang/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -247,10 +178,37 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.748,
+      "rating": 8.7,
       "vote_count": 5530,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 299952,
+      "title": "早春晴朗",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "romance",
+        "employer employee relationship",
+        "secret relationship",
+        "workplace romance",
+        "negative",
+        "based on web novel",
+        "arrogant"
+      ],
+      "rating": 8.375,
+      "vote_count": 12,
+      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -278,8 +236,8 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.6,
-      "vote_count": 142,
+      "rating": 6.7,
+      "vote_count": 144,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
@@ -302,8 +260,8 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.787,
-      "vote_count": 581,
+      "rating": 8.793,
+      "vote_count": 598,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
       "providers": {
@@ -330,8 +288,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.149,
-      "vote_count": 1500,
+      "rating": 8.155,
+      "vote_count": 1507,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -360,8 +318,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.403,
-      "vote_count": 4685,
+      "rating": 8.404,
+      "vote_count": 4689,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -405,7 +363,7 @@
         "gritty"
       ],
       "rating": 7.959,
-      "vote_count": 4337,
+      "vote_count": 4343,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -441,7 +399,7 @@
         "dramatic"
       ],
       "rating": 8.538,
-      "vote_count": 3517,
+      "vote_count": 3520,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -451,18 +409,58 @@
       }
     },
     {
-      "tmdb_id": 84969,
-      "title": "LOL: Last One Laughing Mexico",
-      "type": "tv",
-      "overview": "Zehn mexikanische Comedians treten in einem sechsstündigen Wettbewerb gegeneinander an. Wer über die Witze der anderen lacht, verliert. Wer übrig bleibt, darf sich über ein Preisgeld in Höhe von einer Million Pesos freuen.",
+      "tmdb_id": 616,
+      "title": "Last Samurai",
+      "type": "movie",
+      "overview": "Der abgehalfterte US-Militär Captain Nathan Algren nimmt im Jahr 1875 den Auftrag an, die Armee des japanischen Kaisers auszubilden. Er soll die Truppe auf den Kampf gegen die alten Krieger des japanischen Kaiserreichs vorbereiten: den Kampf gegen die Samurai. Doch bereits im ersten Gefecht werden die Soldaten vernichtend geschlagen und Algren wird gefangen genommen. Schwer verletzt wird er in das Dorf des Anführers der Samurai Katsumoto gebracht. Er wird gesund gepflegt und lernt die Lebensweise der Samurai kennen. Wieder zurück in Tokio muss er sich entscheiden, auf welcher Seite er steht. Wird er mit den von Amerikanern geführten japanischen Soldaten kämpfen oder sich für die Seite der Samurai entscheiden?",
       "genres": [
-        "Komödie"
+        "Drama",
+        "Action",
+        "Kriegsfilm"
       ],
-      "keywords": [],
-      "rating": 7.414,
-      "vote_count": 321,
-      "poster_path": "/RHkYMwtfUuhddxZoXGDTq56rPT.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/84969-lol-last-one-laughing/watch?locale=DE",
+      "keywords": [
+        "japan",
+        "samurai",
+        "swordplay",
+        "general",
+        "sense of guilt",
+        "war veteran",
+        "sword",
+        "war crimes",
+        "loss of loved one",
+        "self-discovery",
+        "arms deal",
+        "homeland",
+        "katana",
+        "emperor",
+        "language barrier",
+        "mountain village",
+        "foreign legion",
+        "insurgence",
+        "mercenary",
+        "campaign",
+        "war strategy",
+        "gettysburg",
+        "slaughter",
+        "soldier",
+        "period drama",
+        "alcoholic",
+        "u.s. soldier",
+        "japanese army",
+        "warrior",
+        "meditative",
+        "19th century",
+        "war trauma",
+        "racial harmony",
+        "inspirational",
+        "celebratory",
+        "cultural pride",
+        "going native"
+      ],
+      "rating": 7.612,
+      "vote_count": 7758,
+      "poster_path": "/zxUiSv7gK4VLfCyU7quE9r5S0Qt.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/616-the-last-samurai/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -470,7 +468,120 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000221970.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000221886.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 73586,
+      "title": "Yellowstone",
+      "type": "tv",
+      "overview": "„Yellowstone“ folgt der einflussreichen Familie Dutton, die eine der größten Ranches in den USA besitzt und ständig um deren Erhalt kämpfen muss. Die Serie zeigt, wie sie sich gegen politische Interessen, Landentwickler und rivalisierende Gruppen behaupten. Gleichzeitig beleuchtet sie die komplexen Beziehungen innerhalb der Familie und die moralischen Grenzen, die sie zu überschreiten bereit sind. Insgesamt verbindet die Serie moderne Western‑Atmosphäre mit Machtkämpfen, Loyalität und Konflikten um Land und Identität.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "keywords": [
+        "montana",
+        "ranch",
+        "family drama",
+        "crime family",
+        "cattle ranch",
+        "neo-western",
+        "yellowstone",
+        "wildlife conservation",
+        "trend",
+        "arrogant",
+        "complicated",
+        "contemporary western"
+      ],
+      "rating": 8.269,
+      "vote_count": 3322,
+      "poster_path": "/n3LvkTNTULObSGmDOixRtahBLjR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000222287.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 76479,
+      "title": "The Boys",
+      "type": "tv",
+      "overview": "Eine ehrfurchtslose Interpretation dessen, was passiert, wenn Superhelden, die berühmt sind wie Stars, einflussreich sind wie Politiker und verehrt werden wie Götter, ihre Superkräfte missbrauchen, anstatt Gutes zu tun. Die Machtlosen stellen sich gegen die Übermächtigen, als The Boys versuchen, die Wahrheit über \"The Seven\" und Vought dahinter ans Licht zu bringen.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "corruption",
+        "satire",
+        "superhero",
+        "based on comic",
+        "gore",
+        "tragedy",
+        "evil corporation",
+        "super power",
+        "superhero team",
+        "violence",
+        "hilarious"
+      ],
+      "rating": 8.434,
+      "vote_count": 13394,
+      "poster_path": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/76479-the-boys/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000222286.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 267860,
+      "title": "London Has Fallen",
+      "type": "movie",
+      "overview": "Nach dem plötzlichen, rätselhaften Tod des britischen Premierministers ist seine Beerdigung ein Pflichttermin für die Staatsoberhäupter der westlichen Welt. Selbstverständlich nimmt auch US-Präsident Benjamin Asher daran teil, begleitet von seinem Leibwächter Mike Banning. Doch was als die bestgeschützte Veranstaltung auf dem Planeten beginnt, entwickelt sich schnell zu einem tödlichen Spießrutenlauf, bei dem das Leben der mächtigsten Anführer der Erde auf dem Spiel steht. Nur mit knapper Not kann Banning das Leben des US-Präsidenten schützen und mit ihm in den Londoner Untergrund fliehen. Doch die Hintermänner der Verschwörung verlangen seine Auslieferung und nehmen die britische Hauptstadt ins Visier. Während Vizepräsident Trumbull versucht, das gnadenlose Ultimatum hinauszuzögern, nimmt Banning den Kampf auf…",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Thriller"
+      ],
+      "keywords": [
+        "london, england",
+        "usa president",
+        "sequel",
+        "terrorism",
+        "political assassination",
+        "terrorist attack",
+        "dramatic",
+        "arrogant",
+        "derogatory",
+        "disheartening",
+        "disrespectful"
+      ],
+      "rating": 6.227,
+      "vote_count": 5206,
+      "poster_path": "/lnY5UEfMZZphFTBTn82PLg2K38T.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/267860-london-has-fallen/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000221712.html",
         "mentions": 2
       }
     },
@@ -1110,6 +1221,94 @@
     },
     {
       "tmdb_id": null,
+      "title": "Unaufhaltsam",
+      "type": "tv",
+      "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/unaufhaltsam-movie-100/unaufhaltsam-100",
+      "duration": 7094,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Unaufhaltsam (Englisch)",
+      "type": "tv",
+      "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/unaufhaltsam-movie-100/unaufhaltsam-100",
+      "duration": 7094,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "The Founder",
+      "type": "tv",
+      "overview": "Der erfolglose Vertreter Ray Kroc verfolgt den amerikanischen Traum. Als er einen beliebten Schnellimbiss besucht, entwickelt er einen visionären Plan. Er will Franchiserechte erwerben.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/the-founder-movie-100/the-founder-100",
+      "duration": 6664,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "The Founder (Englisch)",
+      "type": "tv",
+      "overview": "Der erfolglose Vertreter Ray Kroc verfolgt den amerikanischen Traum. Als er einen beliebten Schnellimbiss besucht, entwickelt er einen visionären Plan. Er will Franchiserechte erwerben.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/the-founder-movie-100/the-founder-100",
+      "duration": 6664,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Liberace – Zu viel des Guten ist wundervoll",
       "type": "tv",
       "overview": "Als ein junger Mann zufällig einen weltberühmten Entertainer kennenlernt, verändert sich sein Leben komplett. Zwischen den unterschiedlichen Männern entwickelt sich eine Affäre.",
@@ -1242,90 +1441,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "Lauf Junge lauf - Spielfilm, Deutschland/Frankreich 2013",
+      "title": "Familiengeheimnisse (6/6)",
       "type": "tv",
-      "overview": "\"Lauf Junge lauf\" erzählt die wahre Geschichte des neunjährigen Srulik, dem die Flucht aus dem Warschauer Ghetto gelingt. Bis zum Kriegsende muss er allein ums Überleben kämpfen.",
+      "overview": "Infolge ihres Traumas durchlebt Manu erneut den tragischen Unfalltod ihrer Mutter. Da der strafunmündige Steven sich bereits schuldig bekannt hat, lehnt Martí eine Mediation strikt ab. Als Manu und Lluís zur Colla Castellera gehen, kommt es zu einer Begegnung mit Martí und Pol, und der Konflikt zwischen den beiden Familien flammt erneut auf.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/lauf-junge-lauf-102.html",
-      "duration": 5917,
+      "url": "https://www.arte.tv/de/videos/127977-006-A/familiengeheimnisse-6-6/",
+      "duration": 3110,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Schachnovelle - Spielfilm, Deutschland/Österreich 2020",
+      "title": "Familiengeheimnisse (5/6)",
       "type": "tv",
-      "overview": "Österreich, 1938. Der Wiener Lebemann Dr. Josef Bartok verdrängt die Gefahr der NS-Machtübernahme. Erst kurz vor dem \"Anschluss\" an das Deutsche Reich entschließt er sich zur Flucht.",
+      "overview": "Bei ihrer Vernehmung stehen Manu zwei Psychologinnen zur Seite. Ihr Vater Lluís ist lediglich Zuhörer, während Pol, sein Vater und seine Anwältin Fragen stellen dürfen. Manu rekapituliert die Ereignisse der Johannisnacht, in der die Teenager in Pols Zimmer getrunken, getanzt und Videos gedreht haben, bis sie einschliefen.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/schachnovelle-102.html",
-      "duration": 6084,
+      "url": "https://www.arte.tv/de/videos/127977-005-A/familiengeheimnisse-5-6/",
+      "duration": 2889,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Kommt ein Vogel geflogen - Spielfilm, Deutschland 2023",
+      "title": "Familiengeheimnisse (4/6)",
       "type": "tv",
-      "overview": "Birgit Singer ist Tierpflegerin und trägt die Hauptlast der Familie: Sie leitet ein Tierheim, finanziert die Promotion ihres Mannes und kümmert sich um ihre stotternde Tochter Sarah.",
+      "overview": "Eine spanische Kleinstadt: Am Johannistag toben Pol, Steven und Manu im Pool. Pol fühlt sich zu Steven hingezogen, der wiederum ein Auge auf Manu geworfen hat. Als enge Freunde stellen sie einander intime Fragen. Roger, Pols noch etwas kindlicherer Cousin, verschafft sich mit drastischen Videos Aufmerksamkeit.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/kommt-ein-vogel-geflogen-100.html",
-      "duration": 6347,
+      "url": "https://www.arte.tv/de/videos/127977-004-A/familiengeheimnisse-4-6/",
+      "duration": 2817,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Starve Acre - Spielfilm, Großbritannien 2023",
-      "type": "tv",
-      "overview": "Ein abgelegenes Bauernhaus im ländlichen England der 70er Jahre. Das Leben von Richard und Juliette gerät aus den Fugen, als ihr Sohn anfängt, sich außergewöhnlich zu verhalten.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/starve-acre-100.html",
-      "duration": 5662,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
@@ -1436,72 +1613,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Großstadtförsterin - Berliner Besonderheiten - Fernsehfilm, Deutschland 2024",
-      "type": "tv",
-      "overview": "Die junge Försterin Jana Doussière tritt kurzfristig eine Stelle im Forstamt Grunewald an. Aus einem wilden Wald in den Vogesen kommend, prallt die Einzelgängerin auf den Großstadtwald.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/fernsehfilm/grossstadtfoersterin-berliner-besonderheiten-104.html",
-      "duration": 5337,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Querschuss",
-      "type": "tv",
-      "overview": "Als Großvater Joachim kurz vor den Feierlichkeiten zu seinem 80. Geburtstag sich das Leben nimmt, trifft dies seine Angehörigen völlig unvorbereitet. Sohn Andreas erfasst neben der Trauer auch hilflose Wut. Seine Familie und seine labile Schwester Ulrike, die stets von den Eltern bevorzugt wurde, kämpfen auf je eigene Weise mit dem Verlust. Regie: Nicole Weegmann",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Fernsehfilme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/113550-000-A/querschuss/",
-      "duration": 5357,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ich will mein Glück zurück - Fernsehfilm, Deutschland 2023",
-      "type": "tv",
-      "overview": "Zur Goldenen Hochzeit plant Ulla auf dem Partyschiff \"Alte Liebe\" die Erneuerung des Eheversprechens. Doch vor allen Gästen gesteht ihr Mann Paul seine Liebe zu ihrer Freundin Rita.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/fernsehfilm/ich-will-mein-glueck-zurueck-100.html",
-      "duration": 5326,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -1621,9 +1732,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Weihnachten im Schnee",
+      "title": "Eine wie diese",
       "type": "tv",
-      "overview": "Die erwachsenen Geschwister Annika, Sanne und Bastian fallen aus allen Wolken: Weihnachten soll dieses Jahr im Schnee stattfinden, genauer gesagt in einer Hütte in Norwegen.",
+      "overview": "Traumberuf Kriminalpolizistin - Anfang der 1970er-Jahre ist das eine Revolution. Die junge Sekretärin Siggi Thieme bewirbt sich als eine der ersten und löst damit ein privates Erdbeben aus.",
       "genres": [
         "Liebesfilm",
         "Drama"
@@ -1634,12 +1745,12 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/weihnachten-im-schnee-100.html",
-      "duration": 5324,
+      "url": "https://www.3sat.de/film/herzkino/eine-wie-diese-100.html",
+      "duration": 5315,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "3sat"
       }
     },
     {
@@ -1798,24 +1909,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Geld her! – Die großen Banküberfälle (S2026/E21)",
+      "title": "Der reisende Postbote",
       "type": "tv",
-      "overview": "Sie treibt die Gier nach dem großen Geld: Bankräuber! Sie träumen vom Coup ihres Lebens und werden zu Verbrechern. \"Terra X History\" erzählt die Geschichte hinter den größten Banküberfällen.",
+      "overview": "Vincents Reiseziel spielt keine Rolle. Er wird seine Radtour mit handgeschriebenen Briefen machen, die er persönlich ausliefert. «Es geht darum, nicht selbst zu entscheiden, wohin die Reise geht. Es sind die anderen, die entscheiden.» Die Adressen bestimmen den Lauf, die Konstellation von Orten und Begegnungen.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History - die Einzeldokus"
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/geld-her--die-grossen-bankueberfaelle-100",
-      "duration": 2694,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/der-reisende-postbote?urn=urn:srf:video:4ef2cf5b-c4e1-4788-b692-bdea37179357",
+      "duration": 3025,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "SRF"
       }
     },
     {
@@ -2062,24 +2173,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Sieben Winter in Teheran",
+      "title": "NANO Doku: Kann Spieltheorie die Welt retten?",
       "type": "tv",
-      "overview": "Die iranische Studentin Reyhaneh Jabbari ist 19 Jahre alt, als ein Geschäftsmann sie vergewaltigt und sie ihn in Notwehr ersticht.",
+      "overview": "Warum kooperieren wir? Welche Strategien helfen uns bei Entscheidungen? Ob bei geopolitischen Konflikten, im globalen KI-Wettlauf oder in der WG-Küche: Die Spieltheorie hat die Antwort.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "NANO Doku"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE4MTYwNA",
-      "duration": 5331,
+      "url": "https://www.3sat.de/wissen/nano-doku/260910-nano-doku-kann-spieltheorie-die-welt-retten-ndk-100.html",
+      "duration": 2627,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
       }
     },
     {
@@ -2168,28 +2279,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Tier-Docs: Ziege mit Haarausfall",
-      "type": "tv",
-      "overview": "Auch Ziegen können Haarausfall haben. Jedenfalls ist Land-Tierarzt Lukas Bretzinger damit befasst, als er auf den Belchen im Schwarzwald fährt. Sein Vater Jörg muss sich um drei kranke Rinder in Bollschweil (Breisgau-Hochschwarzwald) kümmern. Eines davon hat eine Lungenentzündung und frisst nicht mehr. Damit Tiere untersucht werden können, müssen sie erstmal eingefangen werden....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDgzNjg",
-      "duration": 2683,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2370,6 +2459,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Der Schein trügt",
+      "type": "tv",
+      "overview": "Stojan ist ein unbescholtener Mann, der alles für seine Familie tut. Doch als über seinem Kopf ein Heiligenschein aufleuchtet, beginnt er zu sündigen, um nicht mit seinen Lieben aus dem Dorf vertrieben zu werden. Dem Regisseur gelingt eine so furiose wie groteske Bestandsaufnahme des postsozialistischen Europas. Tragikomödie in drei Episoden von Srdjan Dragojevic.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/082147-000-A/der-schein-truegt/",
+      "duration": 7318,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kurzschluss - Lebenseinschnitte",
       "type": "tv",
       "overview": "Ivar, Kurzfilm von Markus Tangre / Kokon, Kurzfilm von Inés Sedan / Aufstieg und Fall von Zara Zilverstein, Kurzfilm von Brian Kazez / Porträt – Pauline Doméjean, Kamerafrau",
@@ -2524,24 +2635,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Bon Voyage",
+      "title": "Verlorene Seelen. Ein Krimi aus Passau",
       "type": "tv",
-      "overview": "Juni 1940 in Frankreich: Frédéric träumt davon, Schriftsteller zu werden. Im Chaos des Einmarschs der Wehrmacht wird er wegen eines Verbrechens verhaftet, das er nicht begangen hat. Zusammen mit dem Mitgefangenen Raoul bricht er aus dem Gefängnis aus und flieht nach Bordeaux ... - Raffinierter Mix aus Drama, Komödie und Thriller (2003) von Jean-Paul Rappeneau.",
+      "overview": "Spielfilm Deutschland 2026 Auf dem Ausflugsschiff einer Passauer Reederei, der „Queen Danubia“, die im Industriehafen vor Anker liegt, kommt es immer wieder zu nächtlichen Einbrüchen. Ferdinand Zankl (Michael Ostrowski) soll dem Spuk ein Ende bereiten. Der Privatermittler übernimmt die Überwachung des Schiffes....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Ein Krimi aus Passau"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/117646-000-A/bon-voyage/",
-      "duration": 6509,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmc",
+      "duration": 5386,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2700,20 +2811,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Blind ermittelt – Tod im Prater",
+      "title": "4. Wettbewerbstag St. Ingberter Pfanne 2026",
       "type": "tv",
-      "overview": "Spielfilm Deutschland/Österreich 2022 Eine Frau stößt im Streit ihren Mann aus dem Fenster seines Hochhausbüros und nimmt anschließend eine fast tödliche Dosis Schlaftabletten. Kommissarin Janda bittet ihren blinden Ex-Chef Haller und seine \"rechte Hand\" Niko um Unterstützung. Mit Philipp Hochmair, Andreas Guenther, Jaschka Lämmert, Michael Edlinger, Karin Hanczewski u. a....",
+      "overview": "Hier sehen Sie die Highlights des vierten Wettbewerb-Tages aus St. Ingbert mit dem makaber-lebensfrohen Tod, Kabarettistin Inka Meyer zwischen Dauerstress und Selbstoptimierung und Nils Brunschede, der aus Liebeskummer beste Unterhaltung macht.",
       "genres": [
-        "Krimi"
+        "Komödie"
       ],
       "keywords": [
-        "Der Wien-Krimi: Blind ermittelt"
+        "Unterhaltung & Comedy"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2UxYTM0ZjZmLWYxMmQtNDI1NS04MTY1LTI5NGVhODhkYWFiMV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5280,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNzQy",
+      "duration": 2700,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2766,20 +2877,42 @@
     },
     {
       "tmdb_id": null,
-      "title": "1. Wettbewerbstag St. Ingberter Pfanne 2026",
+      "title": "Kabarett im Turm: Thomas Strobl - Einmal mit alles",
       "type": "tv",
-      "overview": "Hier sehen Sie die Highlights des ersten Wettbewerb-Tages aus der Industriekathedrale Alte Schmelz in St Ingbert mit queer-feministischer Comedy von AnnPhie Fritz, dem Stand-up-Comedian André Herrmann und der A Cappella Band „NOICE.",
+      "overview": "Zum 60. Geburtstag bringt Vollblut-Unterhalter Thomas Strobl ein neues Soloprogramm mit allem, was ihm und seinem Publikum Freude macht, auf die Bühne: Gitarre, Piano, Bass, Akkordeon und Geige, vielleicht auch die Ukulele. Dazu kommen Geschichten über Musik, Leben, Werbung und Liebe sowie jede Menge Schmäh. Von humorvollen Höhen bis zu privaten Tiefen, von Mitsinghits bis Mozart. Dieser Abend verspricht Unterhaltung pur....",
       "genres": [
         "Komödie"
       ],
       "keywords": [
-        "Unterhaltung & Comedy"
+        "Kabarettprogramme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNTky",
-      "duration": 2406,
+      "url": "https://on.orf.at/video/14338470/kabarett-im-turm-thomas-strobl-einmal-mit-alles",
+      "duration": 2674,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Happy Birthday, Wolfgang Krebs!",
+      "type": "tv",
+      "overview": "Wolfgang Krebs wird 60! BR Fernsehen feiert den Meister der Polit-Satire mit seinen Kultfiguren wie Stoiber, Söder und Aiwanger. Ein Best-of der pointiertesten Parodien und unvergesslichsten Szenen aus seinem langjährigen Schaffen. Ob im BR Fernsehen, bei Bayern 1 oder auf den großen Kabarettbühnen des Landes: Wolfgang Krebs begeistert seit Jahrzehnten mit seinen pointierten Parodien und seiner treffsicheren Polit-Satire....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Bestes Kabarett!"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAwODY3QTA",
+      "duration": 2595,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2828,50 +2961,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Stefan Haider - Director's Cut",
-      "type": "tv",
-      "overview": "Der Religionslehrer Stefan Haider erzählt in seinem neuen Programm, wie er überraschend zum Schuldirektor wurde. Dafür hat er aber eine klare Erklärung: Seine Bewerbung und eine visionäre Idee. Doch Haiders Pläne machen nicht vor dem Schulgebäude halt. Wenn schon die Schule neu aufgestellt wird, dann gleich das ganze Leben, die Welt und das Universum.\n\nBildquelle: ORF/Hubert Mican",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14338093/stefan-haider-director-s-cut",
-      "duration": 3828,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kabarettgipfel - Was wäre wenn?",
-      "type": "tv",
-      "overview": "Was wäre, wenn? Dieser Kabarettgipfel entführt uns in die Welt der Wahrscheinlichkeit, des könnte, wäre, hätte.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarett & Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/kabarett/kabarett-in-3sat/kabarettgipfel-was-waere-wenn-104.html",
-      "duration": 3688,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
