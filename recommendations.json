@@ -1,7 +1,31 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-11T09:16:14.377Z",
+  "generated_at": "2026-09-12T08:57:10.408Z",
   "items": [
+    {
+      "tmdb_id": 1365884,
+      "title": "Call My Agent! The Movie",
+      "type": "movie",
+      "overview": "Fünf Jahre nach der Schließung der ASK-Agentur verliert die neue Regisseurin Andréa wenige Tage vor Drehstart ihren Hauptdarsteller und muss die alte Truppe wieder vereinen.",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "keywords": [
+        "workplace comedy",
+        "talent agency",
+        "based on tv series"
+      ],
+      "rating": 6.1,
+      "vote_count": 18,
+      "poster_path": "/lJUmTDi1ssxcxkHrzVBlwhaB0v8.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1365884-dix-pour-cent-le-film/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1440098,
       "title": "Drawn Together",
@@ -19,36 +43,13 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.7,
-      "vote_count": 33,
+      "rating": 6.6,
+      "vote_count": 38,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1522689,
-      "title": "Auch Liebe macht mal Ferien 3",
-      "type": "movie",
-      "overview": "Die Paare kommen zu einer Hochzeit wieder zusammen, was zu alten und neuen Dramen führt und sie dazu zwingt, sich zu fragen, warum sie eigentlich geheiratet haben.",
-      "genres": [
-        "Komödie",
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "sequel"
-      ],
-      "rating": 6.6,
-      "vote_count": 13,
-      "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -75,16 +76,122 @@
         "child abduction",
         "serious",
         "attorney",
-        "dramatic",
-        "suspenseful"
+        "dramatic"
       ],
-      "rating": 6.708,
-      "vote_count": 375,
+      "rating": 6.718,
+      "vote_count": 395,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1522689,
+      "title": "Auch Liebe macht mal Ferien 3",
+      "type": "movie",
+      "overview": "Die Paare kommen zu einer Hochzeit wieder zusammen, was zu alten und neuen Dramen führt und sie dazu zwingt, sich zu fragen, warum sie eigentlich geheiratet haben.",
+      "genres": [
+        "Komödie",
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "sequel"
+      ],
+      "rating": 6.821,
+      "vote_count": 14,
+      "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 300507,
+      "title": "Crew Girl",
+      "type": "tv",
+      "overview": "Nach einem Familienskandal zieht der Teenager-Ruderer Teagan Tao in eine kleine Stadt und schließt sich der All-Boys-Crew einer Elite-Vorbereitungsschule an, was Rivalität und Anziehungskraft auslöst.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "friendship",
+        "high school",
+        "love",
+        "rivalry",
+        "betrayal",
+        "coming of age",
+        "rowing",
+        "teen drama",
+        "dysfunctional",
+        "mother daughter relationship",
+        "student",
+        "teen romance"
+      ],
+      "rating": 7.75,
+      "vote_count": 12,
+      "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/300507-crew-girl/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 325755,
+      "title": "Und hüte dich vor dem Bösen",
+      "type": "tv",
+      "overview": "Nach ihrem Umzug nach Bergen findet Karen Anschluss an den exklusiven Schlemmerclub, eine Gruppe wohlhabender Freunde, die ihr Leben mit Luxus und ausschweifenden Partys genießen. Die scheinbar perfekte Gemeinschaft zerbricht jedoch, als eine ihrer Villen in Flammen aufgeht und Evert ums Leben kommt. Seine Frau und die Kinder überleben nur knapp. Für Karen wird zunehmend deutlich, dass hinter der Fassade des Freundeskreises zahlreiche Geheimnisse und Konflikte verborgen liegen. Entschlossen, die Hintergründe des Unglücks aufzudecken, beginnt sie, die Mitglieder des Clubs genauer unter die Lupe zu nehmen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "intimate",
+        "thriller",
+        "soapy drama",
+        "secrets"
+      ],
+      "rating": 6.2,
+      "vote_count": 5,
+      "poster_path": "/hIQ26i3YlhfU0XvEgS1IvpvTZuN.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/325755-de-eetclub/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 236235,
+      "title": "The Gentlemen",
+      "type": "tv",
+      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "dark comedy",
+        "aristocrat",
+        "based on movie",
+        "offbeat",
+        "action"
+      ],
+      "rating": 7.856,
+      "vote_count": 906,
+      "poster_path": "/2l0gBLpjcWo4ivmbHUhFIw3KGDn.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -109,40 +216,13 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.112,
-      "vote_count": 3264,
+      "rating": 8.111,
+      "vote_count": 3272,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 236235,
-      "title": "The Gentlemen",
-      "type": "tv",
-      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
-      "genres": [
-        "Komödie",
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
-        "dark comedy",
-        "aristocrat",
-        "based on movie",
-        "offbeat",
-        "action"
-      ],
-      "rating": 7.842,
-      "vote_count": 896,
-      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -178,37 +258,10 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.7,
-      "vote_count": 5530,
+      "rating": 8.746,
+      "vote_count": 5532,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "employer employee relationship",
-        "secret relationship",
-        "workplace romance",
-        "negative",
-        "based on web novel",
-        "arrogant"
-      ],
-      "rating": 8.375,
-      "vote_count": 12,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -236,8 +289,8 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.7,
-      "vote_count": 144,
+      "rating": 6.669,
+      "vote_count": 148,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
@@ -260,38 +313,10 @@
         "fast-paced",
         "based on true events"
       ],
-      "rating": 8.793,
-      "vote_count": 598,
+      "rating": 8.795,
+      "vote_count": 610,
       "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.155,
-      "vote_count": 1507,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -318,13 +343,91 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.404,
-      "vote_count": 4689,
+      "rating": 8.406,
+      "vote_count": 4697,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "biting",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.164,
+      "vote_count": 1516,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1396,
+      "title": "Breaking Bad",
+      "type": "tv",
+      "overview": "Ein krebskranker Chemielehrer tut sich mit einem ehemaligen Schüler zusammen, um die Zukunft seiner Familie durch die Herstellung und den Verkauf von Meth zu sichern.",
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "new mexico",
+        "drug dealer",
+        "narcissism",
+        "psychopath",
+        "terminal illness",
+        "outlaw",
+        "dark comedy",
+        "cancer",
+        "tragedy",
+        "drugs",
+        "criminal",
+        "meth lab",
+        "drug lord",
+        "high school teacher",
+        "dea agent",
+        "neo-western",
+        "albuquerque, new mexico",
+        "criminal lawyer",
+        "fall from grace",
+        "cartel",
+        "mexican cartel",
+        "male egos",
+        "crystal meth",
+        "complex",
+        "dark",
+        "methamphetamine",
+        "thriller",
+        "violent",
+        "tortured genius"
+      ],
+      "rating": 8.95,
+      "vote_count": 18589,
+      "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -362,8 +465,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.959,
-      "vote_count": 4343,
+      "rating": 7.958,
+      "vote_count": 4345,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -398,8 +501,8 @@
         "cautionary",
         "dramatic"
       ],
-      "rating": 8.538,
-      "vote_count": 3520,
+      "rating": 8.537,
+      "vote_count": 3526,
       "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
       "providers": {
@@ -409,180 +512,53 @@
       }
     },
     {
-      "tmdb_id": 616,
-      "title": "Last Samurai",
+      "tmdb_id": 135397,
+      "title": "Jurassic World",
       "type": "movie",
-      "overview": "Der abgehalfterte US-Militär Captain Nathan Algren nimmt im Jahr 1875 den Auftrag an, die Armee des japanischen Kaisers auszubilden. Er soll die Truppe auf den Kampf gegen die alten Krieger des japanischen Kaiserreichs vorbereiten: den Kampf gegen die Samurai. Doch bereits im ersten Gefecht werden die Soldaten vernichtend geschlagen und Algren wird gefangen genommen. Schwer verletzt wird er in das Dorf des Anführers der Samurai Katsumoto gebracht. Er wird gesund gepflegt und lernt die Lebensweise der Samurai kennen. Wieder zurück in Tokio muss er sich entscheiden, auf welcher Seite er steht. Wird er mit den von Amerikanern geführten japanischen Soldaten kämpfen oder sich für die Seite der Samurai entscheiden?",
+      "overview": "Mehr als 20 Jahre sind vergangen, seitdem die Ereignisse auf Isla Nublar aus dem Ruder liefen. Längst ist der Themenpark wieder eröffnet, größer und sicherer und mit mehr Dinosauriern denn je, so wie es sich John Hammond ursprünglich vorgestellt hatte. Weil die Besucherzahlen deutlich nach unten gehen, arbeitet Projektleiterin Claire an einer neuen Attraktion: Ein selbst geschaffener Dino-Hybrid, der sich jedoch als so gefährlich und unberechenbar erweist, dass selbst Velociraptoren vor ihm Reißaus nehmen. Doch der erfahrene Dino-Trainer Owen nimmt den Kampf mit dem unberechenbaren Biest in seine Hände!",
       "genres": [
-        "Drama",
-        "Action",
-        "Kriegsfilm"
-      ],
-      "keywords": [
-        "japan",
-        "samurai",
-        "swordplay",
-        "general",
-        "sense of guilt",
-        "war veteran",
-        "sword",
-        "war crimes",
-        "loss of loved one",
-        "self-discovery",
-        "arms deal",
-        "homeland",
-        "katana",
-        "emperor",
-        "language barrier",
-        "mountain village",
-        "foreign legion",
-        "insurgence",
-        "mercenary",
-        "campaign",
-        "war strategy",
-        "gettysburg",
-        "slaughter",
-        "soldier",
-        "period drama",
-        "alcoholic",
-        "u.s. soldier",
-        "japanese army",
-        "warrior",
-        "meditative",
-        "19th century",
-        "war trauma",
-        "racial harmony",
-        "inspirational",
-        "celebratory",
-        "cultural pride",
-        "going native"
-      ],
-      "rating": 7.612,
-      "vote_count": 7758,
-      "poster_path": "/zxUiSv7gK4VLfCyU7quE9r5S0Qt.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/616-the-last-samurai/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000221886.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 73586,
-      "title": "Yellowstone",
-      "type": "tv",
-      "overview": "„Yellowstone“ folgt der einflussreichen Familie Dutton, die eine der größten Ranches in den USA besitzt und ständig um deren Erhalt kämpfen muss. Die Serie zeigt, wie sie sich gegen politische Interessen, Landentwickler und rivalisierende Gruppen behaupten. Gleichzeitig beleuchtet sie die komplexen Beziehungen innerhalb der Familie und die moralischen Grenzen, die sie zu überschreiten bereit sind. Insgesamt verbindet die Serie moderne Western‑Atmosphäre mit Machtkämpfen, Loyalität und Konflikten um Land und Identität.",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "keywords": [
-        "montana",
-        "ranch",
-        "family drama",
-        "crime family",
-        "cattle ranch",
-        "neo-western",
-        "yellowstone",
-        "wildlife conservation",
-        "trend",
-        "arrogant",
-        "complicated",
-        "contemporary western"
-      ],
-      "rating": 8.269,
-      "vote_count": 3322,
-      "poster_path": "/n3LvkTNTULObSGmDOixRtahBLjR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222287.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 76479,
-      "title": "The Boys",
-      "type": "tv",
-      "overview": "Eine ehrfurchtslose Interpretation dessen, was passiert, wenn Superhelden, die berühmt sind wie Stars, einflussreich sind wie Politiker und verehrt werden wie Götter, ihre Superkräfte missbrauchen, anstatt Gutes zu tun. Die Machtlosen stellen sich gegen die Übermächtigen, als The Boys versuchen, die Wahrheit über \"The Seven\" und Vought dahinter ans Licht zu bringen.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "keywords": [
-        "corruption",
-        "satire",
-        "superhero",
-        "based on comic",
-        "gore",
-        "tragedy",
-        "evil corporation",
-        "super power",
-        "superhero team",
-        "violence",
-        "hilarious"
-      ],
-      "rating": 8.434,
-      "vote_count": 13394,
-      "poster_path": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/76479-the-boys/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222286.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 267860,
-      "title": "London Has Fallen",
-      "type": "movie",
-      "overview": "Nach dem plötzlichen, rätselhaften Tod des britischen Premierministers ist seine Beerdigung ein Pflichttermin für die Staatsoberhäupter der westlichen Welt. Selbstverständlich nimmt auch US-Präsident Benjamin Asher daran teil, begleitet von seinem Leibwächter Mike Banning. Doch was als die bestgeschützte Veranstaltung auf dem Planeten beginnt, entwickelt sich schnell zu einem tödlichen Spießrutenlauf, bei dem das Leben der mächtigsten Anführer der Erde auf dem Spiel steht. Nur mit knapper Not kann Banning das Leben des US-Präsidenten schützen und mit ihm in den Londoner Untergrund fliehen. Doch die Hintermänner der Verschwörung verlangen seine Auslieferung und nehmen die britische Hauptstadt ins Visier. Während Vizepräsident Trumbull versucht, das gnadenlose Ultimatum hinauszuzögern, nimmt Banning den Kampf auf…",
-      "genres": [
-        "Action",
         "Abenteuer",
-        "Thriller"
+        "Science Fiction",
+        "Thriller",
+        "Action"
       ],
       "keywords": [
-        "london, england",
-        "usa president",
+        "island",
+        "primal fear",
+        "escape",
+        "velociraptor",
+        "dna",
+        "tyrannosaurus rex",
+        "animal attack",
         "sequel",
-        "terrorism",
-        "political assassination",
-        "terrorist attack",
-        "dramatic",
-        "arrogant",
-        "derogatory",
-        "disheartening",
-        "disrespectful"
+        "dinosaur",
+        "creature",
+        "park",
+        "amusement park",
+        "theme park",
+        "genetic engineering",
+        "nostalgic",
+        "raptor",
+        "animal horror",
+        "playful",
+        "jungle adventure",
+        "mosasaurus",
+        "excited",
+        "exhilarated"
       ],
-      "rating": 6.227,
-      "vote_count": 5206,
-      "poster_path": "/lnY5UEfMZZphFTBTn82PLg2K38T.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/267860-london-has-fallen/watch?locale=DE",
+      "rating": 6.703,
+      "vote_count": 21894,
+      "poster_path": "/7eXUkEqEpzKYDLfftEyS1Qbq7H4.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/135397-jurassic-world/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": null,
+        "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000221712.html",
-        "mentions": 2
+        "url": "https://www.filmstarts.de/nachrichten/1000222150.html",
+        "mentions": 1
       }
     },
     {
@@ -807,7 +783,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JkMzdlZGM1LTQ5MmYtNGFlZS04OGY2LTU5NzA0MzcxOWE4MV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5327,
       "providers": {
         "netflix": null,
@@ -1221,6 +1197,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
+      "type": "tv",
+      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
+      "duration": 6565,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
+      "type": "tv",
+      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
+      "duration": 6565,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Unaufhaltsam",
       "type": "tv",
       "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
@@ -1397,46 +1417,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Hot Summer Nights - Spielfilm, USA 2017",
+      "title": "Die schwarzen Schmetterlinge (2/6)",
       "type": "tv",
-      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
+      "overview": "Adrien setzt seine Arbeit mit Albert fort. Als Albert behauptet, den amerikanischen Fotografen Steven Powell getötet zu haben, glaubt ihm Adrien zunächst kein Wort. Er beendet die Zusammenarbeit, doch dann stellt sich heraus: Albert hat die Wahrheit gesagt. Damit ist Adrien zum Mitwisser geworden und steht vor einem moralischen Dilemma ...",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
-      "duration": 6051,
+      "url": "https://www.arte.tv/de/videos/100886-002-A/die-schwarzen-schmetterlinge-2-6/",
+      "duration": 3257,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Ein Schloss am Wörthersee - Der Film - Kinofilm, Österreich 1992",
+      "title": "Mord im Mittsommer - Staffel 11 (2/3) - Fall 24: Rakel",
       "type": "tv",
-      "overview": "Der charmante Lennie Berger hat von seinem Onkel das Schlosshotel Velden geerbt und will es auf Vordermann bringen. Das stößt bei den Angestellten und der Konkurrenz nicht nur auf Zuspruch.",
+      "overview": "Nachdem ihr Sohn einen Mann erschossen hat, gerät die neue Polizeichefin Rakel in einen Zwiespalt zwischen ihrer Mutterrolle und ihrer Pflicht als Polizistin. Nora unterstützt Alexander, der bei den Ermittlungen fast angeschossen wird, und Rakels Doppelleben droht das gesamte Ermittlerteam zu gefährden. \"Mord im Mittsommer\" – die Krimiserie zur gleichnamigen Romanreihe.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/ein-schloss-am-woerthersee---der-film-100.html",
-      "duration": 4938,
+      "url": "https://www.arte.tv/de/videos/125606-000-A/mord-im-mittsommer-staffel-11-2-3/",
+      "duration": 5312,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
@@ -1565,50 +1585,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/127977-003-A/familiengeheimnisse-3-6/",
       "duration": 2747,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Familiengeheimnisse (2/6)",
-      "type": "tv",
-      "overview": "Das Gerücht von einer Vergewaltigung geht um und Júlia findet auf dem Handy ihres Sohnes Roger Nachrichten, die ihn bezichtigen, einer der Täter zu sein. Durch Lucía erfährt sie, dass auch Rogers Cousin Pol und dessen Freund Steven dabei gewesen sein sollen. Júlia, die für Frauenrechte kämpft, gerät als Mutter in einen Gewissenskonflikt ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/127977-002-A/familiengeheimnisse-2-6/",
-      "duration": 2616,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Familiengeheimnisse (1/6)",
-      "type": "tv",
-      "overview": "Eine Anschuldigung wegen sexueller Gewalt unter Jugendlichen erschüttert die eingespielte Gemeinschaft eines katalanischen Castell-Vereins. Die Erwachsenen reagieren wie erstarrt und schieben die Gerüchte beiseite. Oder haben sich ihre Kinder wirklich schuldig gemacht? Leticia Doleras Drama beleuchtet Fragen von Vertrauen und Moral.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/127977-001-A/familiengeheimnisse-1-6/",
-      "duration": 2490,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1887,6 +1863,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Kriegstüchtig? 70 Jahre Bundeswehr",
+      "type": "tv",
+      "overview": "Die Bundeswehr blickt zurück auf 70 Jahre Geschichte, 1956 wurde die Wehrpflicht eingeführt. \"Terra X History\" fragt: Wie einsatzbereit war die Truppe seitdem – und wie steht sie heute da?",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/kriegstuechtig-70-jahre-bundeswehr-movie-100",
+      "duration": 5369,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Alkohol: Warum suchen wir den Rausch?",
       "type": "tv",
       "overview": "Alkohol gehört beim Feiern oft dazu – von Wiesn bis Ballermann. Doch zwischen Genuss und Kontrollverlust liegt ein schmaler Grat. Warum wir trinken, obwohl wir wissen, dass es schädlich ist.",
@@ -1905,6 +1903,72 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Geheimnisse der Jurassic-Saurier (2/2)",
+      "type": "tv",
+      "overview": "Der Allosaurus war das furchteinflößendste Raubtier des Jura. Die Fossilstätte in Wyoming könnte dabei helfen, herauszufinden, ob der Fleischfresser seinen Anteil am Untergang des legendären Pflanzenfressers Diplodocus hatte.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk1MjI1Nw",
+      "duration": 2954,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Geheimnisse der Jurassic-Saurier (1/2)",
+      "type": "tv",
+      "overview": "Die legendäre \"Jurassic Mile\", ein geheimgehaltener Ort in Wyoming/USA, ist eine der ergiebigsten Fundstätten von Dinosaurier-Fossilien weltweit.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk0NzQzMg",
+      "duration": 2967,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Jagd auf die Mafia - Die Ndrangheta in Deutschland",
+      "type": "tv",
+      "overview": "08.09.2026 Jagd auf die Mafia - Die Ndrangheta in Deutschland",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIzMDk2NQ",
+      "duration": 5313,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2107,72 +2171,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wanderungen · Der Pfad der Elefanten",
-      "type": "tv",
-      "overview": "Film von Kiri Cashell und Aidan Woodward, phoenix 2023",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDM5OQ",
-      "duration": 2889,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wanderungen · Der Treck der Karibus",
-      "type": "tv",
-      "overview": "Film von Mark Wheeler, phoenix 2023",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDQwNw",
-      "duration": 2881,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Flucht in den Osten - GIs in der DDR",
-      "type": "tv",
-      "overview": "Flucht in den Osten - GIs in der DDR",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIyNzgzNQ",
-      "duration": 2696,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "NANO Doku: Kann Spieltheorie die Welt retten?",
       "type": "tv",
       "overview": "Warum kooperieren wir? Welche Strategien helfen uns bei Entscheidungen? Ob bei geopolitischen Konflikten, im globalen KI-Wettlauf oder in der WG-Küche: Die Spieltheorie hat die Antwort.",
@@ -2191,6 +2189,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Systemfehler: Der Cum-Ex Skandal",
+      "type": "tv",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2257,72 +2277,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Besuch im Bubenland - Dokumentarfilm von Katrin Schlösser,",
-      "type": "tv",
-      "overview": "Im Südburgenland ist es still. Dort leben Männer unterschiedlichen Alters, deren Leben durch Schicksalsschläge oder Ungeschick aus der Bahn geraten ist.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilmzeit"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilmzeit/besuch-im-bubenland-100.html",
-      "duration": 5443,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Von Obertilliach in die Lienzer Dolomiten",
-      "type": "tv",
-      "overview": "Obertilliach liegt im Lesachtal in Osttirol, zwischen den Lienzer Dolomiten und den Karnischen Alpen. Hier wechseln sich schroffe Kalkfelsen und bewaldete Bergrücken mit sanften Almmatten ab. Heute zählt es zu den schönsten Bergdörfern im Alpenraum, wo alte Traditionen stolz weitergetragen werden, wie die des Nachtwächters, der seit bald 600 Jahren den Ort beschützt....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen im BR"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU0QTA",
-      "duration": 2612,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2691,7 +2645,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMzBfMjAtMTUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMzBfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5245,
       "providers": {
         "netflix": null,
@@ -2801,7 +2755,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDI1LTEyLTA2XzIzLTQwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDI1LTEyLTA2XzIzLTQwLU1FWg",
       "duration": 5174,
       "providers": {
         "netflix": null,
