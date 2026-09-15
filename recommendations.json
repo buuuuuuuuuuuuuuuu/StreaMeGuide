@@ -1,7 +1,34 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-14T10:13:17.755Z",
+  "generated_at": "2026-09-15T09:42:09.248Z",
   "items": [
+    {
+      "tmdb_id": 1440098,
+      "title": "Drawn Together",
+      "type": "movie",
+      "overview": "Marfil Cortés, die Tochter eines wohlhabenden spanischen Geschäftsmanns, wird entführt und wieder freigelassen, woraufhin ihr Vater Sebastian Moore als Bodyguard engagiert. Trotz anfänglicher Konflikte entwickeln sie eine unwiderstehliche Anziehungskraft und bewegen sich in einer Welt, in der niemand der ist, für den er sich ausgibt.",
+      "genres": [
+        "Liebesfilm",
+        "Thriller"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "kidnapping",
+        "bodyguard",
+        "family secrets",
+        "sexual tension",
+        "dark romance"
+      ],
+      "rating": 6.6,
+      "vote_count": 71,
+      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1558568,
       "title": "Danke, Team!",
@@ -22,88 +49,29 @@
       }
     },
     {
-      "tmdb_id": 1440098,
-      "title": "Drawn Together",
-      "type": "movie",
-      "overview": "Marfil Cortés, die Tochter eines wohlhabenden spanischen Geschäftsmanns, wird entführt und wieder freigelassen, woraufhin ihr Vater Sebastian Moore als Bodyguard engagiert. Trotz anfänglicher Konflikte entwickeln sie eine unwiderstehliche Anziehungskraft und bewegen sich in einer Welt, in der niemand der ist, für den er sich ausgibt.",
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
-        "Liebesfilm",
-        "Thriller"
+        "Drama",
+        "War & Politics"
       ],
       "keywords": [
-        "based on novel or book",
-        "kidnapping",
-        "bodyguard",
-        "family secrets",
-        "sexual tension",
-        "dark romance"
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
       ],
-      "rating": 6.548,
-      "vote_count": 62,
-      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1365884,
-      "title": "Call My Agent! The Movie",
-      "type": "movie",
-      "overview": "Fünf Jahre nach der Schließung der ASK-Agentur verliert die neue Regisseurin Andréa wenige Tage vor Drehstart ihren Hauptdarsteller und muss die alte Truppe wieder vereinen.",
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "keywords": [
-        "workplace comedy",
-        "talent agency",
-        "based on tv series"
-      ],
-      "rating": 6.051,
-      "vote_count": 39,
-      "poster_path": "/lJUmTDi1ssxcxkHrzVBlwhaB0v8.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1365884-dix-pour-cent-le-film/watch?locale=DE",
+      "rating": 8.182,
+      "vote_count": 1543,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1386315,
-      "title": "The Runner",
-      "type": "movie",
-      "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
-      "genres": [
-        "Thriller",
-        "Action"
-      ],
-      "keywords": [
-        "mother",
-        "london, england",
-        "kidnapping",
-        "son",
-        "child kidnapping",
-        "nervous",
-        "abduction",
-        "child rescue",
-        "mother son relationship",
-        "anxious",
-        "child abduction",
-        "serious",
-        "attorney",
-        "dramatic"
-      ],
-      "rating": 6.76,
-      "vote_count": 453,
-      "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -133,8 +101,8 @@
         "love & commitment",
         "rediscovering love"
       ],
-      "rating": null,
-      "vote_count": 0,
+      "rating": 8,
+      "vote_count": 1,
       "poster_path": "/cN3JcQrYTAHP00bFunCj5fk4bVK.jpg",
       "justwatch": "https://www.themoviedb.org/tv/314939/watch?locale=DE",
       "providers": {
@@ -144,30 +112,33 @@
       }
     },
     {
-      "tmdb_id": 113962,
-      "title": "Lioness",
+      "tmdb_id": 108978,
+      "title": "Reacher",
       "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Action & Adventure",
+        "Krimi"
       ],
       "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "biting",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "reboot",
+        "military police"
       ],
-      "rating": 8.17,
-      "vote_count": 1526,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "rating": 8.114,
+      "vote_count": 3302,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -203,44 +174,13 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.746,
-      "vote_count": 5535,
+      "rating": 8.747,
+      "vote_count": 5537,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "reboot",
-        "military police"
-      ],
-      "rating": 8.111,
-      "vote_count": 3291,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -261,7 +201,7 @@
         "offbeat",
         "action"
       ],
-      "rating": 7.861,
+      "rating": 7.866,
       "vote_count": 915,
       "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
@@ -307,8 +247,8 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.41,
-      "vote_count": 1711,
+      "rating": 8.413,
+      "vote_count": 1713,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
@@ -340,8 +280,8 @@
         "comforting",
         "teen romance"
       ],
-      "rating": 8,
-      "vote_count": 16,
+      "rating": 7.921,
+      "vote_count": 19,
       "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
       "justwatch": "https://www.themoviedb.org/tv/300507-crew-girl/watch?locale=DE",
       "providers": {
@@ -367,13 +307,48 @@
         "based on web novel",
         "arrogant"
       ],
-      "rating": 8.3,
-      "vote_count": 15,
+      "rating": 8.219,
+      "vote_count": 16,
       "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1386315,
+      "title": "The Runner",
+      "type": "movie",
+      "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "keywords": [
+        "mother",
+        "london, england",
+        "kidnapping",
+        "son",
+        "child kidnapping",
+        "nervous",
+        "abduction",
+        "child rescue",
+        "mother son relationship",
+        "anxious",
+        "child abduction",
+        "serious",
+        "attorney",
+        "dramatic"
+      ],
+      "rating": 6.778,
+      "vote_count": 468,
+      "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -398,8 +373,8 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.736,
-      "vote_count": 163,
+      "rating": 6.749,
+      "vote_count": 168,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
@@ -409,23 +384,22 @@
       }
     },
     {
-      "tmdb_id": 1621552,
-      "title": "Die Festnahme",
+      "tmdb_id": 1408162,
+      "title": "Vishwanath & Sons",
       "type": "movie",
-      "overview": "Basierend auf wahren Begebenheiten: Der international gesuchte Drogenkartellboss Joaquin „El Chapo“ Guzmán flüchtet am 8. Januar 2016 vor dem Zugriff der mexikanischen Marine durch die Kanalisation aus seinem Anwesen. Anschließend bringt er ein Auto in seine Gewalt und wähnt sich bald in Sicherheit. Doch dann gerät er in eine Routinekontrolle durch zwei ganz normale Polizisten, die ihn jedoch direkt erkennen. Nachdem der Gangster bei ihnen mit Bestechungsversuchen auf Granit beißt, droht er ihnen unverhohlen mit dem Tod durch seine Leute, sollten sie ihn nicht freilassen. Für die beiden braven Gesetzeshüter beginnen die härtesten Stunden ihres bisherigen Lebens.",
+      "overview": "Sanjay Vishwanath ist ein gefeierter Profi-Pistolenschütze in den Vierzigern, dem Ruhm und Reichtum sehr am Herzen liegen. Als er einer Frau namens Maddy in den Zwanzigern begegnet, wirft ihre Beziehung viele Probleme auf, mit denen sie sich auseinandersetzen müssen.",
       "genres": [
-        "Krimi",
-        "Action",
-        "Thriller"
+        "Drama",
+        "Liebesfilm",
+        "Komödie"
       ],
       "keywords": [
-        "fast-paced",
-        "based on true events"
+        "age-gap relationship"
       ],
-      "rating": 8.828,
-      "vote_count": 646,
-      "poster_path": "/ezLiEoweB0PGpprNtsCDcnLtMhc.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=DE",
+      "rating": 7.429,
+      "vote_count": 21,
+      "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -452,8 +426,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.407,
-      "vote_count": 4706,
+      "rating": 8.4,
+      "vote_count": 4714,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -502,8 +476,8 @@
         "violent",
         "tortured genius"
       ],
-      "rating": 8.95,
-      "vote_count": 18603,
+      "rating": 9,
+      "vote_count": 18614,
       "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
       "providers": {
@@ -513,106 +487,82 @@
       }
     },
     {
-      "tmdb_id": 245891,
-      "title": "John Wick",
-      "type": "movie",
-      "overview": "John Wick genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov, der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov, für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus an seinen Fersen hängen...",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "keywords": [
-        "hitman",
-        "bratva (russian mafia)",
-        "gangster",
-        "secret organization",
-        "revenge",
-        "murder",
-        "dog",
-        "retired",
-        "widower"
-      ],
-      "rating": 7.463,
-      "vote_count": 21315,
-      "poster_path": "/vr92idbWfEFY0bcapzMk1nZkVXr.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/245891-john-wick/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222134.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 342473,
-      "title": "Ballerina",
-      "type": "movie",
-      "overview": "Die Füße der jungen Félicie wollen einfach nicht still stehen, denn schon seit langem träumt sie von nichts anderem als einer Karriere als Tänzerin. Doch der Traum des Waisenmädchens wird von niemandem geteilt – nur der gleichaltrige Victor der als ehrgeiziger Nachwuchserfinder ebenfalls belächelt wird, glaubt an Félicie. Gemeinsam fassen sie den Entschluss, dem tristen Dasein im Waisenheim zu entfliehen und Richtung Paris zu türmen. Dort angekommen werden die beiden getrennt und Félicie ist ganz auf sich allein gestellt. Doch was sie vor Ort zu sehen bekommt bestärkt nur ihren Wunsch, einmal auf der Bühne des Pariser Opernhauses zu tanzen. Weil ein Platz in der renommierten Ausbildungsstätte aber nicht leicht zu bekommen ist, braucht Félicie nicht nur Hilfe, sondern auch einige Tricks …",
-      "genres": [
-        "Animation",
-        "Familie",
-        "Komödie",
-        "Musik"
-      ],
-      "keywords": [
-        "opera",
-        "dance",
-        "paris, france",
-        "flying",
-        "inventor",
-        "life's dream",
-        "ballet",
-        "orphan",
-        "statue of liberty",
-        "eiffel tower, paris",
-        "19th century",
-        "3d animation",
-        "disapproving",
-        "enthusiastic",
-        "hopeful"
-      ],
-      "rating": 7.2,
-      "vote_count": 2029,
-      "poster_path": "/bb2bZ5hL6zS4oJ7Zt8mvfXSnGkj.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/342473-ballerina/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222134.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 71912,
-      "title": "The Witcher",
+      "tmdb_id": 206693,
+      "title": "My Dearest",
       "type": "tv",
-      "overview": "Geralt von Riva, ein mutierter Monsterjäger, folgt seiner Bestimmung in eine turbulente Welt, in der Menschen oft boshafter sind als Biester.",
+      "overview": "Das südkoreanische Historiendrama My Dearest erzählt die epische Liebesgeschichte zwischen dem geheimnisvollen Lee Jang-hyun und der Adeligen Yoo Gil-chae vor dem Hintergrund der verheerenden Qing-Invasion im Korea des 17. Jahrhunderts.  Yoo Gil-chae ist eine selbstbewusste junge Adlige, die sich nach einer romantischen Liebe sehnt, aber zunächst für einen anderen Mann schwärmt. Lee Jang-hyun wirkt kühl und rätselhaft, hat dem Leben abgeschworen, verliebt sich jedoch tief und unerschütterlich in Gil-chae.\n\nAls die Truppen der Qing-Dynastie in das Joseon-Reich einfallen, bricht das Chaos aus. Der Krieg zwingt die Menschen zu extremen Opfern und trennt Familien.\n\nJang-hyun setzt sein Leben immer wieder aufs Neuer ein, um Gil-chae und andere zu beschützen. Durch seine Taten wandelt sich Gil-chaes Blick auf ihn grundlegend: Aus anfänglicher Ablehnung wird tiefe Zuneigung, während sie getrennt durch das Kriegsunheil um ihr Überleben und ein Wiedersehen kämpfen.",
       "genres": [
-        "Sci-Fi & Fantasy",
         "Drama",
-        "Action & Adventure"
+        "War & Politics",
+        "Mystery"
       ],
       "keywords": [
+        "rape",
+        "slavery",
+        "historical figure",
+        "romance",
+        "unrequited love",
+        "misunderstanding",
+        "nobility",
+        "angst",
+        "historical drama",
+        "costume drama",
+        "forced marriage",
+        "17th century",
+        "chastity",
+        "joseon dynasty (1392–1910)",
+        "unconditional love",
+        "war",
+        "sageuk",
+        "slow burn romance",
+        "lovers separated",
+        "love in war",
+        "poetic",
+        "family traditions",
+        "gay supporting character",
+        "determined female lead",
+        "spoiled female lead",
+        "character development",
+        "ambitious female lead",
+        "qing invasion of joseon",
+        "poetic male lead"
+      ],
+      "rating": 8.3,
+      "vote_count": 56,
+      "poster_path": "/308Hkv0uTov3hBiPClB1Fnww3tj.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/206693/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 223313,
+      "title": "Obsession",
+      "type": "tv",
+      "overview": "Die Affäre eines angesehenen Londoner Chirurgen mit der Verlobten seines Sohnes mündet in eine Amour fou, die ihr Leben für immer zu verändern droht.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "love triangle",
         "based on novel or book",
-        "monster",
-        "mutant",
-        "magic",
-        "mutation",
-        "fantasy world",
-        "dark fantasy"
+        "infidelity",
+        "obsession",
+        "fiancé",
+        "surgeon",
+        "romance",
+        "older man younger woman relationship",
+        "love affair",
+        "incest",
+        "erotic thriller"
       ],
-      "rating": 7.89,
-      "vote_count": 6890,
-      "poster_path": "/FdsAB1Z1IbECvvPu4JMkS0eQTY.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/71912-the-witcher/watch?locale=DE",
+      "rating": 6.446,
+      "vote_count": 195,
+      "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/223313-obsession/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -620,155 +570,54 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222553.html",
-        "mentions": 2
+        "url": "https://www.filmstarts.de/nachrichten/1000222756.html",
+        "mentions": 4
       }
     },
     {
-      "tmdb_id": 218381,
-      "title": "Extraction",
-      "type": "movie",
-      "overview": "Mercy Callo ist Soldat einer Spezialeinheit und auf einer gefährlichen Mission. Seine Truppe soll einen Gefangenen aus einem Hochsicherheitsgefängnis in Tschetschenien befreien, denn von dessen Mithilfe hängt das Leben unzähliger Menschen ab. Doch die Mission schlägt fehl und Callo bleibt als einziger seiner Truppe am Leben. Um den Gefangenen doch noch wie geplant zu retten, kämpft er sich mit ihm gemeinsam durch das Gefängnis und vorbei an dessen gewalttätigen Insassen.",
+      "tmdb_id": null,
+      "title": "Das Herz der Schlange",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2022 Das Ermittlungsteam sitzt gut gelaunt in einem Saarbrücker Restaurant: Hauptkommissar Leo Hölzer, Hauptkommissar Adam Schürk, Hauptkommissarin Esther Baumann und Hauptkommissarin Pia Heinrich sind gerade mit dem Essen fertig, als Adam eine SMS von seinem Vater erhält, der ihn dringend nach Hause bittet, da es seiner Mutter sehr schlecht gehe....",
       "genres": [
-        "Action"
-      ],
-      "keywords": [],
-      "rating": 4.91,
-      "vote_count": 61,
-      "poster_path": "/tZidoYlDScx2LYJPVrLOjVIKAiS.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/218381-extraction/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000221468.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 374720,
-      "title": "Dunkirk",
-      "type": "movie",
-      "overview": "Mai 1940, der Zweite Weltkrieg tobt: Die Nazis haben die französische Hafenstadt Dünkirchen eingekesselt und verdeutlichen den Bewohnern und den 400.000 dort stationierten Soldaten mit Flugblättern die scheinbar ausweglose Lage. Denn durch die feindlichen Truppen auf der einen Seite und das Wasser auf der anderen scheint es keine Chance auf Überleben zu geben. Doch in Großbritannien ersinnt man eine kühne Rettungsmission, von der zuerst nur die wenigsten glauben, dass sie Aussicht auf Erfolg haben kann: Während die eingekesselten Soldaten, darunter Tommy, Alex und Gibson, am Boden ums Überleben kämpfen, sorgen RAF-Piloten wie Farrier in ihren Spitfires für Feuerschutz aus der Luft. Gleichzeitig eilen Zivilisten wie Mr. Dawson den eingekesselten Soldaten mit ihren kleinen Booten übers Wasser zu Hilfe.",
-      "genres": [
-        "Kriegsfilm",
-        "Action",
+        "Krimi",
         "Drama"
       ],
       "keywords": [
-        "army",
-        "beach",
-        "france",
-        "allies",
-        "raf (royal air force)",
-        "military officer",
-        "world war ii",
-        "evacuation",
-        "pilot",
-        "british army",
-        "rescue mission",
-        "europe",
-        "based on true story",
-        "royal navy",
-        "survival",
-        "historical fiction",
-        "soldier",
-        "period drama",
-        "private",
-        "military",
-        "dunkirk",
-        "1940s",
-        "intense",
-        "awestruck",
-        "foreboding"
+        "Tatort"
       ],
-      "rating": 7.45,
-      "vote_count": 17960,
-      "poster_path": "/pcVC6wvEVodaUxkTsUkXlgVrXHF.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/374720-dunkirk/watch?locale=DE",
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWg",
+      "duration": 5344,
       "providers": {
         "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000220583.html",
-        "mentions": 2
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
-      "tmdb_id": 66732,
-      "title": "Stranger Things",
+      "tmdb_id": null,
+      "title": "Die Faust",
       "type": "tv",
-      "overview": "Nach dem Verschwinden eines Jungen treten in einer Kleinstadt geheime Regierungsexperimente, übernatürliche Kräfte und ein merkwürdiges kleines Mädchen zutage.",
+      "overview": "Fernsehfilm Österreich 2017 Mit einem absoluten Profi bekommen es Moritz Eisner (Harald Krassnitzer) und Bibi Fellner (Adele Neuhauser) angesichts einer rätselhaften Mordserie zu tun. Erst tötet der maskierte Killer einen tätowierten Serben, dann den unscheinbaren georgischen Mitarbeiter (Sebastian Pass) einer Großgärtnerei und schließlich eine junge Mutter....",
       "genres": [
-        "Action & Adventure",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "Krimi",
+        "Drama"
       ],
       "keywords": [
-        "monster",
-        "small town",
-        "indiana, usa",
-        "experiment",
-        "halloween",
-        "friendship",
-        "supernatural",
-        "coming of age",
-        "parallel world",
-        "super power",
-        "government conspiracy",
-        "teen drama",
-        "1980s",
-        "supernatural horror",
-        "teen horror",
-        "horror",
-        "depressing"
+        "Tatort"
       ],
-      "rating": 8.552,
-      "vote_count": 21809,
-      "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/66732-stranger-things/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000221757.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 921355,
-      "title": "Assassin",
-      "type": "movie",
-      "overview": "Als ein Mann im Rahmen eines geheimen und experimentellen Militärprogramms ums Leben kommt, macht sich ein Ex-Elitesoldat daran, die Schuldigen zu finden und schleust sich selbst ins Programm ein.",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction",
-        "Krimi"
-      ],
-      "keywords": [],
-      "rating": 5.143,
-      "vote_count": 98,
-      "poster_path": "/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/921355-assassin/watch?locale=DE",
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3Y2FhZGI3LTc2OWQtNDFlMS05MzQ2LTUxZjFlOGRjNDYyMV9nYW56ZVNlbmR1bmc",
+      "duration": 5303,
       "providers": {
         "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222553.html",
-        "mentions": 1
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -970,7 +819,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDI1LTAxLTI2XzIwLTE1LU1FWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDI1LTAxLTI2XzIwLTE1LU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5313,
       "providers": {
         "netflix": null,
@@ -1003,48 +852,25 @@
     },
     {
       "tmdb_id": null,
-      "title": "Roomservice",
+      "title": "Verführung",
       "type": "tv",
-      "overview": "Das Zimmermädchen Yasemin Akhtar kommt beim Sturz im Treppenhaus eines Luxushotels zu Tode. Fremdverschulden oder nicht, fragen sich Lena Odenthal und Mario Kopper bei ihren Ermittlungen. Aber auch: Steht ihr Tod in Zusammenhang damit, dass der Politiker Joseph Sattler kurz zuvor in Suite 426 Sex mit Yasemin hatte?...",
+      "overview": "Neunzehn Jahre, Mutter, ungelernte Näherin, ewig knapp bei Kasse – das ist Ramona. Die naive junge Frau ist fasziniert von ihren beiden neuen Freundinnen Christiane und Brigitte, die das Leben zu genießen verstehen.",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Polizeiruf 110 - Klassiker"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDY4Mjg",
-      "duration": 5322,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9kMTBjMmIwOC1iM2Y2LTQ4OTYtYjZlOC0yZDM2OTkxYTE1Mjc",
+      "duration": 4917,
       "providers": {
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatort: Was ist das für eine Welt",
-      "type": "tv",
-      "overview": "In ihrem dreißigsten Tatort-Fall an der Seite von Moritz Eisner bekommt Bibi Fellner es mit dem Mord an einem jungen, beliebten und extrem erfolgreichen IT-Mitarbeiter zu tun. Everybody's Darling, möchte man auf den ersten Blick meinen - doch im Zuge der Ermittlungen kommen Hinweise und Erkenntnisse ans Tageslicht, die nicht nur Moritz und Bibi, sondern vor allem deren Kollegin Meret Schande vor eine große Bewährungsprobe stellen....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort aus Österreich"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14337127/tatort-was-ist-das-fuer-eine-welt",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     },
     {
@@ -1156,29 +982,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9iODA3M2U4Zi0yNzU3LTRiMDQtOTBjMy1iM2VkOWU5ZTEyYWZfcHVibGljYXRpb24",
       "duration": 5309,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Einzelgänger",
-      "type": "tv",
-      "overview": "An einer Bushaltestelle wird ein älterer Mann brutal zusammengeschlagen. Keiner der Passanten greift ein, viele wollen später nichts gesehen haben. Die Ermittler finden keinen Ansatz, bis sich doch noch zwei Zeugen melden. Ein weiterer Angriff bringt sie schließlich auf die Spur des 19-jährigen Täters, der mit seinem Leben nicht zurechtkommt. Seine Enttäuschungen schlagen in Dauerwut und Explosionsbereitschaft um....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110 - Klassiker"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9mZmIzMWY2MS02MTIwLTQ2NjYtOTBkOC03ZjQ5ODRlZmEzMDc",
-      "duration": 2836,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1407,6 +1210,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Tatami",
+      "type": "tv",
+      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
+      "duration": 5980,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatami (Englisch)",
+      "type": "tv",
+      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
+      "duration": 5980,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "An einem schönen Morgen - Spielfilm, Frankreich/Deutschland 2021",
       "type": "tv",
       "overview": "Dolmetscherin Sandra muss nach dem Tod ihres Mannes nicht nur ihre Tochter allein erziehen, sondern sich auch um ihren Vater Georg kümmern, der an einer neurodegenerativen Krankheit leidet.",
@@ -1575,50 +1422,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/filme/liberace--zu-viel-des-guten-ist-wundervoll-movie-100/liberace--zu-viel-des-guten-ist-wundervoll-100",
       "duration": 6833,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Liberace – Zu viel des Guten ist wundervoll (Englisch)",
-      "type": "tv",
-      "overview": "Als ein junger Mann zufällig einen weltberühmten Entertainer kennenlernt, verändert sich sein Leben komplett. Zwischen den unterschiedlichen Männern entwickelt sich eine Affäre.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/liberace--zu-viel-des-guten-ist-wundervoll-movie-100/liberace--zu-viel-des-guten-ist-wundervoll-100",
-      "duration": 6833,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Night Call - Überlebe die Nacht",
-      "type": "tv",
-      "overview": "Der junge Mady arbeitet in Brüssel für einen Schlüsseldienst. Nachdem er für eine junge Frau eine Wohnungstür geöffnet hat, wird er von einem Fremden angegriffen und tötet ihn in Notwehr.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/night-call---ueberlebe-die-nacht-movie-100/night-call---ueberlebe-die-nacht-100",
-      "duration": 5637,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1941,6 +1744,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Haben jetzt alle ADHS?",
+      "type": "tv",
+      "overview": "Neurodivergent sein ist cool – und gefühlt haben alle ADHS. Lola Weippert erzählt im Gespräch mit Leon Windscheid, wie sie den Hype findet.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/haben-jetzt-alle-adhs-terra-xplore-movie-100",
+      "duration": 2616,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Weltstädte: Rom - Mit Leon Windscheid",
       "type": "tv",
       "overview": "Jahrtausendealte Schönheit. In der \"Terra X\"-Sendung \"Weltstädte – Rom\" taucht Moderator und Psychologe Leon Windscheid in die geheimnisvolle Geschichte der Ewigen Stadt ein.",
@@ -1985,14 +1810,14 @@
     },
     {
       "tmdb_id": null,
-      "title": "9/11 - Terror, Trauma, Zeitenwende",
+      "title": "9/11 - Terror, Trauma, Zeitenwende (S2026/E24)",
       "type": "tv",
-      "overview": "25 Jahre nach 9/11 sind die Auswirkungen des Anschlags immer noch zu spüren. Noch heute findet der vermeintliche „Kampf der Kulturen“ statt, auch im Internet.",
+      "overview": "Der 11. September 2001 – ein Datum, das alles veränderte. „Terra X History“ zeigt die Auswirkungen der Terroranschläge auf das World Trade Center und Pentagon auf die USA und die restliche Welt.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History"
+        "Terra X History - die Einzeldokus"
       ],
       "rating": null,
       "vote_count": 0,
@@ -2095,24 +1920,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Alkohol: Warum suchen wir den Rausch?",
+      "title": "Das Fahrrad erobert die Städte",
       "type": "tv",
-      "overview": "Alkohol gehört beim Feiern oft dazu – von Wiesn bis Ballermann. Doch zwischen Genuss und Kontrollverlust liegt ein schmaler Grat. Warum wir trinken, obwohl wir wissen, dass es schädlich ist.",
+      "overview": "Während des Lockdowns 2020 wurden in Genf und Lausanne VD kilometerlange Velowege angelegt und Parkplätze entfernt. Manche werfen den Gemeinden sogar vor, dies zum Nachteil der Autofahrer ausgenutzt zu haben. In jedem Fall hat die Fahrradoffensive einen Kampf entfacht, der sich schon lange auf dem Rollfeld abspielt. Und dieses Mal dreht sich der Wind eindeutig zugunsten der Fahrradbefürworterinnen.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra Xplore"
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/alkohol-warum-suchen-wir-den-rausch-movie-100",
-      "duration": 2609,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/das-fahrrad-erobert-die-staedte?urn=urn:srf:video:b9cee4de-f652-4090-aead-3ab82c35722e",
+      "duration": 3151,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "SRF"
       }
     },
     {
@@ -2359,24 +2184,90 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wanderungen · Der Zug der Zebras",
+      "title": "Herr Braun und der grüne Stahl - Dokumentarfilm von Anna Klühspies, Stella Peter",
       "type": "tv",
-      "overview": "Film von Mark Wheeler, phoenix 2023",
+      "overview": "Kann ein Stahlwerk die Industrie revolutionieren? Drei Jahre lang begleitet der Dokumentarfilm den Kampf um die Herstellung von nahezu CO₂-neutralem Stahl.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokumentarfilmzeit"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzE0NDQxNQ",
-      "duration": 2899,
+      "url": "https://www.3sat.de/film/dokumentarfilmzeit/herr-braun-und-der-gruene-stahl-100.html",
+      "duration": 4466,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Tier-Docs: Geburtshilfe im Kuhstall",
+      "type": "tv",
+      "overview": "Notfalleinsatz für Tierarzt Jörg Bretzinger im Schwarzwald. Eine Kuh versucht seit Stunden ihr Kalb zu gebären, doch es geht nicht voran. Wenn es jetzt nicht schnell geht, stirbt das Kalb. Als Tierarzt Jörg Bretzinger auf den Hof im Schwarzwald gerufen wird dauert die Geburt bereits fünf Stunden lang - viel zu lange. In der Großtierpraxis des Tierarztes im Breisgau gibt es öfter mal einen Notfall....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Doku & Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDk5OTg",
+      "duration": 2685,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Vom Gadertal in die Dolomiten",
+      "type": "tv",
+      "overview": "Mit viel Herzblut wird die ladinische Kultur im Gadertal im Herzen der Dolomiten hochgehalten. Das Filmteam trifft auf besondere Menschen und ihre Geschichten. So singen etwa die Schwestern Elisabeth und Marlene Schuen von Ganes ihre Lieder in ladinischer Sprache. Die Berglegende Willy Costamoling erzählt von seiner einzigartigen Entdeckung der höchstgelegenen Bärenhöhle Europas....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus & Reportagen im BR"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU2QTA",
+      "duration": 2690,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Macherinnen – die neue Ära im Basketball",
+      "type": "tv",
+      "overview": "Deutschlands Basketballerinnen wollen bei der Heim-WM 2026 in Berlin um Medaillen kämpfen und den Frauenbasketball in Deutschland nachhaltig verändern.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/macherinnen-die-neue-aera-im-basketball-movie-100",
+      "duration": 3512,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2421,72 +2312,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Terror an Bord · Die Entführung der Achille Lauro",
-      "type": "tv",
-      "overview": "Vier Palästinenser bringen im Oktober 1985 das italienische Kreuzfahrtschiff Achille Lauro vor der ägyptischen Küste in ihre Gewalt und nehmen die mehr als 500 Passagiere und Besatzungsmitglieder als Geiseln. Sie fordern die Freilassung von 50 palästinensischen Gefangenen aus israelischen Gefängnissen. Es beginnt die tragische Geschichte einer Entführung auf hoher See, bei der eine der Geiseln ermordet wird....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWRhN2UzMGEtNjRmNS00NTBlLTg3NjctZThjN2M1MDUzYzZj",
-      "duration": 5226,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Weltberühmt & depressiv: Von Sisi bis Adenauer",
-      "type": "tv",
-      "overview": "Der \"Besuch vom schwarzen Hund\" oder \"Melancholie\"? Die Krankheit Depression kennt in der Geschichte viele Namen. Psychologe Leon Windscheid blickt für die Doku in die Vergangenheit.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/weltberuehmt-und-depressiv-von-sisi-bis-adenauer-movie-100",
-      "duration": 2625,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2623,6 +2448,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Gaza mon amour",
+      "type": "tv",
+      "overview": "Issa führt ein ruhiges Leben als einfacher Fischer im Hafen von Gaza. Heimlich ist er in die Witwe Siham verliebt, die er täglich an ihrem Marktstand beobachtet. Eines Tages geht Issa ein ungewöhnlicher Fang ins Netz ... – Charmante Komödie (2020) der aus Palästina stammenden Zwillingsbrüder Arab und Tarzan Nasser über die große Kraft der späten Liebe.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/091161-000-A/gaza-mon-amour/",
+      "duration": 4880,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Henry Fonda - Der Präsident der Namenlosen",
+      "type": "tv",
+      "overview": "Ein Essayfilm über die USA – betrachtet durch das Brennglas eines Filmstars. Henry Fonda und seine Rollen verschmelzen zu einer schillernden Figur. Seine Stimme, aufgenommen 1981 im Zuge seines letzten Interviews, und die Charaktere, die er spielte, führen durch den Film – und quer durch die USA: von einem Ort namens Fonda, NY, bis zum Pazifik.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filmgrößen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/103512-000-A/henry-fonda-der-praesident-der-namenlosen/",
+      "duration": 3322,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der Pate",
       "type": "tv",
       "overview": "Die Tage des Mafiabosses Don Vito Corleone sind gezählt, als er sich weigert, ins aufkeimende Drogengeschäft einzusteigen. Sein Nachfolger und Rächer wird ausgerechnet sein Sohn Michael, der mit den Geschäften des Vaters nie etwas zu tun haben wollte. Mit Marlon Brando und Al Pacino in den Hauptrollen wurde \"Der Pate\" vielfach ausgezeichnet – 1973 gleich mit drei Oscars!",
@@ -2755,50 +2624,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Mia Farrow - Zwischen Fiktion und Realität",
-      "type": "tv",
-      "overview": "Von der Verkörperung weiblicher Unschuld der Anfangsjahre bis hin zu ihrem humanitären Engagement in den letzten Jahrzehnten: Die Lebensgeschichte von Mia Farrow ist die einer leidenschaftlichen Schauspielerin, die von den großen Regisseuren ihrer Zeit in eine bestimmte Rolle der Weiblichkeit gedrängt wurde, irgendwo zwischen Unschuld und Wahnsinn.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116876-000-A/mia-farrow-zwischen-fiktion-und-realitaet/",
-      "duration": 3133,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Stiefel, die den Tod bedeuten",
-      "type": "tv",
-      "overview": "Nachdem sie bei einem Reitunfall ihr Augenlicht verloren hat, wird Sarah bei Verwandten aufgenommen, um sich an das neue Leben zu gewöhnen. Als sie eines Abends ausgeht, wird das Haus der Familie zum Schauplatz eines Verbrechens. Blind und wehrlos gerät Sarah ins Visier des Mörders. Schonungsloses Spannungskino von Richard Fleischer. Mit Mia Farrow.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/129313-000-A/stiefel-die-den-tod-bedeuten/",
-      "duration": 5138,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Tod im Weinberg | Blind ermittelt",
       "type": "tv",
       "overview": "Spielfilm Österreich 2023 Im Abendprogramm des Fernsehens läuft ein knallharter Actionreißer. Was sich vor ihrem Fenster ereignet, versetzt die kiebitzende Oma Horvath (Inge Maux) allerdings in noch größere Aufregung: Ein Autofahrer, der vor einer auf der Straße liegenden Person hält, wird plötzlich von dieser überwältigt und entführt....",
@@ -2855,7 +2680,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1o",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5308,
       "providers": {
         "netflix": null,
@@ -2865,7 +2690,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Donau ist tief. Ein Krimi aus Passau",
+      "title": "Die Donau ist tief. Ein Krimi aus Passau (2)",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2020 Privatdetektiv Ferdinand Zankl (Michael Ostrowski) wird verdächtigt, seine Ex-Freundin, die Tierheimleiterin Nunzia Rossi (Dagny Dewath), ermordet zu haben. Er wird von der Passauer Polizei verhaftet. Ausgerechnet zu diesem Zeitpunkt steht Zankl wegen einer anderen Sache unter hohem Handlungsdruck....",
       "genres": [
@@ -2877,7 +2702,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMzBfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMzBfMjAtMTUtTUVTWg",
       "duration": 5245,
       "providers": {
         "netflix": null,
@@ -2887,7 +2712,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Freund oder Feind. Ein Krimi aus Passau",
+      "title": "Freund oder Feind. Ein Krimi aus Passau (1)",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2020 Frederike Bader (Marie Leuenberger) und ihre Tochter Mia (Nadja Sabersky) sind Neuankömmlinge in Passau. Die Vergangenheit der beiden hat so gut wie nichts mit dem zu tun, was Arbeitgeber, Kollegen und Nachbarn von ihnen wissen, und das ist wahrlich nicht viel. Nicht einmal die Namen stimmen. „Frederike Bader“ war noch vor wenigen Monaten Kommissarin beim Berliner LKA....",
       "genres": [
@@ -2899,7 +2724,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMjNfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMjNfMjAtMTUtTUVTWg",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -2931,7 +2756,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wendepunkt (25) · Der Usedom-Krimi",
+      "title": "Wendepunkt (25) – Der Usedom-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2025 Karin Lossow (Katrin Sass) lernt die geheimnisvolle Mandy (Anne Haug) kennen, die offenbar ihren Kollegen Martin Rabe (Lasse Myhr) und dessen Eltern verfolgt. Kurz darauf wird Martins Verlobte Antonia (Anna Baranowska) tot aufgefunden....",
       "genres": [
@@ -2943,7 +2768,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0yM18yMC0xNS1NRVNa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0yM18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5329,
       "providers": {
         "netflix": null,
@@ -2965,7 +2790,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI0LTA1LTE5XzAwLTI1LU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI0LTA1LTE5XzAwLTI1LU1FU1o",
       "duration": 5313,
       "providers": {
         "netflix": null,
@@ -3374,6 +3199,29 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Pompeji - Die Villa von Neros Kaiserin",
+      "type": "tv",
+      "overview": "Prunkvolle Fresken, ein 60 Meter langer Pool, marmorne Fußböden: Die Villa Oplontis ist ein Meisterwerk antiker Architektur. Sie liegt am Golf von Neapel, der im 1. Jahrhundert zum Refugium der Elite geworden war. Vermutlich gehörte die Villa Kaiser Neros zweiter Frau. Gebaut und unterhalten werden konnte sie aber nur dank unzähliger Sklaven – bis der Vesuv alles unter sich begrub.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116006-000-A/pompeji-die-villa-von-neros-kaiserin/",
+      "duration": 5419,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     }
   ]
