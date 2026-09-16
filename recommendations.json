@@ -1,12 +1,12 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-15T09:42:09.248Z",
+  "generated_at": "2026-09-16T09:36:12.396Z",
   "items": [
     {
       "tmdb_id": 1440098,
       "title": "Drawn Together",
       "type": "movie",
-      "overview": "Marfil Cortés, die Tochter eines wohlhabenden spanischen Geschäftsmanns, wird entführt und wieder freigelassen, woraufhin ihr Vater Sebastian Moore als Bodyguard engagiert. Trotz anfänglicher Konflikte entwickeln sie eine unwiderstehliche Anziehungskraft und bewegen sich in einer Welt, in der niemand der ist, für den er sich ausgibt.",
+      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
       "genres": [
         "Liebesfilm",
         "Thriller"
@@ -19,8 +19,8 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.6,
-      "vote_count": 71,
+      "rating": 6.646,
+      "vote_count": 79,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
@@ -30,18 +30,72 @@
       }
     },
     {
-      "tmdb_id": 1558568,
-      "title": "Danke, Team!",
-      "type": "movie",
-      "overview": "Tío Mochales: einst die unangefochtene Königin des spanischen Käses, heute ein etwas eingerosteter Betrieb, der versucht, den Schein zu wahren. Die neueste große Idee: ein Teambuilding-Ausflug aufs Land, direkt in das Dorf, in dem das Unternehmen gegründet wurde. Doch was als Rückbesinnung auf „traditionelle Werte“ gedacht war, entpuppt sich als Falle, als die Belegschaft erfährt, dass massive Entlassungen bevorstehen. Aus dem als motivierend geplanten Ausflug wird rasch ein Schlachtfeld voller Schmeicheleien, Verrat und Indiskretionen.",
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
       "genres": [
-        "Komödie"
+        "Action & Adventure",
+        "Krimi"
       ],
-      "keywords": [],
-      "rating": 6,
-      "vote_count": 12,
-      "poster_path": "/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1558568-gracias-equipo/watch?locale=DE",
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "reboot",
+        "military police"
+      ],
+      "rating": 8.114,
+      "vote_count": 3312,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 37854,
+      "title": "One Piece",
+      "type": "tv",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+      "genres": [
+        "Action & Adventure",
+        "Komödie",
+        "Animation"
+      ],
+      "keywords": [
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
+        "friendship",
+        "friends",
+        "pirate",
+        "based on manga",
+        "super power",
+        "adventurer",
+        "shounen",
+        "sea adventure",
+        "anime",
+        "wonder",
+        "fantasy",
+        "adventure",
+        "defiant"
+      ],
+      "rating": 8.747,
+      "vote_count": 5540,
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -65,8 +119,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.182,
-      "vote_count": 1543,
+      "rating": 8.188,
+      "vote_count": 1550,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -112,185 +166,6 @@
       }
     },
     {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "reboot",
-        "military police"
-      ],
-      "rating": 8.114,
-      "vote_count": 3302,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 37854,
-      "title": "One Piece",
-      "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
-      "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
-      ],
-      "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
-      ],
-      "rating": 8.747,
-      "vote_count": 5537,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 236235,
-      "title": "The Gentlemen",
-      "type": "tv",
-      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
-      "genres": [
-        "Komödie",
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
-        "dark comedy",
-        "aristocrat",
-        "based on movie",
-        "offbeat",
-        "action"
-      ],
-      "rating": 7.866,
-      "vote_count": 915,
-      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "type": "tv",
-      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
-      "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "magic",
-        "teleportation",
-        "reincarnation",
-        "polygamy",
-        "harem",
-        "romance",
-        "displacement",
-        "second chance",
-        "fantasy world",
-        "seinen",
-        "ecchi",
-        "anime",
-        "high fantasy",
-        "search for mother",
-        "neet",
-        "life challenges",
-        "other world",
-        "sword and sorcery",
-        "isekai",
-        "otaku",
-        "erotic",
-        "fantasy",
-        "based on light novel",
-        "adventure"
-      ],
-      "rating": 8.413,
-      "vote_count": 1713,
-      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 300507,
-      "title": "Crew Girl",
-      "type": "tv",
-      "overview": "Nach einem Familienskandal zieht der Teenager-Ruderer Teagan Tao in eine kleine Stadt und schließt sich der All-Boys-Crew einer Elite-Vorbereitungsschule an, was Rivalität und Anziehungskraft auslöst.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "friendship",
-        "high school",
-        "love",
-        "rivalry",
-        "betrayal",
-        "coming of age",
-        "rowing",
-        "teen drama",
-        "dysfunctional",
-        "mother daughter relationship",
-        "student",
-        "comforting",
-        "teen romance"
-      ],
-      "rating": 7.921,
-      "vote_count": 19,
-      "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/300507-crew-girl/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 299952,
       "title": "早春晴朗",
       "type": "tv",
@@ -307,8 +182,8 @@
         "based on web novel",
         "arrogant"
       ],
-      "rating": 8.219,
-      "vote_count": 16,
+      "rating": 8.265,
+      "vote_count": 17,
       "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
       "providers": {
@@ -342,13 +217,36 @@
         "attorney",
         "dramatic"
       ],
-      "rating": 6.778,
-      "vote_count": 468,
+      "rating": 6.774,
+      "vote_count": 477,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1408162,
+      "title": "Vishwanath & Sons",
+      "type": "movie",
+      "overview": "Sanjay Vishwanath ist ein gefeierter Profi-Pistolenschütze in den Vierzigern, dem Ruhm und Reichtum sehr am Herzen liegen. Als er einer Frau namens Maddy in den Zwanzigern begegnet, wirft ihre Beziehung viele Probleme auf, mit denen sie sich auseinandersetzen müssen.",
+      "genres": [
+        "Drama",
+        "Liebesfilm",
+        "Komödie"
+      ],
+      "keywords": [
+        "age-gap relationship"
+      ],
+      "rating": 7.273,
+      "vote_count": 22,
+      "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -373,36 +271,13 @@
         "comforting",
         "enthusiastic"
       ],
-      "rating": 6.749,
-      "vote_count": 168,
+      "rating": 6.757,
+      "vote_count": 169,
       "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1408162,
-      "title": "Vishwanath & Sons",
-      "type": "movie",
-      "overview": "Sanjay Vishwanath ist ein gefeierter Profi-Pistolenschütze in den Vierzigern, dem Ruhm und Reichtum sehr am Herzen liegen. Als er einer Frau namens Maddy in den Zwanzigern begegnet, wirft ihre Beziehung viele Probleme auf, mit denen sie sich auseinandersetzen müssen.",
-      "genres": [
-        "Drama",
-        "Liebesfilm",
-        "Komödie"
-      ],
-      "keywords": [
-        "age-gap relationship"
-      ],
-      "rating": 7.429,
-      "vote_count": 21,
-      "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -426,8 +301,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.4,
-      "vote_count": 4714,
+      "rating": 8.407,
+      "vote_count": 4721,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -476,8 +351,8 @@
         "violent",
         "tortured genius"
       ],
-      "rating": 9,
-      "vote_count": 18614,
+      "rating": 8.95,
+      "vote_count": 18621,
       "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
       "providers": {
@@ -487,82 +362,52 @@
       }
     },
     {
-      "tmdb_id": 206693,
-      "title": "My Dearest",
+      "tmdb_id": 70523,
+      "title": "Dark",
       "type": "tv",
-      "overview": "Das südkoreanische Historiendrama My Dearest erzählt die epische Liebesgeschichte zwischen dem geheimnisvollen Lee Jang-hyun und der Adeligen Yoo Gil-chae vor dem Hintergrund der verheerenden Qing-Invasion im Korea des 17. Jahrhunderts.  Yoo Gil-chae ist eine selbstbewusste junge Adlige, die sich nach einer romantischen Liebe sehnt, aber zunächst für einen anderen Mann schwärmt. Lee Jang-hyun wirkt kühl und rätselhaft, hat dem Leben abgeschworen, verliebt sich jedoch tief und unerschütterlich in Gil-chae.\n\nAls die Truppen der Qing-Dynastie in das Joseon-Reich einfallen, bricht das Chaos aus. Der Krieg zwingt die Menschen zu extremen Opfern und trennt Familien.\n\nJang-hyun setzt sein Leben immer wieder aufs Neuer ein, um Gil-chae und andere zu beschützen. Durch seine Taten wandelt sich Gil-chaes Blick auf ihn grundlegend: Aus anfänglicher Ablehnung wird tiefe Zuneigung, während sie getrennt durch das Kriegsunheil um ihr Überleben und ein Wiedersehen kämpfen.",
+      "overview": "Nach dem Verschwinden eines Kindes begeben sich vier Familien auf die verzweifelte Suche nach Antworten und der Lösung eines Rätsels, das drei Generationen umspannt.",
       "genres": [
+        "Krimi",
         "Drama",
-        "War & Politics",
+        "Sci-Fi & Fantasy",
         "Mystery"
       ],
       "keywords": [
-        "rape",
-        "slavery",
-        "historical figure",
-        "romance",
-        "unrequited love",
-        "misunderstanding",
-        "nobility",
-        "angst",
-        "historical drama",
-        "costume drama",
-        "forced marriage",
-        "17th century",
-        "chastity",
-        "joseon dynasty (1392–1910)",
-        "unconditional love",
-        "war",
-        "sageuk",
-        "slow burn romance",
-        "lovers separated",
-        "love in war",
-        "poetic",
-        "family traditions",
-        "gay supporting character",
-        "determined female lead",
-        "spoiled female lead",
-        "character development",
-        "ambitious female lead",
-        "qing invasion of joseon",
-        "poetic male lead"
-      ],
-      "rating": 8.3,
-      "vote_count": 56,
-      "poster_path": "/308Hkv0uTov3hBiPClB1Fnww3tj.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/206693/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 223313,
-      "title": "Obsession",
-      "type": "tv",
-      "overview": "Die Affäre eines angesehenen Londoner Chirurgen mit der Verlobten seines Sohnes mündet in eine Amour fou, die ihr Leben für immer zu verändern droht.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "love triangle",
-        "based on novel or book",
-        "infidelity",
-        "obsession",
-        "fiancé",
-        "surgeon",
-        "romance",
-        "older man younger woman relationship",
-        "love affair",
+        "hotel",
+        "detective",
+        "small town",
+        "cave",
+        "nuclear power plant",
+        "time travel",
+        "investigation",
+        "time machine",
+        "cop",
+        "woods",
+        "surrealism",
+        "priest",
+        "time loop",
+        "disappearance",
         "incest",
-        "erotic thriller"
+        "missing child",
+        "psychotic",
+        "nostalgic",
+        "alternate timeline",
+        "watchmaker",
+        "mysterious past",
+        "family crisis",
+        "science fiction",
+        "inspirational",
+        "suspense",
+        "thriller",
+        "depressing",
+        "dignified",
+        "hopeful",
+        "chilling"
       ],
-      "rating": 6.446,
-      "vote_count": 195,
-      "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/223313-obsession/watch?locale=DE",
+      "rating": 8.426,
+      "vote_count": 7841,
+      "poster_path": "/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/70523-dark/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -570,8 +415,135 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222756.html",
-        "mentions": 4
+        "url": "https://www.filmstarts.de/nachrichten/1000222840.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 13475,
+      "title": "Star Trek",
+      "type": "movie",
+      "overview": "Wir schreiben das 23. Jahrhundert. Der junge James Tiberius Kirk ist ein Draufgänger, der keiner Kneipenschlägerei aus den Weg geht und bevorzugt mit dem Kopf durch die Wand marschiert. Der Heißsporn bewirbt sich auf Rat eines alten Freundes seines verstorbenen Vaters bei der Sternenflotten-Akademie der Föderation und findet in dem kauzigen Arzt Dr. Leonard \"Pille\" McCoy sogar gleich einen neuen Kumpel. Ansonsten macht sich der Frauenheld auf der Akademie eher Feinde. So wie den Halb-Vulkanier Spock, dem auffällt, dass Tiberius bei einer Prüfung gemogelt hat. Die beiden entwickeln sich zu erbitterten Rivalen, müssen ihre Feindseligkeiten jedoch aufgeben, als die U.S.S. Enterprise vom Stapel läuft und Captain Pike bei einer Mission von dem romulanischen Outlaw Nero gefangen genommen wird, der nur von einem Gedanken beseelt ist: Rache!",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "spacecraft",
+        "teleportation",
+        "san francisco, california",
+        "space battle",
+        "time travel",
+        "space mission",
+        "parachute",
+        "black hole",
+        "supernova",
+        "prequel",
+        "futuristic",
+        "warp speed",
+        "warp engine",
+        "space",
+        "romulans",
+        "space opera",
+        "reboot",
+        "unlikely friendship",
+        "child driving car",
+        "alternative reality",
+        "23rd century",
+        "based on tv series",
+        "24th century",
+        "suspenseful",
+        "excited",
+        "exhilarated"
+      ],
+      "rating": 7.437,
+      "vote_count": 10718,
+      "poster_path": "/hbFaX3xicuHbfdW0XpUy6uHS3EN.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/13475-star-trek/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000222207.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 229221,
+      "title": "Liebes Kind",
+      "type": "tv",
+      "overview": "Lena lebt mit den beiden Kindern Hannah und Jonathan völlig isoliert in einem hochgesicherten Haus. Zu exakt vorgeschriebenen Zeiten nehmen sie ihre Mahlzeiten ein, gehen auf Toilette und ins Bett. Sobald er den Raum betritt, stellen sie sich auf und zeigen ihre Hände vor. Sie tun alles, was er sagt. Bis der jungen Frau die Flucht gelingt. Nach einem Autounfall wird sie schwerverletzt in Begleitung von Hannah ins Krankenhaus eingeliefert.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "miniseries"
+      ],
+      "rating": 7.3,
+      "vote_count": 400,
+      "poster_path": "/cH9Oh59kTq8cZoa0OyjcBrjus4m.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/229221-liebes-kind/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000222874.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Letzte Ernte",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2025 Im Alten Land wurde der rumänische Aushilfsbauer Victor enthauptet. Der örtliche Polizist Olaf Gerke geht von einem tödlichen Arbeitsunfal aus, doch Charlotte Lindholm will das nicht recht glauben. Warum fehlt der Kopf? Da ein paralleler Großeinsatz des LKA alle verfügbaren Einsatzkräfte in Anspruch nimmt, muss Charlotte Lindholm weitestgehend allein ermitteln....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS81Y2EzNmFjYy0yMWI5LTQzZDYtYjEyYi1hMmZkZGNjNjBmNTVfZ2FuemVTZW5kdW5n",
+      "duration": 5383,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Bauernsterben",
+      "type": "tv",
+      "overview": "Fernsehfilm Österreich 2023 Max Winkler, Chef eines Schweinemastbetriebs, liegt tot am Boden im Stall. Zwei Mitarbeiter des Schoberhofs finden die Leiche und verständigen die Behörden. Als Moritz (Harald Krassnitzer) und Bibi (Adele Neuhauser) am Tatort eintreffen, benehmen sich zwei rumänische Cousins zwar verdächtig, kommen aber scheinbar nicht als Täter in Frage....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2U1ODI1OTk5LTY4ODAtNDUzNi1hNjE5LTAyZmUzYzRjOTlmZF9nYW56ZVNlbmR1bmc",
+      "duration": 5315,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -750,7 +722,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzY3NzM0NjM0LTYwZWItNDg2Ny1iMjJiLWJjNjEwNTJmOTVmY19nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzY3NzM0NjM0LTYwZWItNDg2Ny1iMjJiLWJjNjEwNTJmOTVmY19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5159,
       "providers": {
         "netflix": null,
@@ -773,7 +745,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3NGEwODQzLTU0NGItNGNjZS1hMzc5LTAwNDQ4OGJlNDBjNF9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3NGEwODQzLTU0NGItNGNjZS1hMzc5LTAwNDQ4OGJlNDBjNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5305,
       "providers": {
         "netflix": null,
@@ -798,52 +770,6 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14337943/tatort-dein-verlust",
       "duration": 5261,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Das Ende der Nacht",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2024 Saarbrücken, tief in der Nacht. Eine Explosion zerreißt die Stille. Die schlaflose Hauptkommissarin Pia Heinrich ist als Erste am Tatort: Bei einem brutalen Überfall auf einen Geldtransporter wurde ein Wachmann getötet. Als die Hauptkommissare Leo Hölzer und Adam Schürk eintreffen, bietet sich ihnen ein verstörendes Bild, das eine gewaltige Explosion hinterlassen hat....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDI1LTAxLTI2XzIwLTE1LU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
-      "duration": 5313,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Professorin - Tatort Ölfeld",
-      "type": "tv",
-      "overview": "Die emeritierte Historikerin Adelgunde soll in Wien ein Institut für Europäische Sozialgeschichte aufbauen, als die junge Russin Jekaterina auftaucht. Offiziell recherchiert sie für ihre Dissertation über die Nachkriegszeit, doch tatsächlich verbindet sie ein dunkles Familiengeheimnis mit Adelgunde: Deren Vater wurde einst nach Sibirien verschleppt und gründete dort eine zweite Familie....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Die Professorin - Tatort Ölfeld"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14337372/die-professorin-tatort-oelfeld",
-      "duration": 5240,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1210,7 +1136,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tatami",
+      "title": "Tatami (Englisch)",
       "type": "tv",
       "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
       "genres": [
@@ -1232,7 +1158,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tatami (Englisch)",
+      "title": "Tatami",
       "type": "tv",
       "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
       "genres": [
@@ -1276,28 +1202,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
-      "type": "tv",
-      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
-      "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
       "type": "tv",
       "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
@@ -1320,7 +1224,29 @@
     },
     {
       "tmdb_id": null,
-      "title": "Unaufhaltsam",
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
+      "type": "tv",
+      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
+      "duration": 6565,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Unaufhaltsam (Englisch)",
       "type": "tv",
       "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
       "genres": [
@@ -1342,7 +1268,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Unaufhaltsam (Englisch)",
+      "title": "Unaufhaltsam",
       "type": "tv",
       "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
       "genres": [
@@ -1408,24 +1334,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Liberace – Zu viel des Guten ist wundervoll",
+      "title": "Hot Summer Nights - Spielfilm, USA 2017",
       "type": "tv",
-      "overview": "Als ein junger Mann zufällig einen weltberühmten Entertainer kennenlernt, verändert sich sein Leben komplett. Zwischen den unterschiedlichen Männern entwickelt sich eine Affäre.",
+      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Spielfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/liberace--zu-viel-des-guten-ist-wundervoll-movie-100/liberace--zu-viel-des-guten-ist-wundervoll-100",
-      "duration": 6833,
+      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
+      "duration": 6051,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "3sat"
       }
     },
     {
@@ -1721,9 +1647,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dora Heldt: Unzertrennlich - Nach dem gleichnamigen Roman",
+      "title": "Dora Heldt: Herzlichen Glückwunsch, Sie haben gewonnen! - Nach dem gleichnamigen Roman (E07)",
       "type": "tv",
-      "overview": "Buchhändlerin Christine hat den Blues: Ihr 40. Geburtstag steht bevor, und ihre Affäre mit Richard läuft auch nicht rund. Er ist verheiratet und macht keine Anstalten, daran etwas zu ändern.",
+      "overview": "Walter hat eine Reise gewonnen. Weil seine Frau nicht auf ihr \"Weiberwochenende\" mit ihren Freundinnen verzichten möchte, nimmt er seinen Freund Heinz mit.",
       "genres": [
         "Liebesfilm",
         "Drama"
@@ -1734,7 +1660,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/dora-heldt-unzertrennlich-movie-100/dora-heldt-unzertrennlich-100",
+      "url": "https://www.zdf.de/video/filme/dora-heldt-herzlichen-glueckwunsch-sie-haben-gewonnen-movie-100/dora-heldt-herzlichen-glueckwunsch-sie-haben-gewonnen-100",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -1898,28 +1824,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Was ist deutsch? Die Geschichte der Migration (S2026/E22)",
-      "type": "tv",
-      "overview": "\"Terra X History\" zeigt: Europa ist geprägt von Migration. Seit Jahrtausenden verlassen Menschen ihre angestammte Heimat und suchen ihr Glück woanders. Gründe dafür gibt es viele.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X History - die Einzeldokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/was-ist-deutsch-die-geschichte-der-migration-100",
-      "duration": 2673,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Das Fahrrad erobert die Städte",
       "type": "tv",
       "overview": "Während des Lockdowns 2020 wurden in Genf und Lausanne VD kilometerlange Velowege angelegt und Parkplätze entfernt. Manche werfen den Gemeinden sogar vor, dies zum Nachteil der Autofahrer ausgenutzt zu haben. In jedem Fall hat die Fahrradoffensive einen Kampf entfacht, der sich schon lange auf dem Rollfeld abspielt. Und dieses Mal dreht sich der Wind eindeutig zugunsten der Fahrradbefürworterinnen.",
@@ -1938,6 +1842,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Queen im Krieg",
+      "type": "tv",
+      "overview": "Die Queen im Krieg\r\n260515_phx_queen_im_krieg\r\n20.05.2026-19.06.2026\r\nARD / ZDF / phx",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIwMDc2OQ",
+      "duration": 2587,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2140,46 +2066,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wildes Mexiko (2/3) - Der Regenwald der Maya",
+      "title": "Dorfchroniken - Spurensuche mit Wolfram Koch",
       "type": "tv",
-      "overview": "In der zweiten Folge lüften Wissenschaftler das Erfolgsgeheimnis vom Dschungel-Imperium der Maya auf der Halbinsel Yukatan.",
+      "overview": "Eine alte Dorfchronik, ein verschwundenes Skelett und ein rätselhafter Halsring: In Utphe stößt Schauspieler Wolfram Koch auf eine Geschichte, die bis heute Fragen aufwirft. 1974 wird auf einem Acker ein menschliches Skelett entdeckt. Um den Hals trägt es einen geheimnisvollen Ring. Doch kurz darauf verschwindet der Fund – und mit ihm wichtige Spuren....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ3ODEzMg",
-      "duration": 3128,
+      "url": "https://www.ardmediathek.de/video/ZWZlN2I5OTItOGIxMC00MzAyLTkzM2EtMTNlMTQ4ODUzZmVk",
+      "duration": 2683,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Wildes Mexiko (3/3) - Sengender Norden",
+      "title": "Wo Hessen oben ist – Unsere Mittelgebirge",
       "type": "tv",
-      "overview": "Der dritte Teil erforscht Mexikos Prärien im Norden, dem Geburtsort des amerikanischen Cowboytums. Die teils kargen Felder sind außerdem Heimat von possierlichen Präriehunden und der letzten Aplomado-Falken.",
+      "overview": "Explosiv, waldreich und Millionen Jahre alt. Das sind unsere Mittelgebirge. Plattentektonik hat sie in den Himmel wachsen lassen. Und seither leben wir mit ihnen. Mit ihren Steinen, ihrer Lava, ihren Pflanzen, Gipfeln, ihrer Tieren und ihren Besonderheiten. In Hessen ist die landschaftliche Vielfalt besonders groß, die Basaltvorkommen sind die größten in Europa. Wie lebt es sich in und mit den hessischen Mittelgebirgen?",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ3ODE2Mg",
-      "duration": 3124,
+      "url": "https://www.ardmediathek.de/video/ZTU2MGQyOGMtMmU5OS00ZTY1LTk1OGQtMGFlYjY0MDA5MTNm",
+      "duration": 2678,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Macherinnen – die neue Ära im Basketball",
+      "type": "tv",
+      "overview": "Deutschlands Basketballerinnen wollen bei der Heim-WM 2026 in Berlin um Medaillen kämpfen und den Frauenbasketball in Deutschland nachhaltig verändern.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/macherinnen-die-neue-aera-im-basketball-movie-100",
+      "duration": 3512,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2230,7 +2178,7 @@
       "tmdb_id": null,
       "title": "Vom Gadertal in die Dolomiten",
       "type": "tv",
-      "overview": "Mit viel Herzblut wird die ladinische Kultur im Gadertal im Herzen der Dolomiten hochgehalten. Das Filmteam trifft auf besondere Menschen und ihre Geschichten. So singen etwa die Schwestern Elisabeth und Marlene Schuen von Ganes ihre Lieder in ladinischer Sprache. Die Berglegende Willy Costamoling erzählt von seiner einzigartigen Entdeckung der höchstgelegenen Bärenhöhle Europas....",
+      "overview": "Das Gadertal liegt im Herzen der Dolomiten in Südtirol zwischen zwei Naturparks. Vor mehr als 2.000 Jahren unterwarfen die römischen Legionäre das Dolomitenvolk der Räter und so vermischten sich die Sitten und Gebräuche. Bis heute hat sich in diesem sagenumwobenen Tal die ladinische Sprache und Kultur erhalten. Mit viel Herzblut wird die ladinische Kultur im Gadertal im Herzen der Dolomiten hochgehalten....",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -2246,28 +2194,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Macherinnen – die neue Ära im Basketball",
-      "type": "tv",
-      "overview": "Deutschlands Basketballerinnen wollen bei der Heim-WM 2026 in Berlin um Medaillen kämpfen und den Frauenbasketball in Deutschland nachhaltig verändern.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/macherinnen-die-neue-aera-im-basketball-movie-100",
-      "duration": 3512,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2290,28 +2216,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "NANO Doku: Kann Spieltheorie die Welt retten?",
-      "type": "tv",
-      "overview": "Warum kooperieren wir? Welche Strategien helfen uns bei Entscheidungen? Ob bei geopolitischen Konflikten, im globalen KI-Wettlauf oder in der WG-Küche: Die Spieltheorie hat die Antwort.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "NANO Doku"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/nano-doku/260910-nano-doku-kann-spieltheorie-die-welt-retten-ndk-100.html",
-      "duration": 2627,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -2624,6 +2528,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Kriminalfälle der Einheit – Nepper, Blender, Firmenräuber",
+      "type": "tv",
+      "overview": "Die 90er Jahre waren für den Osten eine wilde Zeit. Das gilt auch für die Kriminalität und deren Bekämpfung. Denn vielerorts trafen mit sich selbst beschäftigte Sicherheitskräfte auf gänzlich neue Formen des Verbrechens.",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Kriminalfälle der Einheit - Nepper, Blender, Firmenräuber"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC81MzQ5ODMtMjk5MjQ2",
+      "duration": 2668,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Tod im Weinberg | Blind ermittelt",
       "type": "tv",
       "overview": "Spielfilm Österreich 2023 Im Abendprogramm des Fernsehens läuft ein knallharter Actionreißer. Was sich vor ihrem Fenster ereignet, versetzt die kiebitzende Oma Horvath (Inge Maux) allerdings in noch größere Aufregung: Ein Autofahrer, der vor einer auf der Straße liegenden Person hält, wird plötzlich von dieser überwältigt und entführt....",
@@ -2680,7 +2606,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1o",
       "duration": 5308,
       "providers": {
         "netflix": null,
@@ -2702,7 +2628,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMzBfMjAtMTUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMzBfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5245,
       "providers": {
         "netflix": null,
@@ -2746,7 +2672,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q0NjA0ODE0LTM4OGEtNGNlNi1hY2E5LTU2MzNmNmQxNDc2N19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q0NjA0ODE0LTM4OGEtNGNlNi1hY2E5LTU2MzNmNmQxNDc2N19nYW56ZVNlbmR1bmc",
       "duration": 5280,
       "providers": {
         "netflix": null,
@@ -2768,7 +2694,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0yM18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0yM18yMC0xNS1NRVNa",
       "duration": 5329,
       "providers": {
         "netflix": null,
@@ -2778,20 +2704,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Herz-Jesu-Blut – Der Bozen-Krimi (S01/E03)",
+      "title": "Das Beste der St. Ingberter Pfanne 2026",
       "type": "tv",
-      "overview": "Spielfilm Deutschland 2016 Auch wenn sie auf sich allein gestellt ist: Wie eine Löwin kämpft Sonja Schwarz (Chiara Schoras) für ihren Mann Thomas (Xaver Hutter), der wegen Mordverdachts in U-Haft sitzt. Endlich tauchen Indizien für seine Unschuld auf. Anteil daran haben dessen Tochter Laura (Charleen Deetz) und Jonas Kerschbaumers (Gabriel Raab) Bruder Ludwig (Kai Malina), der als Schäfer über die einsamen Alpenbergstrecken zieht....",
+      "overview": "Die \"Pfannen\" sind verliehen, die Sieger gekürt. Wer 2026 in der Kleinkunst ausgezeichnet wurde und wer das Publikum begeisterte, zeigt dieses Best-of des Wettbewerbs: Musik-Kabarett, Poetry-Slam, Comedy und Kabarett der Spitzenklasse.",
       "genres": [
-        "Krimi"
+        "Komödie"
       ],
       "keywords": [
-        "Der Bozen-Krimi"
+        "Unterhaltung & Comedy"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI0LTA1LTE5XzAwLTI1LU1FU1o",
-      "duration": 5313,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczOTU5",
+      "duration": 3600,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2836,28 +2762,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNjk5",
       "duration": 2700,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "2. Wettbewerbstag St. Ingberter Pfanne 2026",
-      "type": "tv",
-      "overview": "Hier sehen Sie die Highlights des zweiten Wettbewerb-Tages aus der Industriekathedrale Alte Schmelz in St Ingbert mit den musizierenden Totengräbern „Die Grabowskis“, dem Satire-Duo „Hart auf Hart“ und der schillernden Drag Queen Pam Panco.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Unterhaltung & Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNjM1",
-      "duration": 2594,
       "providers": {
         "netflix": null,
         "prime": null,
