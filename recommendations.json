@@ -1,28 +1,36 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-16T09:36:12.396Z",
+  "generated_at": "2026-09-17T09:44:38.489Z",
   "items": [
     {
-      "tmdb_id": 1440098,
-      "title": "Drawn Together",
+      "tmdb_id": 1386315,
+      "title": "The Runner",
       "type": "movie",
-      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
+      "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
       "genres": [
-        "Liebesfilm",
-        "Thriller"
+        "Thriller",
+        "Action"
       ],
       "keywords": [
-        "based on novel or book",
+        "mother",
+        "london, england",
         "kidnapping",
-        "bodyguard",
-        "family secrets",
-        "sexual tension",
-        "dark romance"
+        "son",
+        "child kidnapping",
+        "nervous",
+        "abduction",
+        "child rescue",
+        "mother son relationship",
+        "anxious",
+        "child abduction",
+        "serious",
+        "attorney",
+        "dramatic"
       ],
-      "rating": 6.646,
-      "vote_count": 79,
-      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
+      "rating": 6.778,
+      "vote_count": 495,
+      "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -50,8 +58,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.114,
-      "vote_count": 3312,
+      "rating": 8.12,
+      "vote_count": 3329,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -61,41 +69,38 @@
       }
     },
     {
-      "tmdb_id": 37854,
-      "title": "One Piece",
+      "tmdb_id": 224263,
+      "title": "Stranger Things: Tales from '85",
       "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+      "overview": "Winter, Hawkins, 1985. Willkommen zurück in einer Stadt voller Geheimnisses, in der sich die beliebten Held*innen neuen Rätseln … und völlig neuartigen Wesen gegenübersehen.",
       "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Action & Adventure"
       ],
       "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
+        "monster",
+        "small town",
+        "indiana, usa",
+        "experiment",
+        "supernatural",
+        "coming of age",
+        "parallel world",
         "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
+        "group of friends",
+        "nostalgic",
+        "government conspiracy",
+        "teen drama",
+        "pre-teen",
+        "1980s",
+        "based on tv series",
+        "mystery"
       ],
-      "rating": 8.747,
-      "vote_count": 5540,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "rating": 7.6,
+      "vote_count": 108,
+      "poster_path": "/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/224263-stranger-things-tales-from-85/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -119,8 +124,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.188,
-      "vote_count": 1550,
+      "rating": 8.2,
+      "vote_count": 1557,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -130,97 +135,26 @@
       }
     },
     {
-      "tmdb_id": 314939,
-      "title": "Eine andere Liebe als deine",
-      "type": "tv",
-      "overview": "Eine realitätsnahe Liebesgeschichte über ein Paar, das seit zehn Jahren zusammen ist und durch unerwartete Gefühle auf die Probe gestellt wird.",
-      "genres": [
-        "Drama",
-        "Komödie"
-      ],
-      "keywords": [
-        "marriage",
-        "romance",
-        "falling in love",
-        "break-up",
-        "long term relationship",
-        "melodrama",
-        "long-time couple",
-        "emotional distance",
-        "relationship crisis",
-        "realistic romance",
-        "second thoughts",
-        "mature love",
-        "human emotions",
-        "love & commitment",
-        "rediscovering love"
-      ],
-      "rating": 8,
-      "vote_count": 1,
-      "poster_path": "/cN3JcQrYTAHP00bFunCj5fk4bVK.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/314939/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 299952,
-      "title": "早春晴朗",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "employer employee relationship",
-        "secret relationship",
-        "workplace romance",
-        "negative",
-        "based on web novel",
-        "arrogant"
-      ],
-      "rating": 8.265,
-      "vote_count": 17,
-      "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299952/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1386315,
-      "title": "The Runner",
+      "tmdb_id": 1440098,
+      "title": "Drawn Together",
       "type": "movie",
-      "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
+      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
       "genres": [
-        "Thriller",
-        "Action"
+        "Liebesfilm",
+        "Thriller"
       ],
       "keywords": [
-        "mother",
-        "london, england",
+        "based on novel or book",
         "kidnapping",
-        "son",
-        "child kidnapping",
-        "nervous",
-        "abduction",
-        "child rescue",
-        "mother son relationship",
-        "anxious",
-        "child abduction",
-        "serious",
-        "attorney",
-        "dramatic"
+        "bodyguard",
+        "family secrets",
+        "sexual tension",
+        "dark romance"
       ],
-      "rating": 6.774,
-      "vote_count": 477,
-      "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
+      "rating": 6.676,
+      "vote_count": 85,
+      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -240,44 +174,13 @@
       "keywords": [
         "age-gap relationship"
       ],
-      "rating": 7.273,
+      "rating": 7.3,
       "vote_count": 22,
       "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1516698,
-      "title": "The Last Sunrise",
-      "type": "movie",
-      "overview": "Basierend auf dem beliebten Roman erzählt \"The Last Sunrise\" die Geschichte von Ry, einer chronisch kranken Studentin, die einen Sommerurlaub auf Mallorca mit ihrer Mutter verbringt. Als sie sich in Julián verliebt und lernt, im Moment zu leben, drohen ihr Gesundheitszustand und lang gehegte Familiengeheimnisse vor Sommerende alles zu zerstören.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "spain",
-        "based on novel or book",
-        "tension",
-        "summer",
-        "woman director",
-        "chronic illness",
-        "appreciative",
-        "audacious",
-        "comforting",
-        "enthusiastic"
-      ],
-      "rating": 6.757,
-      "vote_count": 169,
-      "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -301,13 +204,64 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.407,
-      "vote_count": 4721,
+      "rating": 8.405,
+      "vote_count": 4728,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 206693,
+      "title": "My Dearest",
+      "type": "tv",
+      "overview": "Das südkoreanische Historiendrama My Dearest erzählt die epische Liebesgeschichte zwischen dem geheimnisvollen Lee Jang-hyun und der Adeligen Yoo Gil-chae vor dem Hintergrund der verheerenden Qing-Invasion im Korea des 17. Jahrhunderts.  Yoo Gil-chae ist eine selbstbewusste junge Adlige, die sich nach einer romantischen Liebe sehnt, aber zunächst für einen anderen Mann schwärmt. Lee Jang-hyun wirkt kühl und rätselhaft, hat dem Leben abgeschworen, verliebt sich jedoch tief und unerschütterlich in Gil-chae.\n\nAls die Truppen der Qing-Dynastie in das Joseon-Reich einfallen, bricht das Chaos aus. Der Krieg zwingt die Menschen zu extremen Opfern und trennt Familien.\n\nJang-hyun setzt sein Leben immer wieder aufs Neuer ein, um Gil-chae und andere zu beschützen. Durch seine Taten wandelt sich Gil-chaes Blick auf ihn grundlegend: Aus anfänglicher Ablehnung wird tiefe Zuneigung, während sie getrennt durch das Kriegsunheil um ihr Überleben und ein Wiedersehen kämpfen.",
+      "genres": [
+        "Drama",
+        "War & Politics",
+        "Mystery"
+      ],
+      "keywords": [
+        "rape",
+        "slavery",
+        "historical figure",
+        "romance",
+        "unrequited love",
+        "misunderstanding",
+        "nobility",
+        "angst",
+        "historical drama",
+        "costume drama",
+        "forced marriage",
+        "17th century",
+        "chastity",
+        "joseon dynasty (1392–1910)",
+        "unconditional love",
+        "war",
+        "sageuk",
+        "slow burn romance",
+        "lovers separated",
+        "love in war",
+        "poetic",
+        "family traditions",
+        "gay supporting character",
+        "determined female lead",
+        "spoiled female lead",
+        "character development",
+        "ambitious female lead",
+        "qing invasion of joseon",
+        "poetic male lead"
+      ],
+      "rating": 8.333,
+      "vote_count": 57,
+      "poster_path": "/308Hkv0uTov3hBiPClB1Fnww3tj.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/206693/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -351,8 +305,8 @@
         "violent",
         "tortured genius"
       ],
-      "rating": 8.95,
-      "vote_count": 18621,
+      "rating": 8.9,
+      "vote_count": 18627,
       "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
       "providers": {
@@ -362,105 +316,24 @@
       }
     },
     {
-      "tmdb_id": 70523,
-      "title": "Dark",
+      "tmdb_id": 250670,
+      "title": "Maxton Hall - Die Welt zwischen uns",
       "type": "tv",
-      "overview": "Nach dem Verschwinden eines Kindes begeben sich vier Familien auf die verzweifelte Suche nach Antworten und der Lösung eines Rätsels, das drei Generationen umspannt.",
+      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
       "genres": [
-        "Krimi",
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Mystery"
+        "Drama"
       ],
       "keywords": [
-        "hotel",
-        "detective",
-        "small town",
-        "cave",
-        "nuclear power plant",
-        "time travel",
-        "investigation",
-        "time machine",
-        "cop",
-        "woods",
-        "surrealism",
-        "priest",
-        "time loop",
-        "disappearance",
-        "incest",
-        "missing child",
-        "psychotic",
-        "nostalgic",
-        "alternate timeline",
-        "watchmaker",
-        "mysterious past",
-        "family crisis",
-        "science fiction",
-        "inspirational",
-        "suspense",
-        "thriller",
-        "depressing",
-        "dignified",
-        "hopeful",
-        "chilling"
+        "romance",
+        "millionaire",
+        "bookworm",
+        "drama",
+        "school setting"
       ],
-      "rating": 8.426,
-      "vote_count": 7841,
-      "poster_path": "/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/70523-dark/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222840.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 13475,
-      "title": "Star Trek",
-      "type": "movie",
-      "overview": "Wir schreiben das 23. Jahrhundert. Der junge James Tiberius Kirk ist ein Draufgänger, der keiner Kneipenschlägerei aus den Weg geht und bevorzugt mit dem Kopf durch die Wand marschiert. Der Heißsporn bewirbt sich auf Rat eines alten Freundes seines verstorbenen Vaters bei der Sternenflotten-Akademie der Föderation und findet in dem kauzigen Arzt Dr. Leonard \"Pille\" McCoy sogar gleich einen neuen Kumpel. Ansonsten macht sich der Frauenheld auf der Akademie eher Feinde. So wie den Halb-Vulkanier Spock, dem auffällt, dass Tiberius bei einer Prüfung gemogelt hat. Die beiden entwickeln sich zu erbitterten Rivalen, müssen ihre Feindseligkeiten jedoch aufgeben, als die U.S.S. Enterprise vom Stapel läuft und Captain Pike bei einer Mission von dem romulanischen Outlaw Nero gefangen genommen wird, der nur von einem Gedanken beseelt ist: Rache!",
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "spacecraft",
-        "teleportation",
-        "san francisco, california",
-        "space battle",
-        "time travel",
-        "space mission",
-        "parachute",
-        "black hole",
-        "supernova",
-        "prequel",
-        "futuristic",
-        "warp speed",
-        "warp engine",
-        "space",
-        "romulans",
-        "space opera",
-        "reboot",
-        "unlikely friendship",
-        "child driving car",
-        "alternative reality",
-        "23rd century",
-        "based on tv series",
-        "24th century",
-        "suspenseful",
-        "excited",
-        "exhilarated"
-      ],
-      "rating": 7.437,
-      "vote_count": 10718,
-      "poster_path": "/hbFaX3xicuHbfdW0XpUy6uHS3EN.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/13475-star-trek/watch?locale=DE",
+      "rating": 8.271,
+      "vote_count": 680,
+      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -468,27 +341,77 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222207.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000223007.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 229221,
-      "title": "Liebes Kind",
+      "tmdb_id": 273240,
+      "title": "Off Campus",
       "type": "tv",
-      "overview": "Lena lebt mit den beiden Kindern Hannah und Jonathan völlig isoliert in einem hochgesicherten Haus. Zu exakt vorgeschriebenen Zeiten nehmen sie ihre Mahlzeiten ein, gehen auf Toilette und ins Bett. Sobald er den Raum betritt, stellen sie sich auf und zeigen ihre Hände vor. Sie tun alles, was er sagt. Bis der jungen Frau die Flucht gelingt. Nach einem Autounfall wird sie schwerverletzt in Begleitung von Hannah ins Krankenhaus eingeliefert.",
+      "overview": "Hannah Wells gibt Eishockey-Kapitän Garrett Graham Nachhilfe, um ihren Schwarm zu erobern. Doch aus ihrem Deal entsteht eine echte Verbindung, während sich beide ihrer Vergangenheit stellen. Zusammen mit ihren Freunden Logan, Dean, Tucker und Allie navigieren sie durch das Chaos aus College-Leben und Liebe.",
       "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
+        "Drama"
       ],
       "keywords": [
-        "miniseries"
+        "based on novel or book",
+        "self-discovery",
+        "love",
+        "romance",
+        "romantic",
+        "compassionate"
       ],
-      "rating": 7.3,
-      "vote_count": 400,
-      "poster_path": "/cH9Oh59kTq8cZoa0OyjcBrjus4m.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/229221-liebes-kind/watch?locale=DE",
+      "rating": 8.909,
+      "vote_count": 851,
+      "poster_path": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/273240-off-campus/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000223007.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 44217,
+      "title": "Vikings",
+      "type": "tv",
+      "overview": "Inspiriert von den überlieferten Sagen des legendären Wikingerkönigs Ragnar Lothbrok entführt die gefeierte Hitserie in den eisigen Norden des europäischen Kontinents im 8. Jahrhundert: Krieger Ragnar glaubt, dass jenseits des wilden Ozeans im unerforschten Westen ein neues Land mit reichen Schätzen auf die Wikingerhorden wartet. Für seine Überzeugungen setzt er alles auf eine Karte, lässt ein neues Schiff bauen und macht sich in den packenden neun Episoden der ersten Staffel auf, um Geschichte zu schreiben.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "scandinavia",
+        "vikings (norsemen)",
+        "royalty",
+        "historical fiction",
+        "king",
+        "battle",
+        "historical",
+        "middle ages (476-1453)",
+        "dark ages",
+        "norse mythology",
+        "historical drama",
+        "warrior",
+        "8th century",
+        "period piece",
+        "violence",
+        "sword and sandal",
+        "exciting",
+        "action",
+        "antagonistic",
+        "violent"
+      ],
+      "rating": 8.102,
+      "vote_count": 7884,
+      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/44217-vikings/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -496,8 +419,90 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222874.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000222989.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 4629,
+      "title": "Stargate",
+      "type": "tv",
+      "overview": "Die Fortsetzung des Films \"Stargate\" von 1994, beschreibt die weiteren Abenteuer des SGC (Stargate Command). Es stellt sich heraus, dass der Goa'uld Ra nur einer von vielen außerirdischen Herrschern war, der das Stargate zur Eroberung des Universum benutzte. Nach der vollständigen Entschlüsslung des Stargates, können nun Reisen ins ganze Universum unternommen werden. Das Militär sendet SG-Teams um diese neuen Welten zu erforschen, um neue Technologien zu entdecken und sich den Goa'uld zu stellen. Die Charakter Jack O'Neill and Daniel Jackson aus dem Film sind teil von SG-1. Begleitet werden sie von Sam Carter, einer Wissenschaftlerin, und Teal'c, einem Jaffa, der davon überzeugt ist, dass die Goa'uld keine Götter sind.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "wormhole",
+        "space travel",
+        "space",
+        "travel",
+        "alien",
+        "alien planet",
+        "military",
+        "distant  planet",
+        "secret military program",
+        "advanced ancient civilization"
+      ],
+      "rating": 8.266,
+      "vote_count": 1899,
+      "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/4629-stargate-sg-1/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Serienjunkies",
+        "url": "https://www.serienjunkies.de/news/serien/vom-stargate-autor-staffel-dieser-sci-fi-serie-startet-im-november-im-deutschen-fernsehen-94496381.html",
+        "mentions": 1
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nachtschatten",
+      "type": "tv",
+      "overview": "Amanda (16) wird nachts verletzt in Dresden gefunden, mit einem blutigen Skalpell und der Behauptung, ihr Vater verfolge sie. Sie erzählt von jahrelanger Gefangenschaft im Keller und einer dort zurückgelassenen Schwester. Während die Polizei zweifelt, glaubt Kommissarin Winkler ihr. DNA-Spuren führen zum Vater, der alles abstreitet. Als eine Ärztin ermordet wird, gerät Amanda selbst in Verdacht....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4",
+      "duration": 5322,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wofür es sich zu leben lohnt",
+      "type": "tv",
+      "overview": "Seltsam und voller Rätsel sind die Fälle, mit denen die Ermittler:innen Klara Blum, Kai Perlmann und Matteo Lüthi im letzten Bodensee-Tatort befasst sind. \"Wofür es sich zu leben lohnt\": das ist weder eine Frage noch eine Antwort, sondern eine Auffassung - eine Haltung. Denn Haltung ist gefragt, wenn man die Witwe eines nicht nur berüchtigten, sondern auch viel geliebten, zu Tode gepeinigten rechtsextremen Vordenkers verhört....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEyMjE",
+      "duration": 5245,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -709,29 +714,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tatort: Virus",
-      "type": "tv",
-      "overview": "Fernsehfilm Österreich 2017 Im beschaulichen Pöllau müssen Moritz Eisner (Harald Krassnitzer) und Bibi Fellner (Adele Neuhauser) den gewaltsamen Tod eines Mannes aus Afrika aufklären. Es gibt keine Papiere oder Hinweise darauf, wer das Opfer ist, das erschlagen im örtlichen Steinbruch gefunden wurde. Dort sollte seine Leiche offenbar beseitigt werden. Die Wiener Kommissare knöpfen sich den Betreiber Thomas Reuss (Martin Niedermair) vor....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzY3NzM0NjM0LTYwZWItNDg2Ny1iMjJiLWJjNjEwNTJmOTVmY19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5159,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Dein Name sei Harbinger",
       "type": "tv",
       "overview": "Fernsehfilm Deutschland 2017\r\n\r\nIn einem ausgebrannten Transporter wurde ein Toter gefunden. Schnell ermitteln Rubin und Karow, dass es drei weitere, ältere Fälle mit ähnlichem Tathergang gab. Sie wurden nie aufgeklärt. Handelt es sich um einen Serienmörder?\r\n\r\nMit Meret Becker, Mark Waschke, Christoph Bach, Carolyn Genzkow,  Trystan Pütter | Regie: Florian Baxmeyer",
@@ -745,35 +727,12 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3NGEwODQzLTU0NGItNGNjZS1hMzc5LTAwNDQ4OGJlNDBjNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3NGEwODQzLTU0NGItNGNjZS1hMzc5LTAwNDQ4OGJlNDBjNF9nYW56ZVNlbmR1bmc",
       "duration": 5305,
       "providers": {
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatort: Dein Verlust",
-      "type": "tv",
-      "overview": "Mord im Wiener Nachtclub – und alle Spuren führen ausgerechnet zu Ermittler Moritz. Nach dem Mord an Nachtclubbesitzer Otto Hübner gerät ausgerechnet Ermittler Moritz ins Zentrum der Ermittlungen: Seine DNA wird am Tatort gefunden, Zeugen wollen ihn in der Tatnacht gesehen haben, selbst die Tatwaffe ähnelt seiner Dienstwaffe....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort aus Österreich"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14337943/tatort-dein-verlust",
-      "duration": 5261,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     },
     {
@@ -1246,28 +1205,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Unaufhaltsam (Englisch)",
-      "type": "tv",
-      "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/unaufhaltsam-movie-100/unaufhaltsam-100",
-      "duration": 7094,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Unaufhaltsam",
       "type": "tv",
       "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
@@ -1290,7 +1227,29 @@
     },
     {
       "tmdb_id": null,
-      "title": "The Founder",
+      "title": "Unaufhaltsam (Englisch)",
+      "type": "tv",
+      "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/unaufhaltsam-movie-100/unaufhaltsam-100",
+      "duration": 7094,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "The Founder (Englisch)",
       "type": "tv",
       "overview": "Der erfolglose Vertreter Ray Kroc verfolgt den amerikanischen Traum. Als er einen beliebten Schnellimbiss besucht, entwickelt er einen visionären Plan. Er will Franchiserechte erwerben.",
       "genres": [
@@ -1312,7 +1271,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "The Founder (Englisch)",
+      "title": "The Founder",
       "type": "tv",
       "overview": "Der erfolglose Vertreter Ray Kroc verfolgt den amerikanischen Traum. Als er einen beliebten Schnellimbiss besucht, entwickelt er einen visionären Plan. Er will Franchiserechte erwerben.",
       "genres": [
@@ -1824,6 +1783,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Was ist deutsch? Die Geschichte der Migration (S2026/E22)",
+      "type": "tv",
+      "overview": "\"Terra X History\" zeigt: Europa ist geprägt von Migration. Seit Jahrtausenden verlassen Menschen ihre angestammte Heimat und suchen ihr Glück woanders. Gründe dafür gibt es viele.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History - die Einzeldokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/was-ist-deutsch-die-geschichte-der-migration-100",
+      "duration": 2673,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ich glaub, ich muss nach Juchitán",
+      "type": "tv",
+      "overview": "Dokumentarfilm Deutschland 2024 +++ Die Sehnsucht, Bilder abseits des Patriarchats zu finden, war der Anlass für Kamerafrau und Regisseurin Sonja Aufderklamm nach Juchitán in Mexiko zu reisen, an einen Ort mit matriarchalen Strukturen. Drei Frauen werden in ihrem Alltag begleitet, Adelina ist 70, Martina 40 und Adela 20. Sie betreiben gemeinsam ein Bistro am Markt, der das wirtschaftliche Zentrum der Stadt Juchitán darstellt....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentation und Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9lMWQ0NTkwZC1jZmZmLTQxODMtOTZmZi05ZGU1YzA4MmFjNDRfcHVibGljYXRpb24",
+      "duration": 4466,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Das Fahrrad erobert die Städte",
       "type": "tv",
       "overview": "Während des Lockdowns 2020 wurden in Genf und Lausanne VD kilometerlange Velowege angelegt und Parkplätze entfernt. Manche werfen den Gemeinden sogar vor, dies zum Nachteil der Autofahrer ausgenutzt zu haben. In jedem Fall hat die Fahrradoffensive einen Kampf entfacht, der sich schon lange auf dem Rollfeld abspielt. Und dieses Mal dreht sich der Wind eindeutig zugunsten der Fahrradbefürworterinnen.",
@@ -2044,24 +2047,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wildes Mexiko (1/3) - Bergwelten",
+      "title": "Wundermittel Cortison: Neue Therapien, weniger Nebenwirkungen?",
       "type": "tv",
-      "overview": "Mexiko, ein Land der Superlative, bestehend aus Flüssen, Bergen, Regenwäldern, Wüsten, Stränden, Mangroven und Steppen.",
+      "overview": "Cortison zählt zu den wichtigsten Mitteln der Medizin: Wie gelingt die schnelle Hilfe gegen Entzündungen mit weniger Nebenwirkungen? Neue Erkenntnisse für eine bessere Therapie.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "NANO Doku"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDQ3ODEyNw",
-      "duration": 2956,
+      "url": "https://www.3sat.de/wissen/nano-doku/260917-nano-doku-webreihe-cortison-ndk-100.html",
+      "duration": 2603,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Unsere Herzen · Ein Klang",
+      "type": "tv",
+      "overview": "Eine besondere Magie liegt im gemeinsamen Singen – da sind sich alle einig, die schon einmal im Chor gesungen haben. Wenn die unterschiedlichsten Stimmlagen in aller Verschiedenheit zueinander finden, entsteht eine enorme musikalische Kraft....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Doku & Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMDZjNzExMTYtM2NmZC00ZjdjLTljNDUtMmNlMDFjOTgwNzk0",
+      "duration": 5399,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2198,20 +2223,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Tier-Docs: Ziege mit Haarausfall",
+      "title": "Kölner Oper: Sanierungsdrama, letzter Akt",
       "type": "tv",
-      "overview": "Auch Ziegen können Haarausfall haben. Jedenfalls ist Land-Tierarzt Lukas Bretzinger damit befasst, als er auf den Belchen im Schwarzwald fährt. Sein Vater Jörg muss sich um drei kranke Rinder in Bollschweil (Breisgau-Hochschwarzwald) kümmern. Eines davon hat eine Lungenentzündung und frisst nicht mehr. Damit Tiere untersucht werden können, müssen sie erstmal eingefangen werden....",
+      "overview": "14 Jahre hat die Sanierung der Kölner Opfer gedauert und nahezu 1,5 Milliarden Euro statt 250 Millionen gekostet. Im September 2026 sollen die Kölner Oper und das Schauspielhaus endlich wiedereröffnet werden. Wie konnte diese öffentliche Baumaßnahme derart aus dem Ruder laufen? \"Die Sanierung der Bühnen Köln war eine schwierige, eine lange und eine teure Geschichte....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Doku & Reportage"
+        "die story"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDgzNjg",
-      "duration": 2683,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTNkYTE4YjAtMzEwNy00MzFjLTlkNGMtZmI2YjZhZGRiMTAy",
+      "duration": 2651,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2330,24 +2355,112 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tod im Vereinsheim? Wie Vereine ums Überleben kämpfen",
+      "title": "Berlin Alexanderplatz",
       "type": "tv",
-      "overview": "Nach über 100 Jahren steht der Sportverein Rot-Weiß Mellen vor dem Aus – es findet sich einfach niemand mehr für die Übernahme der Vorstandsarbeit. Damit ist der Verein im Sauerland nicht alleine. Überall fehlen Freiwillige, die Posten und Verantwortung übernehmen wollen – ob beim Männerchor, im Schwimmverein oder auch bei der Freiwilligen Feuerwehr. Und deshalb arbeiten andere fast rund um die Uhr....",
+      "overview": "Die Neuverfilmung von Alfred Döblins literarischem Klassiker erzählt die Geschichte des jungen Geflüchteten Francis, der nach Berlin kommt, um dort ein neues Leben in Würde zu beginnen. Doch die Lebensumstände als Staatenloser machen es ihm nicht leicht. Als er dem zwielichtigen Reinhold begegnet, gerät er auf die schiefe Bahn. Ein Sozialdrama von Burhan Qurbani aus dem Jahr 2020.",
       "genres": [
-        "Dokumentarfilm"
+        "Drama"
       ],
       "keywords": [
-        "die story"
+        "Kino - Filme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOGFhODI4ZGEtNTg5MS00YmRlLWJmNDYtZjc0NzU2OTNjZGRj",
-      "duration": 2613,
+      "url": "https://www.arte.tv/de/videos/078078-000-A/berlin-alexanderplatz/",
+      "duration": 10222,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kurzschluss - Wunden der Kindheit",
+      "type": "tv",
+      "overview": "Nicht vermittelbar, von Fanny Galan / Ich wollt', ich wär' 'ne Kuh, von Cliona Noonan / Zizou, von Khaled Moeit / Privatvorführung – Aude Kerivel, promovierte Soziologin und Autorin",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Kurzfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/128693-018-A/kurzschluss/",
+      "duration": 3535,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Joaquin Phoenix - Schauspieler der Extreme",
+      "type": "tv",
+      "overview": "Joaquin Phoenix ist ein Grenzgänger, der es mit seinen Darstellungen von Außenseitern und labilen Charakteren zu den großen Schauspielern in Hollywood gebracht hat. Für seine intensive Darstellung des \"Joker\" erhielt er endlich den begehrten Oscar. Das Porträt zeigt auch den Menschen, der abseits der Filmwelt radikal in seinem Aktivismus für Tiere und Natur agiert.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filmgrößen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/111643-000-A/joaquin-phoenix-schauspieler-der-extreme/",
+      "duration": 3164,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "James Gray - Filmemacher in Zeiten des Umbruchs",
+      "type": "tv",
+      "overview": "James Gray ist einer der wichtigsten Vertreter des US-amerikanischen Independent-Films. Von \"Little Odessa\" bis \"Zeiten des Umbruchs\" – sein Werk verbindet klassisches und modernes Erzählen, wobei sich der Regisseur durch verschiedenste Filmgenres bewegt und nostalgische Rückblicke auf den amerikanischen Traum mit scharfer Gesellschaftskritik zu verknüpfen weiß.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filmgrößen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/126749-000-A/james-gray-filmemacher-in-zeiten-des-umbruchs/",
+      "duration": 3097,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Two Lovers",
+      "type": "tv",
+      "overview": "Nach einem halbherzigen Suizidversuch wird der labile Leonard von Passanten aus dem Wasser gefischt. Seine Eltern glauben, dass eine Frau ihn von seinen Depressionen kurieren könnte ... – James Gray fächert in \"Two Lovers\", der 2008 in Cannes Premiere feierte, das Gefühlschaos einer schwierigen Entscheidung auf.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/047570-000-A/two-lovers/",
+      "duration": 6159,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2410,116 +2523,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/045559-000-A/der-pate/",
       "duration": 9986,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Marlon Brando: Im Paradies",
-      "type": "tv",
-      "overview": "Weltweit zählt Marlon Brando zu den bekanntesten Schauspielern des 20. Jahrhunderts. Seine Rollen in \"Apocalypse Now\" oder \"Der Pate\" bleiben unvergessen. Politisch engagierte er sich besonders für die US-Bürgerrechtsbewegung. Doch Brandos große Liebe galt der Wissenschaft. 1966 erwarb er das Südseeatoll Tetiaroa, um dort ein ökologisches Modell zu entwickeln.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/117167-000-A/marlon-brando-im-paradies/",
-      "duration": 3103,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Schein trügt",
-      "type": "tv",
-      "overview": "Stojan ist ein unbescholtener Mann, der alles für seine Familie tut. Doch als über seinem Kopf ein Heiligenschein aufleuchtet, beginnt er zu sündigen, um nicht mit seinen Lieben aus dem Dorf vertrieben zu werden. Dem Regisseur gelingt eine so furiose wie groteske Bestandsaufnahme des postsozialistischen Europas. Tragikomödie in drei Episoden von Srdjan Dragojevic.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/082147-000-A/der-schein-truegt/",
-      "duration": 7318,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kurzschluss - Lebenseinschnitte",
-      "type": "tv",
-      "overview": "Ivar, Kurzfilm von Markus Tangre / Kokon, Kurzfilm von Inés Sedan / Aufstieg und Fall von Zara Zilverstein, Kurzfilm von Brian Kazez / Porträt – Pauline Doméjean, Kamerafrau",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Kurzfilme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/128693-017-A/kurzschluss/",
-      "duration": 3159,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sophie Marceau - Der bezaubernd authentische Filmstar",
-      "type": "tv",
-      "overview": "Mit \"La Boum – Die Fete\" begann 1980 die Karriere der damals 14-jährigen Sophie Marceau, die seither in Autorenfilmen und Blockbustern zu überzeugen weiß – und dabei stets sie selbst blieb. Schon früh zeigte Sophie Marceau, dass sie sich von niemandem in der Filmbranche etwas diktieren lässt, und wurde mit ihrer charmanten Authentizität zu einem der beliebtesten Stars Frankreichs.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/128041-000-A/sophie-marceau/",
-      "duration": 3122,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Alles ist gutgegangen",
-      "type": "tv",
-      "overview": "Eine Schriftstellerin und ihre Schwester lassen sich von ihrem Vater dazu bringen, ihm eine illegale Sterbehilfereise in die Schweiz zu organisieren. Die Vorbereitungen dazu stürzen sie in eine emotionale Achterbahnfahrt. – Von François Ozon mit vielen bekannten Stars inszeniert: Sophie Marceau, André Dussollier, Géraldine Pailhas, Charlotte Rampling und Hanna Schygulla.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/127949-000-A/alles-ist-gutgegangen/",
-      "duration": 6423,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2606,7 +2609,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1o",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5308,
       "providers": {
         "netflix": null,
@@ -2650,7 +2653,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMjNfMjAtMTUtTUVTWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMjNfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -2694,7 +2697,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0yM18yMC0xNS1NRVNa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0yM18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5329,
       "providers": {
         "netflix": null,
@@ -2946,6 +2949,52 @@
     },
     {
       "tmdb_id": null,
+      "title": "Der Kampf um Chile (3/3) - Die Macht des Volkes",
+      "type": "tv",
+      "overview": "In den Monaten vor dem Militärputsch in Chile versuchen die Anhänger des sozialistischen Präsidenten Allende, mit politischen und karitativen Aktionen einen « Staat im Staate » zu schaffen - als Gegengewicht zu den reformfeindlichen Kräften im Land, die unter anderem von der Nixon-Regierung in den USA unterstützt werden.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116001-000-A/der-kampf-um-chile-3-3/",
+      "duration": 4731,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Kampf um Chile (2/3) - Der Staatsstreich",
+      "type": "tv",
+      "overview": "1973 spitzt sich der Konflikt zwischen den politischen Lagern in Chile weiter zu. Die US-Regierung unterstützt den Widerstand gegen den sozialistischen Präsidenten Allende. Es kommt schließlich zu einem Militärputsch - und in der Folge zu 17 Jahren Schreckensherrschaft des Pinochet-Regimes.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116000-000-A/der-kampf-um-chile-2-3/",
+      "duration": 5283,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Nazi Space Race - Die dunkle Seite der Mondlandung",
       "type": "tv",
       "overview": "Der Wettlauf zum Mond hatte eine weitgehend verdrängte Vorgeschichte: Im Rahmen der Operation Paperclip rekrutierten die USA nach Kriegsende deutsche Wissenschaftler, darunter ehemalige NS-Ingenieure. Ihre Expertise aus der Entwicklung der V2-Rakete wurde zum Baustein des amerikanischen Raumfahrtprogramms.",
@@ -3080,52 +3129,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "zeit.geschichte: Südtirol - Heimat auf Italienisch",
-      "type": "tv",
-      "overview": "Der \"Marsch auf Rom\" 1922 markierte den Beginn von Mussolinis faschistischer Herrschaft – und einer radikalen Italienisierung Südtirols. Es folgten Jahrzehnte zwischen Faschismus, Nationalsozialismus, Gewalt und dem Ringen um Autonomie....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14339021/zeit-geschichte-suedtirol-heimat-auf-italienisch",
-      "duration": 2933,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Pompeji - Die Villa von Neros Kaiserin",
-      "type": "tv",
-      "overview": "Prunkvolle Fresken, ein 60 Meter langer Pool, marmorne Fußböden: Die Villa Oplontis ist ein Meisterwerk antiker Architektur. Sie liegt am Golf von Neapel, der im 1. Jahrhundert zum Refugium der Elite geworden war. Vermutlich gehörte die Villa Kaiser Neros zweiter Frau. Gebaut und unterhalten werden konnte sie aber nur dank unzähliger Sklaven – bis der Vesuv alles unter sich begrub.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116006-000-A/pompeji-die-villa-von-neros-kaiserin/",
-      "duration": 5419,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     }
   ]
