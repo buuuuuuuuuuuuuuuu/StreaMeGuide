@@ -1,36 +1,21 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-17T09:44:38.489Z",
+  "generated_at": "2026-09-18T09:18:16.857Z",
   "items": [
     {
-      "tmdb_id": 1386315,
-      "title": "The Runner",
+      "tmdb_id": 1656489,
+      "title": "Sultana",
       "type": "movie",
-      "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
+      "overview": "„Sultana“ ist ein Drama, das in Istanbuls einzigem Stripclub spielt und eine Geschichte über Frauen, Macht, Rivalität und Solidarität erzählt. Eine neue türkische Geschichte, in der Frauen keine Opfer in einem Märchen sind, sondern Kämpferinnen, die lernen, dass der „schöne Prinz“ oft das wahre Monster ist – und dass ihre einzige Rettung einander sind. Meral, die seit langem regierende Königin des einzigen Stripclubs Istanbuls, dem „Sultana“, nimmt eine talentierte neue weißrussische Tänzerin namens Anna unter ihre Fittiche. Doch schon bald wird ihr klar, dass sie eine Rivalin geschaffen hat, die mächtig genug ist, sie zu ersetzen, und es kommt zu einem gnadenlosen Machtkampf zwischen den beiden Frauen.",
       "genres": [
-        "Thriller",
-        "Action"
+        "Drama",
+        "Musik"
       ],
-      "keywords": [
-        "mother",
-        "london, england",
-        "kidnapping",
-        "son",
-        "child kidnapping",
-        "nervous",
-        "abduction",
-        "child rescue",
-        "mother son relationship",
-        "anxious",
-        "child abduction",
-        "serious",
-        "attorney",
-        "dramatic"
-      ],
-      "rating": 6.778,
-      "vote_count": 495,
-      "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
+      "keywords": [],
+      "rating": 5.5,
+      "vote_count": 2,
+      "poster_path": "/wDebpR4NplIM8EteAGfd51Zdisu.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1656489-sultana/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -38,30 +23,57 @@
       }
     },
     {
-      "tmdb_id": 108978,
-      "title": "Reacher",
+      "tmdb_id": 247718,
+      "title": "MobLand",
       "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "overview": "Hier steht eine professionelle Fixer-Familie die Donovans aus London im Mittelpunkt, die für die mächtigsten Menschen Europas arbeitet. In einem unsteten Business müssen die Donovans sich auf merkwürdige Verbündete und zahlreiche Überraschungen einstellen. In einem Geschäft, in dem Verrat überall möglich ist, ist es gut, dass wenigsten die Familie zusammenhält.",
       "genres": [
-        "Action & Adventure",
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "london, england",
+        "drug trafficking",
+        "gang war",
+        "gangster",
+        "family business ",
+        "murder",
+        "betrayal",
+        "crime family",
+        "fixer",
+        "corrupt cop",
+        "brutal violence"
+      ],
+      "rating": 8.4,
+      "vote_count": 849,
+      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 273207,
+      "title": "Neagley",
+      "type": "tv",
+      "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+      "genres": [
+        "Drama",
+        "Mystery",
         "Krimi"
       ],
       "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "reboot",
-        "military police"
+        "chicago, illinois",
+        "private investigator",
+        "justice",
+        "spin off"
       ],
-      "rating": 8.12,
-      "vote_count": 3329,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "rating": 7.9,
+      "vote_count": 45,
+      "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -108,6 +120,58 @@
       }
     },
     {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "reboot",
+        "military police"
+      ],
+      "rating": 8.122,
+      "vote_count": 3339,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 295089,
+      "title": "Die Puppe",
+      "type": "tv",
+      "overview": "In dieser modernen Verfilmung nach dem klassischen polnischen Roman von Bolesław Prus plagen einen erfolgreichen Kaufmann seine Gefühle für eine willensstarke Adelige.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book"
+      ],
+      "rating": 4.333,
+      "vote_count": 3,
+      "poster_path": "/nFlKr13GJuiWf9RofcmHXNCE9fL.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/295089-lalka/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
       "tmdb_id": 113962,
       "title": "Lioness",
       "type": "tv",
@@ -124,8 +188,8 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.2,
-      "vote_count": 1557,
+      "rating": 8.197,
+      "vote_count": 1560,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
@@ -151,10 +215,44 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.676,
-      "vote_count": 85,
+      "rating": 6.624,
+      "vote_count": 89,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1386315,
+      "title": "The Runner",
+      "type": "movie",
+      "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "keywords": [
+        "mother",
+        "london, england",
+        "kidnapping",
+        "son",
+        "child kidnapping",
+        "nervous",
+        "abduction",
+        "child rescue",
+        "mother son relationship",
+        "anxious",
+        "child abduction",
+        "serious",
+        "attorney"
+      ],
+      "rating": 6.777,
+      "vote_count": 505,
+      "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -172,10 +270,11 @@
         "Komödie"
       ],
       "keywords": [
-        "age-gap relationship"
+        "age-gap relationship",
+        "amused"
       ],
-      "rating": 7.3,
-      "vote_count": 22,
+      "rating": 7.2,
+      "vote_count": 25,
       "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
       "providers": {
@@ -204,10 +303,43 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.405,
-      "vote_count": 4728,
+      "rating": 8.406,
+      "vote_count": 4732,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 18165,
+      "title": "Vampire Diaries",
+      "type": "tv",
+      "overview": "Die Highschool-Schülerin Elena Gilbert hat ihre Eltern bei einem Autounfall verloren. Ihre Tante Jenna Sommers, die jüngere Schwester der Mutter, ist nach Mystic Falls gekommen, um sich um sie und ihren jüngeren Bruder Jeremy zu kümmern. Als der neue Mitschüler Stefan Salvatore auf der Bildfläche erscheint, weckt er sofort Elenas Interesse. Sie ahnt nicht, dass es sich bei Stefan um einen bereits jahrhundertealten Vampir handelt. Als dann noch Stefans älterer Bruder Damon auftaucht, der von Elena ebenfalls angezogen ist, überschlagen sich die Ereignisse. Stefan wird misstrauisch, denn er weiß, dass Damon nichts Gutes im Sinn hat. Elena wird in eine Welt hineingeworfen, von deren Existenz sie bislang nichts geahnt hat.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "love triangle",
+        "witch",
+        "based on novel or book",
+        "vampire",
+        "supernatural",
+        "eternal youth",
+        "werewolf",
+        "supernatural creature",
+        "doppelgänger",
+        "eternal love",
+        "interspecies romance",
+        "based on young adult novel"
+      ],
+      "rating": 8.3,
+      "vote_count": 9763,
+      "poster_path": "/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/18165-the-vampire-diaries/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
@@ -247,13 +379,7 @@
         "love in war",
         "poetic",
         "family traditions",
-        "gay supporting character",
-        "determined female lead",
-        "spoiled female lead",
-        "character development",
-        "ambitious female lead",
-        "qing invasion of joseon",
-        "poetic male lead"
+        "ambitious female lead"
       ],
       "rating": 8.333,
       "vote_count": 57,
@@ -305,8 +431,8 @@
         "violent",
         "tortured genius"
       ],
-      "rating": 8.9,
-      "vote_count": 18627,
+      "rating": 8.951,
+      "vote_count": 18637,
       "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
       "providers": {
@@ -316,102 +442,111 @@
       }
     },
     {
-      "tmdb_id": 250670,
-      "title": "Maxton Hall - Die Welt zwischen uns",
+      "tmdb_id": 2734,
+      "title": "Law & Order: Special Victims Unit",
       "type": "tv",
-      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
+      "overview": "Bei Polizei und Staatsanwaltschaft gelten Sexualverbrechen als besonders abscheulich. In New York City gehören die engagierten Detectives, die in diesen brutalen Fällen ermitteln, zur Sondereinheit für Sexualdelikte. Dies sind ihre Geschichten. Innerhalb der New Yorker Polizei gibt es eine Sondereinheit, die Special Victims Unit. Die Fälle, die das SVU untersucht, beschränken sich ausschließlich auf Sexualdelikte und Verbrechen an Kindern",
       "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "millionaire",
-        "bookworm",
-        "drama",
-        "school setting"
-      ],
-      "rating": 8.271,
-      "vote_count": 680,
-      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223007.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 273240,
-      "title": "Off Campus",
-      "type": "tv",
-      "overview": "Hannah Wells gibt Eishockey-Kapitän Garrett Graham Nachhilfe, um ihren Schwarm zu erobern. Doch aus ihrem Deal entsteht eine echte Verbindung, während sich beide ihrer Vergangenheit stellen. Zusammen mit ihren Freunden Logan, Dean, Tucker und Allie navigieren sie durch das Chaos aus College-Leben und Liebe.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "self-discovery",
-        "love",
-        "romance",
-        "romantic",
-        "compassionate"
-      ],
-      "rating": 8.909,
-      "vote_count": 851,
-      "poster_path": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/273240-off-campus/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223007.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 44217,
-      "title": "Vikings",
-      "type": "tv",
-      "overview": "Inspiriert von den überlieferten Sagen des legendären Wikingerkönigs Ragnar Lothbrok entführt die gefeierte Hitserie in den eisigen Norden des europäischen Kontinents im 8. Jahrhundert: Krieger Ragnar glaubt, dass jenseits des wilden Ozeans im unerforschten Westen ein neues Land mit reichen Schätzen auf die Wikingerhorden wartet. Für seine Überzeugungen setzt er alles auf eine Karte, lässt ein neues Schiff bauen und macht sich in den packenden neun Episoden der ersten Staffel auf, um Geschichte zu schreiben.",
-      "genres": [
-        "Action & Adventure",
+        "Krimi",
         "Drama",
-        "War & Politics"
+        "Mystery"
       ],
       "keywords": [
-        "scandinavia",
-        "vikings (norsemen)",
-        "royalty",
-        "historical fiction",
-        "king",
-        "battle",
-        "historical",
-        "middle ages (476-1453)",
-        "dark ages",
-        "norse mythology",
-        "historical drama",
-        "warrior",
-        "8th century",
-        "period piece",
-        "violence",
-        "sword and sandal",
-        "exciting",
-        "action",
-        "antagonistic",
-        "violent"
+        "detective",
+        "sexual abuse",
+        "sex scandal",
+        "domestic abuse",
+        "sexual violence",
+        "domestic violence",
+        "criminal",
+        "sex trafficking",
+        "interrogation",
+        "district attorney",
+        "courtroom",
+        "assistant district attorney",
+        "sex crime",
+        "sexual assault",
+        "sex trade",
+        "sex slavery",
+        "sex offender",
+        "criminal justice system",
+        "suspicious",
+        "dark",
+        "police procedural",
+        "gritty"
       ],
-      "rating": 8.102,
-      "vote_count": 7884,
-      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/44217-vikings/watch?locale=DE",
+      "rating": 7.96,
+      "vote_count": 4353,
+      "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 79744,
+      "title": "The Rookie",
+      "type": "tv",
+      "overview": "In einem Alter, in dem sich andere zur Ruhe setzen wollen, tauscht John Nolan das beschauliche Kleinstadtleben gegen einen Neuanfang in Los Angeles ein: Er möchte seinen Lebenstraum verwirklichen und als Polizist arbeiten. Inmitten von Anwärtern in ihren 20ern muss sich Nolan nun als ältester Rookie des LAPD bewähren.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "police chase",
+        "los angeles, california",
+        "police officer",
+        "police detective",
+        "street crime",
+        "lapd",
+        "police training",
+        "crime investigation",
+        "dramedy",
+        "police department",
+        "procedural",
+        "police drama",
+        "cautionary",
+        "dramatic"
+      ],
+      "rating": 8.539,
+      "vote_count": 3536,
+      "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000223156.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 236235,
+      "title": "The Gentlemen",
+      "type": "tv",
+      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "dark comedy",
+        "aristocrat",
+        "based on movie",
+        "offbeat",
+        "action"
+      ],
+      "rating": 7.874,
+      "vote_count": 927,
+      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -419,7 +554,7 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222989.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000223256.html",
         "mentions": 2
       }
     },
@@ -445,7 +580,7 @@
         "advanced ancient civilization"
       ],
       "rating": 8.266,
-      "vote_count": 1899,
+      "vote_count": 1900,
       "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
       "justwatch": "https://www.themoviedb.org/tv/4629-stargate-sg-1/watch?locale=DE",
       "providers": {
@@ -704,7 +839,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzE5ODU3Njk",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzE5ODU3NjkvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5349,
       "providers": {
         "netflix": null,
@@ -1095,7 +1230,51 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tatami (Englisch)",
+      "title": "Kneecap",
+      "type": "tv",
+      "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/spielfilm-104/kneecap-100",
+      "duration": 6063,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kneecap (Englisch)",
+      "type": "tv",
+      "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/spielfilm-104/kneecap-100",
+      "duration": 6063,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatami",
       "type": "tv",
       "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
       "genres": [
@@ -1117,7 +1296,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tatami",
+      "title": "Tatami (Englisch)",
       "type": "tv",
       "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
       "genres": [
@@ -1205,7 +1384,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Unaufhaltsam",
+      "title": "Unaufhaltsam (Englisch)",
       "type": "tv",
       "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
       "genres": [
@@ -1227,7 +1406,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Unaufhaltsam (Englisch)",
+      "title": "Unaufhaltsam",
       "type": "tv",
       "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
       "genres": [
@@ -1271,46 +1450,90 @@
     },
     {
       "tmdb_id": null,
-      "title": "The Founder",
+      "title": "Prisoner 951 (4/4) - Das Geständnis",
       "type": "tv",
-      "overview": "Der erfolglose Vertreter Ray Kroc verfolgt den amerikanischen Traum. Als er einen beliebten Schnellimbiss besucht, entwickelt er einen visionären Plan. Er will Franchiserechte erwerben.",
+      "overview": "Gabriellas Rückkehr nach London bringt Hoffnung und Herzschmerz: Während Richard um Nähe zu seiner entfremdeten Tochter ringt, kämpft Nazanin im Iran weiter um ihre Freiheit. Die Pandemie, neue Haftstrafen und ein politischer Machtpoker um jahrzehntealte Schulden treiben beide an ihre Grenzen – bis ein riskantes Geständnis alles entscheidet.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/the-founder-movie-100/the-founder-100",
-      "duration": 6664,
+      "url": "https://www.arte.tv/de/videos/130430-004-A/prisoner-951-4-4/",
+      "duration": 3586,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "arte"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Hot Summer Nights - Spielfilm, USA 2017",
+      "title": "Prisoner 951 (3/4) - Der Preis der Freiheit",
       "type": "tv",
-      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
+      "overview": "Weihnachten in London ist überschattet von Nazanins Abwesenheit. Während Richard um seine Tochter kämpft und gegen die Untätigkeit der Regierung anrennt, findet Nazanin im Frauentrakt des Evin-Gefängnisses neuen Halt. Hoffnung keimt auf – doch die unbedachte Äußerung eines Politikers gefährdet ihren Fall. Richard und Nazanin treffen eine qualvolle Familienentscheidung.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
-      "duration": 6051,
+      "url": "https://www.arte.tv/de/videos/130430-003-A/prisoner-951-3-4/",
+      "duration": 3729,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Prisoner 951 (2/4) - Eine alte Schuld",
+      "type": "tv",
+      "overview": "Als Nazanin glaubt, endlich freizukommen, wird sie stattdessen zurück ins berüchtigte Evin-Gefängnis gebracht. Einzelhaft, endlose Verhöre und neue Anschuldigungen bringen sie an ihre Grenzen. In London deckt Richard den Grund für die Entführung seiner Frau auf, stößt jedoch auf wenig Gehör. Als Nazanin zu fünf Jahren Haft verurteilt wird, wächst die Verzweiflung. Was tun?",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/130430-002-A/prisoner-951-2-4/",
+      "duration": 3579,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Prisoner 951 (1/4) - Der Moment, in dem alles kippt",
+      "type": "tv",
+      "overview": "April 2016: Am Flughafen Teheran wird Nazanin plötzlich festgenommen, angeblich wegen eines Passproblems. Ihre kleine Tochter Gabriella bleibt zurück. In London glaubt ihr Mann Richard zunächst an ein Missverständnis. Doch bald wird klar: Nazanin ist eine politische Geisel. Während sie in Einzelhaft leidet, beginnt Richard einen verzweifelten Kampf um ihre Freilassung.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/130430-001-A/prisoner-951-1-4/",
+      "duration": 4144,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -1395,94 +1618,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/125606-000-A/mord-im-mittsommer-staffel-11-2-3/",
       "duration": 5312,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Familiengeheimnisse (6/6)",
-      "type": "tv",
-      "overview": "Infolge ihres Traumas durchlebt Manu erneut den tragischen Unfalltod ihrer Mutter. Da der strafunmündige Steven sich bereits schuldig bekannt hat, lehnt Martí eine Mediation strikt ab. Als Manu und Lluís zur Colla Castellera gehen, kommt es zu einer Begegnung mit Martí und Pol, und der Konflikt zwischen den beiden Familien flammt erneut auf.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/127977-006-A/familiengeheimnisse-6-6/",
-      "duration": 3110,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Familiengeheimnisse (5/6)",
-      "type": "tv",
-      "overview": "Bei ihrer Vernehmung stehen Manu zwei Psychologinnen zur Seite. Ihr Vater Lluís ist lediglich Zuhörer, während Pol, sein Vater und seine Anwältin Fragen stellen dürfen. Manu rekapituliert die Ereignisse der Johannisnacht, in der die Teenager in Pols Zimmer getrunken, getanzt und Videos gedreht haben, bis sie einschliefen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/127977-005-A/familiengeheimnisse-5-6/",
-      "duration": 2889,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Familiengeheimnisse (4/6)",
-      "type": "tv",
-      "overview": "Eine spanische Kleinstadt: Am Johannistag toben Pol, Steven und Manu im Pool. Pol fühlt sich zu Steven hingezogen, der wiederum ein Auge auf Manu geworfen hat. Als enge Freunde stellen sie einander intime Fragen. Roger, Pols noch etwas kindlicherer Cousin, verschafft sich mit drastischen Videos Aufmerksamkeit.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/127977-004-A/familiengeheimnisse-4-6/",
-      "duration": 2817,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die schwarzen Schmetterlinge (1/6)",
-      "type": "tv",
-      "overview": "Adrien ist ein gescheiterter Schriftsteller, sein Erfolg liegt Jahre zurück. Als ihn Albert für eine große Summe beauftragt, seine Lebensgeschichte aufzuschreiben, sagt er sofort zu. Albert erzählt von seiner schwierigen Kindheit in der Nachkriegszeit und seiner großen Liebe Solange. Er legt auch eine Beichte ab: In Notwehr habe er mit Solange zwei junge Männer getötet.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/100886-001-A/die-schwarzen-schmetterlinge-1-6/",
-      "duration": 3561,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1621,6 +1756,28 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/filme/dora-heldt-herzlichen-glueckwunsch-sie-haben-gewonnen-movie-100/dora-heldt-herzlichen-glueckwunsch-sie-haben-gewonnen-100",
       "duration": 5310,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "LARP, Gaming & Fantasiewelten: Gut für die Psyche?",
+      "type": "tv",
+      "overview": "Eskapismus durch Gaming, LARP und Fantasiewelten zieht viele Menschen an. Doch wann hilft Realitätsflucht der Psyche – und wann wird sie ungesund? Eric Mayer zeigt, wie unser Gehirn abschaltet.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/larp-gaming--fantasiewelten-gut-fuer-die-psyche-movie-100",
+      "duration": 2607,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1783,24 +1940,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Was ist deutsch? Die Geschichte der Migration (S2026/E22)",
+      "title": "Wohngenossenschaften",
       "type": "tv",
-      "overview": "\"Terra X History\" zeigt: Europa ist geprägt von Migration. Seit Jahrtausenden verlassen Menschen ihre angestammte Heimat und suchen ihr Glück woanders. Gründe dafür gibt es viele.",
+      "overview": "Liegt die Lösung für ein billigeres und besseres Wohnen in geselligeren und umweltfreundlicheren Räumen? Dies bieten die neuen Wohnungsbaugenossenschaften, die in der Westschweiz einen beeindruckenden Erfolg verzeichnen. In diesem neuen partizipatorischen Modell werden die Bewohner der Genossenschaft an allen Entscheidungen beteiligt.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History - die Einzeldokus"
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/was-ist-deutsch-die-geschichte-der-migration-100",
-      "duration": 2673,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/wohngenossenschaften?urn=urn:srf:video:9dc3f237-c699-4ab6-be1e-5f3d652f3f96",
+      "duration": 3107,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "SRF"
       }
     },
     {
@@ -2025,24 +2182,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kampf ums Überleben · Der Geparden-Clan (2/3)",
+      "title": "IKEAs Feind Nr. 1 - Geschäfte auf Russisch",
       "type": "tv",
-      "overview": "Seit einem Monat hält Chilli die ungewöhnliche Großfamilie alleine zusammen – alle neun Jungtiere leben noch. Inara hingegen umwirbt Shadow und könnte inzwischen trächtig sein.",
+      "overview": "Milliardenprozess gegen IKEA, dubiose Deals, Korruption: Wie der russische Unternehmer Konstantin Ponomarjow vom Gewinner zum Gefangenen wird. Nach einem spektakulären Rechtsstreit mit dem Möbelgiganten \"IKEA\" wird dem russischen Unternehmer Konstantin Ponomarjow eine Milliarde Dollar zugesprochen. Doch statt eines Happy Ends beginnt ein Albtraum: Ponomarjow fordert mehr Geld und landet unerwartet selbst im Gefängnis....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokumentarfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1Nzg2Ng",
-      "duration": 3129,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDk2Mzg",
+      "duration": 5370,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Krieg, Krise, Katastrophe - bist du vorbereitet?",
+      "type": "tv",
+      "overview": "Kriege, Krisen, Katastrophen – wie viel Prepper steckt in uns? Leon Windscheid trifft Prepper und Reservisten, die sich auf den Ernstfall   vorbereiten – und hinterfragt, woher ihre Angst kommt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/krieg-krise-katastrophe---bist-du-vorbereitet-movie-100",
+      "duration": 2616,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2065,6 +2244,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Systemfehler: Der Cum-Ex Skandal",
+      "type": "tv",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2157,72 +2358,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Herr Braun und der grüne Stahl - Dokumentarfilm von Anna Klühspies, Stella Peter",
-      "type": "tv",
-      "overview": "Kann ein Stahlwerk die Industrie revolutionieren? Drei Jahre lang begleitet der Dokumentarfilm den Kampf um die Herstellung von nahezu CO₂-neutralem Stahl.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilmzeit"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilmzeit/herr-braun-und-der-gruene-stahl-100.html",
-      "duration": 4466,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Tier-Docs: Geburtshilfe im Kuhstall",
-      "type": "tv",
-      "overview": "Notfalleinsatz für Tierarzt Jörg Bretzinger im Schwarzwald. Eine Kuh versucht seit Stunden ihr Kalb zu gebären, doch es geht nicht voran. Wenn es jetzt nicht schnell geht, stirbt das Kalb. Als Tierarzt Jörg Bretzinger auf den Hof im Schwarzwald gerufen wird dauert die Geburt bereits fünf Stunden lang - viel zu lange. In der Großtierpraxis des Tierarztes im Breisgau gibt es öfter mal einen Notfall....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDk5OTg",
-      "duration": 2685,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Vom Gadertal in die Dolomiten",
-      "type": "tv",
-      "overview": "Das Gadertal liegt im Herzen der Dolomiten in Südtirol zwischen zwei Naturparks. Vor mehr als 2.000 Jahren unterwarfen die römischen Legionäre das Dolomitenvolk der Räter und so vermischten sich die Sitten und Gebräuche. Bis heute hat sich in diesem sagenumwobenen Tal die ladinische Sprache und Kultur erhalten. Mit viel Herzblut wird die ladinische Kultur im Gadertal im Herzen der Dolomiten hochgehalten....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen im BR"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDI1NjU2QTA",
-      "duration": 2690,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Kölner Oper: Sanierungsdrama, letzter Akt",
       "type": "tv",
       "overview": "14 Jahre hat die Sanierung der Kölner Opfer gedauert und nahezu 1,5 Milliarden Euro statt 250 Millionen gekostet. Im September 2026 sollen die Kölner Oper und das Schauspielhaus endlich wiedereröffnet werden. Wie konnte diese öffentliche Baumaßnahme derart aus dem Ruder laufen? \"Die Sanierung der Bühnen Köln war eine schwierige, eine lange und eine teure Geschichte....",
@@ -2237,6 +2372,28 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTNkYTE4YjAtMzEwNy00MzFjLTlkNGMtZmI2YjZhZGRiMTAy",
       "duration": 2651,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Kinder von 9/11 · Aufgewachsen im Schatten des Terrors",
+      "type": "tv",
+      "overview": "\"Die Story\" folgt den Kindern von damals, deren Lebenswege durch die Anschläge des 11. September plötzliche und dramatische Wendungen genommen haben. Sie waren Kinder, als die Anschläge vom 11. September ihr Leben für immer veränderten. Heute erzählen sie von Verlust, Traumata und Ungerechtigkeit, aber auch von Mut, Hoffnung und der Kraft, weiterzuleben. Dieser Film wurde im Jahr 2021 produziert....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "die story"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWZkOWU2Y2YtMmIxMy00OWRhLWE2ZjEtNTRlYTdjMzcyYWZl",
+      "duration": 2663,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2325,28 +2482,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMTNjN2IwODMtZDZjNi00N2FkLWFkZjItYmJhNWQ4NjBkY2Y3",
       "duration": 2489,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Flut · Chronik eines Versagens",
-      "type": "tv",
-      "overview": "49 Menschen kamen im Sommer 2021 bei sintflutartigen Überschwemmungen in Nordrhein-Westfalen ums Leben. Es war die größte Naturkatastrophe in der Geschichte des Bundeslandes. Auch wenn viele von einer Jahrtausend-Flut sprechen: Wetterexperten rechnen damit, dass sich solche Ereignisse wegen des Klimawandels künftig häufen werden. Umso wichtiger ist jetzt eine Antwort auf die Frage: Was ist schiefgelaufen?...",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "die story"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNjBlOTNlZjQtZmZjNi00YWRlLTk1ZDgtNjM3NDkzOGFmMTgw",
-      "duration": 3565,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2531,6 +2666,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Geisternetze (26) – Der Usedom-Krimi",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2025 Die Fischerin Luise Petersen (Rosa Enskat) hat ihren Kindern ihren Fischkutter überschrieben. Luise war jahrelang mit ihrem Sohn Erik (Sammy Scheuritzel) ausgefahren, aber der will die Fischerei an den Nagel hängen und hat auch schon einen Käufer für den Pott gefunden. Schwester Suntje (Anima Schwinn) hingegen will Kutter, Fanglizenz und die Familientradition nicht aufgeben. Die Geschwister sind zerstritten....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Usedom-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0zMF8yMC0xNS1NRVo",
+      "duration": 5294,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wer einmal lügt. Ein Krimi aus Passau",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2026 Mia Baders (Nadja Sabersky) verschollener Vater Adam Nolan (Raphaël von Bargen) taucht nach vielen Jahren wieder auf – mitten in Passau. Mia ist in dem Glauben groß geworden, der mutige Journalist habe sich verbergen müssen, weil er sich mächtige Feinde gemacht hatte, die ihm nach dem Leben trachteten. Das war die vorgetäuschte Geschichte, die Frederike Bader (Marie Leuenberger) ihrer Tochter erzählt hat....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Ein Krimi aus Passau"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2VmZGM1NDBiLTY1OWYtNDljNS1hMGQ1LTBmYzFhYWE1ZjhjN19nYW56ZVNlbmR1bmc",
+      "duration": 5313,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kriminalfälle der Einheit – Nepper, Blender, Firmenräuber",
       "type": "tv",
       "overview": "Die 90er Jahre waren für den Osten eine wilde Zeit. Das gilt auch für die Kriminalität und deren Bekämpfung. Denn vielerorts trafen mit sich selbst beschäftigte Sicherheitskräfte auf gänzlich neue Formen des Verbrechens.",
@@ -2663,50 +2842,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Der Wien-Krimi: Blind ermittelt - Die nackte Kaiserin",
-      "type": "tv",
-      "overview": "Laufzeit: 88 Minuten In „Die nackte Kaiserin“ dient der Sissi-Mythos als Ausgangspunkt für einen Wien-Krimi, der einen rätselhaften Kriminalfall mit einem unheilvollen Fluch verbindet. Während sich Philipp Hochmair alias Ex-Kommissar Haller auf seine Ermittlerinstinkte verlässt, muss sein Partner Andreas Guenther irrationale Ängste überwinden....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Wien-Krimi: Blind ermittelt"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q0NjA0ODE0LTM4OGEtNGNlNi1hY2E5LTU2MzNmNmQxNDc2N19nYW56ZVNlbmR1bmc",
-      "duration": 5280,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wendepunkt (25) – Der Usedom-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2025 Karin Lossow (Katrin Sass) lernt die geheimnisvolle Mandy (Anne Haug) kennen, die offenbar ihren Kollegen Martin Rabe (Lasse Myhr) und dessen Eltern verfolgt. Kurz darauf wird Martins Verlobte Antonia (Anna Baranowska) tot aufgefunden....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Usedom-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0yM18yMC0xNS1NRVNaL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5329,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Das Beste der St. Ingberter Pfanne 2026",
       "type": "tv",
       "overview": "Die \"Pfannen\" sind verliehen, die Sieger gekürt. Wer 2026 in der Kleinkunst ausgezeichnet wurde und wer das Publikum begeisterte, zeigt dieses Best-of des Wettbewerbs: Musik-Kabarett, Poetry-Slam, Comedy und Kabarett der Spitzenklasse.",
@@ -2773,9 +2908,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kabarett im Turm: Thomas Strobl - Einmal mit alles",
+      "title": "Kabarett im Turm: Bumillo - Haushaltsloch",
       "type": "tv",
-      "overview": "Zum 60. Geburtstag bringt Vollblut-Unterhalter Thomas Strobl ein neues Soloprogramm mit allem, was ihm und seinem Publikum Freude macht, auf die Bühne: Gitarre, Piano, Bass, Akkordeon und Geige, vielleicht auch die Ukulele. Dazu kommen Geschichten über Musik, Leben, Werbung und Liebe sowie jede Menge Schmäh. Von humorvollen Höhen bis zu privaten Tiefen, von Mitsinghits bis Mozart. Dieser Abend verspricht Unterhaltung pur....",
+      "overview": "Zwischen Mikrofon und Mikrofaser nimmt Bumillo die kleinen und großen Absurditäten des Alltags aufs Korn. In \"Haushaltsloch\" verbindet der Kabarettist und Hausmann pointierten Stand-up mit provokanten Beobachtungen und entwaffnender Ehrlichkeit.\n\nBildquelle: ORF/DON’T PANIC",
       "genres": [
         "Komödie"
       ],
@@ -2785,8 +2920,52 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://on.orf.at/video/14338470/kabarett-im-turm-thomas-strobl-einmal-mit-alles",
-      "duration": 2674,
+      "url": "https://on.orf.at/video/14339425/kabarett-im-turm-bumillo-haushaltsloch",
+      "duration": 3339,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kabarett im Turm: Eva Karl Faltermeier - Best Of",
+      "type": "tv",
+      "overview": "Scharfsinnig, schräg und herrlich komisch: Eva Karl Faltermeier gibt ihr Debüt bei \"Kabarett im Turm\". Mit ihren besten Pointen und Anekdoten zeigt der Publikumsliebling, warum sie zu den gefragtesten Kabarettistinnen im deutschsprachigen Raum zählt.\n\nBildquelle: ORF/ROBERT PÖCKSTEINER",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14339423/kabarett-im-turm-eva-karl-faltermeier-best-of",
+      "duration": 3417,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Oktoberfest mit den Kabarettstars",
+      "type": "tv",
+      "overview": "Oans, zwoa... Lachen! Bayerische Kabarettstars sind auch in Österreich Publikumslieblinge: Monika Gruber, Martina Schwarzmann, Gerhard Polt, Martin Frank und Christine Eixenberger bringen stets die großen Kabarettbühnen des Landes zum Kochen. Das \"Oktoberfest\" zeigt die besten Pointen, lustigsten Ausschnitte und wahren Schätze ihrer Auftritte. \n\nBildquelle: ORF/ORF III/Dionys Asenkerschbaumer",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Oktoberfest mit den Kabarettstars"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14339923/oktoberfest-mit-den-kabarettstars",
+      "duration": 3202,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2835,28 +3014,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Heidelbeerhugo - 10-Meter-Turm",
-      "type": "tv",
-      "overview": "Ein Mann, ein Turm viele Rückzieher und Geschichten mit Wiener Schmäh, die trotzdem nach vorne gehen. Heidelbeerhugo steht oben auf dem Turm – und merkt: Nicht jeder Sprung ist eine gute Idee. Zwischen Beinahe-Erfolgen, Selbstzweifeln und Alltagskatastrophen erzählt Michael Bauer mit viel Witz von einem Leben, das selten glatt läuft....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14338133/heidelbeerhugo-10-meter-turm",
-      "duration": 3832,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     },
     {
@@ -2945,6 +3102,75 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hachschara - Israels Pioniere aus Österreich",
+      "type": "tv",
+      "overview": "Hachschara bedeutet \"Vorbereitung\" oder \"Tauglichmachung\" und bezeichnet die praktische und ideelle Ausbildung junger Jüdinnen und Juden ab den 1920er-Jahren.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/dokumentation/geschichte/hachschara-israels-pioniere-aus-oesterreich-100.html",
+      "duration": 3270,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Das erste Jahr",
+      "type": "tv",
+      "overview": "Die Hoffnung auf eine gerechtere Gesellschaft führte 1970 zur Wahl des Sozialisten Salvador Allende zum Präsidenten Chiles. Was als Traum von einer besseren Zukunft begann, endete drei Jahre später in einem Militärputsch und dem Terror-Regime von General Pinochet. Der Dokumentarfilm von Patricio Guzman über den Beginn der Regierung Allende ist ein berührendes Zeitzeugnis.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116675-000-A/das-erste-jahr/",
+      "duration": 5556,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Das erste Jahr (Originalversion)",
+      "type": "tv",
+      "overview": "Die Hoffnung auf eine gerechtere Gesellschaft führte 1970 zur Wahl des Sozialisten Salvador Allende zum Präsidenten Chiles. Was als Traum von einer besseren Zukunft begann, endete drei Jahre später in einem Militärputsch und dem Terror-Regime von General Pinochet. Der Dokumentarfilm von Patricio Guzman über den Beginn der Regierung Allende ist ein berührendes Zeitzeugnis.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/116675-000-A/das-erste-jahr/",
+      "duration": 5556,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -3060,75 +3286,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Feuernacht - Österreich und die Südtirol-Bomben",
-      "type": "tv",
-      "overview": "Am 11. Juni 1961 – in der Herz-Jesu-Nacht – erschütterte eine Serie von Bombenanschlägen Südtirol. In Abständen von wenigen Minuten explodierten mehr als sechzig Sprengkörper. Das Donnergrollen war die ganze Nacht über zu hören. Südtiroler versuchten mit diesen Gewaltakten auf die Unterdrückung der deutschsprachigen Tiroler in Südtirol durch die italienische Politik aufmerksam zu machen. \"Freiheitskämpfer“ oder \"Terroristen“?...",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14338771/die-feuernacht-oesterreich-und-die-suedtirol-bomben",
-      "duration": 2732,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Neros Stadt der Lüste",
-      "type": "tv",
-      "overview": "Im Golf von Neapel befindet sich die vermutlich erste Wellness-Oase der Weltgeschichte. Römische Kaiser wie Nero und Claudius schwelgten dort mit den Reichsten ihrer Zeit im Luxus und feierten ausschweifende Feste. Nero ließ dort sogar seine Mutter Agrippina töten. Unterwasserarchäologen erforschen seit den 1960er Jahren die versunkene Stadt des Luxus und des Lasters.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/047510-000-A/neros-stadt-der-lueste/",
-      "duration": 3112,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Silvius Magnago - Der Vater Südtirols",
-      "type": "tv",
-      "overview": "Silvius Magnago gilt als Vater der heutigen Südtirolautonomie. Die Dokumentation zeichnet sein Leben und seinen politischen Weg nach, von seiner Kindheit in Bozen über seine Kriegserlebnisse bis zu seinem jahrzehntelangen Einsatz für die Autonomie Südtirols. Höhepunkt seiner politischen Karriere war 1957 die Kundgebung auf Schloss Sigmundskron, bei der er „Los von Trient“ forderte....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14338770/silvius-magnago-der-vater-suedtirols",
-      "duration": 2744,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     }
   ]
