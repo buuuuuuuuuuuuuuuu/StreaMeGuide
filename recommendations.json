@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-18T09:18:16.857Z",
+  "generated_at": "2026-09-19T09:05:01.876Z",
   "items": [
     {
       "tmdb_id": 1656489,
@@ -19,6 +19,40 @@
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 299939,
+      "title": "Monster: Die Geschichte von Lizzie Borden",
+      "type": "tv",
+      "overview": "Eingesperrt in ihrem tyrannischen Zuhause im viktorianischen Neuengland ermordet Lizzie Borden ihre Eltern auf brutalste Weise und versetzt das ganze Land in Aufruhr.",
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "massachusetts",
+        "based on true story",
+        "murder",
+        "miniseries",
+        "true crime",
+        "axe murder",
+        "lizzie borden",
+        "19th century",
+        "20th century",
+        "psychological drama",
+        "crime",
+        "axe",
+        "based on real person"
+      ],
+      "rating": 7,
+      "vote_count": 29,
+      "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -45,7 +79,7 @@
         "brutal violence"
       ],
       "rating": 8.4,
-      "vote_count": 849,
+      "vote_count": 858,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -70,13 +104,93 @@
         "justice",
         "spin off"
       ],
-      "rating": 7.9,
-      "vote_count": 45,
+      "rating": 7.822,
+      "vote_count": 59,
       "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "reboot",
+        "military police"
+      ],
+      "rating": 8.124,
+      "vote_count": 3354,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.205,
+      "vote_count": 1567,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 298008,
+      "title": "Plastic Beauty",
+      "type": "tv",
+      "overview": "Als eine begabte Notfallchirurgin in der Schönheitsmedizin landet, deckt der Konflikt mit einer Promi-Ärztin die Gier und das Verlangen auf, die hinter dem Glanz stecken.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "plastic surgery",
+        "medical"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "poster_path": "/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/298008/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -120,33 +234,21 @@
       }
     },
     {
-      "tmdb_id": 108978,
-      "title": "Reacher",
+      "tmdb_id": 320760,
+      "title": "Keine Fremde",
       "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "overview": "Funda versucht, ihre Rolle als Mutter mit ihrer Karriere als Künstlerin zu vereinbaren, und sehnt sich nach mehr Zeit für ihre Arbeit. Als die Familie mit Nazlı ein neues Kindermädchen engagiert, hofft Funda auf Entlastung und einen geregelteren Alltag. Doch die junge Frau verhält sich zunehmend rätselhaft und bringt unerwartete Veränderungen in das Familienleben. Was zunächst wie eine willkommene Hilfe erscheint, entwickelt sich für Funda und ihren Mann zu einer Situation, die sich ihrer Kontrolle entzieht.",
       "genres": [
-        "Action & Adventure",
-        "Krimi"
+        "Drama"
       ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "reboot",
-        "military police"
-      ],
-      "rating": 8.122,
-      "vote_count": 3339,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "keywords": [],
+      "rating": 5.7,
+      "vote_count": 3,
+      "poster_path": "/dsTWMW41oftGgr0nuP0sNGeOY51.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/320760-seni-taniyorum/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -159,39 +261,18 @@
         "Drama"
       ],
       "keywords": [
-        "based on novel or book"
+        "based on novel or book",
+        "obsession",
+        "tragic love",
+        "high society",
+        "emancipation",
+        "aristocracy",
+        "wealth differences"
       ],
-      "rating": 4.333,
-      "vote_count": 3,
-      "poster_path": "/nFlKr13GJuiWf9RofcmHXNCE9fL.jpg",
+      "rating": 5.2,
+      "vote_count": 5,
+      "poster_path": "/vIfM0x2zl4sjj6UYaQR5uUeZXIh.jpg",
       "justwatch": "https://www.themoviedb.org/tv/295089-lalka/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.197,
-      "vote_count": 1560,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -215,8 +296,8 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.624,
-      "vote_count": 89,
+      "rating": 6.606,
+      "vote_count": 94,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
@@ -249,8 +330,8 @@
         "serious",
         "attorney"
       ],
-      "rating": 6.777,
-      "vote_count": 505,
+      "rating": 6.783,
+      "vote_count": 515,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
@@ -274,7 +355,7 @@
         "amused"
       ],
       "rating": 7.2,
-      "vote_count": 25,
+      "vote_count": 26,
       "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
       "providers": {
@@ -303,8 +384,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.406,
-      "vote_count": 4732,
+      "rating": 8.405,
+      "vote_count": 4735,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -337,7 +418,7 @@
         "based on young adult novel"
       ],
       "rating": 8.3,
-      "vote_count": 9763,
+      "vote_count": 9765,
       "poster_path": "/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
       "justwatch": "https://www.themoviedb.org/tv/18165-the-vampire-diaries/watch?locale=DE",
       "providers": {
@@ -392,161 +473,115 @@
       }
     },
     {
-      "tmdb_id": 1396,
-      "title": "Breaking Bad",
-      "type": "tv",
-      "overview": "Ein krebskranker Chemielehrer tut sich mit einem ehemaligen Schüler zusammen, um die Zukunft seiner Familie durch die Herstellung und den Verkauf von Meth zu sichern.",
+      "tmdb_id": 124905,
+      "title": "Godzilla",
+      "type": "movie",
+      "overview": "In einem japanischen Atomkraftwerk, in dem der amerikanische Ingenieur Joe Brody und seine Frau Sandra beschäftigt sind, kommt es zu einer Katastrophe. Noch Jahre später versucht Joe, der als einer der wenigen überlebt hat, die wahren Ursachen des Unglücks aufzuklären. Und seine Intuition gibt ihm Recht. Zusammen mit seinem Sohn Ford und dem Wissenschaftler Ichiro Serizawa findet er heraus, dass ein riesiges Monster für die Katastrophe von damals verantwortlich war. Und jetzt schlägt es wieder zu! Das Militär ist machtlos. Kann der sagenumwobene Godzilla helfen?",
       "genres": [
+        "Action",
         "Drama",
-        "Krimi"
+        "Science Fiction"
       ],
       "keywords": [
-        "new mexico",
-        "drug dealer",
-        "narcissism",
-        "psychopath",
-        "terminal illness",
-        "outlaw",
-        "dark comedy",
-        "cancer",
-        "tragedy",
-        "drugs",
-        "criminal",
-        "meth lab",
-        "drug lord",
-        "high school teacher",
-        "dea agent",
-        "neo-western",
-        "albuquerque, new mexico",
-        "criminal lawyer",
-        "fall from grace",
-        "cartel",
-        "mexican cartel",
-        "male egos",
-        "crystal meth",
-        "complex",
-        "dark",
-        "methamphetamine",
-        "thriller",
-        "violent",
-        "tortured genius"
+        "japan",
+        "monster",
+        "san francisco, california",
+        "hawaii",
+        "giant monster",
+        "tsunami",
+        "remake",
+        "prehistoric creature",
+        "golden gate bridge",
+        "dinosaur",
+        "kaiju",
+        "honolulu, hawaii",
+        "disaster movie",
+        "global threat",
+        "animal horror",
+        "godzilla",
+        "monsterverse"
       ],
-      "rating": 8.951,
-      "vote_count": 18637,
-      "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
+      "rating": 6.367,
+      "vote_count": 10011,
+      "poster_path": "/tHQkVS0U2gClPkaYwtJwAvsqQmw.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/124905-godzilla/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
         "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000223171.html",
+        "mentions": 2
       }
     },
     {
-      "tmdb_id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "type": "tv",
-      "overview": "Bei Polizei und Staatsanwaltschaft gelten Sexualverbrechen als besonders abscheulich. In New York City gehören die engagierten Detectives, die in diesen brutalen Fällen ermitteln, zur Sondereinheit für Sexualdelikte. Dies sind ihre Geschichten. Innerhalb der New Yorker Polizei gibt es eine Sondereinheit, die Special Victims Unit. Die Fälle, die das SVU untersucht, beschränken sich ausschließlich auf Sexualdelikte und Verbrechen an Kindern",
+      "tmdb_id": 68726,
+      "title": "Pacific Rim",
+      "type": "movie",
+      "overview": "Die Kaiju, monströse außerirdische Kreaturen, erheben sich aus dem Meer und ziehen in einen Krieg gegen die Menschheit, der Unzählige das Leben kosten und die Reserven der Erde bis in alle Zeit aufbrauchen könnte. Um die Kaiju zu bekämpfen, wird eine spezielle Waffe hergestellt: Gigantische Roboter namens Jaeger, die durch zwei Piloten gesteuert werden, deren Gehirne durch eine neurale Brücke ebenfalls miteinander verknüpft werden. Jedoch scheinen selbst die ausgeklügeltsten Waffen an den übermächtigen Aliens zu scheitern. In ihrer Ratlosigkeit wenden sich die Streitkräfte der Erde an den abgehalfterten Ex-Piloten Raleigh Antrobus und seine unerfahrene Novizin Mako Mori, die ein scheinbar schlecht ausgerüstetes, älteres Modell der Jaeger gegen die Kaiju in den Kampf führen sollen. Die beiden werden zur letzten Hoffnung gegen die übermächtige apokalyptische Gewalt aus dem All.",
       "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
+        "Action",
+        "Science Fiction",
+        "Abenteuer"
       ],
       "keywords": [
-        "detective",
-        "sexual abuse",
-        "sex scandal",
-        "domestic abuse",
-        "sexual violence",
-        "domestic violence",
-        "criminal",
-        "sex trafficking",
-        "interrogation",
-        "district attorney",
-        "courtroom",
-        "assistant district attorney",
-        "sex crime",
-        "sexual assault",
-        "sex trade",
-        "sex slavery",
-        "sex offender",
-        "criminal justice system",
-        "suspicious",
-        "dark",
-        "police procedural",
-        "gritty"
+        "monster",
+        "dystopia",
+        "giant monster",
+        "pacific",
+        "alaska",
+        "giant robot",
+        "apocalypse",
+        "hong kong",
+        "robot",
+        "alien invasion",
+        "kaiju",
+        "duringcreditsstinger",
+        "monster movie"
       ],
-      "rating": 7.96,
-      "vote_count": 4353,
-      "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
+      "rating": 6.948,
+      "vote_count": 13804,
+      "poster_path": "/7ZyU6OMqtDxgLLYrUgjUh5u5DC7.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/68726-pacific-rim/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 79744,
-      "title": "The Rookie",
-      "type": "tv",
-      "overview": "In einem Alter, in dem sich andere zur Ruhe setzen wollen, tauscht John Nolan das beschauliche Kleinstadtleben gegen einen Neuanfang in Los Angeles ein: Er möchte seinen Lebenstraum verwirklichen und als Polizist arbeiten. Inmitten von Anwärtern in ihren 20ern muss sich Nolan nun als ältester Rookie des LAPD bewähren.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Komödie"
-      ],
-      "keywords": [
-        "police chase",
-        "los angeles, california",
-        "police officer",
-        "police detective",
-        "street crime",
-        "lapd",
-        "police training",
-        "crime investigation",
-        "dramedy",
-        "police department",
-        "procedural",
-        "police drama",
-        "cautionary",
-        "dramatic"
-      ],
-      "rating": 8.539,
-      "vote_count": 3536,
-      "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
+        "netflix": null,
         "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223156.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000223171.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 236235,
-      "title": "The Gentlemen",
+      "tmdb_id": 223313,
+      "title": "Obsession",
       "type": "tv",
-      "overview": "Als der adlige Eddie das Familienanwesen erbt, stelle er fest, dass ein riesiges Marihuana-Imperium dazugehört – und die Betreiber sich nicht in die Suppe spucken lassen.",
+      "overview": "Die Affäre eines angesehenen Londoner Chirurgen mit der Verlobten seines Sohnes mündet in eine Amour fou, die ihr Leben für immer zu verändern droht.",
       "genres": [
-        "Komödie",
         "Drama",
-        "Krimi"
+        "Mystery"
       ],
       "keywords": [
-        "dark comedy",
-        "aristocrat",
-        "based on movie",
-        "offbeat",
-        "action"
+        "love triangle",
+        "based on novel or book",
+        "infidelity",
+        "obsession",
+        "fiancé",
+        "surgeon",
+        "romance",
+        "older man younger woman relationship",
+        "love affair",
+        "incest",
+        "erotic thriller"
       ],
-      "rating": 7.874,
-      "vote_count": 927,
-      "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/236235-the-gentlemen/watch?locale=DE",
+      "rating": 6.452,
+      "vote_count": 196,
+      "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/223313-obsession/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -554,7 +589,35 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223256.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000223444.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 233237,
+      "title": "Der Zweite Weltkrieg: Von der Front",
+      "type": "tv",
+      "overview": "Mithilfe optimierter Archivaufnahmen und Stimmen von allen Seiten des Konflikts erweckt diese Dokuserie den 2. Weltkrieg zum Leben wie nie zuvor.",
+      "genres": [
+        "Dokumentarfilm",
+        "War & Politics"
+      ],
+      "keywords": [
+        "world war ii",
+        "miniseries"
+      ],
+      "rating": 7.981,
+      "vote_count": 106,
+      "poster_path": "/15wIhM1X6oRiId0tPPTVoXLT6mx.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/233237-world-war-ii-from-the-frontlines/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000223478.html",
         "mentions": 2
       }
     },
@@ -580,7 +643,7 @@
         "advanced ancient civilization"
       ],
       "rating": 8.266,
-      "vote_count": 1900,
+      "vote_count": 1901,
       "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
       "justwatch": "https://www.themoviedb.org/tv/4629-stargate-sg-1/watch?locale=DE",
       "providers": {
@@ -1230,7 +1293,29 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kneecap",
+      "title": "Adagio – Erbarmungslose Stadt - Spielfilm, Italien 2023",
+      "type": "tv",
+      "overview": "Korrupte Carabinieri erpressen Manuel, auf einer Party in Rom belastende Fotos eines prominenten Politikers zu machen. Doch Manuel flieht mit den Bildern und wird nun gnadenlos verfolgt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/adagio--erbarmungslose-stadt-100.html",
+      "duration": 7345,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kneecap (Englisch)",
       "type": "tv",
       "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
       "genres": [
@@ -1252,7 +1337,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kneecap (Englisch)",
+      "title": "Kneecap",
       "type": "tv",
       "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
       "genres": [
@@ -1340,28 +1425,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
-      "type": "tv",
-      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
-      "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
       "type": "tv",
       "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
@@ -1384,68 +1447,112 @@
     },
     {
       "tmdb_id": null,
-      "title": "Unaufhaltsam (Englisch)",
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
       "type": "tv",
-      "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
+      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Spielfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/unaufhaltsam-movie-100/unaufhaltsam-100",
-      "duration": 7094,
+      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
+      "duration": 6565,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "3sat"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Unaufhaltsam",
+      "title": "Hot Summer Nights - Spielfilm, USA 2017",
       "type": "tv",
-      "overview": "Der junge Ringer Anthony möchte seinen Traum verwirklichen und eine Karriere im Profisport starten. Im Gegensatz zu seinen zahlreichen Konkurrenten hat er allerdings nur ein Bein.",
+      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Spielfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/unaufhaltsam-movie-100/unaufhaltsam-100",
-      "duration": 7094,
+      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
+      "duration": 6051,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "3sat"
       }
     },
     {
       "tmdb_id": null,
-      "title": "The Founder (Englisch)",
+      "title": "Ein Schloss am Wörthersee - Der Film - Kinofilm, Österreich 1992",
       "type": "tv",
-      "overview": "Der erfolglose Vertreter Ray Kroc verfolgt den amerikanischen Traum. Als er einen beliebten Schnellimbiss besucht, entwickelt er einen visionären Plan. Er will Franchiserechte erwerben.",
+      "overview": "Der charmante Lennie Berger hat von seinem Onkel das Schlosshotel Velden geerbt und will es auf Vordermann bringen. Das stößt bei den Angestellten und der Konkurrenz nicht nur auf Zuspruch.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm-Highlights"
+        "Spielfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/the-founder-movie-100/the-founder-100",
-      "duration": 6664,
+      "url": "https://www.3sat.de/film/spielfilm/ein-schloss-am-woerthersee---der-film-100.html",
+      "duration": 4938,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die schwarzen Schmetterlinge (3/6)",
+      "type": "tv",
+      "overview": "Albert und Solange setzen ihr mörderisches Spiel fort. Als eines der Opfer ein Baby hinterlässt, will Solange es behalten. Doch das kommt für Albert nicht infrage, er setzt den kleinen Jungen auf dem Friedhof aus. Adrien belastet die Arbeit mit Albert mittlerweile so sehr, dass er in alte Muster verfällt. Und Kommissar Carrel stattet Albert im Alleingang einen Besuch ab ...",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/100886-003-A/die-schwarzen-schmetterlinge-3-6/",
+      "duration": 2903,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mord im Mittsommer - Staffel 11 (3/3) - Fall 25: Amanda",
+      "type": "tv",
+      "overview": "Ein Raubüberfall wird zu einer Kindesentführung, als die Diebe ein Boot stehlen, auf dem sich ein Mädchen aus reichem Hause befindet. Doch das Kind ist schwer krank und wird ohne Medikamente sterben. Alexander und Valpen nehmen sich des Falls an – ohne zu ahnen, dass die Diebe auch Nora in ihrer Gewalt haben. \"Mord im Mittsommer\", die Krimiserie zur gleichnamigen Romanreihe.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/125605-000-A/mord-im-mittsommer-staffel-11-3-3/",
+      "duration": 5312,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -1578,50 +1685,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die schwarzen Schmetterlinge (2/6)",
-      "type": "tv",
-      "overview": "Adrien setzt seine Arbeit mit Albert fort. Als Albert behauptet, den amerikanischen Fotografen Steven Powell getötet zu haben, glaubt ihm Adrien zunächst kein Wort. Er beendet die Zusammenarbeit, doch dann stellt sich heraus: Albert hat die Wahrheit gesagt. Damit ist Adrien zum Mitwisser geworden und steht vor einem moralischen Dilemma ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/100886-002-A/die-schwarzen-schmetterlinge-2-6/",
-      "duration": 3257,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 11 (2/3) - Fall 24: Rakel",
-      "type": "tv",
-      "overview": "Nachdem ihr Sohn einen Mann erschossen hat, gerät die neue Polizeichefin Rakel in einen Zwiespalt zwischen ihrer Mutterrolle und ihrer Pflicht als Polizistin. Nora unterstützt Alexander, der bei den Ermittlungen fast angeschossen wird, und Rakels Doppelleben droht das gesamte Ermittlerteam zu gefährden. \"Mord im Mittsommer\" – die Krimiserie zur gleichnamigen Romanreihe.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/125606-000-A/mord-im-mittsommer-staffel-11-2-3/",
-      "duration": 5312,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     },
     {
@@ -1940,6 +2003,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Rio in Berlin",
+      "type": "tv",
+      "overview": "08.09.2026 Rio in Berlin",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIzMDk2Nw",
+      "duration": 2604,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Freiburg: Das Vacherin-Fondue",
+      "type": "tv",
+      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/freiburg-das-vacherin-fondue?urn=urn:srf:video:744aacf8-f7f7-470c-bf02-282baed47ead",
+      "duration": 3064,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Wohngenossenschaften",
       "type": "tv",
       "overview": "Liegt die Lösung für ein billigeres und besseres Wohnen in geselligeren und umweltfreundlicheren Räumen? Dies bieten die neuen Wohnungsbaugenossenschaften, die in der Westschweiz einen beeindruckenden Erfolg verzeichnen. In diesem neuen partizipatorischen Modell werden die Bewohner der Genossenschaft an allen Entscheidungen beteiligt.",
@@ -2138,50 +2245,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Riefenstahl",
-      "type": "tv",
-      "overview": "Riefenstahl, Film von Andreas Veiel, WDR 2025",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.phoenix.de/sendungen/dokumentationen/riefenstahl-a-5228049.html",
-      "duration": 5910,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Familienbande · Der Geparden-Clan (1/3)",
-      "type": "tv",
-      "overview": "Zwei Gepardenmütter begegnen sich zufällig. Die eine – erfahren, souverän und eine geschickte Jägerin – zieht fünf Junge groß. Die andere ist jünger, hat vier Junge, ein blindes Auge – und beeindruckt durch Sanftmut und Geduld.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1Nzg2NA",
-      "duration": 3126,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "IKEAs Feind Nr. 1 - Geschäfte auf Russisch",
       "type": "tv",
       "overview": "Milliardenprozess gegen IKEA, dubiose Deals, Korruption: Wie der russische Unternehmer Konstantin Ponomarjow vom Gewinner zum Gefangenen wird. Nach einem spektakulären Rechtsstreit mit dem Möbelgiganten \"IKEA\" wird dem russischen Unternehmer Konstantin Ponomarjow eine Milliarde Dollar zugesprochen. Doch statt eines Happy Ends beginnt ein Albtraum: Ponomarjow fordert mehr Geld und landet unerwartet selbst im Gefängnis....",
@@ -2292,28 +2355,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dorfchroniken - Spurensuche mit Wolfram Koch",
-      "type": "tv",
-      "overview": "Eine alte Dorfchronik, ein verschwundenes Skelett und ein rätselhafter Halsring: In Utphe stößt Schauspieler Wolfram Koch auf eine Geschichte, die bis heute Fragen aufwirft. 1974 wird auf einem Acker ein menschliches Skelett entdeckt. Um den Hals trägt es einen geheimnisvollen Ring. Doch kurz darauf verschwindet der Fund – und mit ihm wichtige Spuren....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/ZWZlN2I5OTItOGIxMC00MzAyLTkzM2EtMTNlMTQ4ODUzZmVk",
-      "duration": 2683,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Wo Hessen oben ist – Unsere Mittelgebirge",
       "type": "tv",
       "overview": "Explosiv, waldreich und Millionen Jahre alt. Das sind unsere Mittelgebirge. Plattentektonik hat sie in den Himmel wachsen lassen. Und seither leben wir mit ihnen. Mit ihren Steinen, ihrer Lava, ihren Pflanzen, Gipfeln, ihrer Tieren und ihren Besonderheiten. In Hessen ist die landschaftliche Vielfalt besonders groß, die Basaltvorkommen sind die größten in Europa. Wie lebt es sich in und mit den hessischen Mittelgebirgen?",
@@ -2332,28 +2373,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Macherinnen – die neue Ära im Basketball",
-      "type": "tv",
-      "overview": "Deutschlands Basketballerinnen wollen bei der Heim-WM 2026 in Berlin um Medaillen kämpfen und den Frauenbasketball in Deutschland nachhaltig verändern.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/macherinnen-die-neue-aera-im-basketball-movie-100",
-      "duration": 3512,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2744,7 +2763,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgzMDlmNGMxLTY3YmQtNGQwMy1hMzJjLTFkZGMzMGEwMTljN19nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgzMDlmNGMxLTY3YmQtNGQwMy1hMzJjLTFkZGMzMGEwMTljN19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5302,
       "providers": {
         "netflix": null,
@@ -2788,7 +2807,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1o",
       "duration": 5308,
       "providers": {
         "netflix": null,
@@ -3106,6 +3125,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Flensburger - Das Bier mit dem \"Plopp\"",
+      "type": "tv",
+      "overview": "Es gilt als das Bier mit dem herben Aroma - Flensburger. Gebraut in der nördlichsten Brauerei Deutschlands, abgefüllt in traditionellen Bügelflaschen, die beim Öffnen \"ploppen\". Bekannt wurde das Bier durch die Bölkstoff trinkende Comicfigur \"Werner\". Seit 125 Jahre ist das Unternehmen im Familienbesitz. Und entgegen dem Trend - bundesweit geht der Bierkonsum seit Jahren zurück - wächst der Umsatz....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Unsere Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjE5MzA0N19nYW56ZVNlbmR1bmc",
+      "duration": 2602,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Hachschara - Israels Pioniere aus Österreich",
       "type": "tv",
       "overview": "Hachschara bedeutet \"Vorbereitung\" oder \"Tauglichmachung\" und bezeichnet die praktische und ideelle Ausbildung junger Jüdinnen und Juden ab den 1920er-Jahren.",
@@ -3259,29 +3301,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/049813-001-A/corleone-pate-der-paten-1-2/",
       "duration": 4675,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kalter Krieg in Bewegung: Europa 1952/53",
-      "type": "tv",
-      "overview": "1952/53: Europa ist vom Eisernen Vorhang geteilt. Im Osten bestimmt Moskau den Kurs seiner Satellitenstaaten. Im Westen begeben sich die Länder unter Druck der Amerikaner auf einen schwierigen Weg: Sie sollen Einigkeit gegenüber dem Osten zeigen. Die größte Hürde für dieses Projekt ist das Verhältnis der Westeuropäer zu Westdeutschland.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/106682-000-A/kalter-krieg-in-bewegung-europa-1952-53/",
-      "duration": 5313,
       "providers": {
         "netflix": null,
         "prime": null,
