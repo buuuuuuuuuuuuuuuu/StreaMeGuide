@@ -1,21 +1,64 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-19T09:05:01.876Z",
+  "generated_at": "2026-09-20T09:31:56.916Z",
   "items": [
     {
-      "tmdb_id": 1656489,
-      "title": "Sultana",
+      "tmdb_id": 1514863,
+      "title": "Best of the Best",
       "type": "movie",
-      "overview": "„Sultana“ ist ein Drama, das in Istanbuls einzigem Stripclub spielt und eine Geschichte über Frauen, Macht, Rivalität und Solidarität erzählt. Eine neue türkische Geschichte, in der Frauen keine Opfer in einem Märchen sind, sondern Kämpferinnen, die lernen, dass der „schöne Prinz“ oft das wahre Monster ist – und dass ihre einzige Rettung einander sind. Meral, die seit langem regierende Königin des einzigen Stripclubs Istanbuls, dem „Sultana“, nimmt eine talentierte neue weißrussische Tänzerin namens Anna unter ihre Fittiche. Doch schon bald wird ihr klar, dass sie eine Rivalin geschaffen hat, die mächtig genug ist, sie zu ersetzen, und es kommt zu einem gnadenlosen Machtkampf zwischen den beiden Frauen.",
+      "overview": "Maya und Anjali  sind seit ihrer Kindheit die allerbesten Freundinnen. Nicht zuletzt ihre indischen Wurzeln haben dafür gesorgt, dass sie auch die Leidenschaft für Bollywood-Filme und deren legendäre Tanzszenen miteinander teilen. Als ihr gemeinsamer Lebensweg sie auf die University of California in Los Angeles führt, gelingt es ihnen, dem elitären Bollywood-Fusion-Tanzteam der Uni beizutreten, das zum besten der USA gehört. In den Vorbereitungen auf die nationale Meisterschaft werden jedoch überall um sie herum die Ellbogen ausgefahren und selbst die unzerbrechlich erscheinende Freundschaft zwischen Maya und Anjali wird im Verlauf des Wettbewerbs auf eine harte Probe gestellt.",
       "genres": [
-        "Drama",
-        "Musik"
+        "Komödie"
       ],
-      "keywords": [],
-      "rating": 5.5,
-      "vote_count": 2,
-      "poster_path": "/wDebpR4NplIM8EteAGfd51Zdisu.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1656489-sultana/watch?locale=DE",
+      "keywords": [
+        "college",
+        "dance competition",
+        "female friendship",
+        "south asian",
+        "bollywood"
+      ],
+      "rating": 7.3,
+      "vote_count": 7,
+      "poster_path": "/nK8v2aJgVsHYVv28FBJeuJnsvk6.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 687163,
+      "title": "Der Astronaut – Project Hail Mary",
+      "type": "movie",
+      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+      "genres": [
+        "Science Fiction",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "friendship",
+        "coma",
+        "based on novel or book",
+        "bravery",
+        "sun",
+        "language barrier",
+        "space travel",
+        "space mission",
+        "alien",
+        "space",
+        "memory loss",
+        "astronaut",
+        "scientist",
+        "science teacher",
+        "save the planet",
+        "spaceship",
+        "interspecies friendship"
+      ],
+      "rating": 8.639,
+      "vote_count": 7847,
+      "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -46,13 +89,39 @@
         "axe",
         "based on real person"
       ],
-      "rating": 7,
-      "vote_count": 29,
+      "rating": 6.9,
+      "vote_count": 38,
       "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 273207,
+      "title": "Neagley",
+      "type": "tv",
+      "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Krimi"
+      ],
+      "keywords": [
+        "chicago, illinois",
+        "private investigator",
+        "justice",
+        "spin off"
+      ],
+      "rating": 7.926,
+      "vote_count": 74,
+      "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -79,7 +148,7 @@
         "brutal violence"
       ],
       "rating": 8.4,
-      "vote_count": 858,
+      "vote_count": 866,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -89,28 +158,29 @@
       }
     },
     {
-      "tmdb_id": 273207,
-      "title": "Neagley",
+      "tmdb_id": 275102,
+      "title": "The Scandal",
       "type": "tv",
-      "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+      "overview": "In der Joseon-Ära weckt ein geheimer Plan verborgene Begierden in einer Adligen, einem Liebhaber und einer Dame, die unwissentlich in das Spiel der zwei verwickelt wird.",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Krimi"
+        "Drama"
       ],
       "keywords": [
-        "chicago, illinois",
-        "private investigator",
-        "justice",
-        "spin off"
+        "based on novel or book",
+        "eroticism",
+        "seduction",
+        "remake",
+        "based on movie",
+        "joseon dynasty (1392–1910)",
+        "period piece"
       ],
-      "rating": 7.822,
-      "vote_count": 59,
-      "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
+      "rating": 6.6,
+      "vote_count": 7,
+      "poster_path": "/8ra17h8Z3NX14qdWaOKn0scURJR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -135,8 +205,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.124,
-      "vote_count": 3354,
+      "rating": 8.1,
+      "vote_count": 3363,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -162,32 +232,10 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.205,
-      "vote_count": 1567,
+      "rating": 8.2,
+      "vote_count": 1570,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 298008,
-      "title": "Plastic Beauty",
-      "type": "tv",
-      "overview": "Als eine begabte Notfallchirurgin in der Schönheitsmedizin landet, deckt der Konflikt mit einer Promi-Ärztin die Gier und das Verlangen auf, die hinter dem Glanz stecken.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "plastic surgery",
-        "medical"
-      ],
-      "rating": 7,
-      "vote_count": 1,
-      "poster_path": "/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/298008/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -224,7 +272,7 @@
         "mystery"
       ],
       "rating": 7.6,
-      "vote_count": 108,
+      "vote_count": 109,
       "poster_path": "/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
       "justwatch": "https://www.themoviedb.org/tv/224263-stranger-things-tales-from-85/watch?locale=DE",
       "providers": {
@@ -234,18 +282,25 @@
       }
     },
     {
-      "tmdb_id": 320760,
-      "title": "Keine Fremde",
+      "tmdb_id": 260463,
+      "title": "Das Band der Unterwelt",
       "type": "tv",
-      "overview": "Funda versucht, ihre Rolle als Mutter mit ihrer Karriere als Künstlerin zu vereinbaren, und sehnt sich nach mehr Zeit für ihre Arbeit. Als die Familie mit Nazlı ein neues Kindermädchen engagiert, hofft Funda auf Entlastung und einen geregelteren Alltag. Doch die junge Frau verhält sich zunehmend rätselhaft und bringt unerwartete Veränderungen in das Familienleben. Was zunächst wie eine willkommene Hilfe erscheint, entwickelt sich für Funda und ihren Mann zu einer Situation, die sich ihrer Kontrolle entzieht.",
+      "overview": "Der Junge Yuru führt ein unaufgeregtes Leben in einem abgeschiedenen Bergdorf mit seiner Zwillingsschwester Asa, das er mit der Jagd zubringt. Als seine Heimat eines Tages von Fremden überfallen wird, schließt er einen Vertrag mit dem Wächter des Dorfes, Sayu, einem sogenannten Tsugai. Dies ist der Beginn eines übernatürlichen Abenteuers, das über das Schicksal der Welt entscheiden wird!",
       "genres": [
-        "Drama"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "keywords": [],
-      "rating": 5.7,
-      "vote_count": 3,
-      "poster_path": "/dsTWMW41oftGgr0nuP0sNGeOY51.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/320760-seni-taniyorum/watch?locale=DE",
+      "keywords": [
+        "based on manga",
+        "shounen",
+        "anime",
+        "fantasy"
+      ],
+      "rating": 8.428,
+      "vote_count": 69,
+      "poster_path": "/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/260463/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -253,56 +308,44 @@
       }
     },
     {
-      "tmdb_id": 295089,
-      "title": "Die Puppe",
+      "tmdb_id": 37854,
+      "title": "One Piece",
       "type": "tv",
-      "overview": "In dieser modernen Verfilmung nach dem klassischen polnischen Roman von Bolesław Prus plagen einen erfolgreichen Kaufmann seine Gefühle für eine willensstarke Adelige.",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
       "genres": [
-        "Drama"
+        "Action & Adventure",
+        "Komödie",
+        "Animation"
       ],
       "keywords": [
-        "based on novel or book",
-        "obsession",
-        "tragic love",
-        "high society",
-        "emancipation",
-        "aristocracy",
-        "wealth differences"
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
+        "friendship",
+        "friends",
+        "pirate",
+        "based on manga",
+        "super power",
+        "adventurer",
+        "shounen",
+        "sea adventure",
+        "anime",
+        "wonder",
+        "fantasy",
+        "adventure",
+        "defiant"
       ],
-      "rating": 5.2,
-      "vote_count": 5,
-      "poster_path": "/vIfM0x2zl4sjj6UYaQR5uUeZXIh.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/295089-lalka/watch?locale=DE",
+      "rating": 8.748,
+      "vote_count": 5551,
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1440098,
-      "title": "Drawn Together",
-      "type": "movie",
-      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
-      "genres": [
-        "Liebesfilm",
-        "Thriller"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "kidnapping",
-        "bodyguard",
-        "family secrets",
-        "sexual tension",
-        "dark romance"
-      ],
-      "rating": 6.606,
-      "vote_count": 94,
-      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -330,10 +373,37 @@
         "serious",
         "attorney"
       ],
-      "rating": 6.783,
-      "vote_count": 515,
+      "rating": 6.762,
+      "vote_count": 522,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1440098,
+      "title": "Drawn Together",
+      "type": "movie",
+      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
+      "genres": [
+        "Liebesfilm",
+        "Thriller"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "kidnapping",
+        "bodyguard",
+        "family secrets",
+        "sexual tension",
+        "dark romance"
+      ],
+      "rating": 6.629,
+      "vote_count": 97,
+      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -384,8 +454,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.405,
-      "vote_count": 4735,
+      "rating": 8.406,
+      "vote_count": 4741,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -395,221 +465,120 @@
       }
     },
     {
-      "tmdb_id": 18165,
-      "title": "Vampire Diaries",
+      "tmdb_id": 2734,
+      "title": "Law & Order: Special Victims Unit",
       "type": "tv",
-      "overview": "Die Highschool-Schülerin Elena Gilbert hat ihre Eltern bei einem Autounfall verloren. Ihre Tante Jenna Sommers, die jüngere Schwester der Mutter, ist nach Mystic Falls gekommen, um sich um sie und ihren jüngeren Bruder Jeremy zu kümmern. Als der neue Mitschüler Stefan Salvatore auf der Bildfläche erscheint, weckt er sofort Elenas Interesse. Sie ahnt nicht, dass es sich bei Stefan um einen bereits jahrhundertealten Vampir handelt. Als dann noch Stefans älterer Bruder Damon auftaucht, der von Elena ebenfalls angezogen ist, überschlagen sich die Ereignisse. Stefan wird misstrauisch, denn er weiß, dass Damon nichts Gutes im Sinn hat. Elena wird in eine Welt hineingeworfen, von deren Existenz sie bislang nichts geahnt hat.",
+      "overview": "Bei Polizei und Staatsanwaltschaft gelten Sexualverbrechen als besonders abscheulich. In New York City gehören die engagierten Detectives, die in diesen brutalen Fällen ermitteln, zur Sondereinheit für Sexualdelikte. Dies sind ihre Geschichten. Innerhalb der New Yorker Polizei gibt es eine Sondereinheit, die Special Victims Unit. Die Fälle, die das SVU untersucht, beschränken sich ausschließlich auf Sexualdelikte und Verbrechen an Kindern",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "love triangle",
-        "witch",
-        "based on novel or book",
-        "vampire",
-        "supernatural",
-        "eternal youth",
-        "werewolf",
-        "supernatural creature",
-        "doppelgänger",
-        "eternal love",
-        "interspecies romance",
-        "based on young adult novel"
-      ],
-      "rating": 8.3,
-      "vote_count": 9765,
-      "poster_path": "/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/18165-the-vampire-diaries/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 206693,
-      "title": "My Dearest",
-      "type": "tv",
-      "overview": "Das südkoreanische Historiendrama My Dearest erzählt die epische Liebesgeschichte zwischen dem geheimnisvollen Lee Jang-hyun und der Adeligen Yoo Gil-chae vor dem Hintergrund der verheerenden Qing-Invasion im Korea des 17. Jahrhunderts.  Yoo Gil-chae ist eine selbstbewusste junge Adlige, die sich nach einer romantischen Liebe sehnt, aber zunächst für einen anderen Mann schwärmt. Lee Jang-hyun wirkt kühl und rätselhaft, hat dem Leben abgeschworen, verliebt sich jedoch tief und unerschütterlich in Gil-chae.\n\nAls die Truppen der Qing-Dynastie in das Joseon-Reich einfallen, bricht das Chaos aus. Der Krieg zwingt die Menschen zu extremen Opfern und trennt Familien.\n\nJang-hyun setzt sein Leben immer wieder aufs Neuer ein, um Gil-chae und andere zu beschützen. Durch seine Taten wandelt sich Gil-chaes Blick auf ihn grundlegend: Aus anfänglicher Ablehnung wird tiefe Zuneigung, während sie getrennt durch das Kriegsunheil um ihr Überleben und ein Wiedersehen kämpfen.",
-      "genres": [
-        "Drama",
-        "War & Politics",
-        "Mystery"
-      ],
-      "keywords": [
-        "rape",
-        "slavery",
-        "historical figure",
-        "romance",
-        "unrequited love",
-        "misunderstanding",
-        "nobility",
-        "angst",
-        "historical drama",
-        "costume drama",
-        "forced marriage",
-        "17th century",
-        "chastity",
-        "joseon dynasty (1392–1910)",
-        "unconditional love",
-        "war",
-        "sageuk",
-        "slow burn romance",
-        "lovers separated",
-        "love in war",
-        "poetic",
-        "family traditions",
-        "ambitious female lead"
-      ],
-      "rating": 8.333,
-      "vote_count": 57,
-      "poster_path": "/308Hkv0uTov3hBiPClB1Fnww3tj.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/206693/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 124905,
-      "title": "Godzilla",
-      "type": "movie",
-      "overview": "In einem japanischen Atomkraftwerk, in dem der amerikanische Ingenieur Joe Brody und seine Frau Sandra beschäftigt sind, kommt es zu einer Katastrophe. Noch Jahre später versucht Joe, der als einer der wenigen überlebt hat, die wahren Ursachen des Unglücks aufzuklären. Und seine Intuition gibt ihm Recht. Zusammen mit seinem Sohn Ford und dem Wissenschaftler Ichiro Serizawa findet er heraus, dass ein riesiges Monster für die Katastrophe von damals verantwortlich war. Und jetzt schlägt es wieder zu! Das Militär ist machtlos. Kann der sagenumwobene Godzilla helfen?",
-      "genres": [
-        "Action",
-        "Drama",
-        "Science Fiction"
-      ],
-      "keywords": [
-        "japan",
-        "monster",
-        "san francisco, california",
-        "hawaii",
-        "giant monster",
-        "tsunami",
-        "remake",
-        "prehistoric creature",
-        "golden gate bridge",
-        "dinosaur",
-        "kaiju",
-        "honolulu, hawaii",
-        "disaster movie",
-        "global threat",
-        "animal horror",
-        "godzilla",
-        "monsterverse"
-      ],
-      "rating": 6.367,
-      "vote_count": 10011,
-      "poster_path": "/tHQkVS0U2gClPkaYwtJwAvsqQmw.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/124905-godzilla/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223171.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 68726,
-      "title": "Pacific Rim",
-      "type": "movie",
-      "overview": "Die Kaiju, monströse außerirdische Kreaturen, erheben sich aus dem Meer und ziehen in einen Krieg gegen die Menschheit, der Unzählige das Leben kosten und die Reserven der Erde bis in alle Zeit aufbrauchen könnte. Um die Kaiju zu bekämpfen, wird eine spezielle Waffe hergestellt: Gigantische Roboter namens Jaeger, die durch zwei Piloten gesteuert werden, deren Gehirne durch eine neurale Brücke ebenfalls miteinander verknüpft werden. Jedoch scheinen selbst die ausgeklügeltsten Waffen an den übermächtigen Aliens zu scheitern. In ihrer Ratlosigkeit wenden sich die Streitkräfte der Erde an den abgehalfterten Ex-Piloten Raleigh Antrobus und seine unerfahrene Novizin Mako Mori, die ein scheinbar schlecht ausgerüstetes, älteres Modell der Jaeger gegen die Kaiju in den Kampf führen sollen. Die beiden werden zur letzten Hoffnung gegen die übermächtige apokalyptische Gewalt aus dem All.",
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "monster",
-        "dystopia",
-        "giant monster",
-        "pacific",
-        "alaska",
-        "giant robot",
-        "apocalypse",
-        "hong kong",
-        "robot",
-        "alien invasion",
-        "kaiju",
-        "duringcreditsstinger",
-        "monster movie"
-      ],
-      "rating": 6.948,
-      "vote_count": 13804,
-      "poster_path": "/7ZyU6OMqtDxgLLYrUgjUh5u5DC7.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/68726-pacific-rim/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223171.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 223313,
-      "title": "Obsession",
-      "type": "tv",
-      "overview": "Die Affäre eines angesehenen Londoner Chirurgen mit der Verlobten seines Sohnes mündet in eine Amour fou, die ihr Leben für immer zu verändern droht.",
-      "genres": [
+        "Krimi",
         "Drama",
         "Mystery"
       ],
       "keywords": [
-        "love triangle",
-        "based on novel or book",
-        "infidelity",
-        "obsession",
-        "fiancé",
-        "surgeon",
-        "romance",
-        "older man younger woman relationship",
-        "love affair",
-        "incest",
-        "erotic thriller"
+        "detective",
+        "sexual abuse",
+        "sex scandal",
+        "domestic abuse",
+        "sexual violence",
+        "domestic violence",
+        "criminal",
+        "sex trafficking",
+        "interrogation",
+        "district attorney",
+        "courtroom",
+        "assistant district attorney",
+        "sex crime",
+        "sexual assault",
+        "sex trade",
+        "sex slavery",
+        "sex offender",
+        "criminal justice system",
+        "suspicious",
+        "dark",
+        "police procedural",
+        "gritty"
       ],
-      "rating": 6.452,
-      "vote_count": 196,
-      "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/223313-obsession/watch?locale=DE",
+      "rating": 7.959,
+      "vote_count": 4355,
+      "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
         "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223444.html",
-        "mentions": 2
       }
     },
     {
-      "tmdb_id": 233237,
-      "title": "Der Zweite Weltkrieg: Von der Front",
+      "tmdb_id": 1396,
+      "title": "Breaking Bad",
       "type": "tv",
-      "overview": "Mithilfe optimierter Archivaufnahmen und Stimmen von allen Seiten des Konflikts erweckt diese Dokuserie den 2. Weltkrieg zum Leben wie nie zuvor.",
+      "overview": "Ein krebskranker Chemielehrer tut sich mit einem ehemaligen Schüler zusammen, um die Zukunft seiner Familie durch die Herstellung und den Verkauf von Meth zu sichern.",
       "genres": [
-        "Dokumentarfilm",
-        "War & Politics"
+        "Drama",
+        "Krimi"
       ],
       "keywords": [
-        "world war ii",
-        "miniseries"
+        "new mexico",
+        "drug dealer",
+        "narcissism",
+        "psychopath",
+        "terminal illness",
+        "outlaw",
+        "dark comedy",
+        "cancer",
+        "tragedy",
+        "drugs",
+        "criminal",
+        "meth lab",
+        "drug lord",
+        "high school teacher",
+        "dea agent",
+        "neo-western",
+        "albuquerque, new mexico",
+        "criminal lawyer",
+        "fall from grace",
+        "cartel",
+        "mexican cartel",
+        "male egos",
+        "crystal meth",
+        "complex",
+        "dark",
+        "methamphetamine",
+        "thriller",
+        "violent",
+        "tortured genius"
       ],
-      "rating": 7.981,
-      "vote_count": 106,
-      "poster_path": "/15wIhM1X6oRiId0tPPTVoXLT6mx.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/233237-world-war-ii-from-the-frontlines/watch?locale=DE",
+      "rating": 8.951,
+      "vote_count": 18656,
+      "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 829557,
+      "title": "365 Days - Dieser Tag",
+      "type": "movie",
+      "overview": "Lauras neues Leben auf Sizilien ähnelt einem Märchen: eine glamouröse Hochzeit, ein Ehemann, der ihr jeden Wunsch erfüllt, eine herrliche Villa am Meer und Luxus, wie Laura ihn zuvor niemals kannte. Alles könnte perfekt sein, wenn ihr Ehemann nicht ausgerechnet Don Massimo Torricelli wäre – Oberhaupt eines mächtigen Mafia-Clans. Die Ehefrau des gefährlichsten Mannes Siziliens zu sein, hat Konsequenzen, wie Laura sehr bald feststellen muss. Denn Massimo hat viele Feinde, die vor nichts zurückschrecken, und seine größte Schwachstelle ist Laura …",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "gangster",
+        "sequel",
+        "bdsm",
+        "rich man poor woman",
+        "sex",
+        "erotique"
+      ],
+      "rating": 5.944,
+      "vote_count": 1876,
+      "poster_path": "/oZNI08UnRwGH6Gl8iR7Dq8HV806.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/829557-365-dni-ten-dzien/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -617,7 +586,7 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223478.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000223208.html",
         "mentions": 2
       }
     },
@@ -643,7 +612,7 @@
         "advanced ancient civilization"
       ],
       "rating": 8.266,
-      "vote_count": 1901,
+      "vote_count": 1902,
       "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
       "justwatch": "https://www.themoviedb.org/tv/4629-stargate-sg-1/watch?locale=DE",
       "providers": {
@@ -879,7 +848,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMGIzMzk3ZWMtNDBmMS00Zjk2LThkNTQtZGYwNTdmMzdjOTVl",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMGIzMzk3ZWMtNDBmMS00Zjk2LThkNTQtZGYwNTdmMzdjOTVlL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5214,
       "providers": {
         "netflix": null,
@@ -925,7 +894,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3NGEwODQzLTU0NGItNGNjZS1hMzc5LTAwNDQ4OGJlNDBjNF9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3NGEwODQzLTU0NGItNGNjZS1hMzc5LTAwNDQ4OGJlNDBjNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5305,
       "providers": {
         "netflix": null,
@@ -1293,6 +1262,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Curveball – Wir machen die Wahrheit - Spielfilm, Deutschland 2020",
+      "type": "tv",
+      "overview": "BND-Biowaffenexperte Wolf trifft auf den irakischen Asylbewerber Rafid Alwan. Dieser behauptet, Teil von Saddam Husseins geheimem Biowaffenprogramm gewesen zu sein. Für den BND wäre das eine Sensation – doch die entscheidenden Beweise fehlen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/curveball-wir-machen-die-wahrheit-102.html",
+      "duration": 6008,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Adagio – Erbarmungslose Stadt - Spielfilm, Italien 2023",
       "type": "tv",
       "overview": "Korrupte Carabinieri erpressen Manuel, auf einer Party in Rom belastende Fotos eines prominenten Politikers zu machen. Doch Manuel flieht mit den Bildern und wird nun gnadenlos verfolgt.",
@@ -1327,7 +1318,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/spielfilm-104/kneecap-100",
+      "url": "https://www.zdf.de/video/filme/kneecap-movie-100/kneecap-100",
       "duration": 6063,
       "providers": {
         "netflix": null,
@@ -1349,7 +1340,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/spielfilm-104/kneecap-100",
+      "url": "https://www.zdf.de/video/filme/kneecap-movie-100/kneecap-100",
       "duration": 6063,
       "providers": {
         "netflix": null,
@@ -1483,28 +1474,6 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
       "duration": 6051,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ein Schloss am Wörthersee - Der Film - Kinofilm, Österreich 1992",
-      "type": "tv",
-      "overview": "Der charmante Lennie Berger hat von seinem Onkel das Schlosshotel Velden geerbt und will es auf Vordermann bringen. Das stößt bei den Angestellten und der Konkurrenz nicht nur auf Zuspruch.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/ein-schloss-am-woerthersee---der-film-100.html",
-      "duration": 4938,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1804,9 +1773,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dora Heldt: Herzlichen Glückwunsch, Sie haben gewonnen! - Nach dem gleichnamigen Roman (E07)",
+      "title": "Dora Heldt: Bei Hitze ist es wenigstens nicht kalt - Nach dem gleichnamigen Roman (E04)",
       "type": "tv",
-      "overview": "Walter hat eine Reise gewonnen. Weil seine Frau nicht auf ihr \"Weiberwochenende\" mit ihren Freundinnen verzichten möchte, nimmt er seinen Freund Heinz mit.",
+      "overview": "Doris gerät ins Schwitzen: Ihr 50. Geburtstag naht, und sie sieht keinen Grund zum Jubilieren. Sie ist nervös, hat Hitzewallungen und ist unzufrieden.",
       "genres": [
         "Liebesfilm",
         "Drama"
@@ -1817,7 +1786,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/dora-heldt-herzlichen-glueckwunsch-sie-haben-gewonnen-movie-100/dora-heldt-herzlichen-glueckwunsch-sie-haben-gewonnen-100",
+      "url": "https://www.zdf.de/video/filme/dora-heldt-bei-hitze-ist-es-wenigstens-nicht-kalt-movie-100/dora-heldt-bei-hitze-ist-es-wenigstens-nicht-kalt-100",
       "duration": 5310,
       "providers": {
         "netflix": null,
@@ -2245,6 +2214,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Rio in Berlin - König von Deutschland",
+      "type": "tv",
+      "overview": "08.09.2026 Rio in Berlin",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.phoenix.de/sendungen/dokumentationen/rio-in-berlin-a-5226146.html",
+      "duration": 2604,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Jane Austen - Literatur und Leidenschaft",
+      "type": "tv",
+      "overview": "Das mit leichter Hand erzählte Porträt zeigt die Welt der großartigen Schriftstellerin und die Welt ihrer Romane. Sie lässt Historikerinnen und Literaturwissenschaftlerinnen ebenso zu Wort kommen wie die begeisterte Leserschaft, Filmausschnitte laden zum Schmachten ein. Dazu kommen noch ihre Jugendwerke und Fragmente....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Doku & Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS8yMTk4YmFhZC1jMDBhLTRmMzktOTEyYi1kNmIzYTllMmIzOTM",
+      "duration": 2667,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wohnen mal anders",
+      "type": "tv",
+      "overview": "Ein Herrenhaus mit geschichtsträchtigem Turm, ein Haus auf einer Brücke oder eine ehemalige Kirche: In Hessen gibt es außergewöhnliche Orte zum Wohnen. Die Reportage zeigt besondere hessische Wohngeschichten und Menschen, die in einzigartigen Häusern leben – denn ein Zuhause kann weit mehr sein als vier Wände und ein Dach.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus & Reportagen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/NDZjNWYzODQtZGQxOC00OTA3LTk3MTgtNzI2ZDA3YWIwZTVh",
+      "duration": 2668,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "IKEAs Feind Nr. 1 - Geschäfte auf Russisch",
       "type": "tv",
       "overview": "Milliardenprozess gegen IKEA, dubiose Deals, Korruption: Wie der russische Unternehmer Konstantin Ponomarjow vom Gewinner zum Gefangenen wird. Nach einem spektakulären Rechtsstreit mit dem Möbelgiganten \"IKEA\" wird dem russischen Unternehmer Konstantin Ponomarjow eine Milliarde Dollar zugesprochen. Doch statt eines Happy Ends beginnt ein Albtraum: Ponomarjow fordert mehr Geld und landet unerwartet selbst im Gefängnis....",
@@ -2329,50 +2364,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Unsere Herzen · Ein Klang",
-      "type": "tv",
-      "overview": "Eine besondere Magie liegt im gemeinsamen Singen – da sind sich alle einig, die schon einmal im Chor gesungen haben. Wenn die unterschiedlichsten Stimmlagen in aller Verschiedenheit zueinander finden, entsteht eine enorme musikalische Kraft....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMDZjNzExMTYtM2NmZC00ZjdjLTljNDUtMmNlMDFjOTgwNzk0",
-      "duration": 5399,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wo Hessen oben ist – Unsere Mittelgebirge",
-      "type": "tv",
-      "overview": "Explosiv, waldreich und Millionen Jahre alt. Das sind unsere Mittelgebirge. Plattentektonik hat sie in den Himmel wachsen lassen. Und seither leben wir mit ihnen. Mit ihren Steinen, ihrer Lava, ihren Pflanzen, Gipfeln, ihrer Tieren und ihren Besonderheiten. In Hessen ist die landschaftliche Vielfalt besonders groß, die Basaltvorkommen sind die größten in Europa. Wie lebt es sich in und mit den hessischen Mittelgebirgen?",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/ZTU2MGQyOGMtMmU5OS00ZTY1LTk1OGQtMGFlYjY0MDA5MTNm",
-      "duration": 2678,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2685,6 +2676,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Blutrache – Der Bozen-Krimi (S01/E10)",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2020\r\n\r\nIn die engen Gassen der süditalienischen Hafenstadt Bari führt der zehnte Bozen-Krimi \"Blutrache\" das Ermittlerduo. Matteo merkt, dass er zwischen die Fronten eines gefährlichen Machtkampfes innerhalb der Mafia geraten ist.\r\n\r\nMit Chiara Schoras, Tobias Oertel, Charleen Deetz, Lisa Kreuzer u.a. | Buch: Thorsten Näter | Regie: Thorsten Näter",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Bozen-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIwLTA0LTAyXzIwLTQwLU1FU1o",
+      "duration": 5302,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tod im Hafenbecken – Der Amsterdam-Krimi (3)",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2020\r\n\r\nIn \"Tod im Hafenbecken\" müssen Undercover-Spezialist Alex Pollack und Kommissar Bram de Groot in dem Mord des Enthüllungsjournalisten Scheer ermitteln. Die Undercover-Mission bleibt jedoch nicht ohne Folgen. \r\n\r\nMit Hannes Jaenicke, Fedja van Huêt, Anatole Taubman, Hannah Hoekstra, Ferdi Stofmeel u. a. | Regie: Peter Stauch",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Amsterdam-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDIzLTA1LTE4XzIwLTE1LU1FU1o",
+      "duration": 5190,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Bruder, Liebe, Tod · Der Saarland-Krimi",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2026 Nach einem traumatischen Einsatz mit tödlichem Ausgang wechselt Kriminalhauptkommissar Tayfun Can (Aram Arami) vom Polizeidienst in die Sozialarbeit, wo er straffällige Jugendliche im gastronomischen Projekt „Kleine Freiheit“ betreut. Als sein jüngerer Bruder Momo (Doguhan Kabadayi) des Mordes an einem jungen Italiener verdächtigt wird, beginnt Tayfun heimlich zu ermitteln....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Saarland-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Y3N2Y5YTlmLWI4ZjktNGI4My04MjRkLTk2ZTlhMzM2ZjZiNF9nYW56ZVNlbmR1bmc",
+      "duration": 5302,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Geisternetze (26) – Der Usedom-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2025 Die Fischerin Luise Petersen (Rosa Enskat) hat ihren Kindern ihren Fischkutter überschrieben. Luise war jahrelang mit ihrem Sohn Erik (Sammy Scheuritzel) ausgefahren, aber der will die Fischerei an den Nagel hängen und hat auch schon einen Käufer für den Pott gefunden. Schwester Suntje (Anima Schwinn) hingegen will Kutter, Fanglizenz und die Familientradition nicht aufgeben. Die Geschwister sind zerstritten....",
@@ -2763,7 +2820,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgzMDlmNGMxLTY3YmQtNGQwMy1hMzJjLTFkZGMzMGEwMTljN19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgzMDlmNGMxLTY3YmQtNGQwMy1hMzJjLTFkZGMzMGEwMTljN19nYW56ZVNlbmR1bmc",
       "duration": 5302,
       "providers": {
         "netflix": null,
@@ -2785,7 +2842,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5386,
       "providers": {
         "netflix": null,
@@ -2795,64 +2852,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Vergeltung – Der Bozen-Krimi (S01/E15)",
+      "title": "Wilfried Schmickler - Das Allerbeste aus 6 Soloprogrammen",
       "type": "tv",
-      "overview": "Spielfilm Deutschland 2022 Ein Lieferwagen rast in ein besuchtes Café im Herzen von Meran, der Fahrer entkommt unerkannt. Ein politischer Anschlag? Ein persönlicher Racheakt? Oder eine erpresserische Warnung von Kriminellen? „Capo“ Sonja Schwarz (Chiara Schoras) lässt in alle Richtungen ermitteln....",
+      "overview": "Wilfried Schmickler steht seit fast 40 Jahren für exquisites politisches Kabarett. Seine politischen und gesellschaftspolitischen Analysen beeindrucken durch Scharfsinn und Wortwitz. Der WDR hat Schmicklers künstlerisches Schaffen über viele Jahre begleitet, sowohl bei den Mitternachtsspitzen als auch bei seinen Soloprogrammen....",
       "genres": [
-        "Krimi"
+        "Komödie"
       ],
       "keywords": [
-        "Der Bozen-Krimi"
+        "Comedy"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI1LTA2LTAxXzAyLTUwLU1FU1o",
-      "duration": 5308,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Donau ist tief. Ein Krimi aus Passau (2)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2020 Privatdetektiv Ferdinand Zankl (Michael Ostrowski) wird verdächtigt, seine Ex-Freundin, die Tierheimleiterin Nunzia Rossi (Dagny Dewath), ermordet zu haben. Er wird von der Passauer Polizei verhaftet. Ausgerechnet zu diesem Zeitpunkt steht Zankl wegen einer anderen Sache unter hohem Handlungsdruck....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Ein Krimi aus Passau"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMzBfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
-      "duration": 5245,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Freund oder Feind. Ein Krimi aus Passau (1)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2020 Frederike Bader (Marie Leuenberger) und ihre Tochter Mia (Nadja Sabersky) sind Neuankömmlinge in Passau. Die Vergangenheit der beiden hat so gut wie nichts mit dem zu tun, was Arbeitgeber, Kollegen und Nachbarn von ihnen wissen, und das ist wahrlich nicht viel. Nicht einmal die Namen stimmen. „Frederike Bader“ war noch vor wenigen Monaten Kommissarin beim Berliner LKA....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Ein Krimi aus Passau"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDYtMjNfMjAtMTUtTUVTWi9hdWRpb2Rlc2tyaXB0aW9u",
-      "duration": 5310,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMjIwYjhmYWUtMTg4My00MDY3LWFkNjItODE3NzNiMDhkYjY2",
+      "duration": 4382,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3125,6 +3138,121 @@
     },
     {
       "tmdb_id": null,
+      "title": "Die Geschichte des Dritten Lagers",
+      "type": "tv",
+      "overview": "Das Dritte Lager steht in Österreich für deutschnationale und nationalliberale politische Strömungen, deren Wurzeln bis in die Monarchie reichen. Nach 1945 wurde der Verband der Unabhängigen zum Sammelbecken vieler zuvor vom Wahlrecht ausgeschlossener NSDAP-Mitglieder und Belasteter; 1956 folgte die FPÖ. Gerhard Jelineks Dokumentation zeichnet diese Entwicklung bis zu Haider, Strache und Kickl nach und fragt nach ihrem Nachwirken....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "zeit.geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14339772/die-geschichte-des-dritten-lagers",
+      "duration": 3143,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Jörg Haider - Der letzte Tag",
+      "type": "tv",
+      "overview": "Jörg Haider stirbt 2008 bei einem Verkehrsunfall auf dem Weg ins Bärental. Was in seinen letzten Stunden geschah, blieb trotz großen Medieninteresses lange unklar und beförderte Spekulationen. Birgit Mosser-Schuöcker zeichnet die Ereignisse minutiös nach. Witwe Claudia Haider, Angehörige, Weggefährten, ein Augenzeuge sowie Fachleute aus Journalismus, Verkehrs- und Rechtsmedizin blicken auf die Unglücksnacht und den Mythos Haider....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "zeit.geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14339771/joerg-haider-der-letzte-tag",
+      "duration": 3120,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Versailles - Palast des Sonnenkönigs",
+      "type": "tv",
+      "overview": "Von den irrwitzigen barocken Fantasiegebilden über die Luxusgemächer der Höflinge bis zum Privatmuseum des Königs: Das heutige Versailles hat kaum noch Ähnlichkeit mit dem Schloss des Sonnenkönigs. Durch Restaurierung und die Digitalisierung Tausender Schlosspläne wird diese versunkene Vergangenheit neu greifbar. Der Film begleitet diese Spurensuche.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/080101-000-A/versailles-palast-des-sonnenkoenigs/",
+      "duration": 5464,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Schloss Schönbrunn - Hinter der Fassade der Macht",
+      "type": "tv",
+      "overview": "Schloss Schönbrunn – eine der glanzvollsten Schlossanlagen Europas. Eindrucksvolle Bilder erzählen die Geschichte der Menschen, die dort herrschten und der Heerscharen an Bediensteten, die notwendig waren, um eine solche Residenz am Laufen zu halten.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/124378-000-A/schloss-schoenbrunn/",
+      "duration": 5481,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Neuschwanstein - Ludwigs Traum, Ludwigs Tragödie",
+      "type": "tv",
+      "overview": "Schloss Neuschwanstein gehört zu den außergewöhnlichsten Bauwerken der Welt, ist Markenzeichen und Identifikationsort für Bayern und ganz Deutschland. Ein ikonisches Bauwerk zwischen architektonischem Genie und kitschigem Wahnsinn. Das Schloss ist untrennbar mit dem tragischen Schicksal König Ludwigs II. verbunden, denn es ist sein steingewordener Traum.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/112812-000-A/neuschwanstein-ludwigs-traum-ludwigs-tragoedie/",
+      "duration": 5311,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Flensburger - Das Bier mit dem \"Plopp\"",
       "type": "tv",
       "overview": "Es gilt als das Bier mit dem herben Aroma - Flensburger. Gebraut in der nördlichsten Brauerei Deutschlands, abgefüllt in traditionellen Bügelflaschen, die beim Öffnen \"ploppen\". Bekannt wurde das Bier durch die Bölkstoff trinkende Comicfigur \"Werner\". Seit 125 Jahre ist das Unternehmen im Familienbesitz. Und entgegen dem Trend - bundesweit geht der Bierkonsum seit Jahren zurück - wächst der Umsatz....",
@@ -3186,121 +3314,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/116675-000-A/das-erste-jahr/",
       "duration": 5556,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Das erste Jahr (Originalversion)",
-      "type": "tv",
-      "overview": "Die Hoffnung auf eine gerechtere Gesellschaft führte 1970 zur Wahl des Sozialisten Salvador Allende zum Präsidenten Chiles. Was als Traum von einer besseren Zukunft begann, endete drei Jahre später in einem Militärputsch und dem Terror-Regime von General Pinochet. Der Dokumentarfilm von Patricio Guzman über den Beginn der Regierung Allende ist ein berührendes Zeitzeugnis.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116675-000-A/das-erste-jahr/",
-      "duration": 5556,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Kampf um Chile (3/3) - Die Macht des Volkes",
-      "type": "tv",
-      "overview": "In den Monaten vor dem Militärputsch in Chile versuchen die Anhänger des sozialistischen Präsidenten Allende, mit politischen und karitativen Aktionen einen « Staat im Staate » zu schaffen - als Gegengewicht zu den reformfeindlichen Kräften im Land, die unter anderem von der Nixon-Regierung in den USA unterstützt werden.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116001-000-A/der-kampf-um-chile-3-3/",
-      "duration": 4731,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Kampf um Chile (2/3) - Der Staatsstreich",
-      "type": "tv",
-      "overview": "1973 spitzt sich der Konflikt zwischen den politischen Lagern in Chile weiter zu. Die US-Regierung unterstützt den Widerstand gegen den sozialistischen Präsidenten Allende. Es kommt schließlich zu einem Militärputsch - und in der Folge zu 17 Jahren Schreckensherrschaft des Pinochet-Regimes.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116000-000-A/der-kampf-um-chile-2-3/",
-      "duration": 5283,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Nazi Space Race - Die dunkle Seite der Mondlandung",
-      "type": "tv",
-      "overview": "Der Wettlauf zum Mond hatte eine weitgehend verdrängte Vorgeschichte: Im Rahmen der Operation Paperclip rekrutierten die USA nach Kriegsende deutsche Wissenschaftler, darunter ehemalige NS-Ingenieure. Ihre Expertise aus der Entwicklung der V2-Rakete wurde zum Baustein des amerikanischen Raumfahrtprogramms.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/132636-000-A/nazi-space-race/",
-      "duration": 2770,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Corleone. Pate der Paten (1/2) - Macht durch Blut",
-      "type": "tv",
-      "overview": "Salvatore \"Totò\" Riina: Sohn eines Bauern aus Corleone, der mit 52 Jahren zum unumschränkten Herrscher der sizilianischen Mafia wird. Giovanni Falcone: der Richter, der den ersten Prozess gegen die sizilianische Mafia initiiert, bei dem \"Totò\" zu einer lebenslangen Freiheitsstrafe verurteilt wird. Wie in einem Shakespeare-Drama erlebt der Zuschauer die Eskalation der Gewalt ...",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/049813-001-A/corleone-pate-der-paten-1-2/",
-      "duration": 4675,
       "providers": {
         "netflix": null,
         "prime": null,
