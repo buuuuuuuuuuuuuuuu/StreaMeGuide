@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-20T09:31:56.916Z",
+  "generated_at": "2026-09-21T10:18:41.546Z",
   "items": [
     {
       "tmdb_id": 1514863,
@@ -15,12 +15,62 @@
         "dance competition",
         "female friendship",
         "south asian",
+        "ridiculous",
         "bollywood"
       ],
-      "rating": 7.3,
-      "vote_count": 7,
+      "rating": 5.167,
+      "vote_count": 21,
       "poster_path": "/nK8v2aJgVsHYVv28FBJeuJnsvk6.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1641629,
+      "title": "Du+Ich - Allein gegen alle",
+      "type": "movie",
+      "overview": "Die 18-jährige Alma Lancaster scheint ein perfektes Leben zu führen. Sie stammt aus einer wohlhabenden Familie, die überzeugt ist, dass sie Jura studiert. Doch heimlich verfolgt Alma ihre wahre Leidenschaft, die des Filmedrehens. An der Universität begegnet sie Vadim Arcadi, einem verschlossenen Studenten, mit dem sie gezwungen ist, ein Studentenfilm zu produzieren.",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "college",
+        "love",
+        "teenage love",
+        "filmmaking"
+      ],
+      "rating": 5.7,
+      "vote_count": 32,
+      "poster_path": "/wxxSgZpTs9HaiKFAL7ArYGiVlVP.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1451944,
+      "title": "Lust Stories 3",
+      "type": "movie",
+      "overview": "",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "anthology",
+        "bollywood"
+      ],
+      "rating": 6.8,
+      "vote_count": 4,
+      "poster_path": "/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1451944-lust-stories-3/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -56,12 +106,39 @@
         "interspecies friendship"
       ],
       "rating": 8.639,
-      "vote_count": 7847,
+      "vote_count": 7876,
       "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
       "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.2,
+      "vote_count": 1583,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -89,13 +166,45 @@
         "axe",
         "based on real person"
       ],
-      "rating": 6.9,
-      "vote_count": 38,
+      "rating": 7.139,
+      "vote_count": 54,
       "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 247718,
+      "title": "MobLand: Familie bis aufs Blut",
+      "type": "tv",
+      "overview": "Die Karten werden neu gemischt, als zwei verfeindete Verbrecherfamilien in einer Schlacht aneinandergeraten, die Imperien zu stürzen droht. Harry Da Souza, ein gewiefter Mann fürs Grobe, gerät ins Kreuzfeuer und stellt seine Loyalität unter Beweis.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "london, england",
+        "drug trafficking",
+        "gang war",
+        "gangster",
+        "family business ",
+        "murder",
+        "betrayal",
+        "crime family",
+        "fixer",
+        "corrupt cop",
+        "brutal violence"
+      ],
+      "rating": 8.4,
+      "vote_count": 869,
+      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -115,42 +224,10 @@
         "justice",
         "spin off"
       ],
-      "rating": 7.926,
-      "vote_count": 74,
+      "rating": 7.984,
+      "vote_count": 92,
       "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 247718,
-      "title": "MobLand",
-      "type": "tv",
-      "overview": "Hier steht eine professionelle Fixer-Familie die Donovans aus London im Mittelpunkt, die für die mächtigsten Menschen Europas arbeitet. In einem unsteten Business müssen die Donovans sich auf merkwürdige Verbündete und zahlreiche Überraschungen einstellen. In einem Geschäft, in dem Verrat überall möglich ist, ist es gut, dass wenigsten die Familie zusammenhält.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "london, england",
-        "drug trafficking",
-        "gang war",
-        "gangster",
-        "family business ",
-        "murder",
-        "betrayal",
-        "crime family",
-        "fixer",
-        "corrupt cop",
-        "brutal violence"
-      ],
-      "rating": 8.4,
-      "vote_count": 866,
-      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -174,8 +251,8 @@
         "joseon dynasty (1392–1910)",
         "period piece"
       ],
-      "rating": 6.6,
-      "vote_count": 7,
+      "rating": 6.3,
+      "vote_count": 9,
       "poster_path": "/8ra17h8Z3NX14qdWaOKn0scURJR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
       "providers": {
@@ -205,8 +282,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.1,
-      "vote_count": 3363,
+      "rating": 8.128,
+      "vote_count": 3374,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -216,91 +293,45 @@
       }
     },
     {
-      "tmdb_id": 113962,
-      "title": "Lioness",
+      "tmdb_id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
       "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
       "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.2,
-      "vote_count": 1570,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 224263,
-      "title": "Stranger Things: Tales from '85",
-      "type": "tv",
-      "overview": "Winter, Hawkins, 1985. Willkommen zurück in einer Stadt voller Geheimnisses, in der sich die beliebten Held*innen neuen Rätseln … und völlig neuartigen Wesen gegenübersehen.",
-      "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Action & Adventure"
-      ],
-      "keywords": [
-        "monster",
-        "small town",
-        "indiana, usa",
-        "experiment",
-        "supernatural",
-        "coming of age",
-        "parallel world",
-        "super power",
-        "group of friends",
-        "nostalgic",
-        "government conspiracy",
-        "teen drama",
-        "pre-teen",
-        "1980s",
-        "based on tv series",
-        "mystery"
-      ],
-      "rating": 7.6,
-      "vote_count": 109,
-      "poster_path": "/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/224263-stranger-things-tales-from-85/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 260463,
-      "title": "Das Band der Unterwelt",
-      "type": "tv",
-      "overview": "Der Junge Yuru führt ein unaufgeregtes Leben in einem abgeschiedenen Bergdorf mit seiner Zwillingsschwester Asa, das er mit der Jagd zubringt. Als seine Heimat eines Tages von Fremden überfallen wird, schließt er einen Vertrag mit dem Wächter des Dorfes, Sayu, einem sogenannten Tsugai. Dies ist der Beginn eines übernatürlichen Abenteuers, das über das Schicksal der Welt entscheiden wird!",
-      "genres": [
-        "Animation",
         "Action & Adventure",
+        "Animation",
         "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "based on manga",
-        "shounen",
+        "magic",
+        "teleportation",
+        "reincarnation",
+        "polygamy",
+        "harem",
+        "romance",
+        "displacement",
+        "second chance",
+        "fantasy world",
+        "seinen",
+        "ecchi",
         "anime",
-        "fantasy"
+        "high fantasy",
+        "search for mother",
+        "neet",
+        "life challenges",
+        "other world",
+        "sword and sorcery",
+        "isekai",
+        "otaku",
+        "erotic",
+        "fantasy",
+        "based on light novel",
+        "adventure"
       ],
-      "rating": 8.428,
-      "vote_count": 69,
-      "poster_path": "/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/260463/watch?locale=DE",
+      "rating": 8.41,
+      "vote_count": 1724,
+      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -340,12 +371,65 @@
         "defiant"
       ],
       "rating": 8.748,
-      "vote_count": 5551,
+      "vote_count": 5552,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 260463,
+      "title": "Das Band der Unterwelt",
+      "type": "tv",
+      "overview": "Der Junge Yuru führt ein unaufgeregtes Leben in einem abgeschiedenen Bergdorf mit seiner Zwillingsschwester Asa, das er mit der Jagd zubringt. Als seine Heimat eines Tages von Fremden überfallen wird, schließt er einen Vertrag mit dem Wächter des Dorfes, Sayu, einem sogenannten Tsugai. Dies ist der Beginn eines übernatürlichen Abenteuers, das über das Schicksal der Welt entscheiden wird!",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "based on manga",
+        "shounen",
+        "anime",
+        "fantasy"
+      ],
+      "rating": 8.424,
+      "vote_count": 72,
+      "poster_path": "/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/260463/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1440098,
+      "title": "Drawn Together",
+      "type": "movie",
+      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
+      "genres": [
+        "Liebesfilm",
+        "Thriller"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "kidnapping",
+        "bodyguard",
+        "family secrets",
+        "sexual tension",
+        "dark romance"
+      ],
+      "rating": 6.629,
+      "vote_count": 105,
+      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -373,37 +457,10 @@
         "serious",
         "attorney"
       ],
-      "rating": 6.762,
-      "vote_count": 522,
+      "rating": 6.767,
+      "vote_count": 536,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1440098,
-      "title": "Drawn Together",
-      "type": "movie",
-      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
-      "genres": [
-        "Liebesfilm",
-        "Thriller"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "kidnapping",
-        "bodyguard",
-        "family secrets",
-        "sexual tension",
-        "dark romance"
-      ],
-      "rating": 6.629,
-      "vote_count": 97,
-      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -422,9 +479,10 @@
       ],
       "keywords": [
         "age-gap relationship",
-        "amused"
+        "amused",
+        "bollywood"
       ],
-      "rating": 7.2,
+      "rating": 7.241,
       "vote_count": 26,
       "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
@@ -455,7 +513,7 @@
         "police procedural"
       ],
       "rating": 8.406,
-      "vote_count": 4741,
+      "vote_count": 4743,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -509,76 +567,72 @@
       }
     },
     {
-      "tmdb_id": 1396,
-      "title": "Breaking Bad",
-      "type": "tv",
-      "overview": "Ein krebskranker Chemielehrer tut sich mit einem ehemaligen Schüler zusammen, um die Zukunft seiner Familie durch die Herstellung und den Verkauf von Meth zu sichern.",
+      "tmdb_id": 98,
+      "title": "Gladiator",
+      "type": "movie",
+      "overview": "Der gefeierte römische Feldherr Maximus wird vom sterbenden Kaiser Marcus Aurelius gebeten, seine Nachfolge anzutreten. Um dies zu verhindern, tötet Aurelius’ Sohn seinen Vater und ordnet die Exekution von Maximus und seiner Familie an. Maximus gelingt die Flucht. Verwundet wird er von einem Sklavenhändler gefangen genommen und muss sich fortan als Gladiator beweisen. Als Kampfmaschine hat er schließlich nur noch ein Ziel: Rache an seinem Peiniger zu nehmen …",
       "genres": [
+        "Action",
         "Drama",
-        "Krimi"
+        "Abenteuer"
       ],
       "keywords": [
-        "new mexico",
-        "drug dealer",
-        "narcissism",
-        "psychopath",
-        "terminal illness",
-        "outlaw",
-        "dark comedy",
-        "cancer",
-        "tragedy",
-        "drugs",
-        "criminal",
-        "meth lab",
-        "drug lord",
-        "high school teacher",
-        "dea agent",
-        "neo-western",
-        "albuquerque, new mexico",
-        "criminal lawyer",
-        "fall from grace",
-        "cartel",
-        "mexican cartel",
-        "male egos",
-        "crystal meth",
-        "complex",
-        "dark",
-        "methamphetamine",
-        "thriller",
-        "violent",
-        "tortured genius"
+        "gladiator",
+        "rome, italy",
+        "arena",
+        "senate",
+        "roman empire",
+        "parent child relationship",
+        "emperor",
+        "slavery",
+        "ancient rome",
+        "revenge",
+        "battlefield",
+        "slave auction",
+        "historical fiction",
+        "ancient world",
+        "period drama",
+        "combat",
+        "chariot",
+        "philosopher",
+        "grim",
+        "barbarian horde",
+        "2nd century",
+        "successor",
+        "commodus",
+        "maximus",
+        "antiquity",
+        "gladiador"
       ],
-      "rating": 8.951,
-      "vote_count": 18656,
-      "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
+      "rating": 8.231,
+      "vote_count": 21507,
+      "poster_path": "/32wJunadteAxUkXnbQ1lHjjp5pa.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/98-gladiator/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000222850.html",
+        "mentions": 2
       }
     },
     {
-      "tmdb_id": 829557,
-      "title": "365 Days - Dieser Tag",
+      "tmdb_id": 620881,
+      "title": "Das perfekte Geheimnis",
       "type": "movie",
-      "overview": "Lauras neues Leben auf Sizilien ähnelt einem Märchen: eine glamouröse Hochzeit, ein Ehemann, der ihr jeden Wunsch erfüllt, eine herrliche Villa am Meer und Luxus, wie Laura ihn zuvor niemals kannte. Alles könnte perfekt sein, wenn ihr Ehemann nicht ausgerechnet Don Massimo Torricelli wäre – Oberhaupt eines mächtigen Mafia-Clans. Die Ehefrau des gefährlichsten Mannes Siziliens zu sein, hat Konsequenzen, wie Laura sehr bald feststellen muss. Denn Massimo hat viele Feinde, die vor nichts zurückschrecken, und seine größte Schwachstelle ist Laura …",
+      "overview": "Drei Frauen. Vier Männer. Sieben Telefone. Und die Frage: wie gut kennen wir unsere Liebsten wirklich? Bei einem Abendessen wird über Ehrlichkeit diskutiert. Spontan entschließen sich die Freunde zu einem Spiel: Alle legen ihre Smartphones auf den Tisch und alles, was ankommt, wird geteilt, Nachrichten werden vorgelesen, Telefonate mitgehört. Was als harmloser Spaß beginnt, artet bald zu einem großen Durcheinander aus – voller Überraschungen, Wendungen und Offenbarungen. Denn in dem scheinbar perfekten Freundeskreis gibt es mehr delikate Geheimnisse, als man am Anfang des Abends annehmen konnte.",
       "genres": [
-        "Liebesfilm",
+        "Komödie",
         "Drama"
       ],
-      "keywords": [
-        "gangster",
-        "sequel",
-        "bdsm",
-        "rich man poor woman",
-        "sex",
-        "erotique"
-      ],
-      "rating": 5.944,
-      "vote_count": 1876,
-      "poster_path": "/oZNI08UnRwGH6Gl8iR7Dq8HV806.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/829557-365-dni-ten-dzien/watch?locale=DE",
+      "keywords": [],
+      "rating": 6.514,
+      "vote_count": 351,
+      "poster_path": "/ej8QuSK03YmF3VojH6h2pI7aJIf.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/620881-das-perfekte-geheimnis/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -586,44 +640,123 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223208.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000223203.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 4629,
-      "title": "Stargate",
+      "tmdb_id": null,
+      "title": "Duisburg Ruhrort (1981)",
       "type": "tv",
-      "overview": "Die Fortsetzung des Films \"Stargate\" von 1994, beschreibt die weiteren Abenteuer des SGC (Stargate Command). Es stellt sich heraus, dass der Goa'uld Ra nur einer von vielen außerirdischen Herrschern war, der das Stargate zur Eroberung des Universum benutzte. Nach der vollständigen Entschlüsslung des Stargates, können nun Reisen ins ganze Universum unternommen werden. Das Militär sendet SG-Teams um diese neuen Welten zu erforschen, um neue Technologien zu entdecken und sich den Goa'uld zu stellen. Die Charakter Jack O'Neill and Daniel Jackson aus dem Film sind teil von SG-1. Begleitet werden sie von Sam Carter, einer Wissenschaftlerin, und Teal'c, einem Jaffa, der davon überzeugt ist, dass die Goa'uld keine Götter sind.",
+      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Krimi",
+        "Drama"
       ],
       "keywords": [
-        "wormhole",
-        "space travel",
-        "space",
-        "travel",
-        "alien",
-        "alien planet",
-        "military",
-        "distant  planet",
-        "secret military program",
-        "advanced ancient civilization"
+        "Tatort Schimanski | restauriert in HD"
       ],
-      "rating": 8.266,
-      "vote_count": 1902,
-      "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/4629-stargate-sg-1/watch?locale=DE",
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjljZTM2MGItZTBmZS00ZTVhLTg2OGQtYjVmMTE3ZmY5MWNkL2F1ZGlvZGVza3JpcHRpb24",
+      "duration": 5832,
       "providers": {
-        "netflix": "flatrate",
+        "netflix": null,
         "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Serienjunkies",
-        "url": "https://www.serienjunkies.de/news/serien/vom-stargate-autor-staffel-dieser-sci-fi-serie-startet-im-november-im-deutschen-fernsehen-94496381.html",
-        "mentions": 1
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Duisburg Ruhrort (1981) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort Schimanski | restauriert in HD"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOGExNTNmMDAtZmVlZi00NGM4LWJlZGUtYjIxZmE4ZjFhMjgw",
+      "duration": 5833,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die letzten Menschen von Köln (2026) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2026 +++ Ausnahmezustand in der Domstadt: Die Bergung einer Weltkriegsbombe hält alle in Atem. Währenddessen ermitteln Ballauf und Schenk den gewaltsamen Tod eines Lehrers. Der junge Mann wurde kaltblütig in einem Park erstochen. Tatwaffe: Ein Jagdmesser. Schnell führen die Spuren die Hauptkommissare zur Schwester des Opfers. Doch diese ist wie vom Erdboden verschluckt....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjM2NzBlNDMtOTBmMC00YTQxLWE5M2QtNTlhYWU3NGI0N2Ew",
+      "duration": 5283,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die letzten Menschen von Köln (2026)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2026 +++ Ausnahmezustand in der Domstadt: Die Bergung einer Weltkriegsbombe hält alle in Atem. Währenddessen ermitteln Ballauf und Schenk den gewaltsamen Tod eines Lehrers. Der junge Mann wurde kaltblütig in einem Park erstochen. Tatwaffe: Ein Jagdmesser. Schnell führen die Spuren die Hauptkommissare zur Schwester des Opfers. Doch diese ist wie vom Erdboden verschluckt....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjA0ZGRjZjMtNGE4YS00NjdhLThiZDYtN2JiZTdkZDc5Yjll",
+      "duration": 5283,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatort: Die letzten Menschen von Köln",
+      "type": "tv",
+      "overview": "Ein toter Lehrer und seine verschwundene Schwester führen Ballauf und Schenk zu einem geheimen Prepper-Workshop im Bunker. Nach dem Mord an dem Berufsschullehrer Linus Makris stoßen die Kölner Kommissare Ballauf und Schenk auf ein rätselhaftes Verschwinden: Makris Schwester Elara ist spurlos weg. Die Spur führt zu einem geheimen Prepper-Workshop in einem Bunker, geleitet von Moritz Zechmann....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14339895/tatort-die-letzten-menschen-von-koeln",
+      "duration": 5282,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
       }
     },
     {
@@ -758,144 +891,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3Y2FhZGI3LTc2OWQtNDFlMS05MzQ2LTUxZjFlOGRjNDYyMV9nYW56ZVNlbmR1bmc",
       "duration": 5303,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatort: König in Gelb",
-      "type": "tv",
-      "overview": "Nichts ist, wie es scheint im \"Demenzdorf\": Ein rätselhafter Todesfall erschüttert Kleinhude und dessen Bewohner. Charlotte Lindholms neuer Fall führt sie in das niedersächsische Kleinhude, wo ein Demenzdorf seinen Bewohnern ein möglichst normales Leben bieten soll. Doch hinter der idyllischen Fassade lauern dunkle Geheimnisse: Hauptkommissar Vogel ist überzeugt, dass der beliebte Bewohner Herr König sieben Menschen ermordet hat....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14338885/tatort-koenig-in-gelb",
-      "duration": 5305,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "König in Gelb",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2026 Ein Routineeinsatz: Eine alte Dame ist schwer gestürzt und gestorben. Sie war Bewohnerin einer Schutzeinrichtung für Menschen mit Demenz. Charlotte will den Fall abgeben....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS80MDgwMDM2Zi1iOGYwLTQ2NmMtYTBlNS0xNzY3ZDlhYzRiZjE",
-      "duration": 5305,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Trautes Heim (2013) (klare Sprache)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2013 +++ Der achtjährige Lukas wird auf offener Straße entführt – der einzige Tatzeuge erschossen. Geht es um Erpressung? Lukas kommt aus einer intakten Familie, die in einfachen Verhältnissen lebt. Dann werden die Überreste von Lukas' Handy sichergestellt. Registriert ist es auf den Namen Ruth Junghanns. Doch die hat noch nie von Lukas Schäfer gehört. Da melden sich die Entführer. +++ Mit Klaus J....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtODY2YzczMDAtY2IyZS00MjY2LTg4ZjgtNGQwYmVhMzNjNTEx",
-      "duration": 5214,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Trautes Heim (2013)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2013 +++ Der achtjährige Lukas wird auf offener Straße entführt – der einzige Tatzeuge erschossen. Geht es um Erpressung? Lukas kommt aus einer intakten Familie, die in einfachen Verhältnissen lebt. Dann werden die Überreste von Lukas' Handy sichergestellt. Registriert ist es auf den Namen Ruth Junghanns. Doch die hat noch nie von Lukas Schäfer gehört. Da melden sich die Entführer. +++ Mit Klaus J....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMGIzMzk3ZWMtNDBmMS00Zjk2LThkNTQtZGYwNTdmMzdjOTVlL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5214,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Zerrissen",
-      "type": "tv",
-      "overview": "Die beiden Stutgarter Kommissare Thorsten Lannert und Sebastian Bootz haben es bei diesem kniffeligem Fall mit zwei kriminellen Stuttgarter Familien zu tun. Kurz vor Ladenschluss wird in der Stuttgarter Innenstadt ein Juwelier überfallen und verletzt, seine Kundin stirbt beim Versuch zu fliehen....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzE5ODU3NjkvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5349,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Dein Name sei Harbinger",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2017\r\n\r\nIn einem ausgebrannten Transporter wurde ein Toter gefunden. Schnell ermitteln Rubin und Karow, dass es drei weitere, ältere Fälle mit ähnlichem Tathergang gab. Sie wurden nie aufgeklärt. Handelt es sich um einen Serienmörder?\r\n\r\nMit Meret Becker, Mark Waschke, Christoph Bach, Carolyn Genzkow,  Trystan Pütter | Regie: Florian Baxmeyer",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3NGEwODQzLTU0NGItNGNjZS1hMzc5LTAwNDQ4OGJlNDBjNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5305,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1262,6 +1257,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Dumb Money - Schnelles Geld",
+      "type": "tv",
+      "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/dumb-money---schnelles-geld-movie-100/dumb-money---schnelles-geld-100",
+      "duration": 6054,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Dumb Money - Schnelles Geld (Englisch)",
+      "type": "tv",
+      "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/dumb-money---schnelles-geld-movie-100/dumb-money---schnelles-geld-100",
+      "duration": 6054,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Curveball – Wir machen die Wahrheit - Spielfilm, Deutschland 2020",
       "type": "tv",
       "overview": "BND-Biowaffenexperte Wolf trifft auf den irakischen Asylbewerber Rafid Alwan. Dieser behauptet, Teil von Saddam Husseins geheimem Biowaffenprogramm gewesen zu sein. Für den BND wäre das eine Sensation – doch die entscheidenden Beweise fehlen.",
@@ -1306,7 +1345,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kneecap (Englisch)",
+      "title": "Kneecap",
       "type": "tv",
       "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
       "genres": [
@@ -1328,7 +1367,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kneecap",
+      "title": "Kneecap (Englisch)",
       "type": "tv",
       "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
       "genres": [
@@ -1430,50 +1469,6 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
       "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
-      "type": "tv",
-      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
-      "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hot Summer Nights - Spielfilm, USA 2017",
-      "type": "tv",
-      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
-      "duration": 6051,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1658,29 +1653,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Bloß nicht Liebe",
-      "type": "tv",
-      "overview": "Viola Berger zieht nach dem erneuten Scheitern einer Beziehung endgültig einen Schlussstrich unter ihr Liebesleben. Doch das Universum stellt sich quer.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/bloss-nicht-liebe-movie-100/bloss-nicht-liebe-100",
-      "duration": 5298,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Der Froschkönig",
       "type": "tv",
       "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
@@ -1796,6 +1768,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Schneewittchen am See",
+      "type": "tv",
+      "overview": "Smilla Witte träumte immer davon, im elterlichen Restaurant \"Schneewittchen am See\" als Köchin zu arbeiten. Doch nach dem Tod ihrer Mutter zehn Jahre zuvor ist sie von zu Hause geflohen.",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "Herzkino"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/filme/herzkino/schneewittchen-am-see-100.html",
+      "duration": 5310,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "LARP, Gaming & Fantasiewelten: Gut für die Psyche?",
       "type": "tv",
       "overview": "Eskapismus durch Gaming, LARP und Fantasiewelten zieht viele Menschen an. Doch wann hilft Realitätsflucht der Psyche – und wann wird sie ungesund? Eric Mayer zeigt, wie unser Gehirn abschaltet.",
@@ -1836,28 +1831,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Weltstädte: Rom - Mit Leon Windscheid",
-      "type": "tv",
-      "overview": "Jahrtausendealte Schönheit. In der \"Terra X\"-Sendung \"Weltstädte – Rom\" taucht Moderator und Psychologe Leon Windscheid in die geheimnisvolle Geschichte der Ewigen Stadt ein.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/terra-x/terra-x-weltstaedte-rom-mit-leon-windscheid-doku-100.html",
-      "duration": 2618,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -1964,6 +1937,28 @@
       "poster_path": null,
       "url": "https://www.zdf.de/reportagen/terra-xplore-ehrlich-brothers-was-geben-uns-geschwister-movie-100",
       "duration": 2604,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Was ist deutsch? Die Geschichte der Migration (S2026/E22)",
+      "type": "tv",
+      "overview": "\"Terra X History\" zeigt: Europa ist geprägt von Migration. Seit Jahrtausenden verlassen Menschen ihre angestammte Heimat und suchen ihr Glück woanders. Gründe dafür gibt es viele.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History - die Einzeldokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/was-ist-deutsch-die-geschichte-der-migration-100",
+      "duration": 2673,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2236,6 +2231,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Dorfchroniken - Wolfram Koch auf Spurensuche",
+      "type": "tv",
+      "overview": "Eine alte Dorfchronik, ein verschwundenes Skelett und ein rätselhafter Halsring: In Utphe stößt Schauspieler Wolfram Koch auf eine Geschichte, die bis heute Fragen aufwirft. 1974 wird auf einem Acker ein menschliches Skelett entdeckt. Um den Hals trägt es einen geheimnisvollen Ring. Doch kurz darauf verschwindet der Fund – und mit ihm wichtige Spuren....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus & Reportagen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/ZWZlN2I5OTItOGIxMC00MzAyLTkzM2EtMTNlMTQ4ODUzZmVk",
+      "duration": 2683,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Jane Austen - Literatur und Leidenschaft",
       "type": "tv",
       "overview": "Das mit leichter Hand erzählte Porträt zeigt die Welt der großartigen Schriftstellerin und die Welt ihrer Romane. Sie lässt Historikerinnen und Literaturwissenschaftlerinnen ebenso zu Wort kommen wie die begeisterte Leserschaft, Filmausschnitte laden zum Schmachten ein. Dazu kommen noch ihre Jugendwerke und Fragmente....",
@@ -2342,28 +2359,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2496,6 +2491,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Pate 2",
+      "type": "tv",
+      "overview": "Als Vito Corleone alias \"Der Pate\" stirbt, übernimmt sein Sohn Michael die Geschäfte und wird bald zu einem der meistgefürchteten Mafiabosse. Als er aber mit der Kasino-Mafia zu verhandeln beginnt, verliert Michael die Unterstützung eines seiner engsten New Yorker Kollegen, Frankie Pentangeli. – Der zweite Teil der opulenten Mafiasaga wurde 1975 mit sechs Oscars ausgezeichnet.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/045560-000-A/der-pate-2/",
+      "duration": 11350,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2646,28 +2663,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/103512-000-A/henry-fonda-der-praesident-der-namenlosen/",
       "duration": 3322,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Pate",
-      "type": "tv",
-      "overview": "Die Tage des Mafiabosses Don Vito Corleone sind gezählt, als er sich weigert, ins aufkeimende Drogengeschäft einzusteigen. Sein Nachfolger und Rächer wird ausgerechnet sein Sohn Michael, der mit den Geschäften des Vaters nie etwas zu tun haben wollte. Mit Marlon Brando und Al Pacino in den Hauptrollen wurde \"Der Pate\" vielfach ausgezeichnet – 1973 gleich mit drei Oscars!",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/045559-000-A/der-pate/",
-      "duration": 9986,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2842,7 +2837,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmc",
       "duration": 5386,
       "providers": {
         "netflix": null,
@@ -2909,28 +2904,6 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNzQy",
-      "duration": 2700,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "3. Wettbewerbstag St. Ingberter Pfanne 2026",
-      "type": "tv",
-      "overview": "Hier sehen Sie die Highlights des dritten Wettbewerb-Tages aus der Industriekathedrale Alte Schmelz in St Ingbert mit Slam-Poet und Autor Stefan Unser, Musik-Comedian Samuel Kilian und mit bissiger Satire von Kabarettist Gregor Pallast.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Unterhaltung & Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNjk5",
       "duration": 2700,
       "providers": {
         "netflix": null,
@@ -3138,6 +3111,52 @@
     },
     {
       "tmdb_id": null,
+      "title": "Sprung in die Freiheit – Eine Geschichte aus dem Kalten Krieg",
+      "type": "tv",
+      "overview": "Während eines Treffens zwischen den USA und der Sowjetunion springt ein Matrose, auf das Deck des amerikanischen Schiffes. Zu seinem Entsetzen geben ihn die Amerikaner an die sowjetischen Offiziere zurück.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Sprung in die Freiheit - Eine Geschichte aus dem Kalten Krieg"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NjI0NzUtNDQyODkz",
+      "duration": 4876,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Corleone. Pate der Paten (2/2) - Der Fall",
+      "type": "tv",
+      "overview": "Der Richter Giovanni Falcone initiiert 1982 den ersten Prozess gegen die sizilianische Mafia. Die Rache folgt auf dem Fuße. Wie in einem Shakespeare-Drama erleben die Zuschauerin und der Zuschauer die Eskalation der Gewalt und bekommen einen Einblick in den brutalen Machtkampf der Cosa Nostra.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/049813-002-A/corleone-pate-der-paten-2-2/",
+      "duration": 4081,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Die Geschichte des Dritten Lagers",
       "type": "tv",
       "overview": "Das Dritte Lager steht in Österreich für deutschnationale und nationalliberale politische Strömungen, deren Wurzeln bis in die Monarchie reichen. Nach 1945 wurde der Verband der Unabhängigen zum Sammelbecken vieler zuvor vom Wahlrecht ausgeschlossener NSDAP-Mitglieder und Belasteter; 1956 folgte die FPÖ. Gerhard Jelineks Dokumentation zeichnet diese Entwicklung bis zu Haider, Strache und Kickl nach und fragt nach ihrem Nachwirken....",
@@ -3272,52 +3291,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hachschara - Israels Pioniere aus Österreich",
-      "type": "tv",
-      "overview": "Hachschara bedeutet \"Vorbereitung\" oder \"Tauglichmachung\" und bezeichnet die praktische und ideelle Ausbildung junger Jüdinnen und Juden ab den 1920er-Jahren.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/dokumentation/geschichte/hachschara-israels-pioniere-aus-oesterreich-100.html",
-      "duration": 3270,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Das erste Jahr",
-      "type": "tv",
-      "overview": "Die Hoffnung auf eine gerechtere Gesellschaft führte 1970 zur Wahl des Sozialisten Salvador Allende zum Präsidenten Chiles. Was als Traum von einer besseren Zukunft begann, endete drei Jahre später in einem Militärputsch und dem Terror-Regime von General Pinochet. Der Dokumentarfilm von Patricio Guzman über den Beginn der Regierung Allende ist ein berührendes Zeitzeugnis.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/116675-000-A/das-erste-jahr/",
-      "duration": 5556,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     }
   ]
