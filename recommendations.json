@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-21T10:18:41.546Z",
+  "generated_at": "2026-09-22T09:33:47.024Z",
   "items": [
     {
       "tmdb_id": 1514863,
@@ -15,11 +15,10 @@
         "dance competition",
         "female friendship",
         "south asian",
-        "ridiculous",
         "bollywood"
       ],
-      "rating": 5.167,
-      "vote_count": 21,
+      "rating": 4.8,
+      "vote_count": 38,
       "poster_path": "/nK8v2aJgVsHYVv28FBJeuJnsvk6.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=DE",
       "providers": {
@@ -44,101 +43,13 @@
         "teenage love",
         "filmmaking"
       ],
-      "rating": 5.7,
-      "vote_count": 32,
+      "rating": 5.6,
+      "vote_count": 35,
       "poster_path": "/wxxSgZpTs9HaiKFAL7ArYGiVlVP.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1451944,
-      "title": "Lust Stories 3",
-      "type": "movie",
-      "overview": "",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "anthology",
-        "bollywood"
-      ],
-      "rating": 6.8,
-      "vote_count": 4,
-      "poster_path": "/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1451944-lust-stories-3/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 687163,
-      "title": "Der Astronaut – Project Hail Mary",
-      "type": "movie",
-      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
-      "genres": [
-        "Science Fiction",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "friendship",
-        "coma",
-        "based on novel or book",
-        "bravery",
-        "sun",
-        "language barrier",
-        "space travel",
-        "space mission",
-        "alien",
-        "space",
-        "memory loss",
-        "astronaut",
-        "scientist",
-        "science teacher",
-        "save the planet",
-        "spaceship",
-        "interspecies friendship"
-      ],
-      "rating": 8.639,
-      "vote_count": 7876,
-      "poster_path": "/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.2,
-      "vote_count": 1583,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -166,8 +77,8 @@
         "axe",
         "based on real person"
       ],
-      "rating": 7.139,
-      "vote_count": 54,
+      "rating": 7.1,
+      "vote_count": 65,
       "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
       "providers": {
@@ -199,7 +110,7 @@
         "brutal violence"
       ],
       "rating": 8.4,
-      "vote_count": 869,
+      "vote_count": 875,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -224,13 +135,40 @@
         "justice",
         "spin off"
       ],
-      "rating": 7.984,
-      "vote_count": 92,
+      "rating": 8,
+      "vote_count": 102,
       "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.2,
+      "vote_count": 1592,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -251,8 +189,8 @@
         "joseon dynasty (1392–1910)",
         "period piece"
       ],
-      "rating": 6.3,
-      "vote_count": 9,
+      "rating": 6.273,
+      "vote_count": 11,
       "poster_path": "/8ra17h8Z3NX14qdWaOKn0scURJR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
       "providers": {
@@ -282,8 +220,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.128,
-      "vote_count": 3374,
+      "rating": 8.1,
+      "vote_count": 3383,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -328,8 +266,8 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.41,
-      "vote_count": 1724,
+      "rating": 8.413,
+      "vote_count": 1727,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
@@ -370,36 +308,10 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.748,
+      "rating": 8.7,
       "vote_count": 5552,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 260463,
-      "title": "Das Band der Unterwelt",
-      "type": "tv",
-      "overview": "Der Junge Yuru führt ein unaufgeregtes Leben in einem abgeschiedenen Bergdorf mit seiner Zwillingsschwester Asa, das er mit der Jagd zubringt. Als seine Heimat eines Tages von Fremden überfallen wird, schließt er einen Vertrag mit dem Wächter des Dorfes, Sayu, einem sogenannten Tsugai. Dies ist der Beginn eines übernatürlichen Abenteuers, das über das Schicksal der Welt entscheiden wird!",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "based on manga",
-        "shounen",
-        "anime",
-        "fantasy"
-      ],
-      "rating": 8.424,
-      "vote_count": 72,
-      "poster_path": "/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/260463/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -423,8 +335,8 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.629,
-      "vote_count": 105,
+      "rating": 6.637,
+      "vote_count": 106,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
@@ -452,13 +364,13 @@
         "abduction",
         "child rescue",
         "mother son relationship",
-        "anxious",
         "child abduction",
         "serious",
+        "intimate",
         "attorney"
       ],
-      "rating": 6.767,
-      "vote_count": 536,
+      "rating": 6.75,
+      "vote_count": 545,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
@@ -482,8 +394,8 @@
         "amused",
         "bollywood"
       ],
-      "rating": 7.241,
-      "vote_count": 26,
+      "rating": 7.268,
+      "vote_count": 28,
       "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
       "providers": {
@@ -512,8 +424,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.406,
-      "vote_count": 4743,
+      "rating": 8.407,
+      "vote_count": 4746,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -557,7 +469,7 @@
         "gritty"
       ],
       "rating": 7.959,
-      "vote_count": 4355,
+      "vote_count": 4357,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -567,100 +479,45 @@
       }
     },
     {
-      "tmdb_id": 98,
-      "title": "Gladiator",
-      "type": "movie",
-      "overview": "Der gefeierte römische Feldherr Maximus wird vom sterbenden Kaiser Marcus Aurelius gebeten, seine Nachfolge anzutreten. Um dies zu verhindern, tötet Aurelius’ Sohn seinen Vater und ordnet die Exekution von Maximus und seiner Familie an. Maximus gelingt die Flucht. Verwundet wird er von einem Sklavenhändler gefangen genommen und muss sich fortan als Gladiator beweisen. Als Kampfmaschine hat er schließlich nur noch ein Ziel: Rache an seinem Peiniger zu nehmen …",
-      "genres": [
-        "Action",
-        "Drama",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "gladiator",
-        "rome, italy",
-        "arena",
-        "senate",
-        "roman empire",
-        "parent child relationship",
-        "emperor",
-        "slavery",
-        "ancient rome",
-        "revenge",
-        "battlefield",
-        "slave auction",
-        "historical fiction",
-        "ancient world",
-        "period drama",
-        "combat",
-        "chariot",
-        "philosopher",
-        "grim",
-        "barbarian horde",
-        "2nd century",
-        "successor",
-        "commodus",
-        "maximus",
-        "antiquity",
-        "gladiador"
-      ],
-      "rating": 8.231,
-      "vote_count": 21507,
-      "poster_path": "/32wJunadteAxUkXnbQ1lHjjp5pa.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/98-gladiator/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222850.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 620881,
-      "title": "Das perfekte Geheimnis",
-      "type": "movie",
-      "overview": "Drei Frauen. Vier Männer. Sieben Telefone. Und die Frage: wie gut kennen wir unsere Liebsten wirklich? Bei einem Abendessen wird über Ehrlichkeit diskutiert. Spontan entschließen sich die Freunde zu einem Spiel: Alle legen ihre Smartphones auf den Tisch und alles, was ankommt, wird geteilt, Nachrichten werden vorgelesen, Telefonate mitgehört. Was als harmloser Spaß beginnt, artet bald zu einem großen Durcheinander aus – voller Überraschungen, Wendungen und Offenbarungen. Denn in dem scheinbar perfekten Freundeskreis gibt es mehr delikate Geheimnisse, als man am Anfang des Abends annehmen konnte.",
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "keywords": [],
-      "rating": 6.514,
-      "vote_count": 351,
-      "poster_path": "/ej8QuSK03YmF3VojH6h2pI7aJIf.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/620881-das-perfekte-geheimnis/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223203.html",
-        "mentions": 2
-      }
-    },
-    {
       "tmdb_id": null,
-      "title": "Duisburg Ruhrort (1981)",
+      "title": "Schlafende Hunde",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
+      "overview": "Spielfilm Deutschland 2010 Die Bremer Rentnerin Ruth Thalheim (Marie Anne Fliegel) wird tot in ihrer Wohnung aufgefunden – nichts deutet jedoch auf ein Verbrechen hin. Aber Kommissarin Inga Lürsen (Sabine Postel) entdeckt Ungereimtheiten, die sie an einem „natürlichen Tod“ zweifeln lassen....",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort Schimanski | restauriert in HD"
+        "Tatort"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjljZTM2MGItZTBmZS00ZTVhLTg2OGQtYjVmMTE3ZmY5MWNkL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5832,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzJmMjZkNGI1LTc3ODktNDhiYi1hYjJkLWE2NzE1ZTAyMTNlOV9nYW56ZVNlbmR1bmc",
+      "duration": 5262,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Donuts",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2022 In Bremerhaven, einem der größten Automobilumschlaghäfen Europas, auf einem der Autoterminals wird eine Leiche gefunden – der Bereichsleiter der Fahrer liegt tot im Kofferraum eines Autos. Das Bremer Ermittler-Team mit Liv Moormann und Linda Selb nimmt die Ermittlungen auf und wird vom Bremerhavener Kollegen Robert Petersen unterstützt. Dabei stoßen sie auf Marie, Gheorghe Rusu und Oleg Rusu....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTA0LTAyXzIwLTE1LU1FU1o",
+      "duration": 5340,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -692,21 +549,21 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die letzten Menschen von Köln (2026) (klare Sprache)",
+      "title": "Duisburg Ruhrort (1981)",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2026 +++ Ausnahmezustand in der Domstadt: Die Bergung einer Weltkriegsbombe hält alle in Atem. Währenddessen ermitteln Ballauf und Schenk den gewaltsamen Tod eines Lehrers. Der junge Mann wurde kaltblütig in einem Park erstochen. Tatwaffe: Ein Jagdmesser. Schnell führen die Spuren die Hauptkommissare zur Schwester des Opfers. Doch diese ist wie vom Erdboden verschluckt....",
+      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Tatort Schimanski | restauriert in HD"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjM2NzBlNDMtOTBmMC00YTQxLWE5M2QtNTlhYWU3NGI0N2Ew",
-      "duration": 5283,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjljZTM2MGItZTBmZS00ZTVhLTg2OGQtYjVmMTE3ZmY5MWNk",
+      "duration": 5832,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -729,6 +586,29 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjA0ZGRjZjMtNGE4YS00NjdhLThiZDYtN2JiZTdkZDc5Yjll",
+      "duration": 5283,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die letzten Menschen von Köln (2026) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2026 +++ Ausnahmezustand in der Domstadt: Die Bergung einer Weltkriegsbombe hält alle in Atem. Währenddessen ermitteln Ballauf und Schenk den gewaltsamen Tod eines Lehrers. Der junge Mann wurde kaltblütig in einem Park erstochen. Tatwaffe: Ein Jagdmesser. Schnell führen die Spuren die Hauptkommissare zur Schwester des Opfers. Doch diese ist wie vom Erdboden verschluckt....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjM2NzBlNDMtOTBmMC00YTQxLWE5M2QtNTlhYWU3NGI0N2Ew",
       "duration": 5283,
       "providers": {
         "netflix": null,
@@ -866,31 +746,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5344,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Faust",
-      "type": "tv",
-      "overview": "Fernsehfilm Österreich 2017 Mit einem absoluten Profi bekommen es Moritz Eisner (Harald Krassnitzer) und Bibi Fellner (Adele Neuhauser) angesichts einer rätselhaften Mordserie zu tun. Erst tötet der maskierte Killer einen tätowierten Serben, dann den unscheinbaren georgischen Mitarbeiter (Sebastian Pass) einer Großgärtnerei und schließlich eine junge Mutter....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Q3Y2FhZGI3LTc2OWQtNDFlMS05MzQ2LTUxZjFlOGRjNDYyMV9nYW56ZVNlbmR1bmc",
-      "duration": 5303,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1257,7 +1114,29 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dumb Money - Schnelles Geld",
+      "title": "The Bricklayer - Tödliche Geheimnisse",
+      "type": "tv",
+      "overview": "Ein ungleiches CIA-Duo macht in Griechenland Jagd auf einen totgeglaubten Ex-Agenten, der Mordattentate begeht und diese wie Aufträge des amerikanischen Geheimdiensts aussehen lässt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/the-bricklayer---toedliche-geheimnisse-movie-100/the-bricklayer---toedliche-geheimnisse-100",
+      "duration": 6331,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Dumb Money - Schnelles Geld (Englisch)",
       "type": "tv",
       "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
       "genres": [
@@ -1279,7 +1158,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dumb Money - Schnelles Geld (Englisch)",
+      "title": "Dumb Money - Schnelles Geld",
       "type": "tv",
       "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
       "genres": [
@@ -1345,28 +1224,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kneecap",
-      "type": "tv",
-      "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/kneecap-movie-100/kneecap-100",
-      "duration": 6063,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Kneecap (Englisch)",
       "type": "tv",
       "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
@@ -1389,9 +1246,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tatami",
+      "title": "Kneecap",
       "type": "tv",
-      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
+      "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
       "genres": [
         "Drama"
       ],
@@ -1401,30 +1258,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
-      "duration": 5980,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatami (Englisch)",
-      "type": "tv",
-      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
-      "duration": 5980,
+      "url": "https://www.zdf.de/video/filme/kneecap-movie-100/kneecap-100",
+      "duration": 6063,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1456,6 +1291,28 @@
     {
       "tmdb_id": null,
       "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
+      "type": "tv",
+      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
+      "duration": 6565,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
       "type": "tv",
       "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
       "genres": [
@@ -1967,6 +1824,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Die Rockies (1/2) · Lernen fürs Leben",
+      "type": "tv",
+      "overview": "Die mächtige Gebirgskette der Rocky Mountains erstreckt sich über rund 5.000 Kilometer und bietet eine Vielzahl an rauen Lebensräumen. Die erste Episode folgt mehreren tierischen Protagonisten und zeigt, mit welchen Problemen diese zu kämpfen haben.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1OTQ1Mw",
+      "duration": 3145,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Rockies (2/2) · Lernen fürs Leben",
+      "type": "tv",
+      "overview": "Die Rocky Mountains prägen Nordamerika. Während der Puma-Nachwuchs lernt, sich von Aas zu ernähren und junge Dickhornschafe um die Paarung ringen, trainiert ein junger Fuchs, im tiefen Schnee nach Mäusen zu tauchen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1OTQ1NQ",
+      "duration": 3145,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Locarno – Ziege mit Polenta",
+      "type": "tv",
+      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/locarno--ziege-mit-polenta?urn=urn:srf:video:179f394a-a1dc-42fe-b1aa-9777ac6ea947",
+      "duration": 2703,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Rio in Berlin",
       "type": "tv",
       "overview": "08.09.2026 Rio in Berlin",
@@ -2165,68 +2088,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "Der reisende Postbote",
+      "title": "Der Klang von Heimat - Die neue Liebe zum Dialekt | Dokumentarfilm",
       "type": "tv",
-      "overview": "Vincents Reiseziel spielt keine Rolle. Er wird seine Radtour mit handgeschriebenen Briefen machen, die er persönlich ausliefert. «Es geht darum, nicht selbst zu entscheiden, wohin die Reise geht. Es sind die anderen, die entscheiden.» Die Adressen bestimmen den Lauf, die Konstellation von Orten und Begegnungen.",
+      "overview": "Dialekt kann künstlerische Triebfeder sein, Kraftquelle, Kreativitätsfundus. Dialekt schärft nicht nur interkulturelle Kompetenz, sondern bildet den Geist, die Seele. Ganz nebenbei wird das kulturelle Erbe von Bayern gerettet. Bayerische Bands füllen die größten Hallen. Theater schreiben Stücke auf Boarisch um. In den Poetry-Slam-Cafés stehen plötzlich Franken und Niederbayern im Original-Sound. Dialekt ist die erste Sprache....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
+        "Dokus & Reportagen im BR"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/der-reisende-postbote?urn=urn:srf:video:4ef2cf5b-c4e1-4788-b692-bdea37179357",
-      "duration": 3025,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDA1MTk0QTA",
+      "duration": 2585,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "SRF"
+        "mediathek": "ARD"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Die Küste der Störche",
+      "title": "Fritz Litzmann, mein Vater und ich - Dokumentarfilm von Aljoscha Pause, Deutschland 2025",
       "type": "tv",
-      "overview": "Als Winterquartier der Störche, die früher bis nach Afrika zogen, dient nun die Algarve. Gerade dort bieten die Küstengebiete und das Klima ideale Bedingungen.",
+      "overview": "Eine sehr persönliche Reise durch die deutsche Kabarettgeschichte: Aljoscha Pause porträtiert seinen Vater als Kleinkunst-Größe Fritz Litzmann, aber auch als Leerstelle im Familiengefüge.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokumentarfilmzeit"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDUyNTgyNw",
-      "duration": 3175,
+      "url": "https://www.3sat.de/film/dokumentarfilmzeit/fritz-litzmann-mein-vater-und-ich-100.html",
+      "duration": 8541,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Rio in Berlin - König von Deutschland",
+      "title": "Die Tier-Docs: Zahnarztbesuch im Pferdestall",
       "type": "tv",
-      "overview": "08.09.2026 Rio in Berlin",
+      "overview": "Die Zähne eines Pferdes wachsen lebenslang nach. Zahnpflege beim Pferd bedeutet daher Schleifen und Bohren in XXL. Wenn ein Pferdezahnarzt Hand anlegt, sind Werkzeuge und Methoden beeindruckend - die Arbeitsweise hat mit filigran wenig zu tun. Eher schon mit robust. Tierärztin Anna Walter aus der Großtierpraxis im Breisgau ist unterwegs zu Nero - einem Hengst mit Zahnpflege-Bedarf....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Doku & Reportage"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.phoenix.de/sendungen/dokumentationen/rio-in-berlin-a-5226146.html",
-      "duration": 2604,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEzMTA",
+      "duration": 2675,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2293,72 +2216,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "IKEAs Feind Nr. 1 - Geschäfte auf Russisch",
-      "type": "tv",
-      "overview": "Milliardenprozess gegen IKEA, dubiose Deals, Korruption: Wie der russische Unternehmer Konstantin Ponomarjow vom Gewinner zum Gefangenen wird. Nach einem spektakulären Rechtsstreit mit dem Möbelgiganten \"IKEA\" wird dem russischen Unternehmer Konstantin Ponomarjow eine Milliarde Dollar zugesprochen. Doch statt eines Happy Ends beginnt ein Albtraum: Ponomarjow fordert mehr Geld und landet unerwartet selbst im Gefängnis....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDk2Mzg",
-      "duration": 5370,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Krieg, Krise, Katastrophe - bist du vorbereitet?",
-      "type": "tv",
-      "overview": "Kriege, Krisen, Katastrophen – wie viel Prepper steckt in uns? Leon Windscheid trifft Prepper und Reservisten, die sich auf den Ernstfall   vorbereiten – und hinterfragt, woher ihre Angst kommt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/krieg-krise-katastrophe---bist-du-vorbereitet-movie-100",
-      "duration": 2616,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wundermittel Cortison: Neue Therapien, weniger Nebenwirkungen?",
-      "type": "tv",
-      "overview": "Cortison zählt zu den wichtigsten Mitteln der Medizin: Wie gelingt die schnelle Hilfe gegen Entzündungen mit weniger Nebenwirkungen? Neue Erkenntnisse für eine bessere Therapie.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "NANO Doku"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/nano-doku/260917-nano-doku-webreihe-cortison-ndk-100.html",
-      "duration": 2603,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -2495,6 +2352,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Das schwarze Quadrat",
+      "type": "tv",
+      "overview": "Die Kunstdiebe Vincent und Nils haben das berühmte russische Gemälde \"Das schwarze Quadrat\" gestohlen. Das Bild soll auf einem Kreuzfahrtschiff an den Käufer übergeben werden. Um auf das Schiff zu kommen, überwältigen sie kurzerhand zwei Passagiere ... – In Peter Meisters skurrilem Spielfilmdebüt (2021) spielt die abstrakte Kunst eine entscheidende Rolle.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/090567-000-A/das-schwarze-quadrat/",
+      "duration": 5827,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Black Rain",
+      "type": "tv",
+      "overview": "Nick Conklin, ein harter New Yorker Cop, soll mit seinem jüngeren Partner Charlie Vincent den Yakuza-Auftragsmörder Sato in Osaka den japanischen Behörden übergeben. Doch die Übergabe geht schief. Und dann wird die Angelegenheit auch noch persönlich. – Starbesetzer, packender Action-Klassiker von Ridley Scott, mit faszinierender Bildgestaltung, 1990 für zwei Oscars nominiert.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/125608-000-A/black-rain/",
+      "duration": 7098,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Man nennt mich Hondo",
+      "type": "tv",
+      "overview": "Eine alleinstehende Rancherin und ihr Sohn geraten in Gefahr. Diesem Umstand verdankt es Hondo Lane, ein Kurierreiter der Kavallerie, dass er plötzlich für den Schutz der eigenwilligen Angie Lowe verantwortlich ist und zur Vaterfigur für ihren Sohn Johnny wird. – Film-Adaption (1953) von John Farrow und John Ford nach der Erzählung \"The Gift of Cochise\" von Louis L'Amour.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/079357-000-A/man-nennt-mich-hondo/",
+      "duration": 4822,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der Pate 2",
       "type": "tv",
       "overview": "Als Vito Corleone alias \"Der Pate\" stirbt, übernimmt sein Sohn Michael die Geschäfte und wird bald zu einem der meistgefürchteten Mafiabosse. Als er aber mit der Kasino-Mafia zu verhandeln beginnt, verliert Michael die Unterstützung eines seiner engsten New Yorker Kollegen, Frankie Pentangeli. – Der zweite Teil der opulenten Mafiasaga wurde 1975 mit sechs Oscars ausgezeichnet.",
@@ -2597,72 +2520,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/126749-000-A/james-gray-filmemacher-in-zeiten-des-umbruchs/",
       "duration": 3097,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Two Lovers",
-      "type": "tv",
-      "overview": "Nach einem halbherzigen Suizidversuch wird der labile Leonard von Passanten aus dem Wasser gefischt. Seine Eltern glauben, dass eine Frau ihn von seinen Depressionen kurieren könnte ... – James Gray fächert in \"Two Lovers\", der 2008 in Cannes Premiere feierte, das Gefühlschaos einer schwierigen Entscheidung auf.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/047570-000-A/two-lovers/",
-      "duration": 6159,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Gaza mon amour",
-      "type": "tv",
-      "overview": "Issa führt ein ruhiges Leben als einfacher Fischer im Hafen von Gaza. Heimlich ist er in die Witwe Siham verliebt, die er täglich an ihrem Marktstand beobachtet. Eines Tages geht Issa ein ungewöhnlicher Fang ins Netz ... – Charmante Komödie (2020) der aus Palästina stammenden Zwillingsbrüder Arab und Tarzan Nasser über die große Kraft der späten Liebe.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/091161-000-A/gaza-mon-amour/",
-      "duration": 4880,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Henry Fonda - Der Präsident der Namenlosen",
-      "type": "tv",
-      "overview": "Ein Essayfilm über die USA – betrachtet durch das Brennglas eines Filmstars. Henry Fonda und seine Rollen verschmelzen zu einer schillernden Figur. Seine Stimme, aufgenommen 1981 im Zuge seines letzten Interviews, und die Charaktere, die er spielte, führen durch den Film – und quer durch die USA: von einem Ort namens Fonda, NY, bis zum Pazifik.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/103512-000-A/henry-fonda-der-praesident-der-namenlosen/",
-      "duration": 3322,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2837,7 +2694,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5386,
       "providers": {
         "netflix": null,
@@ -2904,6 +2761,28 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNzQy",
+      "duration": 2700,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "3. Wettbewerbstag St. Ingberter Pfanne 2026",
+      "type": "tv",
+      "overview": "Hier sehen Sie die Highlights des dritten Wettbewerb-Tages aus der Industriekathedrale Alte Schmelz in St Ingbert mit Slam-Poet und Autor Stefan Unser, Musik-Comedian Samuel Kilian und mit bissiger Satire von Kabarettist Gregor Pallast.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Unterhaltung & Comedy"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNjk5",
       "duration": 2700,
       "providers": {
         "netflix": null,
@@ -3111,6 +2990,75 @@
     },
     {
       "tmdb_id": null,
+      "title": "Jean Pütz",
+      "type": "tv",
+      "overview": "Jean Pütz, geboren 1936 in Köln, besuchte die Handwerkerschule Luxemburgs, studierte Naturwissenschaften und Soziologie in Köln, wurde seiner didaktischen Fähigkeiten wegen zu einer Instanz der Populärwissenschaft. Mit der von ihm erfundenen \"Hobbythek\" avancierte er im Fernsehen zur Kultfigur....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "WDR-Geschichte(n)"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMmFmZDAyNmMtNzQyOS00ZmM3LTljYTItMWRlYmE1NTViZjZm",
+      "duration": 3511,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Avus - Rennstrecke und Legende",
+      "type": "tv",
+      "overview": "Sie liegt vor den Toren Berlins und ist bis heute eine geliebte Legende: die Avus, die ehemalige Rennstrecke in der deutschen Hauptstadt. Bei ihrer Eröffnung 1921 war sie die erste Straße der Welt, auf der nur Autos fahren durften. Einzigartig und gefährlich, sorgte sie mit ihrer gigantischen Steilkurve schon bald für Proteste.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/099609-000-A/avus-rennstrecke-und-legende/",
+      "duration": 3131,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Concorde - Absturz einer Legende",
+      "type": "tv",
+      "overview": "Die Concorde war das außergewöhnlichste Passagierflugzeug, das je gebaut wurde – ein technisches Wunderwerk, dessen Innovation und Schönheit bis heute für viele ungeschlagen sind. Doch beim Absturz einer Concorde bei Paris im Jahre 2000 kamen 113 Menschen ums Leben. Bald danach wurde das einzige Überschall-Passagierflugzeug der Welt vorzeitig aus dem Verkehr gezogen.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/096276-000-A/die-concorde-absturz-einer-legende/",
+      "duration": 3123,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Sprung in die Freiheit – Eine Geschichte aus dem Kalten Krieg",
       "type": "tv",
       "overview": "Während eines Treffens zwischen den USA und der Sowjetunion springt ein Matrose, auf das Deck des amerikanischen Schiffes. Zu seinem Entsetzen geben ihn die Amerikaner an die sowjetischen Offiziere zurück.",
@@ -3222,75 +3170,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Schloss Schönbrunn - Hinter der Fassade der Macht",
-      "type": "tv",
-      "overview": "Schloss Schönbrunn – eine der glanzvollsten Schlossanlagen Europas. Eindrucksvolle Bilder erzählen die Geschichte der Menschen, die dort herrschten und der Heerscharen an Bediensteten, die notwendig waren, um eine solche Residenz am Laufen zu halten.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/124378-000-A/schloss-schoenbrunn/",
-      "duration": 5481,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Neuschwanstein - Ludwigs Traum, Ludwigs Tragödie",
-      "type": "tv",
-      "overview": "Schloss Neuschwanstein gehört zu den außergewöhnlichsten Bauwerken der Welt, ist Markenzeichen und Identifikationsort für Bayern und ganz Deutschland. Ein ikonisches Bauwerk zwischen architektonischem Genie und kitschigem Wahnsinn. Das Schloss ist untrennbar mit dem tragischen Schicksal König Ludwigs II. verbunden, denn es ist sein steingewordener Traum.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/112812-000-A/neuschwanstein-ludwigs-traum-ludwigs-tragoedie/",
-      "duration": 5311,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Flensburger - Das Bier mit dem \"Plopp\"",
-      "type": "tv",
-      "overview": "Es gilt als das Bier mit dem herben Aroma - Flensburger. Gebraut in der nördlichsten Brauerei Deutschlands, abgefüllt in traditionellen Bügelflaschen, die beim Öffnen \"ploppen\". Bekannt wurde das Bier durch die Bölkstoff trinkende Comicfigur \"Werner\". Seit 125 Jahre ist das Unternehmen im Familienbesitz. Und entgegen dem Trend - bundesweit geht der Bierkonsum seit Jahren zurück - wächst der Umsatz....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Unsere Geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjE5MzA0N19nYW56ZVNlbmR1bmc",
-      "duration": 2602,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     }
   ]
