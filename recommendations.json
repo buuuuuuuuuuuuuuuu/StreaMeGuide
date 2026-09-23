@@ -1,58 +1,7 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-22T09:33:47.024Z",
+  "generated_at": "2026-09-23T09:39:39.237Z",
   "items": [
-    {
-      "tmdb_id": 1514863,
-      "title": "Best of the Best",
-      "type": "movie",
-      "overview": "Maya und Anjali  sind seit ihrer Kindheit die allerbesten Freundinnen. Nicht zuletzt ihre indischen Wurzeln haben dafür gesorgt, dass sie auch die Leidenschaft für Bollywood-Filme und deren legendäre Tanzszenen miteinander teilen. Als ihr gemeinsamer Lebensweg sie auf die University of California in Los Angeles führt, gelingt es ihnen, dem elitären Bollywood-Fusion-Tanzteam der Uni beizutreten, das zum besten der USA gehört. In den Vorbereitungen auf die nationale Meisterschaft werden jedoch überall um sie herum die Ellbogen ausgefahren und selbst die unzerbrechlich erscheinende Freundschaft zwischen Maya und Anjali wird im Verlauf des Wettbewerbs auf eine harte Probe gestellt.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "college",
-        "dance competition",
-        "female friendship",
-        "south asian",
-        "bollywood"
-      ],
-      "rating": 4.8,
-      "vote_count": 38,
-      "poster_path": "/nK8v2aJgVsHYVv28FBJeuJnsvk6.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1641629,
-      "title": "Du+Ich - Allein gegen alle",
-      "type": "movie",
-      "overview": "Die 18-jährige Alma Lancaster scheint ein perfektes Leben zu führen. Sie stammt aus einer wohlhabenden Familie, die überzeugt ist, dass sie Jura studiert. Doch heimlich verfolgt Alma ihre wahre Leidenschaft, die des Filmedrehens. An der Universität begegnet sie Vadim Arcadi, einem verschlossenen Studenten, mit dem sie gezwungen ist, ein Studentenfilm zu produzieren.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "college",
-        "love",
-        "teenage love",
-        "filmmaking"
-      ],
-      "rating": 5.6,
-      "vote_count": 35,
-      "poster_path": "/wxxSgZpTs9HaiKFAL7ArYGiVlVP.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
     {
       "tmdb_id": 299939,
       "title": "Monster: Die Geschichte von Lizzie Borden",
@@ -77,10 +26,37 @@
         "axe",
         "based on real person"
       ],
-      "rating": 7.1,
-      "vote_count": 65,
+      "rating": 7.038,
+      "vote_count": 78,
       "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.228,
+      "vote_count": 1607,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -109,8 +85,8 @@
         "corrupt cop",
         "brutal violence"
       ],
-      "rating": 8.4,
-      "vote_count": 875,
+      "rating": 8.408,
+      "vote_count": 883,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -136,66 +112,12 @@
         "spin off"
       ],
       "rating": 8,
-      "vote_count": 102,
+      "vote_count": 111,
       "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.2,
-      "vote_count": 1592,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 275102,
-      "title": "The Scandal",
-      "type": "tv",
-      "overview": "In der Joseon-Ära weckt ein geheimer Plan verborgene Begierden in einer Adligen, einem Liebhaber und einer Dame, die unwissentlich in das Spiel der zwei verwickelt wird.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "eroticism",
-        "seduction",
-        "remake",
-        "based on movie",
-        "joseon dynasty (1392–1910)",
-        "period piece"
-      ],
-      "rating": 6.273,
-      "vote_count": 11,
-      "poster_path": "/8ra17h8Z3NX14qdWaOKn0scURJR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -220,13 +142,62 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.1,
-      "vote_count": 3383,
+      "rating": 8.129,
+      "vote_count": 3389,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 275102,
+      "title": "The Scandal",
+      "type": "tv",
+      "overview": "In der Joseon-Ära weckt ein geheimer Plan verborgene Begierden in einer Adligen, einem Liebhaber und einer Dame, die unwissentlich in das Spiel der zwei verwickelt wird.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "eroticism",
+        "seduction",
+        "remake",
+        "based on movie",
+        "joseon dynasty (1392–1910)",
+        "period piece"
+      ],
+      "rating": 6.6,
+      "vote_count": 12,
+      "poster_path": "/8ra17h8Z3NX14qdWaOKn0scURJR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 256355,
+      "title": "대환장 기안장",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Reality"
+      ],
+      "keywords": [
+        "guest house",
+        "reality show"
+      ],
+      "rating": 8,
+      "vote_count": 10,
+      "poster_path": "/qZjXUzpzdKjc0qzQwdwpXGOrR2F.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/256355/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -266,52 +237,10 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.413,
-      "vote_count": 1727,
+      "rating": 8.4,
+      "vote_count": 1728,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 37854,
-      "title": "One Piece",
-      "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
-      "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
-      ],
-      "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
-      ],
-      "rating": 8.7,
-      "vote_count": 5552,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -335,8 +264,8 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.637,
-      "vote_count": 106,
+      "rating": 6.662,
+      "vote_count": 108,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
@@ -369,67 +298,12 @@
         "intimate",
         "attorney"
       ],
-      "rating": 6.75,
-      "vote_count": 545,
+      "rating": 6.759,
+      "vote_count": 554,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
         "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1408162,
-      "title": "Vishwanath & Sons",
-      "type": "movie",
-      "overview": "Sanjay Vishwanath ist ein gefeierter Profi-Pistolenschütze in den Vierzigern, dem Ruhm und Reichtum sehr am Herzen liegen. Als er einer Frau namens Maddy in den Zwanzigern begegnet, wirft ihre Beziehung viele Probleme auf, mit denen sie sich auseinandersetzen müssen.",
-      "genres": [
-        "Drama",
-        "Liebesfilm",
-        "Komödie"
-      ],
-      "keywords": [
-        "age-gap relationship",
-        "amused",
-        "bollywood"
-      ],
-      "rating": 7.268,
-      "vote_count": 28,
-      "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1408162/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 5920,
-      "title": "The Mentalist",
-      "type": "tv",
-      "overview": "Der Job des charismatischen Ex-TV-Show-Stars Patrick Jane innerhalb des California Bureau of Investigation ist es, die Ermittlungen einer Spezialeinheit zu unterstützen. Jane, der seine Karriere als \"Mentalist\" mit vermeintlich übersinnlichen Fähigkeiten nach einer familiären Tragödie beendete, besitzt eine unvergleichliche Beobachtungsgabe und verblüffende Kombinationsfähigkeiten.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "california",
-        "con man",
-        "cop",
-        "serial killer",
-        "criminal investigation",
-        "forensic psychology",
-        "criminal consultant",
-        "police procedural"
-      ],
-      "rating": 8.407,
-      "vote_count": 4746,
-      "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
       }
@@ -468,7 +342,7 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.959,
+      "rating": 8,
       "vote_count": 4357,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
@@ -476,6 +350,88 @@
         "netflix": "flatrate",
         "prime": null,
         "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 5920,
+      "title": "The Mentalist",
+      "type": "tv",
+      "overview": "Der Job des charismatischen Ex-TV-Show-Stars Patrick Jane innerhalb des California Bureau of Investigation ist es, die Ermittlungen einer Spezialeinheit zu unterstützen. Jane, der seine Karriere als \"Mentalist\" mit vermeintlich übersinnlichen Fähigkeiten nach einer familiären Tragödie beendete, besitzt eine unvergleichliche Beobachtungsgabe und verblüffende Kombinationsfähigkeiten.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "california",
+        "con man",
+        "cop",
+        "serial killer",
+        "criminal investigation",
+        "forensic psychology",
+        "criminal consultant",
+        "police procedural"
+      ],
+      "rating": 8.408,
+      "vote_count": 4754,
+      "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1622,
+      "title": "Supernatural",
+      "type": "tv",
+      "overview": "Als Jungen verloren Sam und Dean Winchester ihre Mutter an eine mysteriöse und dämonische übernatürliche Kraft. Anschließend erklärte ihr Vater ihnen das paranormale Böse bei, das in den dunklen Ecken und auf den Nebenstraßen Amerikas lebt und wie man es tötet. Jetzt durchqueren die Winchester-Brüder das Land und bekämpfen jede Art von übernatürlicher Bedrohung, die ihnen auf dem Weg begegnet.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "angel",
+        "witch",
+        "monster",
+        "exorcism",
+        "supernatural",
+        "paranormal",
+        "purgatory",
+        "paranormal phenomena",
+        "apocalypse",
+        "bromance",
+        "dead mother",
+        "demon",
+        "on the road",
+        "demonic possession",
+        "ghost",
+        "dark fantasy",
+        "demon hunter",
+        "four horsemen of the apocalypse",
+        "fighting evil",
+        "brother brother relationship",
+        "leviathan",
+        "ressurection",
+        "brothers",
+        "horror",
+        "ambiguous"
+      ],
+      "rating": 8.315,
+      "vote_count": 8697,
+      "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000223984.html",
+        "mentions": 2
       }
     },
     {
@@ -526,29 +482,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Duisburg Ruhrort (1981) (klare Sprache)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort Schimanski | restauriert in HD"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOGExNTNmMDAtZmVlZi00NGM4LWJlZGUtYjIxZmE4ZjFhMjgw",
-      "duration": 5833,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Duisburg Ruhrort (1981)",
       "type": "tv",
       "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
@@ -572,21 +505,21 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die letzten Menschen von Köln (2026)",
+      "title": "Duisburg Ruhrort (1981) (klare Sprache)",
       "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2026 +++ Ausnahmezustand in der Domstadt: Die Bergung einer Weltkriegsbombe hält alle in Atem. Währenddessen ermitteln Ballauf und Schenk den gewaltsamen Tod eines Lehrers. Der junge Mann wurde kaltblütig in einem Park erstochen. Tatwaffe: Ein Jagdmesser. Schnell führen die Spuren die Hauptkommissare zur Schwester des Opfers. Doch diese ist wie vom Erdboden verschluckt....",
+      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Tatort Schimanski | restauriert in HD"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjA0ZGRjZjMtNGE4YS00NjdhLThiZDYtN2JiZTdkZDc5Yjll",
-      "duration": 5283,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOGExNTNmMDAtZmVlZi00NGM4LWJlZGUtYjIxZmE4ZjFhMjgw",
+      "duration": 5833,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -609,6 +542,29 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjM2NzBlNDMtOTBmMC00YTQxLWE5M2QtNTlhYWU3NGI0N2Ew",
+      "duration": 5283,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die letzten Menschen von Köln (2026)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2026 +++ Ausnahmezustand in der Domstadt: Die Bergung einer Weltkriegsbombe hält alle in Atem. Währenddessen ermitteln Ballauf und Schenk den gewaltsamen Tod eines Lehrers. Der junge Mann wurde kaltblütig in einem Park erstochen. Tatwaffe: Ein Jagdmesser. Schnell führen die Spuren die Hauptkommissare zur Schwester des Opfers. Doch diese ist wie vom Erdboden verschluckt....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjA0ZGRjZjMtNGE4YS00NjdhLThiZDYtN2JiZTdkZDc5Yjll",
       "duration": 5283,
       "providers": {
         "netflix": null,
@@ -654,7 +610,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4L2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5322,
       "providers": {
         "netflix": null,
@@ -677,7 +633,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEyMjE",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEyMjEvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5245,
       "providers": {
         "netflix": null,
@@ -723,7 +679,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2U1ODI1OTk5LTY4ODAtNDUzNi1hNjE5LTAyZmUzYzRjOTlmZF9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2U1ODI1OTk5LTY4ODAtNDUzNi1hNjE5LTAyZmUzYzRjOTlmZF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -748,6 +704,29 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5344,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Petra",
+      "type": "tv",
+      "overview": "Unten im Steinbruch spiegelt sich das Wasser, oben auf der Klippe steht ein Moskwitsch. Ein Mann stößt das Auto über die Böschung, er wird dabei von einem Anrainer beobachtet, der sofort die Polizei verständigt.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Polizeiruf 110 - Klassiker"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80MDYzOTktMzg2ODM2",
+      "duration": 5211,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -863,29 +842,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80Njg4NTMtNDQ5MTg3",
       "duration": 5327,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Käfer und Prinzessin",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2014 +++ In der Öko-Kommune herrscht Entsetzen: Harald „Harry“ Wacker wird tot in der Jauchegrube eines benachbarten Hofs gefunden. Mord oder Unfall? Kriminalhauptkommissarin Olga Lenski und Polizeihauptmeister Horst Krause beginnen zu ermitteln. Der Fall wird für Olga persönlich, als sie auf Ruth trifft, ihre Schulfreundin und Harrys Lebensgefährtin....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9iODA3M2U4Zi0yNzU3LTRiMDQtOTBjMy1iM2VkOWU5ZTEyYWZfcHVibGljYXRpb24",
-      "duration": 5309,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1136,7 +1092,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dumb Money - Schnelles Geld (Englisch)",
+      "title": "Dumb Money - Schnelles Geld",
       "type": "tv",
       "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
       "genres": [
@@ -1158,7 +1114,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dumb Money - Schnelles Geld",
+      "title": "Dumb Money - Schnelles Geld (Englisch)",
       "type": "tv",
       "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
       "genres": [
@@ -1224,7 +1180,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kneecap (Englisch)",
+      "title": "Kneecap",
       "type": "tv",
       "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
       "genres": [
@@ -1246,7 +1202,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kneecap",
+      "title": "Kneecap (Englisch)",
       "type": "tv",
       "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
       "genres": [
@@ -1290,7 +1246,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
       "type": "tv",
       "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
       "genres": [
@@ -1312,7 +1268,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
       "type": "tv",
       "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
       "genres": [
@@ -1890,9 +1846,75 @@
     },
     {
       "tmdb_id": null,
-      "title": "Rio in Berlin",
+      "title": "Traumorte · Die Kanarischen Inseln",
       "type": "tv",
-      "overview": "08.09.2026 Rio in Berlin",
+      "overview": "Vulkanische Aktivität hat die Kanaren geformt und prägt das Gesicht der Inseln. Schroffe Küsten, schwarze Strände und Kraterlandschaften treffen auf grüne Natur und das tiefe Blau des Atlantiks.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDkxOTIyNw",
+      "duration": 2608,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Traumorte · Die Oberitalienischen Seen",
+      "type": "tv",
+      "overview": "Während der Gardasee im Sommer fest in deutscher Hand ist, ist der Iseosee ein echter Geheimtipp. Die zahlreichen prunkvollen Villen bescheren dem Comer See ein mondänes Flair.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk5MTQ4Nw",
+      "duration": 2603,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Traumorte Italiens · Romantische Inseln",
+      "type": "tv",
+      "overview": "Die Inseln vor der Westküste Italiens sind weltbekannt und wahre Touristenmagneten. Neben Capri und Ischia sind auch die Pontinischen Inseln Palmarola, Ponza und Ventotene einen Besuch wert.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDgxNzMxNw",
+      "duration": 2613,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Rio in Berlin · Erst Flop, dann König von Kreuzberg",
+      "type": "tv",
+      "overview": "Bevor er König von Deutschland wurde, war er König von Kreuzberg - mit seiner Band Ton Steine Scherben. Rio und die Scherben schreiben den Soundtrack einer Bewegung, die in besetzten Häusern das kollektive Zusammenleben ausprobiert.",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -2022,68 +2044,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Geheimnisse der Jurassic-Saurier (2/2)",
+      "title": "Helden des Alltags – Im Einsatz für ein sauberes Frankfurt",
       "type": "tv",
-      "overview": "Der Allosaurus war das furchteinflößendste Raubtier des Jura. Die Fossilstätte in Wyoming könnte dabei helfen, herauszufinden, ob der Fleischfresser seinen Anteil am Untergang des legendären Pflanzenfressers Diplodocus hatte.",
+      "overview": "Damit Frankfurt jeden Morgen sauber, sicher und lebenswert ist, sind täglich zahlreiche Menschen im Einsatz. Oft arbeiten sie im Hintergrund, meist fernab der Aufmerksamkeit. Der Film blickt hinter die Kulissen der Frankfurter Entsorgungs- und Service GmbH und erzählt von Menschen, die mit Engagement, Erfahrung und Herzblut dafür sorgen, dass die Stadt funktioniert. Eine Hommage an die oft unsichtbaren Heldinnen und Helden des Alltags.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk1MjI1Nw",
-      "duration": 2954,
+      "url": "https://www.ardmediathek.de/video/OGYwYTE1ZTktMjVkOC00MzE4LWEwMzAtNmRhMzNlOTE0Zjg1",
+      "duration": 2695,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Geheimnisse der Jurassic-Saurier (1/2)",
+      "title": "Systemfehler: Der Cum-Ex Skandal",
       "type": "tv",
-      "overview": "Die legendäre \"Jurassic Mile\", ein geheimgehaltener Ort in Wyoming/USA, ist eine der ergiebigsten Fundstätten von Dinosaurier-Fossilien weltweit.",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk0NzQzMg",
-      "duration": 2967,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Jagd auf die Mafia - Die Ndrangheta in Deutschland",
-      "type": "tv",
-      "overview": "08.09.2026 Jagd auf die Mafia - Die Ndrangheta in Deutschland",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIzMDk2NQ",
-      "duration": 5313,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2190,28 +2190,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS8yMTk4YmFhZC1jMDBhLTRmMzktOTEyYi1kNmIzYTllMmIzOTM",
       "duration": 2667,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wohnen mal anders",
-      "type": "tv",
-      "overview": "Ein Herrenhaus mit geschichtsträchtigem Turm, ein Haus auf einer Brücke oder eine ehemalige Kirche: In Hessen gibt es außergewöhnliche Orte zum Wohnen. Die Reportage zeigt besondere hessische Wohngeschichten und Menschen, die in einzigartigen Häusern leben – denn ein Zuhause kann weit mehr sein als vier Wände und ein Dach.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/NDZjNWYzODQtZGQxOC00OTA3LTk3MTgtNzI2ZDA3YWIwZTVh",
-      "duration": 2668,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2528,6 +2506,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Zu jung zu sterben. Ein Krimi aus Passau",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2022 Ein Passauer Restaurantbesitzer engagiert den österreichischen Privatdetektiv Ferdinand Zankl für die Suche nach seiner Freundin Lina, die ihm durchgebrannt ist. Er vermisst 50.000 Euro, zehn Luxusuhren und Kokain. Für die Suche nach der diebischen Studentin rekrutiert Zankl die in Passau immer noch im Zeugenschutz lebende Berliner Polizistin Frederike Bader....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Ein Krimi aus Passau"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDMtMzFfMjAtMTUtTUVTWg",
+      "duration": 5273,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Blutrache – Der Bozen-Krimi (S01/E10)",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2020\r\n\r\nIn die engen Gassen der süditalienischen Hafenstadt Bari führt der zehnte Bozen-Krimi \"Blutrache\" das Ermittlerduo. Matteo merkt, dass er zwischen die Fronten eines gefährlichen Machtkampfes innerhalb der Mafia geraten ist.\r\n\r\nMit Chiara Schoras, Tobias Oertel, Charleen Deetz, Lisa Kreuzer u.a. | Buch: Thorsten Näter | Regie: Thorsten Näter",
@@ -2638,28 +2638,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kriminalfälle der Einheit – Nepper, Blender, Firmenräuber",
-      "type": "tv",
-      "overview": "Die 90er Jahre waren für den Osten eine wilde Zeit. Das gilt auch für die Kriminalität und deren Bekämpfung. Denn vielerorts trafen mit sich selbst beschäftigte Sicherheitskräfte auf gänzlich neue Formen des Verbrechens.",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Kriminalfälle der Einheit - Nepper, Blender, Firmenräuber"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC81MzQ5ODMtMjk5MjQ2",
-      "duration": 2668,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Tod im Weinberg | Blind ermittelt",
       "type": "tv",
       "overview": "Spielfilm Österreich 2023 Im Abendprogramm des Fernsehens läuft ein knallharter Actionreißer. Was sich vor ihrem Fenster ereignet, versetzt die kiebitzende Oma Horvath (Inge Maux) allerdings in noch größere Aufregung: Ein Autofahrer, der vor einer auf der Straße liegenden Person hält, wird plötzlich von dieser überwältigt und entführt....",
@@ -2672,7 +2650,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgzMDlmNGMxLTY3YmQtNGQwMy1hMzJjLTFkZGMzMGEwMTljN19nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgzMDlmNGMxLTY3YmQtNGQwMy1hMzJjLTFkZGMzMGEwMTljN19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5302,
       "providers": {
         "netflix": null,
@@ -2694,7 +2672,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmc",
       "duration": 5386,
       "providers": {
         "netflix": null,
@@ -2792,6 +2770,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "AnnPhie Fritz in kabarett.com",
+      "type": "tv",
+      "overview": "Einatmen, ausatmen. Wir leben in einer aufregenden Zeit. So viele Möglichkeiten! Kabarettistin AnnPhie Fritz lotet sie in ihrem Programm „Shanti Schatzi-weiß gar nicht, warum ich so müde bin“ aus.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "kabarett.com"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9LQUJfMTc0MjU4",
+      "duration": 2700,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kabarett im Turm: Bumillo - Haushaltsloch",
       "type": "tv",
       "overview": "Zwischen Mikrofon und Mikrofaser nimmt Bumillo die kleinen und großen Absurditäten des Alltags aufs Korn. In \"Haushaltsloch\" verbindet der Kabarettist und Hausmann pointierten Stand-up mit provokanten Beobachtungen und entwaffnender Ehrlichkeit.\n\nBildquelle: ORF/DON’T PANIC",
@@ -2854,50 +2854,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Happy Birthday, Wolfgang Krebs!",
-      "type": "tv",
-      "overview": "Wolfgang Krebs wird 60! BR Fernsehen feiert den Meister der Polit-Satire mit seinen Kultfiguren wie Stoiber, Söder und Aiwanger. Ein Best-of der pointiertesten Parodien und unvergesslichsten Szenen aus seinem langjährigen Schaffen. Ob im BR Fernsehen, bei Bayern 1 oder auf den großen Kabarettbühnen des Landes: Wolfgang Krebs begeistert seit Jahrzehnten mit seinen pointierten Parodien und seiner treffsicheren Polit-Satire....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Bestes Kabarett!"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAwODY3QTA",
-      "duration": 2595,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Laura Braun in kabarett.com",
-      "type": "tv",
-      "overview": "Autobiografische Texte, gesellschaftliche Kritik und emotionale Tiefe - Laura Brauns Lieder sind berührend und schaffen Raum für Hoffnung und Mut.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "kabarett.com"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9LQUJfMTYwMjY0",
-      "duration": 2700,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2990,6 +2946,121 @@
     },
     {
       "tmdb_id": null,
+      "title": "Notre-Dame, die Jahrhundertbaustelle (3/3) - Ein Raum aus Klang und Licht",
+      "type": "tv",
+      "overview": "Von der Struktur und von den Proportionen her war Notre-Dame ein Wunderwerk: Höhe, Licht und Akustik spielten so harmonisch ineinander, dass Besucher in den Genuss eines wahren Sinneserlebnisses gelangten. Im Innenraum der Kirche stand eine der berühmtesten Orgeln. Doch auch bei den archäologischen Ausgrabungen offenbart die Kathedrale einen Teil ihrer Geschichte.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/103501-003-A/notre-dame-die-jahrhundertbaustelle-3-3/",
+      "duration": 3147,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Notre-Dame, die Jahrhundertbaustelle (2/3) - Harmonie der Kräfte",
+      "type": "tv",
+      "overview": "Nach dem Brand von Notre-Dame beschäftigt die mit der Restaurierung beauftragten Architekten und Wissenschaftler vor allem eines: die Stabilität der Gewölbe. Durch Modellierung der Kirchenstruktur entdecken sie die bewegte Baugeschichte der Kathedrale und verstehen, woraus das Gebäude seine große Widerstandskraft zog.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/103501-002-A/notre-dame-die-jahrhundertbaustelle-2-3/",
+      "duration": 3115,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Notre-Dame, die Jahrhundertbaustelle (1/3) - Dem Himmel entgegen",
+      "type": "tv",
+      "overview": "Am 15. April 2019 stand eines der berühmtesten Wahrzeichen Frankreichs in Flammen: die Pariser Kathedrale Notre-Dame. Das Großfeuer durchdrang auch die Gewölbe und schwächte die Kalksteinmauern. Nach einjährigen Aufräum- und Sicherungsarbeiten war die Einsturzgefahr gebannt, die historisch originalgetreue Rekonstruktion der Kathedrale konnte beginnen.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/103501-001-A/notre-dame-die-jahrhundertbaustelle-1-3/",
+      "duration": 3153,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Inquisition (2/2) - Kirche, Tod und Teufel",
+      "type": "tv",
+      "overview": "Zu Beginn der Inquisition handelten die Gesandten der katholischen Kirche noch unabhängig voneinander in den Gebieten, für die sie vom Papst eingesetzt worden waren. Gegen Ende des 15. Jahrhunderts änderte sich das: Spanien, Portugal und Italien schufen zentralisierte und hierarchisch organisierte Behördenapparate. Und die Liste der Verfolgten wurde immer länger.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/124793-002-A/die-inquisition-2-2/",
+      "duration": 3281,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Inquisition (1/2) - Die Methode",
+      "type": "tv",
+      "overview": "Im 13. Jahrhundert schuf die katholische Kirche die Inquisition: eine mächtige Maschinerie, um Andersdenkende zu unterdrücken. Denunziationen, Verhaftungen und Hinrichtungen waren Teil eines perfiden Systems. Dieser Apparat professionalisierte sich durch Ermittlungen, Zeugenbefragungen und erzwungene Geständnisse. Ein Überwachungssystem, dessen Methoden bis heute nachwirken.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/124793-001-A/die-inquisition-1-2/",
+      "duration": 3284,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Jean Pütz",
       "type": "tv",
       "overview": "Jean Pütz, geboren 1936 in Köln, besuchte die Handwerkerschule Luxemburgs, studierte Naturwissenschaften und Soziologie in Köln, wurde seiner didaktischen Fähigkeiten wegen zu einer Instanz der Populärwissenschaft. Mit der von ihm erfundenen \"Hobbythek\" avancierte er im Fernsehen zur Kultfigur....",
@@ -3051,121 +3122,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/096276-000-A/die-concorde-absturz-einer-legende/",
       "duration": 3123,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sprung in die Freiheit – Eine Geschichte aus dem Kalten Krieg",
-      "type": "tv",
-      "overview": "Während eines Treffens zwischen den USA und der Sowjetunion springt ein Matrose, auf das Deck des amerikanischen Schiffes. Zu seinem Entsetzen geben ihn die Amerikaner an die sowjetischen Offiziere zurück.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Sprung in die Freiheit - Eine Geschichte aus dem Kalten Krieg"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NjI0NzUtNDQyODkz",
-      "duration": 4876,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Corleone. Pate der Paten (2/2) - Der Fall",
-      "type": "tv",
-      "overview": "Der Richter Giovanni Falcone initiiert 1982 den ersten Prozess gegen die sizilianische Mafia. Die Rache folgt auf dem Fuße. Wie in einem Shakespeare-Drama erleben die Zuschauerin und der Zuschauer die Eskalation der Gewalt und bekommen einen Einblick in den brutalen Machtkampf der Cosa Nostra.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/049813-002-A/corleone-pate-der-paten-2-2/",
-      "duration": 4081,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Geschichte des Dritten Lagers",
-      "type": "tv",
-      "overview": "Das Dritte Lager steht in Österreich für deutschnationale und nationalliberale politische Strömungen, deren Wurzeln bis in die Monarchie reichen. Nach 1945 wurde der Verband der Unabhängigen zum Sammelbecken vieler zuvor vom Wahlrecht ausgeschlossener NSDAP-Mitglieder und Belasteter; 1956 folgte die FPÖ. Gerhard Jelineks Dokumentation zeichnet diese Entwicklung bis zu Haider, Strache und Kickl nach und fragt nach ihrem Nachwirken....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14339772/die-geschichte-des-dritten-lagers",
-      "duration": 3143,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Jörg Haider - Der letzte Tag",
-      "type": "tv",
-      "overview": "Jörg Haider stirbt 2008 bei einem Verkehrsunfall auf dem Weg ins Bärental. Was in seinen letzten Stunden geschah, blieb trotz großen Medieninteresses lange unklar und beförderte Spekulationen. Birgit Mosser-Schuöcker zeichnet die Ereignisse minutiös nach. Witwe Claudia Haider, Angehörige, Weggefährten, ein Augenzeuge sowie Fachleute aus Journalismus, Verkehrs- und Rechtsmedizin blicken auf die Unglücksnacht und den Mythos Haider....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14339771/joerg-haider-der-letzte-tag",
-      "duration": 3120,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Versailles - Palast des Sonnenkönigs",
-      "type": "tv",
-      "overview": "Von den irrwitzigen barocken Fantasiegebilden über die Luxusgemächer der Höflinge bis zum Privatmuseum des Königs: Das heutige Versailles hat kaum noch Ähnlichkeit mit dem Schloss des Sonnenkönigs. Durch Restaurierung und die Digitalisierung Tausender Schlosspläne wird diese versunkene Vergangenheit neu greifbar. Der Film begleitet diese Spurensuche.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/080101-000-A/versailles-palast-des-sonnenkoenigs/",
-      "duration": 5464,
       "providers": {
         "netflix": null,
         "prime": null,
