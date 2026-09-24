@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-23T09:39:39.237Z",
+  "generated_at": "2026-09-24T09:38:25.002Z",
   "items": [
     {
       "tmdb_id": 299939,
@@ -26,37 +26,10 @@
         "axe",
         "based on real person"
       ],
-      "rating": 7.038,
-      "vote_count": 78,
+      "rating": 6.837,
+      "vote_count": 89,
       "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.228,
-      "vote_count": 1607,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -83,15 +56,44 @@
         "crime family",
         "fixer",
         "corrupt cop",
+        "bold",
+        "cruel",
         "brutal violence"
       ],
-      "rating": 8.408,
-      "vote_count": 883,
+      "rating": 8.4,
+      "vote_count": 893,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.241,
+      "vote_count": 1621,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -112,7 +114,7 @@
         "spin off"
       ],
       "rating": 8,
-      "vote_count": 111,
+      "vote_count": 120,
       "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
       "providers": {
@@ -142,13 +144,33 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.129,
-      "vote_count": 3389,
+      "rating": 8.128,
+      "vote_count": 3394,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 312557,
+      "title": "Die Minerva-Akademie",
+      "type": "tv",
+      "overview": "An der Minerva Militärschule müssen Teenager Disziplin, Rivalität und Druck standhalten, während ein Kadett nach seinem vermissten Freund sucht.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [],
+      "rating": 7,
+      "vote_count": 6,
+      "poster_path": "/jkSsxuPWUMhogsZRoKOODZ8fuqh.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/312557-minerva-la-scuola/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -169,32 +191,10 @@
         "joseon dynasty (1392–1910)",
         "period piece"
       ],
-      "rating": 6.6,
-      "vote_count": 12,
+      "rating": 7.2,
+      "vote_count": 13,
       "poster_path": "/8ra17h8Z3NX14qdWaOKn0scURJR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 256355,
-      "title": "대환장 기안장",
-      "type": "tv",
-      "overview": "",
-      "genres": [
-        "Reality"
-      ],
-      "keywords": [
-        "guest house",
-        "reality show"
-      ],
-      "rating": 8,
-      "vote_count": 10,
-      "poster_path": "/qZjXUzpzdKjc0qzQwdwpXGOrR2F.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/256355/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -232,13 +232,14 @@
         "sword and sorcery",
         "isekai",
         "otaku",
+        "hikikomori",
         "erotic",
         "fantasy",
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.4,
-      "vote_count": 1728,
+      "rating": 8.416,
+      "vote_count": 1731,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
@@ -264,8 +265,8 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.662,
-      "vote_count": 108,
+      "rating": 6.7,
+      "vote_count": 113,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
@@ -299,7 +300,7 @@
         "attorney"
       ],
       "rating": 6.759,
-      "vote_count": 554,
+      "vote_count": 559,
       "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
       "providers": {
@@ -342,8 +343,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 8,
-      "vote_count": 4357,
+      "rating": 7.958,
+      "vote_count": 4360,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -372,8 +373,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.408,
-      "vote_count": 4754,
+      "rating": 8.407,
+      "vote_count": 4766,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -383,46 +384,212 @@
       }
     },
     {
-      "tmdb_id": 1622,
-      "title": "Supernatural",
+      "tmdb_id": 250670,
+      "title": "Maxton Hall - Die Welt zwischen uns",
       "type": "tv",
-      "overview": "Als Jungen verloren Sam und Dean Winchester ihre Mutter an eine mysteriöse und dämonische übernatürliche Kraft. Anschließend erklärte ihr Vater ihnen das paranormale Böse bei, das in den dunklen Ecken und auf den Nebenstraßen Amerikas lebt und wie man es tötet. Jetzt durchqueren die Winchester-Brüder das Land und bekämpfen jede Art von übernatürlicher Bedrohung, die ihnen auf dem Weg begegnet.",
+      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
       "keywords": [
-        "angel",
-        "witch",
-        "monster",
-        "exorcism",
-        "supernatural",
-        "paranormal",
-        "purgatory",
-        "paranormal phenomena",
-        "apocalypse",
-        "bromance",
-        "dead mother",
-        "demon",
-        "on the road",
-        "demonic possession",
-        "ghost",
-        "dark fantasy",
-        "demon hunter",
-        "four horsemen of the apocalypse",
-        "fighting evil",
-        "brother brother relationship",
-        "leviathan",
-        "ressurection",
-        "brothers",
-        "horror",
-        "ambiguous"
+        "romance",
+        "millionaire",
+        "bookworm",
+        "drama",
+        "school setting"
       ],
-      "rating": 8.315,
-      "vote_count": 8697,
-      "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
+      "rating": 8.273,
+      "vote_count": 682,
+      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000224177.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 273240,
+      "title": "Off Campus",
+      "type": "tv",
+      "overview": "Hannah Wells gibt Eishockey-Kapitän Garrett Graham Nachhilfe, um ihren Schwarm zu erobern. Doch aus ihrem Deal entsteht eine echte Verbindung, während sich beide ihrer Vergangenheit stellen. Zusammen mit ihren Freunden Logan, Dean, Tucker und Allie navigieren sie durch das Chaos aus College-Leben und Liebe.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "self-discovery",
+        "love",
+        "romance",
+        "romantic",
+        "compassionate"
+      ],
+      "rating": 8.91,
+      "vote_count": 859,
+      "poster_path": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/273240-off-campus/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000224177.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 64690,
+      "title": "Drive",
+      "type": "movie",
+      "overview": "Tagsüber arbeitet \"Driver\" unauffällig als Stuntfahrer in Hollywood, abends holt er sich seinen Kick, indem er Aufträge für die Mafia erledigt und sein Können als halsbrecherischer Fahrer von Fluchtautos unter Beweis stellt. Als einer der Raubzüge schiefgeht, gerät er unter Verdacht seiner Auftraggeber, die ein Kopfgeld auf ihn aussetzen. Fortan muss er beweisen, wie viel ihm an seinem Überleben gelegen ist.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Krimi"
+      ],
+      "keywords": [
+        "robbery",
+        "car mechanic",
+        "stuntman",
+        "beaten to death",
+        "revenge",
+        "organized crime",
+        "neighbor",
+        "police chase",
+        "los angeles, california",
+        "brutality",
+        "jacket",
+        "scorpion",
+        "toothpick",
+        "getaway driver",
+        "crime lord",
+        "stunt driver",
+        "existentialism",
+        "neo-noir",
+        "vindictive",
+        "hammer",
+        "bold"
+      ],
+      "rating": 7.584,
+      "vote_count": 14021,
+      "poster_path": "/bKkioOHOi0ZD4dM7lnNBaOsmoQ0.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/64690-drive/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000224206.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 1197306,
+      "title": "A Working Man",
+      "type": "movie",
+      "overview": "Levon Cade hat eine erfolgreiche Militärkarriere im Bereich Geheimoperationen hinter sich gelassen, um ein einfaches Leben als Arbeiter auf dem Bau zu führen. Als jedoch die Tochter seines Vorgesetzten, die für ihn wie eine Tochter ist, von einem Menschenhändlerring entführt wird, zieht er noch einmal in den Kampf. Bei seiner Suche stößt er auf eine Welt voller Korruption, die selbst seine schlimmsten Vorstellungen übertrifft.",
+      "genres": [
+        "Action",
+        "Krimi",
+        "Thriller"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "kidnapping",
+        "vigilante",
+        "missing person",
+        "black ops",
+        "construction worker",
+        "criminal conspiracy"
+      ],
+      "rating": 6.682,
+      "vote_count": 2093,
+      "poster_path": "/se0zJXl4GXvSOgDFhUcOtsiX6Me.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1197306-a-working-man/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000224193.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 866398,
+      "title": "The Beekeeper",
+      "type": "movie",
+      "overview": "Mr. Clay hat sich auf den ersten Blick ganz der Imkerei verschrieben. Doch als seine Nachbarin bei einer Telefon-Abzocke um ihr ganzes Erspartes erleichtert wird und sich daraufhin das Leben nimmt, müssen seine Bienen zurückstehen. Denn nun ist einzig und allein die Rache sein Fokus. Auch wenn er jeden Finger jedes Beteiligten einzeln abtrennen muss, er wird nicht stoppen, bis er die ganze für die Scams verantwortliche Organisation zerstört hat. Schnell stellt er auf seinem Rachefeldzug jedoch fast, dass die Betrüger mächtiger als zunächst vermutet sind. Doch auch seine Gegner müssen bald schmerzlichst lernen, dass sie es hier nicht mit einem einfachen Imker, sondern einem ehemaligen Spezialagenten einer mysteriösen Organisation, die den Namen „Beekeepers“ trägt, zu tun haben...",
+      "genres": [
+        "Action",
+        "Krimi",
+        "Thriller"
+      ],
+      "keywords": [
+        "massachusetts",
+        "secret government organization",
+        "government conspiracy",
+        "hand to hand combat",
+        "vengeance",
+        "fbi agent",
+        "beekeepers",
+        "scam call center",
+        "retired assassin",
+        "revenge mission",
+        "relentless pursuit",
+        "scam operation",
+        "justice by force",
+        "system corruption",
+        "powerful elites"
+      ],
+      "rating": 7.3,
+      "vote_count": 4542,
+      "poster_path": "/7sjpJzxIfNxa9mCHJVgdS7knIlH.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/866398-the-beekeeper/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000224193.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 750466,
+      "title": "Wunderschön",
+      "type": "movie",
+      "overview": "Egal ob Jung oder Alt, Mann oder Frau – einem bestimmten Schönheitsideal nachzueifern kennt wohl fast jeder von uns. Da geht es der jungen Mutter Sonja nicht anders, nach zwei Schwangerschaften kämpft sie mit ihrem Körpergefühl und um die Beziehung zu ihrem Mann Milan. Auch Frauke, kurz vor ihrem 60. Geburtstag, teilt dieses Schicksal und fühlt sich für ihren Mann nahezu unsichtbar. Tochter Julie feilt derweil an ihrer Modelkarriere, doch immer wieder wird ein Makel an ihrem Körper entdeckt …",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "keywords": [
+        "marriage crisis",
+        "female friendship",
+        "school teacher",
+        "self identity",
+        "woman director",
+        "photo model"
+      ],
+      "rating": 7.419,
+      "vote_count": 130,
+      "poster_path": "/yeHjNQw3lOozlZyAtPW6mEhNEH5.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/750466-wunderschon/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
@@ -430,7 +597,48 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000223984.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000224181.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 96677,
+      "title": "Lupin",
+      "type": "tv",
+      "overview": "Inspiriert von den Abenteuern Arsène Lupins beschließt der Meisterdieb Assane Diop, seinen Vater zu rächen, dem von einer reichen Familie großes Unrecht zugefügt wurde.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "paris, france",
+        "based on novel or book",
+        "investigation",
+        "police",
+        "thief",
+        "revenge",
+        "heist",
+        "criminal",
+        "disguise",
+        "dramedy",
+        "arsene lupin",
+        "thriller",
+        "exciting",
+        "action"
+      ],
+      "rating": 7.682,
+      "vote_count": 2665,
+      "poster_path": "/jJ5R8waqwGCn06H3oeDeXWYYdYZ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/96677-lupin/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000222991.html",
         "mentions": 2
       }
     },
@@ -610,7 +818,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4L2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4",
       "duration": 5322,
       "providers": {
         "netflix": null,
@@ -704,6 +912,29 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5344,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Abwärts",
+      "type": "tv",
+      "overview": "In einer Magdeburger Straßenbahn wird die Leiche eines jungen Mannes entdeckt. Danilo Rink wurde erschlagen. Bei den Nachforschungen rückt ausgerechnet Danilos Sozialarbeiter Peter Ruhler ins Visier der Ermittler.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Polizeiruf 110"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80Nzk1MjctNDU5NzU2",
+      "duration": 5358,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -819,29 +1050,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NDc1MDYtNDI3OTIx",
       "duration": 4488,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Risiko",
-      "type": "tv",
-      "overview": "Die siebzehnjährige Nadine wird tot aufgefunden. Der exklusive Tennisclub, in dem die Schülerin gejobbt hat, ist ein erster Anlaufpunkt für Schmücke, Schneider und Oberkommissarin Lindner. (D, 2010)",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80Njg4NTMtNDQ5MTg3",
-      "duration": 5327,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1780,6 +1988,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Im Kopf... eines dunkelhäutigen Menschen",
+      "type": "tv",
+      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/im-kopf--eines-dunkelhaeutigen-menschen?urn=urn:srf:video:1f33161c-79a2-42f1-9fd5-7ede74740f85",
+      "duration": 3168,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Die Rockies (1/2) · Lernen fürs Leben",
       "type": "tv",
       "overview": "Die mächtige Gebirgskette der Rocky Mountains erstreckt sich über rund 5.000 Kilometer und bietet eine Vielzahl an rauen Lebensräumen. Die erste Episode folgt mehreren tierischen Protagonisten und zeigt, mit welchen Problemen diese zu kämpfen haben.",
@@ -2022,24 +2252,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Queen im Krieg",
+      "title": "Dirty Money – Geldwäsche Paradies Deutschland - Dokumentarfilm von Johann von Mirbach,",
       "type": "tv",
-      "overview": "Die Queen im Krieg\r\n260515_phx_queen_im_krieg\r\n20.05.2026-19.06.2026\r\nARD / ZDF / phx",
+      "overview": "Deutschland gilt als Hotspot für Geldwäsche: Milliarden aus Drogenhandel, Terrornetzwerken und organisierter Kriminalität fließen täglich in die legale Wirtschaft.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokumentarfilm"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIwMDc2OQ",
-      "duration": 2587,
+      "url": "https://www.3sat.de/film/dokumentarfilm/dirty-money-geldwaesche-paradies-deutschland-102.html",
+      "duration": 5280,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kriegstüchtig? 70 Jahre Bundeswehr",
+      "type": "tv",
+      "overview": "Die Bundeswehr blickt zurück auf 70 Jahre Geschichte, 1956 wurde die Wehrpflicht eingeführt. \"Terra X History\" fragt: Wie einsatzbereit war die Truppe seitdem – und wie steht sie heute da?",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/kriegstuechtig-70-jahre-bundeswehr-movie-100",
+      "duration": 5369,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2146,50 +2398,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEzMTA",
       "duration": 2675,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Dorfchroniken - Wolfram Koch auf Spurensuche",
-      "type": "tv",
-      "overview": "Eine alte Dorfchronik, ein verschwundenes Skelett und ein rätselhafter Halsring: In Utphe stößt Schauspieler Wolfram Koch auf eine Geschichte, die bis heute Fragen aufwirft. 1974 wird auf einem Acker ein menschliches Skelett entdeckt. Um den Hals trägt es einen geheimnisvollen Ring. Doch kurz darauf verschwindet der Fund – und mit ihm wichtige Spuren....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/ZWZlN2I5OTItOGIxMC00MzAyLTkzM2EtMTNlMTQ4ODUzZmVk",
-      "duration": 2683,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Jane Austen - Literatur und Leidenschaft",
-      "type": "tv",
-      "overview": "Das mit leichter Hand erzählte Porträt zeigt die Welt der großartigen Schriftstellerin und die Welt ihrer Romane. Sie lässt Historikerinnen und Literaturwissenschaftlerinnen ebenso zu Wort kommen wie die begeisterte Leserschaft, Filmausschnitte laden zum Schmachten ein. Dazu kommen noch ihre Jugendwerke und Fragmente....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS8yMTk4YmFhZC1jMDBhLTRmMzktOTEyYi1kNmIzYTllMmIzOTM",
-      "duration": 2667,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2330,6 +2538,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Kurzschluss - Kosmos und Chaos",
+      "type": "tv",
+      "overview": "(1) Klitclique – Auto, Kurzfilm (2) TV oder die Ruhestörung an der Waldbergstrasse, Kurzfilm (3) Begegnung – Frederic Siegel, Regisseur (4) Clot, Kurzfilm (5) Begegnung – Aneta Ozorek, Festivalleiterin des Kaboom Animation Festival",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Kurzfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/130662-008-A/kurzschluss/",
+      "duration": 2716,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Sterben",
+      "type": "tv",
+      "overview": "Die Familie Lunies hat sich über die Jahre verloren, das Leben hat sie auseinandergetrieben. Doch als der Tod in ihr Leben tritt, begegnen sie sich wieder und versuchen, sich einander anzunähern … Zwischen Schmerz, Streit, schwarzem Humor und unerwarteten Momenten der Nähe erzählt \"Sterben\" von den Brüchen einer Familie und der Intensität des Lebens angesichts seiner Endlichkeit.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/111637-000-A/sterben/",
+      "duration": 10292,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Das schwarze Quadrat",
       "type": "tv",
       "overview": "Die Kunstdiebe Vincent und Nils haben das berühmte russische Gemälde \"Das schwarze Quadrat\" gestohlen. Das Bild soll auf einem Kreuzfahrtschiff an den Käufer übergeben werden. Um auf das Schiff zu kommen, überwältigen sie kurzerhand zwei Passagiere ... – In Peter Meisters skurrilem Spielfilmdebüt (2021) spielt die abstrakte Kunst eine entscheidende Rolle.",
@@ -2462,46 +2714,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Joaquin Phoenix - Schauspieler der Extreme",
+      "title": "Borchert und der Mord ohne Sühne (S01/E18)",
       "type": "tv",
-      "overview": "Joaquin Phoenix ist ein Grenzgänger, der es mit seinen Darstellungen von Außenseitern und labilen Charakteren zu den großen Schauspielern in Hollywood gebracht hat. Für seine intensive Darstellung des \"Joker\" erhielt er endlich den begehrten Oscar. Das Porträt zeigt auch den Menschen, der abseits der Filmwelt radikal in seinem Aktivismus für Tiere und Natur agiert.",
+      "overview": "Spielfilm Deutschland 2023 Eine spektakuläre Protestaktion löst einen polizeilichen Großeinsatz aus: Hans Siegenthaler (Thomas Huber) lässt Flugblätter vom Hochhaus der Schanz AG regnen, die Bernadette Schanz (Melissa Anna Schmidt) als Mörderin seiner Tochter bezeichnen. Tatsächlich glaubt sogar Hauptmann Furrer (Pierre Kiwitt), dass die Konzernchefin damals die junge Frau nach einem Eifersuchtsstreit erstochen hat....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filmgrößen"
+        "Der Zürich-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/111643-000-A/joaquin-phoenix-schauspieler-der-extreme/",
-      "duration": 3164,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjUtMDYtMDVfMjAtMTUtTUVTWg",
+      "duration": 5289,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "James Gray - Filmemacher in Zeiten des Umbruchs",
-      "type": "tv",
-      "overview": "James Gray ist einer der wichtigsten Vertreter des US-amerikanischen Independent-Films. Von \"Little Odessa\" bis \"Zeiten des Umbruchs\" – sein Werk verbindet klassisches und modernes Erzählen, wobei sich der Regisseur durch verschiedenste Filmgenres bewegt und nostalgische Rückblicke auf den amerikanischen Traum mit scharfer Gesellschaftskritik zu verknüpfen weiß.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filmgrößen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/126749-000-A/james-gray-filmemacher-in-zeiten-des-umbruchs/",
-      "duration": 3097,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2606,7 +2836,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0zMF8yMC0xNS1NRVo",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0zMF8yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5294,
       "providers": {
         "netflix": null,
@@ -2638,7 +2868,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tod im Weinberg | Blind ermittelt",
+      "title": "Tod im Weinberg – Blind ermittelt: Der Wien-Krimi",
       "type": "tv",
       "overview": "Spielfilm Österreich 2023 Im Abendprogramm des Fernsehens läuft ein knallharter Actionreißer. Was sich vor ihrem Fenster ereignet, versetzt die kiebitzende Oma Horvath (Inge Maux) allerdings in noch größere Aufregung: Ein Autofahrer, der vor einer auf der Straße liegenden Person hält, wird plötzlich von dieser überwältigt und entführt....",
       "genres": [
@@ -2652,28 +2882,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgzMDlmNGMxLTY3YmQtNGQwMy1hMzJjLTFkZGMzMGEwMTljN19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5302,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Verlorene Seelen. Ein Krimi aus Passau (10)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2026 Auf dem Ausflugsschiff einer Passauer Reederei, der „Queen Danubia“, die im Industriehafen vor Anker liegt, kommt es immer wieder zu nächtlichen Einbrüchen. Ferdinand Zankl (Michael Ostrowski) soll dem Spuk ein Ende bereiten. Der Privatermittler übernimmt die Überwachung des Schiffes....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Ein Krimi aus Passau"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzI4YjY1NDU5LTgwNjAtNDJmYi1iODYyLWFiYjc1NzYxY2ZjNF9nYW56ZVNlbmR1bmc",
-      "duration": 5386,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2946,6 +3154,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Verschollen im Zweiten Weltkrieg",
+      "type": "tv",
+      "overview": "Was wurde aus dem Wehrmachtsoldaten Otto Waischwillat? Das letzte erhaltene Dokument ist ein Todesurteil gegen ihn. Ausgestellt von der Roten Armee. Aber wann und wo wurde es vollstreckt? Sein Enkel Harald Walter aus Peine sucht heute noch nach Antworten. Elfie Barthel wurde als Vierjährige von der Wehrmacht aus Bratislava verschleppt, wuchs später bei einer Pflegefamilie auf. Wer ist ihre Mutter? Wo ist ihre Familie?...",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Unsere Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3MzY5M19nYW56ZVNlbmR1bmc",
+      "duration": 2670,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Notre-Dame, die Jahrhundertbaustelle (3/3) - Ein Raum aus Klang und Licht",
       "type": "tv",
       "overview": "Von der Struktur und von den Proportionen her war Notre-Dame ein Wunderwerk: Höhe, Licht und Akustik spielten so harmonisch ineinander, dass Besucher in den Genuss eines wahren Sinneserlebnisses gelangten. Im Innenraum der Kirche stand eine der berühmtesten Orgeln. Doch auch bei den archäologischen Ausgrabungen offenbart die Kathedrale einen Teil ihrer Geschichte.",
@@ -3099,29 +3330,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/099609-000-A/avus-rennstrecke-und-legende/",
       "duration": 3131,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Concorde - Absturz einer Legende",
-      "type": "tv",
-      "overview": "Die Concorde war das außergewöhnlichste Passagierflugzeug, das je gebaut wurde – ein technisches Wunderwerk, dessen Innovation und Schönheit bis heute für viele ungeschlagen sind. Doch beim Absturz einer Concorde bei Paris im Jahre 2000 kamen 113 Menschen ums Leben. Bald danach wurde das einzige Überschall-Passagierflugzeug der Welt vorzeitig aus dem Verkehr gezogen.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/096276-000-A/die-concorde-absturz-einer-legende/",
-      "duration": 3123,
       "providers": {
         "netflix": null,
         "prime": null,
