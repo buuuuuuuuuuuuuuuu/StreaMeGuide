@@ -1,38 +1,35 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-24T09:38:25.002Z",
+  "generated_at": "2026-09-25T09:55:50.289Z",
   "items": [
     {
-      "tmdb_id": 299939,
-      "title": "Monster: Die Geschichte von Lizzie Borden",
-      "type": "tv",
-      "overview": "Eingesperrt in ihrem tyrannischen Zuhause im viktorianischen Neuengland ermordet Lizzie Borden ihre Eltern auf brutalste Weise und versetzt das ganze Land in Aufruhr.",
+      "tmdb_id": 1032863,
+      "title": "Die theoretische Unwahrscheinlichkeit von Liebe",
+      "type": "movie",
+      "overview": "Olive, eine Doktorandin, küsst spontan den einschüchterndsten Professor ihres Fachbereichs, Adam Carlsen. Ihr gemeinsames Bedürfnis nach einer Scheinbeziehung wird zum chemischen Experiment, das womöglich die Formel für die Liebe liefert.",
       "genres": [
-        "Drama",
-        "Krimi"
+        "Liebesfilm",
+        "Komödie"
       ],
       "keywords": [
-        "massachusetts",
-        "based on true story",
-        "murder",
-        "miniseries",
-        "true crime",
-        "axe murder",
-        "lizzie borden",
-        "19th century",
-        "20th century",
-        "psychological drama",
-        "crime",
-        "axe",
-        "based on real person"
+        "based on novel or book",
+        "professor",
+        "romcom",
+        "love",
+        "biologist",
+        "pretend relationship",
+        "asexuality",
+        "fake dating",
+        "demisexual",
+        "phd"
       ],
-      "rating": 6.837,
-      "vote_count": 89,
-      "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
+      "rating": 8.336,
+      "vote_count": 137,
+      "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -60,8 +57,8 @@
         "cruel",
         "brutal violence"
       ],
-      "rating": 8.4,
-      "vote_count": 893,
+      "rating": 8.414,
+      "vote_count": 897,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -71,26 +68,33 @@
       }
     },
     {
-      "tmdb_id": 113962,
-      "title": "Lioness",
+      "tmdb_id": 45790,
+      "title": "JoJo's Bizarre Adventure",
       "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
+        "martial arts",
+        "magic",
+        "vampire",
+        "based on manga",
+        "adventurer",
+        "globetrotting",
+        "shounen",
+        "anime",
+        "muscles",
+        "supernatural power",
+        "horror",
+        "adventure"
       ],
-      "rating": 8.241,
-      "vote_count": 1621,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "rating": 8.6,
+      "vote_count": 1656,
+      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -98,28 +102,36 @@
       }
     },
     {
-      "tmdb_id": 273207,
-      "title": "Neagley",
+      "tmdb_id": 299939,
+      "title": "Monster: Die Geschichte von Lizzie Borden",
       "type": "tv",
-      "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+      "overview": "Eingesperrt in ihrem tyrannischen Zuhause im viktorianischen Neuengland ermordet Lizzie Borden ihre Eltern auf brutalste Weise und versetzt das ganze Land in Aufruhr.",
       "genres": [
         "Drama",
-        "Mystery",
         "Krimi"
       ],
       "keywords": [
-        "chicago, illinois",
-        "private investigator",
-        "justice",
-        "spin off"
+        "massachusetts",
+        "based on true story",
+        "murder",
+        "miniseries",
+        "true crime",
+        "axe murder",
+        "lizzie borden",
+        "19th century",
+        "20th century",
+        "psychological drama",
+        "crime",
+        "axe",
+        "based on real person"
       ],
-      "rating": 8,
-      "vote_count": 120,
-      "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
+      "rating": 6.8,
+      "vote_count": 95,
+      "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -144,8 +156,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.128,
-      "vote_count": 3394,
+      "rating": 8.1,
+      "vote_count": 3398,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -155,22 +167,123 @@
       }
     },
     {
-      "tmdb_id": 312557,
-      "title": "Die Minerva-Akademie",
+      "tmdb_id": 113962,
+      "title": "Lioness",
       "type": "tv",
-      "overview": "An der Minerva Militärschule müssen Teenager Disziplin, Rivalität und Druck standhalten, während ein Kadett nach seinem vermissten Freund sucht.",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
         "Drama",
-        "Mystery"
+        "War & Politics"
       ],
-      "keywords": [],
-      "rating": 7,
-      "vote_count": 6,
-      "poster_path": "/jkSsxuPWUMhogsZRoKOODZ8fuqh.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/312557-minerva-la-scuola/watch?locale=DE",
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.241,
+      "vote_count": 1628,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 37854,
+      "title": "One Piece",
+      "type": "tv",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+      "genres": [
+        "Action & Adventure",
+        "Komödie",
+        "Animation"
+      ],
+      "keywords": [
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
+        "friendship",
+        "friends",
+        "pirate",
+        "based on manga",
+        "super power",
+        "adventurer",
+        "shounen",
+        "sea adventure",
+        "anime",
+        "wonder",
+        "fantasy",
+        "adventure",
+        "defiant"
+      ],
+      "rating": 8.7,
+      "vote_count": 5557,
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 308963,
+      "title": "Habeas Corpus",
+      "type": "tv",
+      "overview": "Inez ist eine renommierte Juraprofessorin und will mithilfe ihrer Student*innen die Unschuld eines verurteilten Mannes beweisen, der behauptet, dass er das Verbrechen, welches man ihm vorwirft, nicht begangen hat. Allerdings verfolgt Marina, ihre begabteste Studentin, ihre eigenen Pläne, als sie sich an Inez wendet. Marina möchte nämlich ein Unrecht aus der Vergangenheit, welches auch ihre Familie belastet, wiedergutmachen. Dadurch entsteht für alle der Zwiespalt von Gerechtigkeit und dem Wunsch, vergangenes Unrecht wiedergutzumachen.",
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "college",
+        "courtroom",
+        "social issues",
+        "soapy drama"
+      ],
+      "rating": 6.083,
+      "vote_count": 6,
+      "poster_path": "/orPDaKTELpmK5KPVXogSciyo88l.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/308963-habeas-corpus/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1440098,
+      "title": "Drawn Together",
+      "type": "movie",
+      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
+      "genres": [
+        "Liebesfilm",
+        "Thriller"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "kidnapping",
+        "bodyguard",
+        "family secrets",
+        "sexual tension",
+        "dark romance"
+      ],
+      "rating": 6.655,
+      "vote_count": 116,
+      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -198,114 +311,6 @@
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "type": "tv",
-      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
-      "genres": [
-        "Action & Adventure",
-        "Animation",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "magic",
-        "teleportation",
-        "reincarnation",
-        "polygamy",
-        "harem",
-        "romance",
-        "displacement",
-        "second chance",
-        "fantasy world",
-        "seinen",
-        "ecchi",
-        "anime",
-        "high fantasy",
-        "search for mother",
-        "neet",
-        "life challenges",
-        "other world",
-        "sword and sorcery",
-        "isekai",
-        "otaku",
-        "hikikomori",
-        "erotic",
-        "fantasy",
-        "based on light novel",
-        "adventure"
-      ],
-      "rating": 8.416,
-      "vote_count": 1731,
-      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1440098,
-      "title": "Drawn Together",
-      "type": "movie",
-      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
-      "genres": [
-        "Liebesfilm",
-        "Thriller"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "kidnapping",
-        "bodyguard",
-        "family secrets",
-        "sexual tension",
-        "dark romance"
-      ],
-      "rating": 6.7,
-      "vote_count": 113,
-      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1386315,
-      "title": "The Runner",
-      "type": "movie",
-      "overview": "Das Leben von Maia Marten, einer Londoner Anwältin, wird durch einen Anruf während ihres morgendlichen Laufs aus den Fugen gerissen: Ihr Sohn wurde entführt. Um ihn zurückzubekommen, muss sie weiterlaufen, jeden skrupellosen Befehl befolgen und niemandem vertrauen. Jede Sekunde ist eine Prüfung dafür, wie weit eine Mutter für ihr Kind gehen würde.",
-      "genres": [
-        "Thriller",
-        "Action"
-      ],
-      "keywords": [
-        "mother",
-        "london, england",
-        "kidnapping",
-        "son",
-        "child kidnapping",
-        "nervous",
-        "abduction",
-        "child rescue",
-        "mother son relationship",
-        "child abduction",
-        "serious",
-        "intimate",
-        "attorney"
-      ],
-      "rating": 6.759,
-      "vote_count": 559,
-      "poster_path": "/tEfmtg72IaaJFRwMQI7lUx4sRBN.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -343,7 +348,7 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.958,
+      "rating": 8,
       "vote_count": 4360,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
@@ -373,8 +378,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.407,
-      "vote_count": 4766,
+      "rating": 8.408,
+      "vote_count": 4767,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -384,253 +389,30 @@
       }
     },
     {
-      "tmdb_id": 250670,
-      "title": "Maxton Hall - Die Welt zwischen uns",
+      "tmdb_id": 250923,
+      "title": "Nobody Wants This",
       "type": "tv",
-      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
+      "overview": "Zwischen einer agnostischen Sex-Podcasterin und einem frisch getrennten Rabbi funkt es. Ihre völlig unterschiedlichen Leben und ihre Familien aber machen es ihnen schwer.",
       "genres": [
+        "Komödie",
         "Drama"
       ],
       "keywords": [
+        "rabbi",
+        "romcom",
         "romance",
-        "millionaire",
-        "bookworm",
-        "drama",
-        "school setting"
-      ],
-      "rating": 8.273,
-      "vote_count": 682,
-      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224177.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 273240,
-      "title": "Off Campus",
-      "type": "tv",
-      "overview": "Hannah Wells gibt Eishockey-Kapitän Garrett Graham Nachhilfe, um ihren Schwarm zu erobern. Doch aus ihrem Deal entsteht eine echte Verbindung, während sich beide ihrer Vergangenheit stellen. Zusammen mit ihren Freunden Logan, Dean, Tucker und Allie navigieren sie durch das Chaos aus College-Leben und Liebe.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "self-discovery",
-        "love",
-        "romance",
-        "romantic",
-        "compassionate"
-      ],
-      "rating": 8.91,
-      "vote_count": 859,
-      "poster_path": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/273240-off-campus/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224177.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 64690,
-      "title": "Drive",
-      "type": "movie",
-      "overview": "Tagsüber arbeitet \"Driver\" unauffällig als Stuntfahrer in Hollywood, abends holt er sich seinen Kick, indem er Aufträge für die Mafia erledigt und sein Können als halsbrecherischer Fahrer von Fluchtautos unter Beweis stellt. Als einer der Raubzüge schiefgeht, gerät er unter Verdacht seiner Auftraggeber, die ein Kopfgeld auf ihn aussetzen. Fortan muss er beweisen, wie viel ihm an seinem Überleben gelegen ist.",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Krimi"
-      ],
-      "keywords": [
-        "robbery",
-        "car mechanic",
-        "stuntman",
-        "beaten to death",
-        "revenge",
-        "organized crime",
-        "neighbor",
-        "police chase",
         "los angeles, california",
-        "brutality",
-        "jacket",
-        "scorpion",
-        "toothpick",
-        "getaway driver",
-        "crime lord",
-        "stunt driver",
-        "existentialism",
-        "neo-noir",
-        "vindictive",
-        "hammer",
-        "bold"
-      ],
-      "rating": 7.584,
-      "vote_count": 14021,
-      "poster_path": "/bKkioOHOi0ZD4dM7lnNBaOsmoQ0.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/64690-drive/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224206.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 1197306,
-      "title": "A Working Man",
-      "type": "movie",
-      "overview": "Levon Cade hat eine erfolgreiche Militärkarriere im Bereich Geheimoperationen hinter sich gelassen, um ein einfaches Leben als Arbeiter auf dem Bau zu führen. Als jedoch die Tochter seines Vorgesetzten, die für ihn wie eine Tochter ist, von einem Menschenhändlerring entführt wird, zieht er noch einmal in den Kampf. Bei seiner Suche stößt er auf eine Welt voller Korruption, die selbst seine schlimmsten Vorstellungen übertrifft.",
-      "genres": [
-        "Action",
-        "Krimi",
-        "Thriller"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "kidnapping",
-        "vigilante",
-        "missing person",
-        "black ops",
-        "construction worker",
-        "criminal conspiracy"
-      ],
-      "rating": 6.682,
-      "vote_count": 2093,
-      "poster_path": "/se0zJXl4GXvSOgDFhUcOtsiX6Me.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1197306-a-working-man/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224193.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 866398,
-      "title": "The Beekeeper",
-      "type": "movie",
-      "overview": "Mr. Clay hat sich auf den ersten Blick ganz der Imkerei verschrieben. Doch als seine Nachbarin bei einer Telefon-Abzocke um ihr ganzes Erspartes erleichtert wird und sich daraufhin das Leben nimmt, müssen seine Bienen zurückstehen. Denn nun ist einzig und allein die Rache sein Fokus. Auch wenn er jeden Finger jedes Beteiligten einzeln abtrennen muss, er wird nicht stoppen, bis er die ganze für die Scams verantwortliche Organisation zerstört hat. Schnell stellt er auf seinem Rachefeldzug jedoch fast, dass die Betrüger mächtiger als zunächst vermutet sind. Doch auch seine Gegner müssen bald schmerzlichst lernen, dass sie es hier nicht mit einem einfachen Imker, sondern einem ehemaligen Spezialagenten einer mysteriösen Organisation, die den Namen „Beekeepers“ trägt, zu tun haben...",
-      "genres": [
-        "Action",
-        "Krimi",
-        "Thriller"
-      ],
-      "keywords": [
-        "massachusetts",
-        "secret government organization",
-        "government conspiracy",
-        "hand to hand combat",
-        "vengeance",
-        "fbi agent",
-        "beekeepers",
-        "scam call center",
-        "retired assassin",
-        "revenge mission",
-        "relentless pursuit",
-        "scam operation",
-        "justice by force",
-        "system corruption",
-        "powerful elites"
+        "opposites attract",
+        "agnostic",
+        "podcaster",
+        "heartfelt",
+        "offbeat",
+        "romantic"
       ],
       "rating": 7.3,
-      "vote_count": 4542,
-      "poster_path": "/7sjpJzxIfNxa9mCHJVgdS7knIlH.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/866398-the-beekeeper/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224193.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 750466,
-      "title": "Wunderschön",
-      "type": "movie",
-      "overview": "Egal ob Jung oder Alt, Mann oder Frau – einem bestimmten Schönheitsideal nachzueifern kennt wohl fast jeder von uns. Da geht es der jungen Mutter Sonja nicht anders, nach zwei Schwangerschaften kämpft sie mit ihrem Körpergefühl und um die Beziehung zu ihrem Mann Milan. Auch Frauke, kurz vor ihrem 60. Geburtstag, teilt dieses Schicksal und fühlt sich für ihren Mann nahezu unsichtbar. Tochter Julie feilt derweil an ihrer Modelkarriere, doch immer wieder wird ein Makel an ihrem Körper entdeckt …",
-      "genres": [
-        "Drama",
-        "Komödie",
-        "Liebesfilm"
-      ],
-      "keywords": [
-        "marriage crisis",
-        "female friendship",
-        "school teacher",
-        "self identity",
-        "woman director",
-        "photo model"
-      ],
-      "rating": 7.419,
-      "vote_count": 130,
-      "poster_path": "/yeHjNQw3lOozlZyAtPW6mEhNEH5.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/750466-wunderschon/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224181.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 96677,
-      "title": "Lupin",
-      "type": "tv",
-      "overview": "Inspiriert von den Abenteuern Arsène Lupins beschließt der Meisterdieb Assane Diop, seinen Vater zu rächen, dem von einer reichen Familie großes Unrecht zugefügt wurde.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "paris, france",
-        "based on novel or book",
-        "investigation",
-        "police",
-        "thief",
-        "revenge",
-        "heist",
-        "criminal",
-        "disguise",
-        "dramedy",
-        "arsene lupin",
-        "thriller",
-        "exciting",
-        "action"
-      ],
-      "rating": 7.682,
-      "vote_count": 2665,
-      "poster_path": "/jJ5R8waqwGCn06H3oeDeXWYYdYZ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/96677-lupin/watch?locale=DE",
+      "vote_count": 298,
+      "poster_path": "/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/250923-nobody-wants-this/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -638,7 +420,7 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000222991.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000224403.html",
         "mentions": 2
       }
     },
@@ -818,7 +600,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4L2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5322,
       "providers": {
         "netflix": null,
@@ -864,7 +646,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS81Y2EzNmFjYy0yMWI5LTQzZDYtYjEyYi1hMmZkZGNjNjBmNTVfZ2FuemVTZW5kdW5n",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS81Y2EzNmFjYy0yMWI5LTQzZDYtYjEyYi1hMmZkZGNjNjBmNTVfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5383,
       "providers": {
         "netflix": null,
@@ -887,7 +669,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2U1ODI1OTk5LTY4ODAtNDUzNi1hNjE5LTAyZmUzYzRjOTlmZF9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2U1ODI1OTk5LTY4ODAtNDUzNi1hNjE5LTAyZmUzYzRjOTlmZF9nYW56ZVNlbmR1bmc",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -910,7 +692,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWg",
       "duration": 5344,
       "providers": {
         "netflix": null,
@@ -1388,50 +1170,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kneecap",
-      "type": "tv",
-      "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/kneecap-movie-100/kneecap-100",
-      "duration": 6063,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kneecap (Englisch)",
-      "type": "tv",
-      "overview": "In Belfast gründen zwei Hobbyrapper und Drogendealer mit einem Lehrer und Freizeit-DJ die Hip-Hop-Gruppe \"Kneecap\", die durch ihre radikalen, antibritischen Texte für Skandale sorgt.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/kneecap-movie-100/kneecap-100",
-      "duration": 6063,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "An einem schönen Morgen - Spielfilm, Frankreich/Deutschland 2021",
       "type": "tv",
       "overview": "Dolmetscherin Sandra muss nach dem Tod ihres Mannes nicht nur ihre Tochter allein erziehen, sondern sich auch um ihren Vater Georg kümmern, der an einer neurodegenerativen Krankheit leidet.",
@@ -1490,6 +1228,50 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
       "duration": 6565,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hot Summer Nights - Spielfilm, USA 2017",
+      "type": "tv",
+      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
+      "duration": 6051,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ein Schloss am Wörthersee - Der Film - Kinofilm, Österreich 1992",
+      "type": "tv",
+      "overview": "Der charmante Lennie Berger hat von seinem Onkel das Schlosshotel Velden geerbt und will es auf Vordermann bringen. Das stößt bei den Angestellten und der Konkurrenz nicht nur auf Zuspruch.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/ein-schloss-am-woerthersee---der-film-100.html",
+      "duration": 4938,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1812,6 +1594,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Warum lieben wir Schlager? Mit Isi Glück",
+      "type": "tv",
+      "overview": "Was macht Schlager mit unseren Gefühlen? Leon Windscheid trifft Roland Kaiser, Isi Glück und Dr. Pop. Er zeigt, warum Melodie, Rhythmus und Sehnsucht Fans über Generationen verbinden.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/warum-lieben-wir-schlager-mit-roland-kaiser-movie-100",
+      "duration": 2605,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "LARP, Gaming & Fantasiewelten: Gut für die Psyche?",
       "type": "tv",
       "overview": "Eskapismus durch Gaming, LARP und Fantasiewelten zieht viele Menschen an. Doch wann hilft Realitätsflucht der Psyche – und wann wird sie ungesund? Eric Mayer zeigt, wie unser Gehirn abschaltet.",
@@ -1966,24 +1770,90 @@
     },
     {
       "tmdb_id": null,
-      "title": "Was ist deutsch? Die Geschichte der Migration (S2026/E22)",
+      "title": "Über den Wolken · Anden",
       "type": "tv",
-      "overview": "\"Terra X History\" zeigt: Europa ist geprägt von Migration. Seit Jahrtausenden verlassen Menschen ihre angestammte Heimat und suchen ihr Glück woanders. Gründe dafür gibt es viele.",
+      "overview": "Film von Matthew Wright, BBC 2017",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History - die Einzeldokus"
+        "Dokumentationen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/was-ist-deutsch-die-geschichte-der-migration-100",
-      "duration": 2673,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTA0MTM1Nw",
+      "duration": 3049,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Über den Wolken · Rocky Mountains",
+      "type": "tv",
+      "overview": "Film von Steve Greenwood, BBC 2017",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTA0MTQxNw",
+      "duration": 3069,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Über den Wolken · Himalaja",
+      "type": "tv",
+      "overview": "Film von Alex Lanchester",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTA0MTM3Mg",
+      "duration": 2955,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Lachs à la bâloise",
+      "type": "tv",
+      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/lachs-à-la-bâloise?urn=urn:srf:video:0b52dfa8-8029-4b4f-a62a-44e1b8f8372d",
+      "duration": 3070,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "SRF"
       }
     },
     {
@@ -2164,64 +2034,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Freiburg: Das Vacherin-Fondue",
+      "title": "Best-of Night of the Proms 2025",
       "type": "tv",
-      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
+      "overview": "Pop meets Classic: Internationale Megastars spielen mit einem großen Symphonie-Orchester und sorgen mit besonderem Sound für eine einzigartige Atmosphäre. 2025 in der Münchner Olympiahalle mit dabei: Soul Lady Joss Stone, 80er Legende Midge Ure, Singer Songwriter Michael Schulte, Powerstimme Vanessa Amorosi, Percussion Band Safri Duo und Rock-Gigant Alice Cooper....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
+        "Dokus & Reportagen im BR"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/freiburg-das-vacherin-fondue?urn=urn:srf:video:744aacf8-f7f7-470c-bf02-282baed47ead",
-      "duration": 3064,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "SRF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wohngenossenschaften",
-      "type": "tv",
-      "overview": "Liegt die Lösung für ein billigeres und besseres Wohnen in geselligeren und umweltfreundlicheren Räumen? Dies bieten die neuen Wohnungsbaugenossenschaften, die in der Westschweiz einen beeindruckenden Erfolg verzeichnen. In diesem neuen partizipatorischen Modell werden die Bewohner der Genossenschaft an allen Entscheidungen beteiligt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/wohngenossenschaften?urn=urn:srf:video:9dc3f237-c699-4ab6-be1e-5f3d652f3f96",
-      "duration": 3107,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "SRF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ich glaub, ich muss nach Juchitán",
-      "type": "tv",
-      "overview": "Dokumentarfilm Deutschland 2024 +++ Die Sehnsucht, Bilder abseits des Patriarchats zu finden, war der Anlass für Kamerafrau und Regisseurin Sonja Aufderklamm nach Juchitán in Mexiko zu reisen, an einen Ort mit matriarchalen Strukturen. Drei Frauen werden in ihrem Alltag begleitet, Adelina ist 70, Martina 40 und Adela 20. Sie betreiben gemeinsam ein Bistro am Markt, der das wirtschaftliche Zentrum der Stadt Juchitán darstellt....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentation und Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9lMWQ0NTkwZC1jZmZmLTQxODMtOTZmZi05ZGU1YzA4MmFjNDRfcHVibGljYXRpb24",
-      "duration": 4466,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMTE1QTA",
+      "duration": 5375,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2230,24 +2056,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Das Fahrrad erobert die Städte",
+      "title": "Wundermittel Cortison: Neue Therapien, weniger Nebenwirkungen?",
       "type": "tv",
-      "overview": "Während des Lockdowns 2020 wurden in Genf und Lausanne VD kilometerlange Velowege angelegt und Parkplätze entfernt. Manche werfen den Gemeinden sogar vor, dies zum Nachteil der Autofahrer ausgenutzt zu haben. In jedem Fall hat die Fahrradoffensive einen Kampf entfacht, der sich schon lange auf dem Rollfeld abspielt. Und dieses Mal dreht sich der Wind eindeutig zugunsten der Fahrradbefürworterinnen.",
+      "overview": "Cortison zählt zu den wichtigsten Mitteln der Medizin: Wie gelingt die schnelle Hilfe gegen Entzündungen mit weniger Nebenwirkungen? Neue Erkenntnisse für eine bessere Therapie.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
+        "NANO Doku"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/das-fahrrad-erobert-die-staedte?urn=urn:srf:video:b9cee4de-f652-4090-aead-3ab82c35722e",
-      "duration": 3151,
+      "url": "https://www.3sat.de/wissen/nano-doku/260917-nano-doku-webreihe-cortison-ndk-100.html",
+      "duration": 2603,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "SRF"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "NANO Doku:  Wundermittel Cortison: Neue Forschung – Weniger Nebenwirkungen",
+      "type": "tv",
+      "overview": "Cortison ist eins der stärksten entzündungshemmenden Medikamente, hat aber Nebenwirkungen. Forschende entschlüsseln den Wirkmechanismus, um neue Therapien zu entwickeln.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "NANO Doku"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/wissen/nano-doku/260924-nano-doku-wundermittel-cortison-ndk-100.html",
+      "duration": 2603,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
       }
     },
     {
@@ -2292,116 +2140,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Helden des Alltags – Im Einsatz für ein sauberes Frankfurt",
-      "type": "tv",
-      "overview": "Damit Frankfurt jeden Morgen sauber, sicher und lebenswert ist, sind täglich zahlreiche Menschen im Einsatz. Oft arbeiten sie im Hintergrund, meist fernab der Aufmerksamkeit. Der Film blickt hinter die Kulissen der Frankfurter Entsorgungs- und Service GmbH und erzählt von Menschen, die mit Engagement, Erfahrung und Herzblut dafür sorgen, dass die Stadt funktioniert. Eine Hommage an die oft unsichtbaren Heldinnen und Helden des Alltags.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/OGYwYTE1ZTktMjVkOC00MzE4LWEwMzAtNmRhMzNlOTE0Zjg1",
-      "duration": 2695,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Klang von Heimat - Die neue Liebe zum Dialekt | Dokumentarfilm",
-      "type": "tv",
-      "overview": "Dialekt kann künstlerische Triebfeder sein, Kraftquelle, Kreativitätsfundus. Dialekt schärft nicht nur interkulturelle Kompetenz, sondern bildet den Geist, die Seele. Ganz nebenbei wird das kulturelle Erbe von Bayern gerettet. Bayerische Bands füllen die größten Hallen. Theater schreiben Stücke auf Boarisch um. In den Poetry-Slam-Cafés stehen plötzlich Franken und Niederbayern im Original-Sound. Dialekt ist die erste Sprache....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen im BR"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAxOFdPMDA1MTk0QTA",
-      "duration": 2585,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Fritz Litzmann, mein Vater und ich - Dokumentarfilm von Aljoscha Pause, Deutschland 2025",
-      "type": "tv",
-      "overview": "Eine sehr persönliche Reise durch die deutsche Kabarettgeschichte: Aljoscha Pause porträtiert seinen Vater als Kleinkunst-Größe Fritz Litzmann, aber auch als Leerstelle im Familiengefüge.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilmzeit"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilmzeit/fritz-litzmann-mein-vater-und-ich-100.html",
-      "duration": 8541,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Tier-Docs: Zahnarztbesuch im Pferdestall",
-      "type": "tv",
-      "overview": "Die Zähne eines Pferdes wachsen lebenslang nach. Zahnpflege beim Pferd bedeutet daher Schleifen und Bohren in XXL. Wenn ein Pferdezahnarzt Hand anlegt, sind Werkzeuge und Methoden beeindruckend - die Arbeitsweise hat mit filigran wenig zu tun. Eher schon mit robust. Tierärztin Anna Walter aus der Großtierpraxis im Breisgau ist unterwegs zu Nero - einem Hengst mit Zahnpflege-Bedarf....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEzMTA",
-      "duration": 2675,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2714,6 +2452,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Sturmtief - Der Usedom-Krimi",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2025 Karin (Katrin Sass) nimmt eine Frau (Valery Tscheplanowa) und deren angeblichen Sohn (Oliver Szerkus) bei sich auf, die in einem auf der Insel wütenden Unwetter verletzt wurden. In Karin erwacht sofort der Ermittlungsinstinkt, da die Frau auch Anzeichen heftiger Misshandlungen hat....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Usedom-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMS0wNl8yMC0xNS1NRVo",
+      "duration": 5291,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Todesritt – Der Kroatien-Krimi",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2023 Um Abschied von ihrem verstorbenen Vater zu nehmen, kehrt die in England lebende Ana Kaleb (Karin Hanczewski) mit ihrem 13-jährigen Sohn Denis (Lior Kudrjawizki) auf die Pferderanch ihrer Familie zurück. Das erste Wiedersehen nach neun Jahren führt jedoch zu einem Streit. Wutentbrannt nimmt Anas Ex-Mann Vinko (Dušan Bucan) ohne ihr Wissen den Jungen zu einem nächtlichen Ausritt mit....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Kroatien-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9mMzJiZGM5OS04YWM0LTQ1NjgtODg0Yy0wYjUzNDc5ZDg4ZmFfZ2FuemVTZW5kdW5n",
+      "duration": 5316,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Borchert und der Mord ohne Sühne (S01/E18)",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2023 Eine spektakuläre Protestaktion löst einen polizeilichen Großeinsatz aus: Hans Siegenthaler (Thomas Huber) lässt Flugblätter vom Hochhaus der Schanz AG regnen, die Bernadette Schanz (Melissa Anna Schmidt) als Mörderin seiner Tochter bezeichnen. Tatsächlich glaubt sogar Hauptmann Furrer (Pierre Kiwitt), dass die Konzernchefin damals die junge Frau nach einem Eifersuchtsstreit erstochen hat....",
@@ -2846,50 +2628,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wer einmal lügt. Ein Krimi aus Passau",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2026 Mia Baders (Nadja Sabersky) verschollener Vater Adam Nolan (Raphaël von Bargen) taucht nach vielen Jahren wieder auf – mitten in Passau. Mia ist in dem Glauben groß geworden, der mutige Journalist habe sich verbergen müssen, weil er sich mächtige Feinde gemacht hatte, die ihm nach dem Leben trachteten. Das war die vorgetäuschte Geschichte, die Frederike Bader (Marie Leuenberger) ihrer Tochter erzählt hat....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Ein Krimi aus Passau"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2VmZGM1NDBiLTY1OWYtNDljNS1hMGQ1LTBmYzFhYWE1ZjhjN19nYW56ZVNlbmR1bmc",
-      "duration": 5313,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tod im Weinberg – Blind ermittelt: Der Wien-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Österreich 2023 Im Abendprogramm des Fernsehens läuft ein knallharter Actionreißer. Was sich vor ihrem Fenster ereignet, versetzt die kiebitzende Oma Horvath (Inge Maux) allerdings in noch größere Aufregung: Ein Autofahrer, der vor einer auf der Straße liegenden Person hält, wird plötzlich von dieser überwältigt und entführt....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Wien-Krimi: Blind ermittelt"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzgzMDlmNGMxLTY3YmQtNGQwMy1hMzJjLTFkZGMzMGEwMTljN19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5302,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Wilfried Schmickler - Das Allerbeste aus 6 Soloprogrammen",
       "type": "tv",
       "overview": "Wilfried Schmickler steht seit fast 40 Jahren für exquisites politisches Kabarett. Seine politischen und gesellschaftspolitischen Analysen beeindrucken durch Scharfsinn und Wortwitz. Der WDR hat Schmicklers künstlerisches Schaffen über viele Jahre begleitet, sowohl bei den Mitternachtsspitzen als auch bei seinen Soloprogrammen....",
@@ -2978,6 +2716,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Dolores Schmidinger: Die Revoluzzerin des Kabaretts",
+      "type": "tv",
+      "overview": "Zum 80. Geburtstag von Dolores Schmidinger blickt diese Doku auf das Leben der Kabarettistin und Schauspielerin zurück. Als eine der ersten Frauen auf Österreichs Kabarettbühnen wurde sie früh durch Auftritte im \"Neuen Theater am Kärntnertor\" und im Fernsehen bekannt. Später feierte sie Erfolge mit \"Gurken haben keine Tränen\" und \"Immer bins i!\". Auch Serien wie \"Kaisermühlen Blues\" machten sie einem breiten Publikum bekannt....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Dolores Schmidinger - Die Revoluzzerin des Kabaretts"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14340474/dolores-schmidinger-die-revoluzzerin-des-kabaretts",
+      "duration": 3571,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Achtung, Kinder!",
+      "type": "tv",
+      "overview": "Kabarett trifft Pädagogik: Auf dieser Tour de Force durch den Erziehungsalltag begegnen jede Menge Kabarettistinnen und Kabarettisten unzähligen Problemen und Widrigkeiten, mit denen Kinder, Eltern und Erzieher heutzutage konfrontiert werden....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Bestes Kabarett!"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyMFdPMDAzODk0QTA",
+      "duration": 2579,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "AnnPhie Fritz in kabarett.com",
       "type": "tv",
       "overview": "Einatmen, ausatmen. Wir leben in einer aufregenden Zeit. So viele Möglichkeiten! Kabarettistin AnnPhie Fritz lotet sie in ihrem Programm „Shanti Schatzi-weiß gar nicht, warum ich so müde bin“ aus.",
@@ -3000,68 +2782,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kabarett im Turm: Bumillo - Haushaltsloch",
+      "title": "Happy Birthday, Wolfgang Krebs!",
       "type": "tv",
-      "overview": "Zwischen Mikrofon und Mikrofaser nimmt Bumillo die kleinen und großen Absurditäten des Alltags aufs Korn. In \"Haushaltsloch\" verbindet der Kabarettist und Hausmann pointierten Stand-up mit provokanten Beobachtungen und entwaffnender Ehrlichkeit.\n\nBildquelle: ORF/DON’T PANIC",
+      "overview": "Wolfgang Krebs wird 60! BR Fernsehen feiert den Meister der Polit-Satire mit seinen Kultfiguren wie Stoiber, Söder und Aiwanger. Ein Best-of der pointiertesten Parodien und unvergesslichsten Szenen aus seinem langjährigen Schaffen. Ob im BR Fernsehen, bei Bayern 1 oder auf den großen Kabarettbühnen des Landes: Wolfgang Krebs begeistert seit Jahrzehnten mit seinen pointierten Parodien und seiner treffsicheren Polit-Satire....",
       "genres": [
         "Komödie"
       ],
       "keywords": [
-        "Kabarettprogramme"
+        "Bestes Kabarett!"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://on.orf.at/video/14339425/kabarett-im-turm-bumillo-haushaltsloch",
-      "duration": 3339,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAwODY3QTA",
+      "duration": 2595,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kabarett im Turm: Eva Karl Faltermeier - Best Of",
-      "type": "tv",
-      "overview": "Scharfsinnig, schräg und herrlich komisch: Eva Karl Faltermeier gibt ihr Debüt bei \"Kabarett im Turm\". Mit ihren besten Pointen und Anekdoten zeigt der Publikumsliebling, warum sie zu den gefragtesten Kabarettistinnen im deutschsprachigen Raum zählt.\n\nBildquelle: ORF/ROBERT PÖCKSTEINER",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14339423/kabarett-im-turm-eva-karl-faltermeier-best-of",
-      "duration": 3417,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Oktoberfest mit den Kabarettstars",
-      "type": "tv",
-      "overview": "Oans, zwoa... Lachen! Bayerische Kabarettstars sind auch in Österreich Publikumslieblinge: Monika Gruber, Martina Schwarzmann, Gerhard Polt, Martin Frank und Christine Eixenberger bringen stets die großen Kabarettbühnen des Landes zum Kochen. Das \"Oktoberfest\" zeigt die besten Pointen, lustigsten Ausschnitte und wahren Schätze ihrer Auftritte. \n\nBildquelle: ORF/ORF III/Dionys Asenkerschbaumer",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Oktoberfest mit den Kabarettstars"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14339923/oktoberfest-mit-den-kabarettstars",
-      "duration": 3202,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
+        "mediathek": "ARD"
       }
     },
     {
