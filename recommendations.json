@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-25T09:55:50.289Z",
+  "generated_at": "2026-09-26T09:38:13.440Z",
   "items": [
     {
       "tmdb_id": 1032863,
@@ -23,8 +23,8 @@
         "demisexual",
         "phd"
       ],
-      "rating": 8.336,
-      "vote_count": 137,
+      "rating": 8.368,
+      "vote_count": 200,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
@@ -57,8 +57,8 @@
         "cruel",
         "brutal violence"
       ],
-      "rating": 8.414,
-      "vote_count": 897,
+      "rating": 8.427,
+      "vote_count": 905,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -92,9 +92,30 @@
         "adventure"
       ],
       "rating": 8.6,
-      "vote_count": 1656,
+      "vote_count": 1658,
       "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
       "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 331979,
+      "title": "ภาพลวงตาย",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Krimi",
+        "Mystery",
+        "Drama"
+      ],
+      "keywords": [],
+      "rating": 10,
+      "vote_count": 1,
+      "poster_path": "/aJboceWct3FYptVPavlhUOjiiSe.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/331979/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -117,18 +138,45 @@
         "miniseries",
         "true crime",
         "axe murder",
+        "macabre",
         "lizzie borden",
         "19th century",
         "20th century",
         "psychological drama",
         "crime",
+        "defiant",
+        "sympathetic",
         "axe",
         "based on real person"
       ],
-      "rating": 6.8,
-      "vote_count": 95,
+      "rating": 6.9,
+      "vote_count": 104,
       "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 305357,
+      "title": "A Different World",
+      "type": "tv",
+      "overview": "Eine Erstsemester-Studentin und ihre besten Freund*innen meistern den Spagat zwischen Studium, Liebesdrama und Familienerbe an einem traditionsreichen Schwarzen College.",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "keywords": [
+        "college student",
+        "based on tv series",
+        "hbcu"
+      ],
+      "rating": 6.3,
+      "vote_count": 6,
+      "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/305357-a-different-world/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -156,13 +204,44 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.1,
-      "vote_count": 3398,
+      "rating": 8.128,
+      "vote_count": 3402,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 312949,
+      "title": "Chainsmoker Cat",
+      "type": "tv",
+      "overview": "Catgirl Yani ist Raucherin und kann weder ihre Miete zahlen noch einen Job halten. Weil die Sorge ihrer Liebsten immer größer wird, muss sie ihr Leben überdenken.",
+      "genres": [
+        "Animation",
+        "Komödie",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "smoking",
+        "affectation",
+        "chain smoking",
+        "based on manga",
+        "trashed house",
+        "anime",
+        "catgirl",
+        "fantasy",
+        "urban fantasy"
+      ],
+      "rating": 8.421,
+      "vote_count": 70,
+      "poster_path": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/312949/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -183,77 +262,10 @@
         "thoughtful",
         "spy thriller"
       ],
-      "rating": 8.241,
-      "vote_count": 1628,
+      "rating": 8.244,
+      "vote_count": 1630,
       "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 37854,
-      "title": "One Piece",
-      "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
-      "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
-      ],
-      "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
-      ],
-      "rating": 8.7,
-      "vote_count": 5557,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 308963,
-      "title": "Habeas Corpus",
-      "type": "tv",
-      "overview": "Inez ist eine renommierte Juraprofessorin und will mithilfe ihrer Student*innen die Unschuld eines verurteilten Mannes beweisen, der behauptet, dass er das Verbrechen, welches man ihm vorwirft, nicht begangen hat. Allerdings verfolgt Marina, ihre begabteste Studentin, ihre eigenen Pläne, als sie sich an Inez wendet. Marina möchte nämlich ein Unrecht aus der Vergangenheit, welches auch ihre Familie belastet, wiedergutmachen. Dadurch entsteht für alle der Zwiespalt von Gerechtigkeit und dem Wunsch, vergangenes Unrecht wiedergutzumachen.",
-      "genres": [
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
-        "college",
-        "courtroom",
-        "social issues",
-        "soapy drama"
-      ],
-      "rating": 6.083,
-      "vote_count": 6,
-      "poster_path": "/orPDaKTELpmK5KPVXogSciyo88l.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/308963-habeas-corpus/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -277,8 +289,8 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.655,
-      "vote_count": 116,
+      "rating": 6.627,
+      "vote_count": 122,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
@@ -291,7 +303,7 @@
       "tmdb_id": 275102,
       "title": "The Scandal",
       "type": "tv",
-      "overview": "In der Joseon-Ära weckt ein geheimer Plan verborgene Begierden in einer Adligen, einem Liebhaber und einer Dame, die unwissentlich in das Spiel der zwei verwickelt wird.",
+      "overview": "Im Joseon-Reich gerät Lady Cho, eine kluge und selbstbewusste Adlige, in einen Ehekonflikt, als ihr Mann Lord Yoo eine junge Konkubine nehmen will. Sie wendet sich an ihren Cousin Cho Won, einen berüchtigten Verführer, und schlägt ihm ein gefährliches Spiel vor. Gemeinsam wollen sie die tugendhafte junge Witwe Hui-yeon verführen und ihre Gefühle auf die Probe stellen. Cho Won nimmt die Herausforderung an, doch was als Wette beginnt, entwickelt sich zu einem Geflecht aus Begehren, Eifersucht und echten Gefühlen. Während Hui-yeon sich gegen seine Annäherungen wehrt, gerät Cho Won zunehmend in einen inneren Konflikt. Lady Cho versucht, die Kontrolle zu behalten, doch ihre eigenen Gefühle und die wachsende Nähe zwischen Cho Won und Hui-yeon bringen ihren Plan außer Kontrolle. Ein königlicher Befehl verschärft die Lage und zwingt die Beteiligten, sich den Folgen ihrer Intrige zu stellen.",
       "genres": [
         "Drama"
       ],
@@ -306,7 +318,7 @@
       ],
       "rating": 7.2,
       "vote_count": 13,
-      "poster_path": "/8ra17h8Z3NX14qdWaOKn0scURJR.jpg",
+      "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
@@ -379,49 +391,13 @@
         "police procedural"
       ],
       "rating": 8.408,
-      "vote_count": 4767,
+      "vote_count": 4775,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 250923,
-      "title": "Nobody Wants This",
-      "type": "tv",
-      "overview": "Zwischen einer agnostischen Sex-Podcasterin und einem frisch getrennten Rabbi funkt es. Ihre völlig unterschiedlichen Leben und ihre Familien aber machen es ihnen schwer.",
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "keywords": [
-        "rabbi",
-        "romcom",
-        "romance",
-        "los angeles, california",
-        "opposites attract",
-        "agnostic",
-        "podcaster",
-        "heartfelt",
-        "offbeat",
-        "romantic"
-      ],
-      "rating": 7.3,
-      "vote_count": 298,
-      "poster_path": "/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/250923-nobody-wants-this/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224403.html",
-        "mentions": 2
       }
     },
     {
@@ -692,7 +668,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
       "duration": 5344,
       "providers": {
         "netflix": null,
@@ -1280,6 +1256,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Die schwarzen Schmetterlinge (4/6)",
+      "type": "tv",
+      "overview": "Nachdem Albert Kommissar Carrel zu Boden geschlagen hat, beseitigt er alle Spuren. Carrel ist der kleine Junge, den Albert in den 1970ern ausgesetzt hat. Solange hatte es das Herz gebrochen, den Jungen zurückzulassen, sie hatte keine Lust mehr auf das Spiel. Albert beginnt allerdings, in seinem Kopf Lust und Mord zu verwechseln, und attackiert schließlich ein unschuldiges Paar ...",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/100886-004-A/die-schwarzen-schmetterlinge-4-6/",
+      "duration": 3448,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Schimmelreiter",
+      "type": "tv",
+      "overview": "Nach dem Tod seines Schwiegervaters wird Hauke Haien Küstenschutzdirektor in Nordfriesland. Er warnt vor den Folgen des Klimawandels, doch nur seine Frau Elke unterstützt ihn beim Küstenschutz. Die Menschen wenden sich gegen ihn und es kommt zur Katastrophe. Die moderne Adaption von Francis Meletzky überträgt Theodor Storms Novelle in die Gegenwart.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Fernsehfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/104449-000-A/der-schimmelreiter/",
+      "duration": 5718,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Die schwarzen Schmetterlinge (3/6)",
       "type": "tv",
       "overview": "Albert und Solange setzen ihr mörderisches Spiel fort. Als eines der Opfer ein Baby hinterlässt, will Solange es behalten. Doch das kommt für Albert nicht infrage, er setzt den kleinen Jungen auf dem Friedhof aus. Adrien belastet die Arbeit mit Albert mittlerweile so sehr, dass er in alte Muster verfällt. Und Kommissar Carrel stattet Albert im Alleingang einen Besuch ab ...",
@@ -1408,50 +1428,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Steirergeld - Fernsehfilm, Deutschland/Österreich 2022",
-      "type": "tv",
-      "overview": "Im beschaulichen Murbruck bricht eine Welt zusammen: Am Morgen geht der angesehene Rudi Stiegler mit seiner Privatbank pleite. Noch am Abend stirbt er im eigenen Haus bei einem Raubüberfall.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/fernsehfilm/steirergeld-100.html",
-      "duration": 5295,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Zimmer mit Stall – Ab in die Berge - Fernsehfilm, Deutschland 2018",
-      "type": "tv",
-      "overview": "Sophie wagt einen Neuanfang auf dem Land und kauft spontan einen Bauernhof. Doch statt Idylle erwartet die Münchnerin ein erbitterter Streit um Haus und Heimat.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/fernsehfilm/zimmer-mit-stall---ab-in-die-berge-100.html",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -1770,6 +1746,116 @@
     },
     {
       "tmdb_id": null,
+      "title": "Tierisch gute Eltern",
+      "type": "tv",
+      "overview": "Unser Planet und seine atemberaubende Tierwelt sind wunderschön und vielfältig. Fast genauso zahlreich sind die Wege, die Tiereltern gefunden haben, um ihren Nachwuchs zu beschützen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg5NTU0Nw",
+      "duration": 2609,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Geschichte der Mächtigen",
+      "type": "tv",
+      "overview": "Damals in Amerika - Die Geschichte der Mächtigen, Film von Lucy Ridout",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjg2NDg2OA",
+      "duration": 2578,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Geschichte der Industriegiganten",
+      "type": "tv",
+      "overview": "Damals in Amerika -  die Die Geschichte der Industriegiganten, Film von Lucy Ridout",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjg2MzcyMw",
+      "duration": 2563,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Geschichte der Traumfabrik Hollywood",
+      "type": "tv",
+      "overview": "Damals in Amerika - Die Geschichte der Traumfabrik Hollywood, Film von Lucie Ridout",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjg2NDg4Mw",
+      "duration": 2572,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Antarktis – mein weisser Planet",
+      "type": "tv",
+      "overview": "Als Kind hat die Tessinerin Daisy Gilardini das Pole-Fieber gepackt. Heute fängt die Antarktisliebhaberin als Fotografin die reine Schönheit der Polarlandschaften und der dort heimischen Tierwelt ein. Für ihre Leidenschaft musste sie ihr Leben umstellen.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/die-antarktis--mein-weisser-planet?urn=urn:srf:video:ffddc163-02a0-43e5-8e90-237711a4ef98",
+      "duration": 3210,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Über den Wolken · Anden",
       "type": "tv",
       "overview": "Film von Matthew Wright, BBC 2017",
@@ -1836,6 +1922,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Wow! Überraschende Tiergeschichten",
+      "type": "tv",
+      "overview": "Film von Petra Lederhilger",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1ODQwNA",
+      "duration": 2995,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Lachs à la bâloise",
       "type": "tv",
       "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
@@ -1854,6 +1962,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Ozelot - Eine Katze in Not",
+      "type": "tv",
+      "overview": "Die Doku begleitet den seltenen Wildkatzenjäger durch seinen bedrohten Lebensraum und zeigt, wie Abholzung und Umweltzerstörung das Überleben der scheuen Raubkatze gefährden.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1ODQwOA",
+      "duration": 3115,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -1880,156 +2010,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Rockies (1/2) · Lernen fürs Leben",
+      "title": "Systemfehler: Der Cum-Ex Skandal",
       "type": "tv",
-      "overview": "Die mächtige Gebirgskette der Rocky Mountains erstreckt sich über rund 5.000 Kilometer und bietet eine Vielzahl an rauen Lebensräumen. Die erste Episode folgt mehreren tierischen Protagonisten und zeigt, mit welchen Problemen diese zu kämpfen haben.",
+      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1OTQ1Mw",
-      "duration": 3145,
+      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
+      "duration": 5470,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Rockies (2/2) · Lernen fürs Leben",
-      "type": "tv",
-      "overview": "Die Rocky Mountains prägen Nordamerika. Während der Puma-Nachwuchs lernt, sich von Aas zu ernähren und junge Dickhornschafe um die Paarung ringen, trainiert ein junger Fuchs, im tiefen Schnee nach Mäusen zu tauchen.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1OTQ1NQ",
-      "duration": 3145,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Locarno – Ziege mit Polenta",
-      "type": "tv",
-      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/locarno--ziege-mit-polenta?urn=urn:srf:video:179f394a-a1dc-42fe-b1aa-9777ac6ea947",
-      "duration": 2703,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "SRF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Traumorte · Die Kanarischen Inseln",
-      "type": "tv",
-      "overview": "Vulkanische Aktivität hat die Kanaren geformt und prägt das Gesicht der Inseln. Schroffe Küsten, schwarze Strände und Kraterlandschaften treffen auf grüne Natur und das tiefe Blau des Atlantiks.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDkxOTIyNw",
-      "duration": 2608,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Traumorte · Die Oberitalienischen Seen",
-      "type": "tv",
-      "overview": "Während der Gardasee im Sommer fest in deutscher Hand ist, ist der Iseosee ein echter Geheimtipp. Die zahlreichen prunkvollen Villen bescheren dem Comer See ein mondänes Flair.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk5MTQ4Nw",
-      "duration": 2603,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Traumorte Italiens · Romantische Inseln",
-      "type": "tv",
-      "overview": "Die Inseln vor der Westküste Italiens sind weltbekannt und wahre Touristenmagneten. Neben Capri und Ischia sind auch die Pontinischen Inseln Palmarola, Ponza und Ventotene einen Besuch wert.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDgxNzMxNw",
-      "duration": 2613,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Rio in Berlin · Erst Flop, dann König von Kreuzberg",
-      "type": "tv",
-      "overview": "Bevor er König von Deutschland wurde, war er König von Kreuzberg - mit seiner Band Ton Steine Scherben. Rio und die Scherben schreiben den Soundtrack einer Bewegung, die in besetzten Häusern das kollektive Zusammenleben ausprobiert.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIzMDk2Nw",
-      "duration": 2604,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ZDF"
       }
     },
     {
@@ -2052,94 +2050,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wundermittel Cortison: Neue Therapien, weniger Nebenwirkungen?",
-      "type": "tv",
-      "overview": "Cortison zählt zu den wichtigsten Mitteln der Medizin: Wie gelingt die schnelle Hilfe gegen Entzündungen mit weniger Nebenwirkungen? Neue Erkenntnisse für eine bessere Therapie.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "NANO Doku"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/nano-doku/260917-nano-doku-webreihe-cortison-ndk-100.html",
-      "duration": 2603,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "NANO Doku:  Wundermittel Cortison: Neue Forschung – Weniger Nebenwirkungen",
-      "type": "tv",
-      "overview": "Cortison ist eins der stärksten entzündungshemmenden Medikamente, hat aber Nebenwirkungen. Forschende entschlüsseln den Wirkmechanismus, um neue Therapien zu entwickeln.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "NANO Doku"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/nano-doku/260924-nano-doku-wundermittel-cortison-ndk-100.html",
-      "duration": 2603,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Dirty Money – Geldwäsche Paradies Deutschland - Dokumentarfilm von Johann von Mirbach,",
-      "type": "tv",
-      "overview": "Deutschland gilt als Hotspot für Geldwäsche: Milliarden aus Drogenhandel, Terrornetzwerken und organisierter Kriminalität fließen täglich in die legale Wirtschaft.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilm/dirty-money-geldwaesche-paradies-deutschland-102.html",
-      "duration": 5280,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kriegstüchtig? 70 Jahre Bundeswehr",
-      "type": "tv",
-      "overview": "Die Bundeswehr blickt zurück auf 70 Jahre Geschichte, 1956 wurde die Wehrpflicht eingeführt. \"Terra X History\" fragt: Wie einsatzbereit war die Truppe seitdem – und wie steht sie heute da?",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/kriegstuechtig-70-jahre-bundeswehr-movie-100",
-      "duration": 5369,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -2552,7 +2462,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIwLTA0LTAyXzIwLTQwLU1FU1o",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIwLTA0LTAyXzIwLTQwLU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5302,
       "providers": {
         "netflix": null,
@@ -2618,7 +2528,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0zMF8yMC0xNS1NRVovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0zMF8yMC0xNS1NRVo",
       "duration": 5294,
       "providers": {
         "netflix": null,
@@ -2716,6 +2626,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Christoph Fritz: Zärtlichkeit",
+      "type": "tv",
+      "overview": "Eine missglückte Therapie bringt Christoph Fritz auf die vielleicht seltsamste Suche nach Nähe überhaupt. In seinem zweiten Kabarettprogramm \"Zärtlichkeit\" zeigt Christoph Fritz, dass weniger oft mehr ist. Mit trockenem Humor, lakonischen Alltagsbeobachtungen und schräg-philosophischem Blick beschäftigt er sich mit Einsamkeit, misslungener Nähe und menschlichen Tabus....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14340566/christoph-fritz-zaertlichkeit",
+      "duration": 3866,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Dolores Schmidinger: Die Revoluzzerin des Kabaretts",
       "type": "tv",
       "overview": "Zum 80. Geburtstag von Dolores Schmidinger blickt diese Doku auf das Leben der Kabarettistin und Schauspielerin zurück. Als eine der ersten Frauen auf Österreichs Kabarettbühnen wurde sie früh durch Auftritte im \"Neuen Theater am Kärntnertor\" und im Fernsehen bekannt. Später feierte sie Erfolge mit \"Gurken haben keine Tränen\" und \"Immer bins i!\". Auch Serien wie \"Kaisermühlen Blues\" machten sie einem breiten Publikum bekannt....",
@@ -2774,28 +2706,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9LQUJfMTc0MjU4",
       "duration": 2700,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Happy Birthday, Wolfgang Krebs!",
-      "type": "tv",
-      "overview": "Wolfgang Krebs wird 60! BR Fernsehen feiert den Meister der Polit-Satire mit seinen Kultfiguren wie Stoiber, Söder und Aiwanger. Ein Best-of der pointiertesten Parodien und unvergesslichsten Szenen aus seinem langjährigen Schaffen. Ob im BR Fernsehen, bei Bayern 1 oder auf den großen Kabarettbühnen des Landes: Wolfgang Krebs begeistert seit Jahrzehnten mit seinen pointierten Parodien und seiner treffsicheren Polit-Satire....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Bestes Kabarett!"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAwODY3QTA",
-      "duration": 2595,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2884,6 +2794,29 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC81NjY1MTEtNTE1NTg3",
       "duration": 8093,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Als die Ökos in den Norden kamen",
+      "type": "tv",
+      "overview": "Spinner oder langhaarige Gammler wurden sie genannt: Junge Männer und Frauen, die vor 40 Jahren anders leben wollten. In Kommunen, Wohngemeinschaften und vor allem Einklang mit der Natur. Den Boden nicht ausbeuten, nachhaltig wirtschaften - auch als Landwirt. Viele Alteingesessene schüttelten oft den Kopf, über Biogemüse, Tierwohl und Windenergie. Nur im dünnbesiedelten, norddeutschen Wendland war es etwas anders....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Unsere Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI3MjgzNV9nYW56ZVNlbmR1bmc",
+      "duration": 2670,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -3049,29 +2982,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Avus - Rennstrecke und Legende",
-      "type": "tv",
-      "overview": "Sie liegt vor den Toren Berlins und ist bis heute eine geliebte Legende: die Avus, die ehemalige Rennstrecke in der deutschen Hauptstadt. Bei ihrer Eröffnung 1921 war sie die erste Straße der Welt, auf der nur Autos fahren durften. Einzigartig und gefährlich, sorgte sie mit ihrer gigantischen Steilkurve schon bald für Proteste.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/099609-000-A/avus-rennstrecke-und-legende/",
-      "duration": 3131,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     }
   ]
