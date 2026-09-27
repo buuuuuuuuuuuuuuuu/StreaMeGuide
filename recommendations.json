@@ -1,7 +1,35 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-26T09:38:13.440Z",
+  "generated_at": "2026-09-27T10:17:27.642Z",
   "items": [
+    {
+      "tmdb_id": 1492640,
+      "title": "Unabomber",
+      "type": "movie",
+      "overview": "In diesem Drama nach wahren Ereignissen wird Ted Kaczynskis Weg vom Harvard-Wunderkind und Testobjekt zum berüchtigten, vom FBI gejagten Unabomber nacherzählt.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "bomb",
+        "fbi",
+        "based on true story",
+        "terrorism",
+        "mk ultra",
+        "biopic"
+      ],
+      "rating": 7.255,
+      "vote_count": 92,
+      "poster_path": "/bq852UKtJ0rBPfbKpxoYlQSUiiz.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1032863,
       "title": "Die theoretische Unwahrscheinlichkeit von Liebe",
@@ -23,13 +51,76 @@
         "demisexual",
         "phd"
       ],
-      "rating": 8.368,
-      "vote_count": 200,
+      "rating": 8.274,
+      "vote_count": 268,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 299939,
+      "title": "Monster: Die Geschichte von Lizzie Borden",
+      "type": "tv",
+      "overview": "Eingesperrt in ihrem tyrannischen Zuhause im viktorianischen Neuengland ermordet Lizzie Borden ihre Eltern auf brutalste Weise und versetzt das ganze Land in Aufruhr.",
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "massachusetts",
+        "based on true story",
+        "murder",
+        "miniseries",
+        "true crime",
+        "axe murder",
+        "macabre",
+        "lizzie borden",
+        "19th century",
+        "20th century",
+        "psychological drama",
+        "crime",
+        "defiant",
+        "sympathetic",
+        "axe",
+        "based on real person"
+      ],
+      "rating": 7.034,
+      "vote_count": 116,
+      "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 290720,
+      "title": "Das letzte Problem",
+      "type": "tv",
+      "overview": "Ein heftiger Sturm schneidet ein Hotel auf einer Insel vor der Küste Mallorcas von der Außenwelt ab. Als die Hotelgästin Elisa Mander tot aufgefunden wird, scheint zunächst alles auf einen Suizid hinzudeuten. Doch schon bald kommen Zweifel an dieser Annahme auf, und die 13 eingeschlossenen Gäste geraten gleichermaßen unter Verdacht. Die Ermittlungen übernimmt Basil, ein ehemaliger Schauspieler, der einst den Detektiv Sherlock Holmes verkörperte und nun selbst den rätselhaften Todesfall aufklären muss. Während sich die Hinweise verdichten, wird deutlich, dass jemand die Wahrheit um jeden Preis verbergen will.",
+      "genres": [
+        "Krimi",
+        "Mystery"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "miniseries",
+        "period drama",
+        "murder mystery",
+        "thriller"
+      ],
+      "rating": 6.278,
+      "vote_count": 9,
+      "poster_path": "/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290720-el-problema-final/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -57,8 +148,8 @@
         "cruel",
         "brutal violence"
       ],
-      "rating": 8.427,
-      "vote_count": 905,
+      "rating": 8.43,
+      "vote_count": 912,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -92,7 +183,7 @@
         "adventure"
       ],
       "rating": 8.6,
-      "vote_count": 1658,
+      "vote_count": 1661,
       "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
       "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
       "providers": {
@@ -102,81 +193,26 @@
       }
     },
     {
-      "tmdb_id": 331979,
-      "title": "ภาพลวงตาย",
+      "tmdb_id": 113962,
+      "title": "Lioness",
       "type": "tv",
-      "overview": "",
-      "genres": [
-        "Krimi",
-        "Mystery",
-        "Drama"
-      ],
-      "keywords": [],
-      "rating": 10,
-      "vote_count": 1,
-      "poster_path": "/aJboceWct3FYptVPavlhUOjiiSe.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/331979/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 299939,
-      "title": "Monster: Die Geschichte von Lizzie Borden",
-      "type": "tv",
-      "overview": "Eingesperrt in ihrem tyrannischen Zuhause im viktorianischen Neuengland ermordet Lizzie Borden ihre Eltern auf brutalste Weise und versetzt das ganze Land in Aufruhr.",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
         "Drama",
-        "Krimi"
+        "War & Politics"
       ],
       "keywords": [
-        "massachusetts",
-        "based on true story",
-        "murder",
-        "miniseries",
-        "true crime",
-        "axe murder",
-        "macabre",
-        "lizzie borden",
-        "19th century",
-        "20th century",
-        "psychological drama",
-        "crime",
-        "defiant",
-        "sympathetic",
-        "axe",
-        "based on real person"
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
       ],
-      "rating": 6.9,
-      "vote_count": 104,
-      "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 305357,
-      "title": "A Different World",
-      "type": "tv",
-      "overview": "Eine Erstsemester-Studentin und ihre besten Freund*innen meistern den Spagat zwischen Studium, Liebesdrama und Familienerbe an einem traditionsreichen Schwarzen College.",
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "keywords": [
-        "college student",
-        "based on tv series",
-        "hbcu"
-      ],
-      "rating": 6.3,
-      "vote_count": 6,
-      "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/305357-a-different-world/watch?locale=DE",
+      "rating": 8.248,
+      "vote_count": 1635,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -204,8 +240,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.128,
-      "vote_count": 3402,
+      "rating": 8.13,
+      "vote_count": 3411,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -215,30 +251,41 @@
       }
     },
     {
-      "tmdb_id": 312949,
-      "title": "Chainsmoker Cat",
+      "tmdb_id": 37854,
+      "title": "One Piece",
       "type": "tv",
-      "overview": "Catgirl Yani ist Raucherin und kann weder ihre Miete zahlen noch einen Job halten. Weil die Sorge ihrer Liebsten immer größer wird, muss sie ihr Leben überdenken.",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
       "genres": [
-        "Animation",
+        "Action & Adventure",
         "Komödie",
-        "Sci-Fi & Fantasy"
+        "Animation"
       ],
       "keywords": [
-        "smoking",
-        "affectation",
-        "chain smoking",
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
+        "friendship",
+        "friends",
+        "pirate",
         "based on manga",
-        "trashed house",
+        "super power",
+        "adventurer",
+        "shounen",
+        "sea adventure",
         "anime",
-        "catgirl",
+        "wonder",
         "fantasy",
-        "urban fantasy"
+        "adventure",
+        "defiant"
       ],
-      "rating": 8.421,
-      "vote_count": 70,
-      "poster_path": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/312949/watch?locale=DE",
+      "rating": 8.7,
+      "vote_count": 5559,
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -246,29 +293,75 @@
       }
     },
     {
-      "tmdb_id": 113962,
-      "title": "Lioness",
+      "tmdb_id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
       "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Action & Adventure",
+        "Animation",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
+        "magic",
+        "teleportation",
+        "reincarnation",
+        "polygamy",
+        "harem",
+        "romance",
+        "displacement",
+        "second chance",
+        "fantasy world",
+        "seinen",
+        "ecchi",
+        "anime",
+        "high fantasy",
+        "search for mother",
+        "neet",
+        "life challenges",
+        "other world",
+        "sword and sorcery",
+        "isekai",
+        "otaku",
+        "hikikomori",
+        "erotic",
+        "fantasy",
+        "based on light novel",
+        "adventure"
       ],
-      "rating": 8.244,
-      "vote_count": 1630,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "rating": 8.417,
+      "vote_count": 1731,
+      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 273207,
+      "title": "Neagley",
+      "type": "tv",
+      "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Krimi"
+      ],
+      "keywords": [
+        "chicago, illinois",
+        "private investigator",
+        "justice",
+        "spin off"
+      ],
+      "rating": 8.077,
+      "vote_count": 142,
+      "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -289,8 +382,8 @@
         "sexual tension",
         "dark romance"
       ],
-      "rating": 6.627,
-      "vote_count": 122,
+      "rating": 6.6,
+      "vote_count": 124,
       "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
       "providers": {
@@ -316,8 +409,8 @@
         "joseon dynasty (1392–1910)",
         "period piece"
       ],
-      "rating": 7.2,
-      "vote_count": 13,
+      "rating": 7.1,
+      "vote_count": 14,
       "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
       "providers": {
@@ -390,14 +483,88 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.408,
-      "vote_count": 4775,
+      "rating": 8.4,
+      "vote_count": 4779,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 4613,
+      "title": "Band of Brothers - Wir waren wie Brüder",
+      "type": "tv",
+      "overview": "Band of Brothers – Wir waren wie Brüder ist eine zehnteilige Fernsehproduktion des US-amerikanischen Pay-TV-Senders HBO aus dem Jahr 2001. Die Miniserie ist an das gleichnamige Buch des Historikers Stephen Ambrose angelehnt und schildert die Ereignisse des Zweiten Weltkrieges zwischen 1942 und 1945 aus Sicht der Soldaten der Easy Company, 2. Bataillon, 506. US-Fallschirmjägerregiment der 101. US-Luftlandedivision der US-Streitkräfte.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "world war ii",
+        "us army",
+        "paratroops",
+        "miniseries",
+        "historical",
+        "combat",
+        "historical drama",
+        "tank battle",
+        "war in europe",
+        "paratrooper",
+        "1940s",
+        "war",
+        "awestruck"
+      ],
+      "rating": 8.604,
+      "vote_count": 4378,
+      "poster_path": "/iHdVtbWgigHY3leQnZgLBBTqNTL.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/4613-band-of-brothers/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000224456.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 361743,
+      "title": "Top Gun: Maverick",
+      "type": "movie",
+      "overview": "Aufgrund seiner Probleme mit Autoritäten hat es Flieger-Ass Maverick nie geschafft, die ganz große Karriere in der Navy zu machen. Anstatt Orden konnte er so vielmehr disziplinarische Verfahren sammeln. Nachdem er erneut über das Ziel hinausgeschossen ist, wird er kurzerhand zu seiner alten Elite-Flugschule Top Gun versetzt. Dort soll er die jungen Flieger, unter denen sich auch Rooster, der Sohn seines verstorbenen besten Freundes Goose befindet, auf eine Mission vorbereiten, die eigentlich unmöglich zu bewerkstelligen ist: Das schwer geschützte Nuklearprogramm eines fremden Landes muss zerstört werden. Weniger als drei Wochen bleiben zur Vorbereitung. Maverick hat nun alle Hände voll damit zu tun, die besten Absolventen der vergangenen Jahre zu einem Team zu formen, damit der Einsatz nicht zum Selbstmordkommando verkommt.",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "keywords": [
+        "fighter pilot",
+        "u.s. navy",
+        "sequel",
+        "nuclear weapons",
+        "military",
+        "aircraft carrier",
+        "naval aviation",
+        "war"
+      ],
+      "rating": 8.158,
+      "vote_count": 11605,
+      "poster_path": "/cvLe7YpLTsgT25FpuTD1bwgEcWZ.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/361743-top-gun-maverick/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000224522.html",
+        "mentions": 2
       }
     },
     {
@@ -576,7 +743,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4L2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4",
       "duration": 5322,
       "providers": {
         "netflix": null,
@@ -599,7 +766,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEyMjEvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEyMjE",
       "duration": 5245,
       "providers": {
         "netflix": null,
@@ -622,7 +789,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS81Y2EzNmFjYy0yMWI5LTQzZDYtYjEyYi1hMmZkZGNjNjBmNTVfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS81Y2EzNmFjYy0yMWI5LTQzZDYtYjEyYi1hMmZkZGNjNjBmNTVfZ2FuemVTZW5kdW5n",
       "duration": 5383,
       "providers": {
         "netflix": null,
@@ -668,7 +835,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWi9hdWRpb2Rlc2tyaXB0aW9u",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWg",
       "duration": 5344,
       "providers": {
         "netflix": null,
@@ -1058,7 +1225,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dumb Money - Schnelles Geld",
+      "title": "Dumb Money - Schnelles Geld (Englisch)",
       "type": "tv",
       "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
       "genres": [
@@ -1080,7 +1247,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dumb Money - Schnelles Geld (Englisch)",
+      "title": "Dumb Money - Schnelles Geld",
       "type": "tv",
       "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
       "genres": [
@@ -1524,29 +1691,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dora Heldt: Bei Hitze ist es wenigstens nicht kalt - Nach dem gleichnamigen Roman (E04)",
-      "type": "tv",
-      "overview": "Doris gerät ins Schwitzen: Ihr 50. Geburtstag naht, und sie sieht keinen Grund zum Jubilieren. Sie ist nervös, hat Hitzewallungen und ist unzufrieden.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/dora-heldt-bei-hitze-ist-es-wenigstens-nicht-kalt-movie-100/dora-heldt-bei-hitze-ist-es-wenigstens-nicht-kalt-100",
-      "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Schneewittchen am See",
       "type": "tv",
       "overview": "Smilla Witte träumte immer davon, im elterlichen Restaurant \"Schneewittchen am See\" als Köchin zu arbeiten. Doch nach dem Tod ihrer Mutter zehn Jahre zuvor ist sie von zu Hause geflohen.",
@@ -1562,6 +1706,29 @@
       "poster_path": null,
       "url": "https://www.zdf.de/filme/herzkino/schneewittchen-am-see-100.html",
       "duration": 5310,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Weihnachten im Schnee",
+      "type": "tv",
+      "overview": "Die erwachsenen Geschwister Annika, Sanne und Bastian fallen aus allen Wolken: Weihnachten soll dieses Jahr im Schnee stattfinden, genauer gesagt in einer Hütte in Norwegen.",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "Herzkino"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/filme/herzkino/weihnachten-im-schnee-100.html",
+      "duration": 5324,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1742,6 +1909,50 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Geschichte der Arbeiter",
+      "type": "tv",
+      "overview": "Film von Charles Colville, phoenix/ZDF",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjg2NjgyMw",
+      "duration": 2611,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Geschichte der Einwanderer",
+      "type": "tv",
+      "overview": "Damals in Amerika - Die Geschichte der Einwanderer, Film von Charles Colville",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjc4NDIyNA",
+      "duration": 2548,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -1966,46 +2177,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Der Ozelot - Eine Katze in Not",
+      "title": "Wo Hessen oben ist – Unsere Mittelgebirge",
       "type": "tv",
-      "overview": "Die Doku begleitet den seltenen Wildkatzenjäger durch seinen bedrohten Lebensraum und zeigt, wie Abholzung und Umweltzerstörung das Überleben der scheuen Raubkatze gefährden.",
+      "overview": "Explosiv, waldreich und Millionen Jahre alt. Das sind unsere Mittelgebirge. Plattentektonik hat sie in den Himmel wachsen lassen. Und seither leben wir mit ihnen. Mit ihren Steinen, ihrer Lava, ihren Pflanzen, Gipfeln, ihrer Tieren und ihren Besonderheiten. In Hessen ist die landschaftliche Vielfalt besonders groß, die Basaltvorkommen sind die größten in Europa. Wie lebt es sich in und mit den hessischen Mittelgebirgen?",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1ODQwOA",
-      "duration": 3115,
+      "url": "https://www.ardmediathek.de/video/ZDNhODMyYTctYTUzMC00NTc5LTg0NzEtNTMyYmIzNTE2OTgz",
+      "duration": 2678,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Im Kopf... eines dunkelhäutigen Menschen",
-      "type": "tv",
-      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/im-kopf--eines-dunkelhaeutigen-menschen?urn=urn:srf:video:1f33161c-79a2-42f1-9fd5-7ede74740f85",
-      "duration": 3168,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "SRF"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2362,6 +2551,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Freund oder Feind – Der Masuren-Krimi (4)",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2023 Selbst in die fast unberührte Naturlandschaft Nordpolens ist die vernetzte Cyberwelt vorgedrungen – und mit ihr auch schwer durchschaubare Formen der Kriminalität. Im vierten \"Masuren-Krimi\" versucht Hauptdarstellerin Claudia Eisinger als brillante Kriminaltechnikerin, den eiskalt ausgeführten Mord an einem IT-Unternehmer aufzuklären....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Masuren-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzUyN2E2YWRhLWNhMDAtNDVlNS05NWVjLTM2OThkNGU4OTIyZV9nYW56ZVNlbmR1bmc",
+      "duration": 5342,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Kroatien-Krimi: Split vergisst nie",
+      "type": "tv",
+      "overview": "Meer, Sonne und Palmen – doch in Split endet die Idylle, als Investmentbanker Ilija Rogur durch eine unter seinem Auto platzierte Granate getötet wird. Seine Frau Dana überlebt den Anschlag, verwickelt sich bei der Befragung durch Ermittlerin Stascha Novak jedoch in Widersprüche. Auch Ermittler Borko Vucevic gerät unter Verdacht: Er kann die Explosion bezeugen, kannte das Opfer offenbar und weckt damit Staschas Misstrauen....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Kroatien-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14340719/der-kroatien-krimi-split-vergisst-nie",
+      "duration": 5303,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Marzanna, Göttin des Todes – Der Masuren-Krimi (3)",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2023 Für Dr. Viktoria Wex besteht die Psyche aus erklärbaren chemischen Prozessen. Von prophetischen Albträumen hält die Kriminaltechnikerin also nichts. Als ihr bevorstehenden Mord vorausgesagt wird, sieht Viktoria nur wenig Handlungsbedarf. +++ Mit Claudia Eisinger, Sebastian Hülk, Karolina Lodyga, Wieslawa Wesolowska, Olgierd Lukaszewicz u. a. | Buch: Ulli Stephan | Regie: Sven Taddicken",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Masuren-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JhMmNlZmQ0LWUzY2MtNDIyNC1iMjAyLTYxN2Y0MDZiNTRiNl9nYW56ZVNlbmR1bmc",
+      "duration": 5343,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Sturmtief - Der Usedom-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2025 Karin (Katrin Sass) nimmt eine Frau (Valery Tscheplanowa) und deren angeblichen Sohn (Oliver Szerkus) bei sich auf, die in einem auf der Insel wütenden Unwetter verletzt wurden. In Karin erwacht sofort der Ermittlungsinstinkt, da die Frau auch Anzeichen heftiger Misshandlungen hat....",
@@ -2462,7 +2717,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIwLTA0LTAyXzIwLTQwLU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIwLTA0LTAyXzIwLTQwLU1FU1o",
       "duration": 5302,
       "providers": {
         "netflix": null,
@@ -2472,68 +2727,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tod im Hafenbecken – Der Amsterdam-Krimi (3)",
+      "title": "Bliss – Acapulco",
       "type": "tv",
-      "overview": "Spielfilm Deutschland 2020\r\n\r\nIn \"Tod im Hafenbecken\" müssen Undercover-Spezialist Alex Pollack und Kommissar Bram de Groot in dem Mord des Enthüllungsjournalisten Scheer ermitteln. Die Undercover-Mission bleibt jedoch nicht ohne Folgen. \r\n\r\nMit Hannes Jaenicke, Fedja van Huêt, Anatole Taubman, Hannah Hoekstra, Ferdi Stofmeel u. a. | Regie: Peter Stauch",
+      "overview": "Als Männer von Welt und reiseerprobte Globetrotter nehmen die fünf Sänger das Publikum mit auf eine zweistündige Pauschalreise, um die Leichtigkeit des Alltags neu zu entdecken. Vermeintlich Banales wird mit Blick durch die rosa Sonnenbrille plötzlich spektakulär. Da verwandelt sich das eigene Badezimmer schon mal in eine Oase des Glücks und der Wurstsalat garniert in ein mediterranes Festessen....",
       "genres": [
-        "Krimi"
+        "Komödie"
       ],
       "keywords": [
-        "Der Amsterdam-Krimi"
+        "Comedy"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDIzLTA1LTE4XzIwLTE1LU1FU1o",
-      "duration": 5190,
+      "url": "https://www.srf.ch/play/tv/comedy/video/bliss--acapulco?urn=urn:srf:video:9e255d22-770c-4b15-b3b8-0e7cd3233241",
+      "duration": 6916,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Bruder, Liebe, Tod · Der Saarland-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2026 Nach einem traumatischen Einsatz mit tödlichem Ausgang wechselt Kriminalhauptkommissar Tayfun Can (Aram Arami) vom Polizeidienst in die Sozialarbeit, wo er straffällige Jugendliche im gastronomischen Projekt „Kleine Freiheit“ betreut. Als sein jüngerer Bruder Momo (Doguhan Kabadayi) des Mordes an einem jungen Italiener verdächtigt wird, beginnt Tayfun heimlich zu ermitteln....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Saarland-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2Y3N2Y5YTlmLWI4ZjktNGI4My04MjRkLTk2ZTlhMzM2ZjZiNF9nYW56ZVNlbmR1bmc",
-      "duration": 5302,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Geisternetze (26) – Der Usedom-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2025 Die Fischerin Luise Petersen (Rosa Enskat) hat ihren Kindern ihren Fischkutter überschrieben. Luise war jahrelang mit ihrem Sohn Erik (Sammy Scheuritzel) ausgefahren, aber der will die Fischerei an den Nagel hängen und hat auch schon einen Käufer für den Pott gefunden. Schwester Suntje (Anima Schwinn) hingegen will Kutter, Fanglizenz und die Familientradition nicht aufgeben. Die Geschwister sind zerstritten....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Usedom-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMC0zMF8yMC0xNS1NRVo",
-      "duration": 5294,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "SRF"
       }
     },
     {
@@ -2595,28 +2806,6 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNzQy",
-      "duration": 2700,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "3. Wettbewerbstag St. Ingberter Pfanne 2026",
-      "type": "tv",
-      "overview": "Hier sehen Sie die Highlights des dritten Wettbewerb-Tages aus der Industriekathedrale Alte Schmelz in St Ingbert mit Slam-Poet und Autor Stefan Unser, Musik-Comedian Samuel Kilian und mit bissiger Satire von Kabarettist Gregor Pallast.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Unterhaltung & Comedy"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNjk5",
       "duration": 2700,
       "providers": {
         "netflix": null,
@@ -2802,6 +2991,144 @@
     },
     {
       "tmdb_id": null,
+      "title": "Jagd auf Adolf Eichmann",
+      "type": "tv",
+      "overview": "Adolf Eichmann war maßgeblich für die Deportation und Ermordung von sechs Millionen Juden verantwortlich. In Argentinien gelingt es ihm, viele Jahre unerkannt zu bleiben, bis Agenten des israelischen Geheimdienstes Mossad seine wahre Identität aufdecken. Diese Dokumentation zeigt die großangelegte und riskante Verfolgung des NS-Verbrechers.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "zeit.geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14340746/jagd-auf-adolf-eichmann",
+      "duration": 2495,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hitlers österreichische Helfer - Ernst Kaltenbrunner",
+      "type": "tv",
+      "overview": "Ernst Kaltenbrunner ist einer von zwei Österreichern, die sich ab Ende 1945 auf der Anklagebank des Nürnberger Hauptkriegsverbrecherprozesses verantworten mussten. Als Chef des Reichssicherheitshauptamtes war er für jene Einsatzgruppen verantwortlich, die im Rücken der Ostfront rund eine Million Menschen ermordeten. Ernst Kaltenbrunner war ein zentraler Akteur der sogenannten \"Endlösung der Judenfrage\"....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "zeit.geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14340745/hitlers-oesterreichische-helfer-ernst-kaltenbrunner",
+      "duration": 2673,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Glanz und Pracht - Die Pariser Oper Garnier",
+      "type": "tv",
+      "overview": "Wie entstand die Pariser Opéra Garnier, heute prunkvolles Wahrzeichen der französischen Hauptstadt? Im Jahr 1860 wurde der junge und noch unbekannte Architekt Charles Garnier Sieger im Wettbewerb für den Bau eines neuen Opernhauses. Fast 15 Jahre lang leitete Garnier die Baustelle des größten Theaterbaus des 19. Jahrhunderts.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/089053-000-A/glanz-und-pracht-die-pariser-oper-garnier/",
+      "duration": 5344,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Auf den Spuren der Geschichte - Die Nürnberger Prozesse (2/2)",
+      "type": "tv",
+      "overview": "Der erste Nürnberger Prozess zieht sich bis ins Frühjahr 1946. Die Beweisaufnahme offenbart die monströsen Verbrechen des NS-Regimes. Während die im Schloss Faber-Castell untergebrachten Journalisten auf ein Urteil warten, verschärft sich die Rivalität zwischen den Westmächten und der Sowjetunion – erste Anzeichen des Kalten Krieges. Der Prozess wird damit auch zu einem Wettlauf gegen die Zeit....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Auf den Spuren der Geschichte - Die Nürnberger Prozesse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14340728/auf-den-spuren-der-geschichte-die-nuernberger-prozesse-2-2",
+      "duration": 2937,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Auf den Spuren der Geschichte - Die Nürnberger Prozesse (1/2)",
+      "type": "tv",
+      "overview": "Am 1. Oktober 1946 endete in Nürnberg der Prozess gegen die Hauptkriegsverbrecher des NS-Regimes. Die Siegermächte USA, Großbritannien, Sowjetunion und Frankreich hatten 24 Personen und sechs Organisationen vor dem Internationalen Militärgerichtshof angeklagt....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Auf den Spuren der Geschichte - Die Nürnberger Prozesse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14340727/auf-den-spuren-der-geschichte-die-nuernberger-prozesse-1-2",
+      "duration": 2786,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Freiheitsstatue - Wie eine Idee die Welt bewegte",
+      "type": "tv",
+      "overview": "Die Freiheitsstatue ist eines der bekanntesten Wahrzeichen der USA. Entworfen wurde sie jedoch vom französischen Künstler Frédéric-Auguste Bartholdi. Frankreich machte sie den Amerikanern im Zeichen der republikanischen Ideale des 19. Jahrhunderts und des Kampfes gegen die Unterdrückung zum Geschenk.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/129349-000-A/die-freiheitsstatue/",
+      "duration": 5322,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Als die Ökos in den Norden kamen",
       "type": "tv",
       "overview": "Spinner oder langhaarige Gammler wurden sie genannt: Junge Männer und Frauen, die vor 40 Jahren anders leben wollten. In Kommunen, Wohngemeinschaften und vor allem Einklang mit der Natur. Den Boden nicht ausbeuten, nachhaltig wirtschaften - auch als Landwirt. Viele Alteingesessene schüttelten oft den Kopf, über Biogemüse, Tierwohl und Windenergie. Nur im dünnbesiedelten, norddeutschen Wendland war es etwas anders....",
@@ -2840,144 +3167,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3MzY5M19nYW56ZVNlbmR1bmc",
       "duration": 2670,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Notre-Dame, die Jahrhundertbaustelle (3/3) - Ein Raum aus Klang und Licht",
-      "type": "tv",
-      "overview": "Von der Struktur und von den Proportionen her war Notre-Dame ein Wunderwerk: Höhe, Licht und Akustik spielten so harmonisch ineinander, dass Besucher in den Genuss eines wahren Sinneserlebnisses gelangten. Im Innenraum der Kirche stand eine der berühmtesten Orgeln. Doch auch bei den archäologischen Ausgrabungen offenbart die Kathedrale einen Teil ihrer Geschichte.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/103501-003-A/notre-dame-die-jahrhundertbaustelle-3-3/",
-      "duration": 3147,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Notre-Dame, die Jahrhundertbaustelle (2/3) - Harmonie der Kräfte",
-      "type": "tv",
-      "overview": "Nach dem Brand von Notre-Dame beschäftigt die mit der Restaurierung beauftragten Architekten und Wissenschaftler vor allem eines: die Stabilität der Gewölbe. Durch Modellierung der Kirchenstruktur entdecken sie die bewegte Baugeschichte der Kathedrale und verstehen, woraus das Gebäude seine große Widerstandskraft zog.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/103501-002-A/notre-dame-die-jahrhundertbaustelle-2-3/",
-      "duration": 3115,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Notre-Dame, die Jahrhundertbaustelle (1/3) - Dem Himmel entgegen",
-      "type": "tv",
-      "overview": "Am 15. April 2019 stand eines der berühmtesten Wahrzeichen Frankreichs in Flammen: die Pariser Kathedrale Notre-Dame. Das Großfeuer durchdrang auch die Gewölbe und schwächte die Kalksteinmauern. Nach einjährigen Aufräum- und Sicherungsarbeiten war die Einsturzgefahr gebannt, die historisch originalgetreue Rekonstruktion der Kathedrale konnte beginnen.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/103501-001-A/notre-dame-die-jahrhundertbaustelle-1-3/",
-      "duration": 3153,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Inquisition (2/2) - Kirche, Tod und Teufel",
-      "type": "tv",
-      "overview": "Zu Beginn der Inquisition handelten die Gesandten der katholischen Kirche noch unabhängig voneinander in den Gebieten, für die sie vom Papst eingesetzt worden waren. Gegen Ende des 15. Jahrhunderts änderte sich das: Spanien, Portugal und Italien schufen zentralisierte und hierarchisch organisierte Behördenapparate. Und die Liste der Verfolgten wurde immer länger.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/124793-002-A/die-inquisition-2-2/",
-      "duration": 3281,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Inquisition (1/2) - Die Methode",
-      "type": "tv",
-      "overview": "Im 13. Jahrhundert schuf die katholische Kirche die Inquisition: eine mächtige Maschinerie, um Andersdenkende zu unterdrücken. Denunziationen, Verhaftungen und Hinrichtungen waren Teil eines perfiden Systems. Dieser Apparat professionalisierte sich durch Ermittlungen, Zeugenbefragungen und erzwungene Geständnisse. Ein Überwachungssystem, dessen Methoden bis heute nachwirken.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/124793-001-A/die-inquisition-1-2/",
-      "duration": 3284,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Jean Pütz",
-      "type": "tv",
-      "overview": "Jean Pütz, geboren 1936 in Köln, besuchte die Handwerkerschule Luxemburgs, studierte Naturwissenschaften und Soziologie in Köln, wurde seiner didaktischen Fähigkeiten wegen zu einer Instanz der Populärwissenschaft. Mit der von ihm erfundenen \"Hobbythek\" avancierte er im Fernsehen zur Kultfigur....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "WDR-Geschichte(n)"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMmFmZDAyNmMtNzQyOS00ZmM3LTljYTItMWRlYmE1NTViZjZm",
-      "duration": 3511,
       "providers": {
         "netflix": null,
         "prime": null,
