@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-27T10:17:27.642Z",
+  "generated_at": "2026-09-28T11:20:38.374Z",
   "items": [
     {
       "tmdb_id": 1492640,
-      "title": "Unabomber",
+      "title": "UNABOMBER",
       "type": "movie",
       "overview": "In diesem Drama nach wahren Ereignissen wird Ted Kaczynskis Weg vom Harvard-Wunderkind und Testobjekt zum berüchtigten, vom FBI gejagten Unabomber nacherzählt.",
       "genres": [
@@ -20,8 +20,8 @@
         "mk ultra",
         "biopic"
       ],
-      "rating": 7.255,
-      "vote_count": 92,
+      "rating": 7.01,
+      "vote_count": 151,
       "poster_path": "/bq852UKtJ0rBPfbKpxoYlQSUiiz.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=DE",
       "providers": {
@@ -51,244 +51,13 @@
         "demisexual",
         "phd"
       ],
-      "rating": 8.274,
-      "vote_count": 268,
+      "rating": 8.204,
+      "vote_count": 324,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 299939,
-      "title": "Monster: Die Geschichte von Lizzie Borden",
-      "type": "tv",
-      "overview": "Eingesperrt in ihrem tyrannischen Zuhause im viktorianischen Neuengland ermordet Lizzie Borden ihre Eltern auf brutalste Weise und versetzt das ganze Land in Aufruhr.",
-      "genres": [
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
-        "massachusetts",
-        "based on true story",
-        "murder",
-        "miniseries",
-        "true crime",
-        "axe murder",
-        "macabre",
-        "lizzie borden",
-        "19th century",
-        "20th century",
-        "psychological drama",
-        "crime",
-        "defiant",
-        "sympathetic",
-        "axe",
-        "based on real person"
-      ],
-      "rating": 7.034,
-      "vote_count": 116,
-      "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 290720,
-      "title": "Das letzte Problem",
-      "type": "tv",
-      "overview": "Ein heftiger Sturm schneidet ein Hotel auf einer Insel vor der Küste Mallorcas von der Außenwelt ab. Als die Hotelgästin Elisa Mander tot aufgefunden wird, scheint zunächst alles auf einen Suizid hinzudeuten. Doch schon bald kommen Zweifel an dieser Annahme auf, und die 13 eingeschlossenen Gäste geraten gleichermaßen unter Verdacht. Die Ermittlungen übernimmt Basil, ein ehemaliger Schauspieler, der einst den Detektiv Sherlock Holmes verkörperte und nun selbst den rätselhaften Todesfall aufklären muss. Während sich die Hinweise verdichten, wird deutlich, dass jemand die Wahrheit um jeden Preis verbergen will.",
-      "genres": [
-        "Krimi",
-        "Mystery"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "miniseries",
-        "period drama",
-        "murder mystery",
-        "thriller"
-      ],
-      "rating": 6.278,
-      "vote_count": 9,
-      "poster_path": "/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/290720-el-problema-final/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 247718,
-      "title": "MobLand: Familie bis aufs Blut",
-      "type": "tv",
-      "overview": "Die Karten werden neu gemischt, als zwei verfeindete Verbrecherfamilien in einer Schlacht aneinandergeraten, die Imperien zu stürzen droht. Harry Da Souza, ein gewiefter Mann fürs Grobe, gerät ins Kreuzfeuer und stellt seine Loyalität unter Beweis.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "london, england",
-        "drug trafficking",
-        "gang war",
-        "gangster",
-        "family business ",
-        "murder",
-        "betrayal",
-        "crime family",
-        "fixer",
-        "corrupt cop",
-        "bold",
-        "cruel",
-        "brutal violence"
-      ],
-      "rating": 8.43,
-      "vote_count": 912,
-      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "type": "tv",
-      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "martial arts",
-        "magic",
-        "vampire",
-        "based on manga",
-        "adventurer",
-        "globetrotting",
-        "shounen",
-        "anime",
-        "muscles",
-        "supernatural power",
-        "horror",
-        "adventure"
-      ],
-      "rating": 8.6,
-      "vote_count": 1661,
-      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.248,
-      "vote_count": 1635,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "reboot",
-        "military police"
-      ],
-      "rating": 8.13,
-      "vote_count": 3411,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 37854,
-      "title": "One Piece",
-      "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
-      "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
-      ],
-      "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
-      ],
-      "rating": 8.7,
-      "vote_count": 5559,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -329,8 +98,8 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.417,
-      "vote_count": 1731,
+      "rating": 8.423,
+      "vote_count": 1741,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
@@ -340,25 +109,75 @@
       }
     },
     {
-      "tmdb_id": 273207,
-      "title": "Neagley",
+      "tmdb_id": 37854,
+      "title": "One Piece",
       "type": "tv",
-      "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Krimi"
+        "Action & Adventure",
+        "Komödie",
+        "Animation"
       ],
       "keywords": [
-        "chicago, illinois",
-        "private investigator",
-        "justice",
-        "spin off"
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
+        "friendship",
+        "friends",
+        "pirate",
+        "based on manga",
+        "super power",
+        "adventurer",
+        "shounen",
+        "sea adventure",
+        "anime",
+        "wonder",
+        "fantasy",
+        "adventure",
+        "defiant"
       ],
-      "rating": 8.077,
-      "vote_count": 142,
-      "poster_path": "/qNs9L9FXjxdDW9FsJHIqD7SPujC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/273207-neagley/watch?locale=DE",
+      "rating": 8.749,
+      "vote_count": 5562,
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 247718,
+      "title": "MobLand: Familie bis aufs Blut",
+      "type": "tv",
+      "overview": "Die Karten werden neu gemischt, als zwei verfeindete Verbrecherfamilien in einer Schlacht aneinandergeraten, die Imperien zu stürzen droht. Harry Da Souza, ein gewiefter Mann fürs Grobe, gerät ins Kreuzfeuer und stellt seine Loyalität unter Beweis.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "london, england",
+        "drug trafficking",
+        "gang war",
+        "gangster",
+        "family business ",
+        "murder",
+        "betrayal",
+        "crime family",
+        "fixer",
+        "corrupt cop",
+        "bold",
+        "cruel",
+        "brutal violence"
+      ],
+      "rating": 8.437,
+      "vote_count": 918,
+      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -366,29 +185,210 @@
       }
     },
     {
-      "tmdb_id": 1440098,
-      "title": "Drawn Together",
-      "type": "movie",
-      "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
+      "tmdb_id": 290720,
+      "title": "Das letzte Problem",
+      "type": "tv",
+      "overview": "Ein heftiger Sturm schneidet ein Hotel auf einer Insel vor der Küste Mallorcas von der Außenwelt ab. Als die Hotelgästin Elisa Mander tot aufgefunden wird, scheint zunächst alles auf einen Suizid hinzudeuten. Doch schon bald kommen Zweifel an dieser Annahme auf, und die 13 eingeschlossenen Gäste geraten gleichermaßen unter Verdacht. Die Ermittlungen übernimmt Basil, ein ehemaliger Schauspieler, der einst den Detektiv Sherlock Holmes verkörperte und nun selbst den rätselhaften Todesfall aufklären muss. Während sich die Hinweise verdichten, wird deutlich, dass jemand die Wahrheit um jeden Preis verbergen will.",
       "genres": [
-        "Liebesfilm",
-        "Thriller"
+        "Krimi",
+        "Mystery"
       ],
       "keywords": [
         "based on novel or book",
-        "kidnapping",
-        "bodyguard",
-        "family secrets",
-        "sexual tension",
-        "dark romance"
+        "miniseries",
+        "period drama",
+        "murder mystery",
+        "thriller"
       ],
-      "rating": 6.6,
+      "rating": 7.2,
+      "vote_count": 14,
+      "poster_path": "/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290720-el-problema-final/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 113962,
+      "title": "Lioness",
+      "type": "tv",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "keywords": [
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
+      ],
+      "rating": 8.251,
+      "vote_count": 1640,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 299939,
+      "title": "Monster: Die Geschichte von Lizzie Borden",
+      "type": "tv",
+      "overview": "Eingesperrt in ihrem tyrannischen Zuhause im viktorianischen Neuengland ermordet Lizzie Borden ihre Eltern auf brutalste Weise und versetzt das ganze Land in Aufruhr.",
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "massachusetts",
+        "based on true story",
+        "murder",
+        "miniseries",
+        "true crime",
+        "axe murder",
+        "macabre",
+        "lizzie borden",
+        "19th century",
+        "20th century",
+        "psychological drama",
+        "crime",
+        "defiant",
+        "sympathetic",
+        "axe",
+        "based on real person"
+      ],
+      "rating": 7.093,
       "vote_count": 124,
-      "poster_path": "/keChzhb7QyhM0QmTF26iwWHx8qE.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=DE",
+      "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 153217,
+      "title": "Sparks of Tomorrow",
+      "type": "tv",
+      "overview": "In einer alternativen Vergangenheit schließt sich ein ungleiches Duo zusammen, um einen verschwundenen Katalog zu finden, der den verqualmten Straßen Kyotos Strom bringen könnte.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "romance",
+        "steampunk",
+        "kyoto, japan",
+        "anime",
+        "meiji period",
+        "chasing dreams",
+        "based on light novel"
+      ],
+      "rating": 7.6,
+      "vote_count": 14,
+      "poster_path": "/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/153217/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "reboot",
+        "military police"
+      ],
+      "rating": 8.13,
+      "vote_count": 3416,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 305357,
+      "title": "A Different World",
+      "type": "tv",
+      "overview": "Eine Erstsemester-Studentin und ihre besten Freund*innen meistern den Spagat zwischen Studium, Liebesdrama und Familienerbe an einem traditionsreichen Schwarzen College.",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "keywords": [
+        "college student",
+        "based on tv series",
+        "hbcu"
+      ],
+      "rating": 6.3,
+      "vote_count": 10,
+      "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/305357-a-different-world/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "type": "tv",
+      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "martial arts",
+        "magic",
+        "vampire",
+        "based on manga",
+        "adventurer",
+        "globetrotting",
+        "shounen",
+        "anime",
+        "muscles",
+        "supernatural power",
+        "horror",
+        "adventure"
+      ],
+      "rating": 8.6,
+      "vote_count": 1662,
+      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -409,8 +409,8 @@
         "joseon dynasty (1392–1910)",
         "period piece"
       ],
-      "rating": 7.1,
-      "vote_count": 14,
+      "rating": 7.294,
+      "vote_count": 17,
       "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
       "providers": {
@@ -484,7 +484,7 @@
         "police procedural"
       ],
       "rating": 8.4,
-      "vote_count": 4779,
+      "vote_count": 4780,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -494,34 +494,69 @@
       }
     },
     {
-      "tmdb_id": 4613,
-      "title": "Band of Brothers - Wir waren wie Brüder",
+      "tmdb_id": 2316,
+      "title": "The Office",
       "type": "tv",
-      "overview": "Band of Brothers – Wir waren wie Brüder ist eine zehnteilige Fernsehproduktion des US-amerikanischen Pay-TV-Senders HBO aus dem Jahr 2001. Die Miniserie ist an das gleichnamige Buch des Historikers Stephen Ambrose angelehnt und schildert die Ereignisse des Zweiten Weltkrieges zwischen 1942 und 1945 aus Sicht der Soldaten der Easy Company, 2. Bataillon, 506. US-Fallschirmjägerregiment der 101. US-Luftlandedivision der US-Streitkräfte.",
+      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Komödie"
       ],
       "keywords": [
-        "based on novel or book",
-        "world war ii",
-        "us army",
-        "paratroops",
-        "miniseries",
-        "historical",
-        "combat",
-        "historical drama",
-        "tank battle",
-        "war in europe",
-        "paratrooper",
-        "1940s",
-        "war",
-        "awestruck"
+        "office",
+        "work",
+        "boss",
+        "remake",
+        "mockumentary",
+        "employer employee relationship",
+        "sitcom",
+        "employment",
+        "workplace comedy",
+        "hilarious"
       ],
-      "rating": 8.604,
-      "vote_count": 4378,
-      "poster_path": "/iHdVtbWgigHY3leQnZgLBBTqNTL.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/4613-band-of-brothers/watch?locale=DE",
+      "rating": 8.583,
+      "vote_count": 5516,
+      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 155,
+      "title": "The Dark Knight",
+      "type": "movie",
+      "overview": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Krimi"
+      ],
+      "keywords": [
+        "sadism",
+        "chaos",
+        "secret identity",
+        "crime fighter",
+        "superhero",
+        "anti hero",
+        "scarecrow",
+        "based on comic",
+        "vigilante",
+        "organized crime",
+        "tragic hero",
+        "anti villain",
+        "criminal mastermind",
+        "district attorney",
+        "super power",
+        "super villain",
+        "neo-noir",
+        "bold"
+      ],
+      "rating": 8.536,
+      "vote_count": 36828,
+      "poster_path": "/z1DfRQf2CgnROyhVZ6ch8FbWt71.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -529,42 +564,148 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224456.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000224853.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 361743,
-      "title": "Top Gun: Maverick",
-      "type": "movie",
-      "overview": "Aufgrund seiner Probleme mit Autoritäten hat es Flieger-Ass Maverick nie geschafft, die ganz große Karriere in der Navy zu machen. Anstatt Orden konnte er so vielmehr disziplinarische Verfahren sammeln. Nachdem er erneut über das Ziel hinausgeschossen ist, wird er kurzerhand zu seiner alten Elite-Flugschule Top Gun versetzt. Dort soll er die jungen Flieger, unter denen sich auch Rooster, der Sohn seines verstorbenen besten Freundes Goose befindet, auf eine Mission vorbereiten, die eigentlich unmöglich zu bewerkstelligen ist: Das schwer geschützte Nuklearprogramm eines fremden Landes muss zerstört werden. Weniger als drei Wochen bleiben zur Vorbereitung. Maverick hat nun alle Hände voll damit zu tun, die besten Absolventen der vergangenen Jahre zu einem Team zu formen, damit der Einsatz nicht zum Selbstmordkommando verkommt.",
+      "tmdb_id": 30981,
+      "title": "MONSTER",
+      "type": "tv",
+      "overview": "Deutschland, 1986. Dr. Kenzo Tenma ist Neurochirurg in einer Düsseldorfer Klinik. Eigentlich ist es der perfekte Job für einen Arzt wie ihn, wenn es da nicht seine Vorgesetzen gäbe. Mehrfach muss er einflussreiche Patienten bei der medizinischen Versorgung vorziehen. Eines Tages werden zwei Geschwister in die Klinik eingeliefert, die am Schauplatz eines Verbrechens aufgefunden wurden. Der Junge, Johann, schwebt in Lebensgefahr, doch Tenma soll stattdessen einen bekannten Politiker operieren. Er widersetzt sich den Anweisungen seines Oberarztes und operiert das Kind. Ein verhängnisvoller Fehler, den er später bereuen wird, denn Johann ist kein normaler Junge. Kurze Zeit später werden Tenmas Vorgesetzte ermordet und die Kinder, Johann und Anna, sind spurlos verschwunden.",
       "genres": [
-        "Action",
-        "Drama"
+        "Animation",
+        "Drama",
+        "Mystery",
+        "Krimi"
       ],
       "keywords": [
-        "fighter pilot",
-        "u.s. navy",
-        "sequel",
-        "nuclear weapons",
-        "military",
-        "aircraft carrier",
-        "naval aviation",
-        "war"
+        "monster",
+        "orphanage",
+        "dilemma",
+        "hospital",
+        "doctor",
+        "orphan",
+        "based on manga",
+        "police detective",
+        "ethical dilemma",
+        "seinen",
+        "anime",
+        "philosophical",
+        "picture book",
+        "complex",
+        "serious",
+        "suspense",
+        "witty",
+        "intense",
+        "ominous",
+        "optimistic"
       ],
-      "rating": 8.158,
-      "vote_count": 11605,
-      "poster_path": "/cvLe7YpLTsgT25FpuTD1bwgEcWZ.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/361743-top-gun-maverick/watch?locale=DE",
+      "rating": 8.5,
+      "vote_count": 844,
+      "poster_path": "/vdYJJ6GdbAGpucxJjMnhaLfS9mR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/30981-monster/watch?locale=DE",
       "providers": {
-        "netflix": null,
+        "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224522.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000224804.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Herz aus Eis",
+      "type": "tv",
+      "overview": "Der Sohn eines Topmanagers liegt tot im Schwimmbad des Eliteinternats Schloss Hamberg. Alles sieht nach Selbstmord aus. Doch Kommissarin Klara Blum (Eva Mattes) kommen Zweifel. Als Kai Perlmann (Sebastian Bezzel) einen abgerissenen Wäscheknopf im Filtersystem des Schwimmbades findet und Klara den dazu passenden Bettbezug, wird klar, dass der Junge wie eine Katze im Sack ertränkt wurde....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTMxNTc",
+      "duration": 5239,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Freddy tanzt (2015)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2015 +++ Der junge Musiker Daniel Gerber lebte zuletzt auf der Straße. Jetzt wurde seine Leiche am Rheinufer gefunden. Offensichtlich war er bereits vor mehreren Tagen brutal zusammengeschlagen worden und dann an seinen inneren Verletzungen gestorben. Die Kommissare Max Ballauf und Freddy Schenk finden schnell heraus, dass sich Gerber kurz vor seinem Tod um einen Job als Pianist in einer Hotelbar beworben hatte....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQw",
+      "duration": 5342,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Freddy tanzt (2015) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2015 +++ Der junge Musiker Daniel Gerber lebte zuletzt auf der Straße. Jetzt wurde seine Leiche am Rheinufer gefunden. Offensichtlich war er bereits vor mehreren Tagen brutal zusammengeschlagen worden und dann an seinen inneren Verletzungen gestorben. Die Kommissare Max Ballauf und Freddy Schenk finden schnell heraus, dass sich Gerber kurz vor seinem Tod um einen Job als Pianist in einer Hotelbar beworben hatte....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtODAzMzQ1YTMtODYxYi00ODU0LWE2NmUtZGIwZGIxZmFmYjYx",
+      "duration": 5342,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatort: Überlebe wenigstens bis morgen",
+      "type": "tv",
+      "overview": "Niemand vermisst Nelly, niemand fragt nach ihr. Dann zeigt sich, wem sie fatalerweise zu nahekam. Der Stuttgarter \"Tatort\" begleitet die Kommissare Lannert und Bootz bei den Ermittlungen zum Tod der jungen Nelly Schlüter, deren Leiche erst Wochen nach ihrem Tod entdeckt wird. Erstaunlich ist, dass weder Familie, Freunde noch Ex-Freund ihr Verschwinden bemerkt haben. Selbst ihre beste Freundin wirkt erleichtert über Nellys Abwesenheit....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14340876/tatort-ueberlebe-wenigstens-bis-morgen",
+      "duration": 5319,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
       }
     },
     {
@@ -605,7 +746,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTA0LTAyXzIwLTE1LU1FU1o",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTA0LTAyXzIwLTE1LU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5340,
       "providers": {
         "netflix": null,
@@ -697,7 +838,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjA0ZGRjZjMtNGE4YS00NjdhLThiZDYtN2JiZTdkZDc5Yjll",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjA0ZGRjZjMtNGE4YS00NjdhLThiZDYtN2JiZTdkZDc5YjllL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5283,
       "providers": {
         "netflix": null,
@@ -745,98 +886,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MTA2MC8yMDI2MDEwMTIwMTUvdGF0b3J0LW1kci1pbS1lcnN0ZW4tMTE4",
       "duration": 5322,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wofür es sich zu leben lohnt",
-      "type": "tv",
-      "overview": "Seltsam und voller Rätsel sind die Fälle, mit denen die Ermittler:innen Klara Blum, Kai Perlmann und Matteo Lüthi im letzten Bodensee-Tatort befasst sind. \"Wofür es sich zu leben lohnt\": das ist weder eine Frage noch eine Antwort, sondern eine Auffassung - eine Haltung. Denn Haltung ist gefragt, wenn man die Witwe eines nicht nur berüchtigten, sondern auch viel geliebten, zu Tode gepeinigten rechtsextremen Vordenkers verhört....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTEyMjE",
-      "duration": 5245,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Letzte Ernte",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2025 Im Alten Land wurde der rumänische Aushilfsbauer Victor enthauptet. Der örtliche Polizist Olaf Gerke geht von einem tödlichen Arbeitsunfal aus, doch Charlotte Lindholm will das nicht recht glauben. Warum fehlt der Kopf? Da ein paralleler Großeinsatz des LKA alle verfügbaren Einsatzkräfte in Anspruch nimmt, muss Charlotte Lindholm weitestgehend allein ermitteln....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS81Y2EzNmFjYy0yMWI5LTQzZDYtYjEyYi1hMmZkZGNjNjBmNTVfZ2FuemVTZW5kdW5n",
-      "duration": 5383,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Bauernsterben",
-      "type": "tv",
-      "overview": "Fernsehfilm Österreich 2023 Max Winkler, Chef eines Schweinemastbetriebs, liegt tot am Boden im Stall. Zwei Mitarbeiter des Schoberhofs finden die Leiche und verständigen die Behörden. Als Moritz (Harald Krassnitzer) und Bibi (Adele Neuhauser) am Tatort eintreffen, benehmen sich zwei rumänische Cousins zwar verdächtig, kommen aber scheinbar nicht als Täter in Frage....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2U1ODI1OTk5LTY4ODAtNDUzNi1hNjE5LTAyZmUzYzRjOTlmZF9nYW56ZVNlbmR1bmc",
-      "duration": 5315,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Das Herz der Schlange",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2022 Das Ermittlungsteam sitzt gut gelaunt in einem Saarbrücker Restaurant: Hauptkommissar Leo Hölzer, Hauptkommissar Adam Schürk, Hauptkommissarin Esther Baumann und Hauptkommissarin Pia Heinrich sind gerade mit dem Essen fertig, als Adam eine SMS von seinem Vater erhält, der ihn dringend nach Hause bittet, da es seiner Mutter sehr schlecht gehe....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTAxLTI3XzIyLTIwLU1FWg",
-      "duration": 5344,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1203,6 +1252,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Tornado",
+      "type": "tv",
+      "overview": "Ein geraubter Goldschatz wird einer jungen Frau fast zum Verhängnis. Denn das Gold gehört einer brutalen Diebesbande unter Führung eines Mannes namens Sugarman.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/spielfilm-104/tornado-120",
+      "duration": 5221,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tornado (Englisch)",
+      "type": "tv",
+      "overview": "Ein geraubter Goldschatz wird einer jungen Frau fast zum Verhängnis. Denn das Gold gehört einer brutalen Diebesbande unter Führung eines Mannes namens Sugarman.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/spielfilm-104/tornado-120",
+      "duration": 5221,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "The Bricklayer - Tödliche Geheimnisse",
       "type": "tv",
       "overview": "Ein ungleiches CIA-Duo macht in Griechenland Jagd auf einen totgeglaubten Ex-Agenten, der Mordattentate begeht und diese wie Aufträge des amerikanischen Geheimdiensts aussehen lässt.",
@@ -1371,50 +1464,6 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
       "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hot Summer Nights - Spielfilm, USA 2017",
-      "type": "tv",
-      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
-      "duration": 6051,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ein Schloss am Wörthersee - Der Film - Kinofilm, Österreich 1992",
-      "type": "tv",
-      "overview": "Der charmante Lennie Berger hat von seinem Onkel das Schlosshotel Velden geerbt und will es auf Vordermann bringen. Das stößt bei den Angestellten und der Konkurrenz nicht nur auf Zuspruch.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/ein-schloss-am-woerthersee---der-film-100.html",
-      "duration": 4938,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1737,6 +1786,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Inside Zweiter Weltkrieg",
+      "type": "tv",
+      "overview": "Teils stählerner Schutz, teils tödliche Falle: U-Boote und Panzer. Im zweiten Weltkrieg waren sie wichtige Bestandteile der Kriegsführung. Mirko Drotschmann nimmt uns mit auf Entdeckungsreise.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/inside-zweiter-weltkrieg-100",
+      "duration": 2563,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Atlantik – Ozean der Stürme - Ozeane - Eine Menschheitsgeschichte",
+      "type": "tv",
+      "overview": "Seit jeher treibt der Atlantik die Menschen an seine Grenzen: Er war Weg der Entdecker, aber auch Schauplatz des Sklavenhandels. Terra X zeigt, wie der Ozean die Menschheitsgeschichte mitbestimmt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-ozeane-eine-menschheitsgeschichte-100/terra-x-ozeane-eine-menschheitsgeschichte-atlantik-ozean-der-stuerme-doku-100",
+      "duration": 2625,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Warum lieben wir Schlager? Mit Isi Glück",
       "type": "tv",
       "overview": "Was macht Schlager mit unseren Gefühlen? Leon Windscheid trifft Roland Kaiser, Isi Glück und Dr. Pop. Er zeigt, warum Melodie, Rhythmus und Sehnsucht Fans über Generationen verbinden.",
@@ -1869,46 +1962,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Neureuthers: Was macht einen Papa aus?",
+      "title": "Die Haie von Hawaii",
       "type": "tv",
-      "overview": "Felix Neureuther und sein Vater Christian sprechen mit Leon Windscheid darüber, was einen guten Papa ausmacht. Weitere Vater-Kind-Beziehungen und Forschung zeigen, wie wichtig Nähe und Bindung sind.",
+      "overview": "Die Doku begleitet Forschende und Taucher vor der Küste Hawaiis und gibt faszinierende Einblicke in das Verhalten verschiedener Haiarten. Sie zeigt die Bedeutung der Tiere für das Ökosystem und räumt mit verbreiteten Vorurteilen über Haie auf.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra Xplore"
+        "Dokumentationen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/die-neureuthers-was-macht-einen-papa-aus-movie-100",
-      "duration": 2611,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIwMDExNg",
+      "duration": 3151,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "Phoenix"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Ehrlich Brothers: Was geben uns Geschwister?",
+      "title": "Welt der Wale: Pelagos",
       "type": "tv",
-      "overview": "Nähe, Streit, Rivalität: Geschwister begleiten uns oft ein Leben lang. Leon Windscheid spricht mit den Ehrlich Brothers über ihre Kindheit und fragt, wie Geschwister unsere Persönlichkeit prägen.",
+      "overview": "Ein Dreieck der Hoffnung für die Wale und Delfine des Mittelmeers liegt zwischen Korsika, Nizza und Genua, einem Gebiet, das vor gefährlichen Fischereipraktiken geschützt ist und in dem Delfine und Wale gedeihen.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra Xplore"
+        "Dokumentationen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/terra-xplore-ehrlich-brothers-was-geben-uns-geschwister-movie-100",
-      "duration": 2604,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1Nzg2MA",
+      "duration": 3174,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2133,46 +2226,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Wow! Überraschende Tiergeschichten",
+      "title": "Helden des Alltags – Im Einsatz für ein sauberes Frankfurt",
       "type": "tv",
-      "overview": "Film von Petra Lederhilger",
+      "overview": "Damit Frankfurt jeden Morgen sauber, sicher und lebenswert ist, sind täglich zahlreiche Menschen im Einsatz. Oft arbeiten sie im Hintergrund, meist fernab der Aufmerksamkeit. Der Film blickt hinter die Kulissen der Frankfurter Entsorgungs- und Service GmbH und erzählt von Menschen, die mit Engagement, Erfahrung und Herzblut dafür sorgen, dass die Stadt funktioniert. Eine Hommage an die oft unsichtbaren Heldinnen und Helden des Alltags.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1ODQwNA",
-      "duration": 2995,
+      "url": "https://www.ardmediathek.de/video/OGYwYTE1ZTktMjVkOC00MzE4LWEwMzAtNmRhMzNlOTE0Zjg1",
+      "duration": 2695,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Lachs à la bâloise",
-      "type": "tv",
-      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: so vielfältig wie das Land.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/lachs-à-la-bâloise?urn=urn:srf:video:0b52dfa8-8029-4b4f-a62a-44e1b8f8372d",
-      "duration": 3070,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "SRF"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2191,50 +2262,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/ZDNhODMyYTctYTUzMC00NTc5LTg0NzEtNTMyYmIzNTE2OTgz",
       "duration": 2678,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Systemfehler: Der Cum-Ex Skandal",
-      "type": "tv",
-      "overview": "Mit Cum-Ex verbindet man den wohl größten Steuerraub der Geschichte. Er blieb viele Jahre unentdeckt, bis einige mutige Menschen die Wahrheit ans Licht brachten. (Geänderte Fassung)",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/dokus/systemfehler-der-cum-ex-skandal-movie-100",
-      "duration": 5470,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Best-of Night of the Proms 2025",
-      "type": "tv",
-      "overview": "Pop meets Classic: Internationale Megastars spielen mit einem großen Symphonie-Orchester und sorgen mit besonderem Sound für eine einzigartige Atmosphäre. 2025 in der Münchner Olympiahalle mit dabei: Soul Lady Joss Stone, 80er Legende Midge Ure, Singer Songwriter Michael Schulte, Powerstimme Vanessa Amorosi, Percussion Band Safri Duo und Rock-Gigant Alice Cooper....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen im BR"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxMTE1QTA",
-      "duration": 5375,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2375,6 +2402,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Der Pate, Epilog: Der Tod von Michael Corleone",
+      "type": "tv",
+      "overview": "Für Michael Corleone ist es Zeit Bilanz zu ziehen. Er hat den illegalen Tätigkeiten abgeschworen, mit denen sein Vater reich wurde und arbeitet nun mit Bank- und Immobiliengeschäften. Aber seine Jugendverbrechen können nicht ungeschehen gemacht werden ... - Der dritte Teil der Mafiafilm-Trilogie \"Der Pate\" war 1991 für sieben Oscars und für sieben Golden Globes nominiert.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/039997-000-F/der-pate-epilog-der-tod-von-michael-corleone/",
+      "duration": 8901,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kundschafter des Friedens",
+      "type": "tv",
+      "overview": "Die Bundesregierung hat ein Problem: Kurz vor den geplanten Verhandlungen zur Wiedervereinigung zweier ehemaliger Sowjetrepubliken wurde der Präsidentschaftskandidat gemeinsam mit BND-Agent Kern entführt. Da schnell klar wird, dass der BND diese Aufgabe nicht lösen kann, wird ein Spitzenagent der DDR reaktiviert. – Altherren-James-Bond-Komödie (2017) von Robert Thalheim.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/051404-000-A/kundschafter-des-friedens/",
+      "duration": 5136,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kurzschluss - Kosmos und Chaos",
       "type": "tv",
       "overview": "(1) Klitclique – Auto, Kurzfilm (2) TV oder die Ruhestörung an der Waldbergstrasse, Kurzfilm (3) Begegnung – Frederic Siegel, Regisseur (4) Clot, Kurzfilm (5) Begegnung – Aneta Ozorek, Festivalleiterin des Kaboom Animation Festival",
@@ -2499,50 +2570,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/045560-000-A/der-pate-2/",
       "duration": 11350,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Berlin Alexanderplatz",
-      "type": "tv",
-      "overview": "Die Neuverfilmung von Alfred Döblins literarischem Klassiker erzählt die Geschichte des jungen Geflüchteten Francis, der nach Berlin kommt, um dort ein neues Leben in Würde zu beginnen. Doch die Lebensumstände als Staatenloser machen es ihm nicht leicht. Als er dem zwielichtigen Reinhold begegnet, gerät er auf die schiefe Bahn. Ein Sozialdrama von Burhan Qurbani aus dem Jahr 2020.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/078078-000-A/berlin-alexanderplatz/",
-      "duration": 10222,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kurzschluss - Wunden der Kindheit",
-      "type": "tv",
-      "overview": "Nicht vermittelbar, von Fanny Galan / Ich wollt', ich wär' 'ne Kuh, von Cliona Noonan / Zizou, von Khaled Moeit / Privatvorführung – Aude Kerivel, promovierte Soziologin und Autorin",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Kurzfilme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/128693-018-A/kurzschluss/",
-      "duration": 3535,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2717,7 +2744,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIwLTA0LTAyXzIwLTQwLU1FU1o",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIwLTA0LTAyXzIwLTQwLU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5302,
       "providers": {
         "netflix": null,
