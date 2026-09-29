@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-28T11:20:38.374Z",
+  "generated_at": "2026-09-29T10:59:25.150Z",
   "items": [
     {
       "tmdb_id": 1492640,
@@ -20,8 +20,8 @@
         "mk ultra",
         "biopic"
       ],
-      "rating": 7.01,
-      "vote_count": 151,
+      "rating": 6.972,
+      "vote_count": 178,
       "poster_path": "/bq852UKtJ0rBPfbKpxoYlQSUiiz.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=DE",
       "providers": {
@@ -51,8 +51,8 @@
         "demisexual",
         "phd"
       ],
-      "rating": 8.204,
-      "vote_count": 324,
+      "rating": 8.142,
+      "vote_count": 355,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
@@ -98,13 +98,78 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.423,
-      "vote_count": 1741,
+      "rating": 8.426,
+      "vote_count": 1748,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "reboot",
+        "military police"
+      ],
+      "rating": 8.1,
+      "vote_count": 3423,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 247718,
+      "title": "MobLand: Familie bis aufs Blut",
+      "type": "tv",
+      "overview": "Die Karten werden neu gemischt, als zwei verfeindete Verbrecherfamilien in einer Schlacht aneinandergeraten, die Imperien zu stürzen droht. Harry Da Souza, ein gewiefter Mann fürs Grobe, gerät ins Kreuzfeuer und stellt seine Loyalität unter Beweis.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "london, england",
+        "drug trafficking",
+        "gang war",
+        "gangster",
+        "family business ",
+        "murder",
+        "betrayal",
+        "crime family",
+        "fixer",
+        "corrupt cop",
+        "bold",
+        "cruel",
+        "brutal violence"
+      ],
+      "rating": 8.4,
+      "vote_count": 929,
+      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -140,97 +205,10 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.749,
-      "vote_count": 5562,
+      "rating": 8.8,
+      "vote_count": 5566,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 247718,
-      "title": "MobLand: Familie bis aufs Blut",
-      "type": "tv",
-      "overview": "Die Karten werden neu gemischt, als zwei verfeindete Verbrecherfamilien in einer Schlacht aneinandergeraten, die Imperien zu stürzen droht. Harry Da Souza, ein gewiefter Mann fürs Grobe, gerät ins Kreuzfeuer und stellt seine Loyalität unter Beweis.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "london, england",
-        "drug trafficking",
-        "gang war",
-        "gangster",
-        "family business ",
-        "murder",
-        "betrayal",
-        "crime family",
-        "fixer",
-        "corrupt cop",
-        "bold",
-        "cruel",
-        "brutal violence"
-      ],
-      "rating": 8.437,
-      "vote_count": 918,
-      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 290720,
-      "title": "Das letzte Problem",
-      "type": "tv",
-      "overview": "Ein heftiger Sturm schneidet ein Hotel auf einer Insel vor der Küste Mallorcas von der Außenwelt ab. Als die Hotelgästin Elisa Mander tot aufgefunden wird, scheint zunächst alles auf einen Suizid hinzudeuten. Doch schon bald kommen Zweifel an dieser Annahme auf, und die 13 eingeschlossenen Gäste geraten gleichermaßen unter Verdacht. Die Ermittlungen übernimmt Basil, ein ehemaliger Schauspieler, der einst den Detektiv Sherlock Holmes verkörperte und nun selbst den rätselhaften Todesfall aufklären muss. Während sich die Hinweise verdichten, wird deutlich, dass jemand die Wahrheit um jeden Preis verbergen will.",
-      "genres": [
-        "Krimi",
-        "Mystery"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "miniseries",
-        "period drama",
-        "murder mystery",
-        "thriller"
-      ],
-      "rating": 7.2,
-      "vote_count": 14,
-      "poster_path": "/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/290720-el-problema-final/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 113962,
-      "title": "Lioness",
-      "type": "tv",
-      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "undercover agent",
-        "us military",
-        "special ops",
-        "thoughtful",
-        "spy thriller"
-      ],
-      "rating": 8.251,
-      "vote_count": 1640,
-      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -264,8 +242,8 @@
         "axe",
         "based on real person"
       ],
-      "rating": 7.093,
-      "vote_count": 124,
+      "rating": 7.1,
+      "vote_count": 126,
       "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
       "providers": {
@@ -275,83 +253,25 @@
       }
     },
     {
-      "tmdb_id": 153217,
-      "title": "Sparks of Tomorrow",
+      "tmdb_id": 290720,
+      "title": "Das letzte Problem",
       "type": "tv",
-      "overview": "In einer alternativen Vergangenheit schließt sich ein ungleiches Duo zusammen, um einen verschwundenen Katalog zu finden, der den verqualmten Straßen Kyotos Strom bringen könnte.",
+      "overview": "Ein heftiger Sturm schneidet ein Hotel auf einer Insel vor der Küste Mallorcas von der Außenwelt ab. Als die Hotelgästin Elisa Mander tot aufgefunden wird, scheint zunächst alles auf einen Suizid hinzudeuten. Doch schon bald kommen Zweifel an dieser Annahme auf, und die 13 eingeschlossenen Gäste geraten gleichermaßen unter Verdacht. Die Ermittlungen übernimmt Basil, ein ehemaliger Schauspieler, der einst den Detektiv Sherlock Holmes verkörperte und nun selbst den rätselhaften Todesfall aufklären muss. Während sich die Hinweise verdichten, wird deutlich, dass jemand die Wahrheit um jeden Preis verbergen will.",
       "genres": [
-        "Animation",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Krimi",
+        "Mystery"
       ],
       "keywords": [
-        "romance",
-        "steampunk",
-        "kyoto, japan",
-        "anime",
-        "meiji period",
-        "chasing dreams",
-        "based on light novel"
-      ],
-      "rating": 7.6,
-      "vote_count": 14,
-      "poster_path": "/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/153217/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
         "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "reboot",
-        "military police"
+        "miniseries",
+        "period drama",
+        "murder mystery",
+        "thriller"
       ],
-      "rating": 8.13,
-      "vote_count": 3416,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 305357,
-      "title": "A Different World",
-      "type": "tv",
-      "overview": "Eine Erstsemester-Studentin und ihre besten Freund*innen meistern den Spagat zwischen Studium, Liebesdrama und Familienerbe an einem traditionsreichen Schwarzen College.",
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "keywords": [
-        "college student",
-        "based on tv series",
-        "hbcu"
-      ],
-      "rating": 6.3,
-      "vote_count": 10,
-      "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/305357-a-different-world/watch?locale=DE",
+      "rating": 7.2,
+      "vote_count": 15,
+      "poster_path": "/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290720-el-problema-final/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -359,33 +279,26 @@
       }
     },
     {
-      "tmdb_id": 45790,
-      "title": "JoJo's Bizarre Adventure",
+      "tmdb_id": 113962,
+      "title": "Lioness",
       "type": "tv",
-      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
+      "overview": "Lioness folgt einer Marine-Soldatin, die vom CIA rekrutiert wird, um sich mit der Tochter eines Terroristen anzufreunden und dessen Organisation von Innen heraus zu zerstören.",
       "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Drama",
+        "War & Politics"
       ],
       "keywords": [
-        "martial arts",
-        "magic",
-        "vampire",
-        "based on manga",
-        "adventurer",
-        "globetrotting",
-        "shounen",
-        "anime",
-        "muscles",
-        "supernatural power",
-        "horror",
-        "adventure"
+        "central intelligence agency (cia)",
+        "undercover agent",
+        "us military",
+        "special ops",
+        "thoughtful",
+        "spy thriller"
       ],
-      "rating": 8.6,
-      "vote_count": 1662,
-      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
+      "rating": 8.3,
+      "vote_count": 1645,
+      "poster_path": "/lH2qno0NpFRsJhihAl2J4ou7UyC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/113962-lioness/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -409,10 +322,40 @@
         "joseon dynasty (1392–1910)",
         "period piece"
       ],
-      "rating": 7.294,
-      "vote_count": 17,
+      "rating": 7.2,
+      "vote_count": 18,
       "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 2316,
+      "title": "The Office",
+      "type": "tv",
+      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "office",
+        "work",
+        "boss",
+        "remake",
+        "mockumentary",
+        "employer employee relationship",
+        "sitcom",
+        "employment",
+        "workplace comedy",
+        "hilarious"
+      ],
+      "rating": 8.6,
+      "vote_count": 5517,
+      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -483,8 +426,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.4,
-      "vote_count": 4780,
+      "rating": 8.409,
+      "vote_count": 4785,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -494,69 +437,83 @@
       }
     },
     {
-      "tmdb_id": 2316,
-      "title": "The Office",
+      "tmdb_id": 1622,
+      "title": "Supernatural",
       "type": "tv",
-      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
+      "overview": "Als Jungen verloren Sam und Dean Winchester ihre Mutter an eine mysteriöse und dämonische übernatürliche Kraft. Anschließend erklärte ihr Vater ihnen das paranormale Böse bei, das in den dunklen Ecken und auf den Nebenstraßen Amerikas lebt und wie man es tötet. Jetzt durchqueren die Winchester-Brüder das Land und bekämpfen jede Art von übernatürlicher Bedrohung, die ihnen auf dem Weg begegnet.",
       "genres": [
-        "Komödie"
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "office",
-        "work",
-        "boss",
-        "remake",
-        "mockumentary",
-        "employer employee relationship",
-        "sitcom",
-        "employment",
-        "workplace comedy",
-        "hilarious"
+        "angel",
+        "witch",
+        "monster",
+        "exorcism",
+        "supernatural",
+        "paranormal",
+        "purgatory",
+        "paranormal phenomena",
+        "apocalypse",
+        "bromance",
+        "dead mother",
+        "demon",
+        "on the road",
+        "demonic possession",
+        "ghost",
+        "dark fantasy",
+        "demon hunter",
+        "four horsemen of the apocalypse",
+        "fighting evil",
+        "brother brother relationship",
+        "leviathan",
+        "ressurection",
+        "brothers",
+        "horror"
       ],
-      "rating": 8.583,
-      "vote_count": 5516,
-      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
+      "rating": 8.315,
+      "vote_count": 8715,
+      "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
     {
-      "tmdb_id": 155,
-      "title": "The Dark Knight",
+      "tmdb_id": 138843,
+      "title": "Conjuring - Die Heimsuchung",
       "type": "movie",
-      "overview": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+      "overview": "‘Endlich ausreichend Platz!’ sagt sich die Großfamilie um Mutter Carolyn und Vater Roger, als sie das abgelegene Landhaus in Rhode Island beziehen. Doch anscheinend sind sie nicht allein: Eine fremde und zunehmend böse Macht wohnt mitten unter ihnen und macht ein normales Leben unmöglich. In ihrer Verzweiflung wenden sie sich an das renommierte Pärchen Ed und Lorraine Warren, die als Fachleute auf dem Gebiet der Geisteraustreibung gelten. Doch ihre anfängliche Souveränität weicht der puren Angst, als sie bemerken, mit welch bösen Kräften sie es hier zu tun haben.",
       "genres": [
-        "Action",
-        "Thriller",
-        "Krimi"
+        "Horror",
+        "Thriller"
       ],
       "keywords": [
-        "sadism",
-        "chaos",
-        "secret identity",
-        "crime fighter",
-        "superhero",
-        "anti hero",
-        "scarecrow",
-        "based on comic",
-        "vigilante",
-        "organized crime",
-        "tragic hero",
-        "anti villain",
-        "criminal mastermind",
-        "district attorney",
-        "super power",
-        "super villain",
-        "neo-noir",
-        "bold"
+        "sibling relationship",
+        "1970s",
+        "cellar",
+        "exorcism",
+        "halloween",
+        "haunted house",
+        "possession",
+        "rhode island",
+        "based on true story",
+        "paranormal investigation",
+        "crucifix",
+        "ghost",
+        "demonic",
+        "demonic spirit",
+        "demonology",
+        "psychic vision",
+        "malevolent spirit"
       ],
-      "rating": 8.536,
-      "vote_count": 36828,
-      "poster_path": "/z1DfRQf2CgnROyhVZ6ch8FbWt71.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=DE",
+      "rating": 7.541,
+      "vote_count": 13109,
+      "poster_path": "/pO6PL9Uw2fafe3MaF73FrgjH9tL.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/138843-the-conjuring/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -564,55 +521,77 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224853.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225002.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 30981,
-      "title": "MONSTER",
+      "tmdb_id": 225385,
+      "title": "Black Doves",
       "type": "tv",
-      "overview": "Deutschland, 1986. Dr. Kenzo Tenma ist Neurochirurg in einer Düsseldorfer Klinik. Eigentlich ist es der perfekte Job für einen Arzt wie ihn, wenn es da nicht seine Vorgesetzen gäbe. Mehrfach muss er einflussreiche Patienten bei der medizinischen Versorgung vorziehen. Eines Tages werden zwei Geschwister in die Klinik eingeliefert, die am Schauplatz eines Verbrechens aufgefunden wurden. Der Junge, Johann, schwebt in Lebensgefahr, doch Tenma soll stattdessen einen bekannten Politiker operieren. Er widersetzt sich den Anweisungen seines Oberarztes und operiert das Kind. Ein verhängnisvoller Fehler, den er später bereuen wird, denn Johann ist kein normaler Junge. Kurze Zeit später werden Tenmas Vorgesetzte ermordet und die Kinder, Johann und Anna, sind spurlos verschwunden.",
+      "overview": "Eine Spionin, die sich als Frau eines Politikers ausgibt, erfährt vom Mord an ihrem Geliebten und sucht nun mit einem befreundeten Auftragsmörder nach der Wahrheit – und Rache.",
       "genres": [
-        "Animation",
-        "Drama",
+        "Action & Adventure",
         "Mystery",
         "Krimi"
       ],
       "keywords": [
-        "monster",
-        "orphanage",
-        "dilemma",
-        "hospital",
-        "doctor",
-        "orphan",
-        "based on manga",
-        "police detective",
-        "ethical dilemma",
-        "seinen",
-        "anime",
-        "philosophical",
-        "picture book",
-        "complex",
-        "serious",
-        "suspense",
-        "witty",
+        "holiday",
+        "london, england",
+        "spy",
+        "espionage",
+        "female protagonist",
+        "political",
+        "spies",
+        "thriller",
         "intense",
-        "ominous",
-        "optimistic"
+        "action",
+        "brisk",
+        "christmas thriller"
       ],
-      "rating": 8.5,
-      "vote_count": 844,
-      "poster_path": "/vdYJJ6GdbAGpucxJjMnhaLfS9mR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/30981-monster/watch?locale=DE",
+      "rating": 7,
+      "vote_count": 444,
+      "poster_path": "/uoXtkm2P4HPPL8T3IBJ02G3hCC4.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/225385-black-doves/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000224869.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 273240,
+      "title": "Off Campus",
+      "type": "tv",
+      "overview": "Hannah Wells gibt Eishockey-Kapitän Garrett Graham Nachhilfe, um ihren Schwarm zu erobern. Doch aus ihrem Deal entsteht eine echte Verbindung, während sich beide ihrer Vergangenheit stellen. Zusammen mit ihren Freunden Logan, Dean, Tucker und Allie navigieren sie durch das Chaos aus College-Leben und Liebe.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "self-discovery",
+        "love",
+        "romance",
+        "romantic",
+        "compassionate"
+      ],
+      "rating": 8.892,
+      "vote_count": 869,
+      "poster_path": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/273240-off-campus/watch?locale=DE",
+      "providers": {
+        "netflix": null,
         "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000224804.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000224933.html",
         "mentions": 2
       }
     },
@@ -1252,7 +1231,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tornado",
+      "title": "Tornado (Englisch)",
       "type": "tv",
       "overview": "Ein geraubter Goldschatz wird einer jungen Frau fast zum Verhängnis. Denn das Gold gehört einer brutalen Diebesbande unter Führung eines Mannes namens Sugarman.",
       "genres": [
@@ -1274,7 +1253,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tornado (Englisch)",
+      "title": "Tornado",
       "type": "tv",
       "overview": "Ein geraubter Goldschatz wird einer jungen Frau fast zum Verhängnis. Denn das Gold gehört einer brutalen Diebesbande unter Führung eines Mannes namens Sugarman.",
       "genres": [
@@ -1318,7 +1297,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dumb Money - Schnelles Geld (Englisch)",
+      "title": "Dumb Money - Schnelles Geld",
       "type": "tv",
       "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
       "genres": [
@@ -1340,7 +1319,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Dumb Money - Schnelles Geld",
+      "title": "Dumb Money - Schnelles Geld (Englisch)",
       "type": "tv",
       "overview": "Während der Coronapandemie sorgt der YouTuber und Hobby-Finanzexperte Keith Gill alias Roaring Kitty für eine Revolution auf dem Aktienmarkt und für Milliardenverluste an der Wall Street.",
       "genres": [
@@ -1429,28 +1408,6 @@
     {
       "tmdb_id": null,
       "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
-      "type": "tv",
-      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
-      "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
       "type": "tv",
       "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
       "genres": [
@@ -1962,6 +1919,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Die Winzerfamilien",
+      "type": "tv",
+      "overview": "Im Tessin ist die Weinproduktion vor allem eine Familienangelegenheit: Vater, Mutter und Kinder müssen alle hart arbeiten, um die Zukunft des Betriebs zu sichern – ob im Weinberg, im Keller oder im Verkauf. Das ist eine schwierige Herausforderung in einem Sektor, der unter besonderem Druck steht: Wie kommen die Winzerfamilien damit zurecht?",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/die-winzerfamilien?urn=urn:srf:video:d895b9b4-4b44-4d92-aa1d-c4945f8857b8",
+      "duration": 3226,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Die Haie von Hawaii",
       "type": "tv",
       "overview": "Die Doku begleitet Forschende und Taucher vor der Küste Hawaiis und gibt faszinierende Einblicke in das Verhalten verschiedener Haiarten. Sie zeigt die Bedeutung der Tiere für das Ökosystem und räumt mit verbreiteten Vorurteilen über Haie auf.",
@@ -2204,24 +2183,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "Über den Wolken · Himalaja",
+      "title": "Von Bierbaronen und Künstlerfürsten",
       "type": "tv",
-      "overview": "Film von Alex Lanchester",
+      "overview": "München um 1900: Der Auftakt zum turbulenten 20. Jahrhundert zwischen Provinz und Pomp, zwischen Bohème und Bierboazn. Brigitte Hobmeier, die Darstellerin der Colina Kandl in der Event-Serie \"Oktoberfest 1900\", führt in dieser Dokumentation zurück in die spannende Zeit, wo nichts mehr so ist, wie es einmal war.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen im BR"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTA0MTM3Mg",
-      "duration": 2955,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyMFdPMDIxNzkzQTA",
+      "duration": 2590,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Sorry Genosse - Dokumentarfilm von Vera Brückner, Deutschland 2022",
+      "type": "tv",
+      "overview": "Die Medizinstudentin Hedi aus der DDR und der BRD-Student Karl lieben sich in Zeiten des Kalten Kriegs. Sie leben zwar beide in Deutschland, sind aber getrennt durch den Eisernen Vorhang.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentarfilmzeit"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/dokumentarfilmzeit/sorry-genosse-100.html",
+      "duration": 5555,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Heli-Retter: Notarzteinsatz nach Amokfahrt",
+      "type": "tv",
+      "overview": "Der Hubschrauber \"Christoph 22\" startet von Ulm aus zu Rettungseinsätzen auf der Schwäbischen Alb, dem Bodensee und Oberschwaben. In dringenden Notfällen ist er oft das einzige und schnellste Rettungsmittel. An Bord: ein Pilot, ein Notarzt und ein Notfallsanitäter. Diesmal wird das Team zum Einsatz nach einer Amokfahrt gerufen. Mehrere Menschen sind verletzt, die Sicherheitslage ist noch unklar....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Doku & Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTMxMjU",
+      "duration": 2672,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2402,6 +2425,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Das Experiment",
+      "type": "tv",
+      "overview": "20 Männer lassen sich für zwei Wochen auf ein riskantes Rollenspiel ein: Gefangene und Wärter in einem simulierten Gefängnis. Anfangs gelten klare Regeln, Gewalt ist verboten. Doch Macht, Angst und Gehorsam verändern alles. Aus der Studie wird ein Alptraum – und die Frage bleibt: Kann \"Das Experiment\" noch gelingen? Psychothriller, inspiriert vom Stanford-Prison-Experiment.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/124357-000-A/das-experiment/",
+      "duration": 6770,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Gefangene von Alcatraz",
+      "type": "tv",
+      "overview": "Eine ungewöhnliche Lebensgeschichte: Der verbitterte Strafgefangene Robert Stroud tötet im Streit einen Wärter und wird zu lebenslanger Einzelhaft verurteilt. Er erhält aber die Erlaubnis, Kanarienvögel zu züchten. Beharrlich entwickelt er unter anderem ein Heilmittel gegen eine tödliche Vogelkrankheit, was ihn über die Gefängnismauern hinaus bekannt macht. Kann er begnadigt werden?",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/128679-000-A/der-gefangene-von-alcatraz/",
+      "duration": 8548,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der Pate, Epilog: Der Tod von Michael Corleone",
       "type": "tv",
       "overview": "Für Michael Corleone ist es Zeit Bilanz zu ziehen. Er hat den illegalen Tätigkeiten abgeschworen, mit denen sein Vater reich wurde und arbeitet nun mit Bank- und Immobiliengeschäften. Aber seine Jugendverbrechen können nicht ungeschehen gemacht werden ... - Der dritte Teil der Mafiafilm-Trilogie \"Der Pate\" war 1991 für sieben Oscars und für sieben Golden Globes nominiert.",
@@ -2512,68 +2579,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Black Rain",
+      "title": "Falsches Spiel – Der Bozen-Krimi (S01/E07)",
       "type": "tv",
-      "overview": "Nick Conklin, ein harter New Yorker Cop, soll mit seinem jüngeren Partner Charlie Vincent den Yakuza-Auftragsmörder Sato in Osaka den japanischen Behörden übergeben. Doch die Übergabe geht schief. Und dann wird die Angelegenheit auch noch persönlich. – Starbesetzer, packender Action-Klassiker von Ridley Scott, mit faszinierender Bildgestaltung, 1990 für zwei Oscars nominiert.",
+      "overview": "Ein neuer Mordfall beschäftigt Sonja Schwarz (Chiara Schoras). Um den gewaltsamen Tod eines Kraftfahrers in einem Marmorwerk aufzuklären, muss sie ihre Arbeit auf dem Weingut wieder einmal vernachlässigen. Ausgerechnet jetzt kann sie sich auch nicht auf das Kripo-Team verlassen: Dort gibt es eine undichte Stelle....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Der Bozen-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/125608-000-A/black-rain/",
-      "duration": 7098,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI0LTA2LTA4XzIzLTU1LU1FU1o",
+      "duration": 5305,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Man nennt mich Hondo",
-      "type": "tv",
-      "overview": "Eine alleinstehende Rancherin und ihr Sohn geraten in Gefahr. Diesem Umstand verdankt es Hondo Lane, ein Kurierreiter der Kavallerie, dass er plötzlich für den Schutz der eigenwilligen Angie Lowe verantwortlich ist und zur Vaterfigur für ihren Sohn Johnny wird. – Film-Adaption (1953) von John Farrow und John Ford nach der Erzählung \"The Gift of Cochise\" von Louis L'Amour.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/079357-000-A/man-nennt-mich-hondo/",
-      "duration": 4822,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Pate 2",
-      "type": "tv",
-      "overview": "Als Vito Corleone alias \"Der Pate\" stirbt, übernimmt sein Sohn Michael die Geschäfte und wird bald zu einem der meistgefürchteten Mafiabosse. Als er aber mit der Kasino-Mafia zu verhandeln beginnt, verliert Michael die Unterstützung eines seiner engsten New Yorker Kollegen, Frankie Pentangeli. – Der zweite Teil der opulenten Mafiasaga wurde 1975 mit sechs Oscars ausgezeichnet.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/045560-000-A/der-pate-2/",
-      "duration": 11350,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2724,28 +2747,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjItMDMtMzFfMjAtMTUtTUVTWg",
       "duration": 5273,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Blutrache – Der Bozen-Krimi (S01/E10)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2020\r\n\r\nIn die engen Gassen der süditalienischen Hafenstadt Bari führt der zehnte Bozen-Krimi \"Blutrache\" das Ermittlerduo. Matteo merkt, dass er zwischen die Fronten eines gefährlichen Machtkampfes innerhalb der Mafia geraten ist.\r\n\r\nMit Chiara Schoras, Tobias Oertel, Charleen Deetz, Lisa Kreuzer u.a. | Buch: Thorsten Näter | Regie: Thorsten Näter",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Bozen-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIwLTA0LTAyXzIwLTQwLU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5302,
       "providers": {
         "netflix": null,
         "prime": null,
