@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-30T10:49:33.491Z",
+  "generated_at": "2026-10-01T11:15:58.583Z",
   "items": [
     {
       "tmdb_id": 1492640,
@@ -20,8 +20,8 @@
         "mk ultra",
         "biopic"
       ],
-      "rating": 6.811,
-      "vote_count": 206,
+      "rating": 6.668,
+      "vote_count": 232,
       "poster_path": "/bq852UKtJ0rBPfbKpxoYlQSUiiz.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=DE",
       "providers": {
@@ -31,34 +31,82 @@
       }
     },
     {
-      "tmdb_id": 1032863,
-      "title": "Die theoretische Unwahrscheinlichkeit von Liebe",
+      "tmdb_id": 1322562,
+      "title": "劇場版モノノ怪 第三章 蛇神",
       "type": "movie",
-      "overview": "Olive, eine Doktorandin, küsst spontan den einschüchterndsten Professor ihres Fachbereichs, Adam Carlsen. Ihr gemeinsames Bedürfnis nach einer Scheinbeziehung wird zum chemischen Experiment, das womöglich die Formel für die Liebe liefert.",
+      "overview": "",
       "genres": [
-        "Liebesfilm",
-        "Komödie"
+        "Animation",
+        "Fantasy",
+        "Mystery"
       ],
       "keywords": [
-        "based on novel or book",
-        "professor",
-        "romcom",
-        "love",
-        "biologist",
-        "pretend relationship",
-        "asexuality",
-        "fake dating",
-        "demisexual",
-        "phd",
-        "based on fanfiction"
+        "magic",
+        "sequel",
+        "demon",
+        "seinen",
+        "japanese mythology",
+        "anime"
       ],
-      "rating": 8.131,
-      "vote_count": 373,
-      "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
+      "rating": 8.4,
+      "vote_count": 5,
+      "poster_path": "/93zvlPMHQb3xoX40bNL8bck7O00.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1322562/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 284792,
+      "title": "Medusa",
+      "type": "tv",
+      "overview": "Jemand will die Firmenchefin Bárbara Hidalgo töten. Während skrupellose Familienmitglieder ihr Unternehmen an sich reißen wollen, versucht sie, den Attentäter zu finden.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "thriller",
+        "mistery"
+      ],
+      "rating": 7.3,
+      "vote_count": 88,
+      "poster_path": "/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/284792-medusa/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 134667,
+      "title": "Reincarnated as a Sword",
+      "type": "tv",
+      "overview": "Der Protagonist wurde in einer anderen Welt wiedergeboren – nicht als normaler Mensch, sondern als ein Schwert. Er ist überrascht, aber mehr als entschlossen, sein Leben als Schwert fortzusetzen. Während er Dämonen jagt und dabei auf seine Fähigkeit zu schweben baut, behält er immer seine Umgebung im Auge. Als er sich eine Pause gönnt und das Schwert in den Boden stößt, hört seine Fähigkeit auf zu wirken. Als er nicht mehr weiter weiß, taucht plötzlich ein Mädchen mit Katzenohren namens Fran vor ihm auf …",
+      "genres": [
+        "Animation",
+        "Komödie",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "magic",
+        "slavery",
+        "reincarnation",
+        "combat",
+        "anime",
+        "isekai",
+        "based on light novel",
+        "adventure"
+      ],
+      "rating": 7.3,
+      "vote_count": 91,
+      "poster_path": "/Avn1pnxeDznpJStZFq4jOxPM4Ek.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/134667/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -87,7 +135,7 @@
         "brutal violence"
       ],
       "rating": 8.5,
-      "vote_count": 934,
+      "vote_count": 938,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -97,44 +145,65 @@
       }
     },
     {
-      "tmdb_id": 37854,
-      "title": "One Piece",
+      "tmdb_id": 318918,
+      "title": "LEGO One Piece",
       "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+      "overview": "Die Strohhüte stechen in diesem zweiteiligen LEGO-Special in See! Begleite Ruffy, Nami, Lysop und die Crew auf ihrer legendären Reise, die komplett aus Steinen nachgebaut wurde.",
       "genres": [
+        "Animation",
         "Action & Adventure",
+        "Sci-Fi & Fantasy",
         "Komödie",
-        "Animation"
+        "Familie"
       ],
       "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
+        "based on comic",
+        "miniseries",
         "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
+        "spin off",
+        "swashbuckler",
+        "retelling",
+        "quest",
+        "lego"
       ],
-      "rating": 8.8,
-      "vote_count": 5569,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "rating": 8.6,
+      "vote_count": 8,
+      "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/318918-lego-one-piece/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "reboot",
+        "military police"
+      ],
+      "rating": 8.135,
+      "vote_count": 3437,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -175,66 +244,13 @@
         "based on light novel",
         "adventure"
       ],
-      "rating": 8.427,
-      "vote_count": 1751,
+      "rating": 8.429,
+      "vote_count": 1753,
       "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
       "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 284792,
-      "title": "Medusa",
-      "type": "tv",
-      "overview": "Jemand will die Firmenchefin Bárbara Hidalgo töten. Während skrupellose Familienmitglieder ihr Unternehmen an sich reißen wollen, versucht sie, den Attentäter zu finden.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "thriller",
-        "mistery"
-      ],
-      "rating": 7.3,
-      "vote_count": 87,
-      "poster_path": "/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/284792-medusa/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "reboot",
-        "military police"
-      ],
-      "rating": 8.133,
-      "vote_count": 3430,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -265,8 +281,8 @@
         "axe",
         "based on real person"
       ],
-      "rating": 7.057,
-      "vote_count": 132,
+      "rating": 7,
+      "vote_count": 135,
       "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
       "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
       "providers": {
@@ -276,55 +292,34 @@
       }
     },
     {
-      "tmdb_id": 290720,
-      "title": "Das letzte Problem",
-      "type": "tv",
-      "overview": "Ein heftiger Sturm schneidet ein Hotel auf einer Insel vor der Küste Mallorcas von der Außenwelt ab. Als die Hotelgästin Elisa Mander tot aufgefunden wird, scheint zunächst alles auf einen Suizid hinzudeuten. Doch schon bald kommen Zweifel an dieser Annahme auf, und die 13 eingeschlossenen Gäste geraten gleichermaßen unter Verdacht. Die Ermittlungen übernimmt Basil, ein ehemaliger Schauspieler, der einst den Detektiv Sherlock Holmes verkörperte und nun selbst den rätselhaften Todesfall aufklären muss. Während sich die Hinweise verdichten, wird deutlich, dass jemand die Wahrheit um jeden Preis verbergen will.",
+      "tmdb_id": 1032863,
+      "title": "Die theoretische Unwahrscheinlichkeit von Liebe",
+      "type": "movie",
+      "overview": "Olive, eine Doktorandin, küsst spontan den einschüchterndsten Professor ihres Fachbereichs, Adam Carlsen. Ihr gemeinsames Bedürfnis nach einer Scheinbeziehung wird zum chemischen Experiment, das womöglich die Formel für die Liebe liefert.",
       "genres": [
-        "Krimi",
-        "Mystery"
+        "Liebesfilm",
+        "Komödie"
       ],
       "keywords": [
         "based on novel or book",
-        "miniseries",
-        "period drama",
-        "murder mystery",
-        "thriller"
+        "professor",
+        "romcom",
+        "love",
+        "biologist",
+        "pretend relationship",
+        "asexuality",
+        "fake dating",
+        "demisexual",
+        "phd",
+        "based on fanfiction"
       ],
-      "rating": 7.559,
-      "vote_count": 17,
-      "poster_path": "/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/290720-el-problema-final/watch?locale=DE",
+      "rating": 8.1,
+      "vote_count": 389,
+      "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 275102,
-      "title": "The Scandal",
-      "type": "tv",
-      "overview": "Im Joseon-Reich gerät Lady Cho, eine kluge und selbstbewusste Adlige, in einen Ehekonflikt, als ihr Mann Lord Yoo eine junge Konkubine nehmen will. Sie wendet sich an ihren Cousin Cho Won, einen berüchtigten Verführer, und schlägt ihm ein gefährliches Spiel vor. Gemeinsam wollen sie die tugendhafte junge Witwe Hui-yeon verführen und ihre Gefühle auf die Probe stellen. Cho Won nimmt die Herausforderung an, doch was als Wette beginnt, entwickelt sich zu einem Geflecht aus Begehren, Eifersucht und echten Gefühlen. Während Hui-yeon sich gegen seine Annäherungen wehrt, gerät Cho Won zunehmend in einen inneren Konflikt. Lady Cho versucht, die Kontrolle zu behalten, doch ihre eigenen Gefühle und die wachsende Nähe zwischen Cho Won und Hui-yeon bringen ihren Plan außer Kontrolle. Ein königlicher Befehl verschärft die Lage und zwingt die Beteiligten, sich den Folgen ihrer Intrige zu stellen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "eroticism",
-        "seduction",
-        "remake",
-        "based on movie",
-        "joseon dynasty (1392–1910)",
-        "period piece"
-      ],
-      "rating": 6.6,
-      "vote_count": 21,
-      "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -373,6 +368,33 @@
       }
     },
     {
+      "tmdb_id": 275102,
+      "title": "The Scandal",
+      "type": "tv",
+      "overview": "Im Joseon-Reich gerät Lady Cho, eine kluge und selbstbewusste Adlige, in einen Ehekonflikt, als ihr Mann Lord Yoo eine junge Konkubine nehmen will. Sie wendet sich an ihren Cousin Cho Won, einen berüchtigten Verführer, und schlägt ihm ein gefährliches Spiel vor. Gemeinsam wollen sie die tugendhafte junge Witwe Hui-yeon verführen und ihre Gefühle auf die Probe stellen. Cho Won nimmt die Herausforderung an, doch was als Wette beginnt, entwickelt sich zu einem Geflecht aus Begehren, Eifersucht und echten Gefühlen. Während Hui-yeon sich gegen seine Annäherungen wehrt, gerät Cho Won zunehmend in einen inneren Konflikt. Lady Cho versucht, die Kontrolle zu behalten, doch ihre eigenen Gefühle und die wachsende Nähe zwischen Cho Won und Hui-yeon bringen ihren Plan außer Kontrolle. Ein königlicher Befehl verschärft die Lage und zwingt die Beteiligten, sich den Folgen ihrer Intrige zu stellen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "eroticism",
+        "seduction",
+        "remake",
+        "based on movie",
+        "joseon dynasty (1392–1910)",
+        "period piece"
+      ],
+      "rating": 6.6,
+      "vote_count": 21,
+      "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
       "tmdb_id": 5920,
       "title": "The Mentalist",
       "type": "tv",
@@ -392,8 +414,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.41,
-      "vote_count": 4786,
+      "rating": 8.4,
+      "vote_count": 4789,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -423,7 +445,7 @@
         "hilarious"
       ],
       "rating": 8.583,
-      "vote_count": 5519,
+      "vote_count": 5520,
       "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
@@ -433,40 +455,101 @@
       }
     },
     {
-      "tmdb_id": 2691,
-      "title": "Two and a Half Men",
+      "tmdb_id": 91239,
+      "title": "Bridgerton",
       "type": "tv",
-      "overview": " Charlie ist ein recht wohlhabender Junggeselle mit einem Haus am Strand und einem Jaguar in der Garage. Nachdem sich sein Bruder Alan hat scheiden lassen zieht er mit seinem Sohn bei Onkel Charlie ein. Ganz klar, dass dessen \"Malibu Lifestyle\" nun völlig durcheinander kommt. Nach einigen Anfangsschwierigkeiten läuft der Alltag in der Männer-WG eigentlich ganz gut, wären da nicht die ständigen Kontrollbesuche ihrer Mutter Evelyn. Außerdem versucht Nachbarin Rose alles, um nur in der Nähe von Charlie sein zu können.",
+      "overview": "Diese von den Bestsellern von Julia Quinn inspirierte Serie begleitet die acht Geschwister der Familie Bridgerton in der Londoner High Society auf der Suche nach Liebe.",
       "genres": [
-        "Komödie"
+        "Drama"
       ],
       "keywords": [
-        "sibling relationship",
-        "california",
-        "composer",
-        "roommates",
-        "evil mother",
-        "malibu",
-        "advertising",
-        "drinking",
-        "beach house",
-        "sitcom",
-        "living with sibling",
-        "rich brother"
+        "based on novel or book",
+        "society",
+        "marriage",
+        "love",
+        "romance",
+        "alternate history",
+        "period drama",
+        "lgbt",
+        "courtship",
+        "georgian or regency era",
+        "period piece",
+        "secret",
+        "non-traditional casting"
       ],
-      "rating": 7.4,
-      "vote_count": 3799,
-      "poster_path": "/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/2691-two-and-a-half-men/watch?locale=DE",
+      "rating": 8.046,
+      "vote_count": 3408,
+      "poster_path": "/pUCGS3E0L5wzOR2nxzjWSumFfax.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/91239-bridgerton/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225202.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225287.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 223313,
+      "title": "Obsession",
+      "type": "tv",
+      "overview": "Die Affäre eines angesehenen Londoner Chirurgen mit der Verlobten seines Sohnes mündet in eine Amour fou, die ihr Leben für immer zu verändern droht.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "love triangle",
+        "based on novel or book",
+        "infidelity",
+        "obsession",
+        "fiancé",
+        "surgeon",
+        "romance",
+        "older man younger woman relationship",
+        "love affair",
+        "incest",
+        "erotic thriller"
+      ],
+      "rating": 6.47,
+      "vote_count": 197,
+      "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/223313-obsession/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000225271.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tödliche Ermittlungen",
+      "type": "tv",
+      "overview": "Die Ludwigshafenerin Bettina Schnell steht kurz vor ihrer Abschlussprüfung an der Polizeischule, als sie ermordet wird. Bei ihren Ausbildern war die junge Frau als besonders tüchtig und ehrgeizig bekannt. Auch beim Leiter der Schule, Robert Brandstetter, mit dessen Sohn Torben sie verlobt war....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTM4Nzc",
+      "duration": 5298,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -645,7 +728,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTA0LTAyXzIwLTE1LU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTA0LTAyXzIwLTE1LU1FU1o",
       "duration": 5340,
       "providers": {
         "netflix": null,
@@ -715,29 +798,6 @@
       "vote_count": 0,
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjM2NzBlNDMtOTBmMC00YTQxLWE5M2QtNTlhYWU3NGI0N2Ew",
-      "duration": 5283,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die letzten Menschen von Köln (2026)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2026 +++ Ausnahmezustand in der Domstadt: Die Bergung einer Weltkriegsbombe hält alle in Atem. Währenddessen ermitteln Ballauf und Schenk den gewaltsamen Tod eines Lehrers. Der junge Mann wurde kaltblütig in einem Park erstochen. Tatwaffe: Ein Jagdmesser. Schnell führen die Spuren die Hauptkommissare zur Schwester des Opfers. Doch diese ist wie vom Erdboden verschluckt....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjA0ZGRjZjMtNGE4YS00NjdhLThiZDYtN2JiZTdkZDc5YjllL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5283,
       "providers": {
         "netflix": null,
@@ -1149,7 +1209,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tornado",
+      "title": "Tornado (Englisch)",
       "type": "tv",
       "overview": "Ein geraubter Goldschatz wird einer jungen Frau fast zum Verhängnis. Denn das Gold gehört einer brutalen Diebesbande unter Führung eines Mannes namens Sugarman.",
       "genres": [
@@ -1171,7 +1231,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tornado (Englisch)",
+      "title": "Tornado",
       "type": "tv",
       "overview": "Ein geraubter Goldschatz wird einer jungen Frau fast zum Verhängnis. Denn das Gold gehört einer brutalen Diebesbande unter Führung eines Mannes namens Sugarman.",
       "genres": [
@@ -1259,7 +1319,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
       "type": "tv",
       "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
       "genres": [
@@ -1281,7 +1341,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
       "type": "tv",
       "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
       "genres": [
@@ -2189,6 +2249,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Trotzdem Hagen · Eine Stadt kämpft gegen den Niedergang",
+      "type": "tv",
+      "overview": "Ein Architektenhaus aus den 60ern. 220 Quadratmeter in Toplage. Doch das Haus hat ein Problem: Es steht in Hagen. Hagen ist eine Stadt, deren Ruf ordentlich ramponiert ist. Verschuldung, Arbeitslosigkeit, Schrottimmobilien, in den letzten Jahren jagte eine Elendsreportage die nächste und die Medienwelt ist sich einig: Hagen ist schlimm! Wirklich?...",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "die story"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNzhlYzQyMGItYTgzZS00NWI0LWJlYTctMDM3ZDEyYWZlMTg0",
+      "duration": 2667,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kölner Oper: Sanierungsdrama, letzter Akt",
       "type": "tv",
       "overview": "14 Jahre hat die Sanierung der Kölner Opfer gedauert und nahezu 1,5 Milliarden Euro statt 250 Millionen gekostet. Im September 2026 sollen die Kölner Oper und das Schauspielhaus endlich wiedereröffnet werden. Wie konnte diese öffentliche Baumaßnahme derart aus dem Ruder laufen? \"Die Sanierung der Bühnen Köln war eine schwierige, eine lange und eine teure Geschichte....",
@@ -2299,24 +2381,90 @@
     },
     {
       "tmdb_id": null,
-      "title": "Generation Nichtschwimmer · NRW und seine kaputten Bäder",
+      "title": "Der unsichtbare Aufstand",
       "type": "tv",
-      "overview": "Schwimmen lernen ist für viele Kinder in Nordrhein-Westfalen längst keine Selbstverständlichkeit mehr: Mehr als die Hälfte verlässt die Grundschule, ohne sicher schwimmen zu können. Gleichzeitig schließen immer mehr Bäder, Kurse sind über Jahre ausgebucht und Personal fehlt: In den vergangenen 25 Jahren haben über 40 Prozent der Schwimmbäder in NRW dichtgemacht. Viele der verbliebenen Anlagen sind marode oder zeitweise geschlossen....",
+      "overview": "Als die uruguayische Stadtguerilla den in Montevideo lebenden US-Bürger Philip Michael Santore entführt, scheint diese Tat zunächst unverständlich. Doch dann stellt sich heraus, dass der vermeintlich harmlose Technikberater in Wahrheit ein hochkarätiger Militärberater ist, der im Auftrag der US-Regierung den Polizeiapparat der Diktatur unterstützt. ",
       "genres": [
-        "Dokumentarfilm"
+        "Drama"
       ],
       "keywords": [
-        "die story"
+        "Kino - Filme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMTNjN2IwODMtZDZjNi00N2FkLWFkZjItYmJhNWQ4NjBkY2Y3",
-      "duration": 2489,
+      "url": "https://www.arte.tv/de/videos/010323-000-A/der-unsichtbare-aufstand/",
+      "duration": 6919,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kurzschluss - Auf zu neuen Ufern",
+      "type": "tv",
+      "overview": "(1) Wovon träumen Distelfinken? (2) Ein paar Dinge, die am Fluss passieren (3) Die Holzpuppe und der Wal (4) Short Cuts",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Kurzfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/128693-019-A/kurzschluss/",
+      "duration": 3645,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Im Schatten der Wälder",
+      "type": "tv",
+      "overview": "Kommissarin Michèle Varin wird seit dem Tod ihres Sohnes von Alpträumen verfolgt. Gleichzeitig muss sie den Suizid einer psychisch kranken Frau untersuchen. Als ihr Kollege sich während der Ermittlungen erschießt, verschwimmen Realität und Wahn für Varin völlig. Guillaume Nicloux inszeniert mit Josiane Balasko einen atmosphärischen Psychothriller zwischen Krimi und Mystery.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/040258-000-A/im-schatten-der-waelder/",
+      "duration": 5642,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Alles in bester Ordnung",
+      "type": "tv",
+      "overview": "Marlen ist viel gereist und sammelt leidenschaftlich Dinge. Alles ist zu wertvoll, um es wegzuschmeißen. Fynn dagegen will mit nur 100 Dingen durch die Welt gehen. \"Ordnung ist das halbe Leben!\", sagt er. \"Willkommen in der anderen Hälfte!\", antwortet sie. – Komödie von Natja Brunckhorst, die ihre Premiere 2021 auf dem Filmfest Hamburg feierte.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/087848-000-A/alles-in-bester-ordnung/",
+      "duration": 5568,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2409,68 +2557,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kurzschluss - Kosmos und Chaos",
+      "title": "Borchert und der Schuss ins Herz (S01/E22)",
       "type": "tv",
-      "overview": "(1) Klitclique – Auto, Kurzfilm (2) TV oder die Ruhestörung an der Waldbergstrasse, Kurzfilm (3) Begegnung – Frederic Siegel, Regisseur (4) Clot, Kurzfilm (5) Begegnung – Aneta Ozorek, Festivalleiterin des Kaboom Animation Festival",
+      "overview": "Spielfilm Deutschland 2024 Der einflussreiche Zürcher Waffenhersteller Gessler (Stephan Kampwirth) weiß, dass er und seine 18-jährige Tochter Zoe (Carla Hüttermann) in ständiger Gefahr leben. Als jemand in die hochgesicherte Luxusvilla einbricht, flüchtet die Schülerin in den Panic-Room. Am nächsten Morgen wird Gesslers Personenschützer Lösch (Anton Rubtsov) erschlagen in einer Hackerlounge aufgefunden....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Kurzfilme"
+        "Der Zürich-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/130662-008-A/kurzschluss/",
-      "duration": 2716,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMTItMTlfMjAtMTUtTUVa",
+      "duration": 5327,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sterben",
-      "type": "tv",
-      "overview": "Die Familie Lunies hat sich über die Jahre verloren, das Leben hat sie auseinandergetrieben. Doch als der Tod in ihr Leben tritt, begegnen sie sich wieder und versuchen, sich einander anzunähern … Zwischen Schmerz, Streit, schwarzem Humor und unerwarteten Momenten der Nähe erzählt \"Sterben\" von den Brüchen einer Familie und der Intensität des Lebens angesichts seiner Endlichkeit.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/111637-000-A/sterben/",
-      "duration": 10292,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Das schwarze Quadrat",
-      "type": "tv",
-      "overview": "Die Kunstdiebe Vincent und Nils haben das berühmte russische Gemälde \"Das schwarze Quadrat\" gestohlen. Das Bild soll auf einem Kreuzfahrtschiff an den Käufer übergeben werden. Um auf das Schiff zu kommen, überwältigen sie kurzerhand zwei Passagiere ... – In Peter Meisters skurrilem Spielfilmdebüt (2021) spielt die abstrakte Kunst eine entscheidende Rolle.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/090567-000-A/das-schwarze-quadrat/",
-      "duration": 5827,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2621,28 +2725,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JhMmNlZmQ0LWUzY2MtNDIyNC1iMjAyLTYxN2Y0MDZiNTRiNl9nYW56ZVNlbmR1bmc",
       "duration": 5343,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sturmtief - Der Usedom-Krimi",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2025 Karin (Katrin Sass) nimmt eine Frau (Valery Tscheplanowa) und deren angeblichen Sohn (Oliver Szerkus) bei sich auf, die in einem auf der Insel wütenden Unwetter verletzt wurden. In Karin erwacht sofort der Ermittlungsinstinkt, da die Frau auch Anzeichen heftiger Misshandlungen hat....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Usedom-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyNS0xMS0wNl8yMC0xNS1NRVo",
-      "duration": 5291,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2915,6 +2997,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Marseille 1943 - Anatomie einer Vernichtung",
+      "type": "tv",
+      "overview": "Die Dokumentation schildert die Entwicklung, die 1943 unter Mitwirkung des Vichy-Regimes zur Zerstörung von Saint-Jean, des ältesten Stadtviertels von Marseille führte. Ein eindringliches Beispiel für die Pervertiertheit des Nationalismus und der Rhetorik gegenüber allem „Fremden“ - nachdenklich machende Bezüge zu aktuellen politischen Tendenzen in Europa liegen auf der Hand. ",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/125680-000-A/marseille-1943-anatomie-einer-vernichtung/",
+      "duration": 3752,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Hans Hass - Pionier der Tiefe",
       "type": "tv",
       "overview": "Die Unterwasserwelt hat für viele Menschen eine magische Anziehungskraft. Die ersten Aufnahmen von farbenprächtigen Korallenriffen und imposanten Haien verdanken wir Hans Hass. Er machte in den 1930er Jahren als Erster dem großen Publikum die Welt der Meere mit seinen Filmen und Forschungsexpeditionen zugänglich – zu einer Zeit, in der das noch fast unmöglich schien.",
@@ -3072,29 +3177,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Glanz und Pracht - Die Pariser Oper Garnier",
-      "type": "tv",
-      "overview": "Wie entstand die Pariser Opéra Garnier, heute prunkvolles Wahrzeichen der französischen Hauptstadt? Im Jahr 1860 wurde der junge und noch unbekannte Architekt Charles Garnier Sieger im Wettbewerb für den Bau eines neuen Opernhauses. Fast 15 Jahre lang leitete Garnier die Baustelle des größten Theaterbaus des 19. Jahrhunderts.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/089053-000-A/glanz-und-pracht-die-pariser-oper-garnier/",
-      "duration": 5344,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     }
   ]
