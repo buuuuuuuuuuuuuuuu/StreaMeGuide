@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-01T11:15:58.583Z",
+  "generated_at": "2026-10-02T10:48:29.034Z",
   "items": [
     {
       "tmdb_id": 1492640,
@@ -20,8 +20,8 @@
         "mk ultra",
         "biopic"
       ],
-      "rating": 6.668,
-      "vote_count": 232,
+      "rating": 6.686,
+      "vote_count": 258,
       "poster_path": "/bq852UKtJ0rBPfbKpxoYlQSUiiz.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=DE",
       "providers": {
@@ -31,49 +31,30 @@
       }
     },
     {
-      "tmdb_id": 1322562,
-      "title": "劇場版モノノ怪 第三章 蛇神",
-      "type": "movie",
-      "overview": "",
+      "tmdb_id": 283428,
+      "title": "The Ramparts of Ice",
+      "type": "tv",
+      "overview": "Die Oberschülerin Koyuki Higawa gilt wegen ihrer kalten Mimik und distanzierten Einstellung als unnahbar. Als jedoch ein Junge versucht, ihr näherzukommen, beginnt die Eiswand zu bröckeln und ihr Freundeskreis sich unversehens zu vergrößern …",
       "genres": [
         "Animation",
-        "Fantasy",
-        "Mystery"
-      ],
-      "keywords": [
-        "magic",
-        "sequel",
-        "demon",
-        "seinen",
-        "japanese mythology",
-        "anime"
-      ],
-      "rating": 8.4,
-      "vote_count": 5,
-      "poster_path": "/93zvlPMHQb3xoX40bNL8bck7O00.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1322562/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 284792,
-      "title": "Medusa",
-      "type": "tv",
-      "overview": "Jemand will die Firmenchefin Bárbara Hidalgo töten. Während skrupellose Familienmitglieder ihr Unternehmen an sich reißen wollen, versucht sie, den Attentäter zu finden.",
-      "genres": [
         "Drama"
       ],
       "keywords": [
-        "thriller",
-        "mistery"
+        "high school",
+        "romance",
+        "slice of life",
+        "school",
+        "female protagonist",
+        "based on manga",
+        "shoujo",
+        "anime",
+        "love polygon",
+        "youth"
       ],
-      "rating": 7.3,
-      "vote_count": 88,
-      "poster_path": "/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/284792-medusa/watch?locale=DE",
+      "rating": 8.605,
+      "vote_count": 62,
+      "poster_path": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283428/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -81,32 +62,22 @@
       }
     },
     {
-      "tmdb_id": 134667,
-      "title": "Reincarnated as a Sword",
+      "tmdb_id": 203667,
+      "title": "Die rote Königin",
       "type": "tv",
-      "overview": "Der Protagonist wurde in einer anderen Welt wiedergeboren – nicht als normaler Mensch, sondern als ein Schwert. Er ist überrascht, aber mehr als entschlossen, sein Leben als Schwert fortzusetzen. Während er Dämonen jagt und dabei auf seine Fähigkeit zu schweben baut, behält er immer seine Umgebung im Auge. Als er sich eine Pause gönnt und das Schwert in den Boden stößt, hört seine Fähigkeit auf zu wirken. Als er nicht mehr weiter weiß, taucht plötzlich ein Mädchen mit Katzenohren namens Fran vor ihm auf …",
+      "overview": "Antonia Scott, klügste Frau der Welt, deren Intelligenz sie zur Roten Königin eines geheimen Polizeiprojekts macht. Polizist Jon Gutiérrez – stark, baskisch, schwul – verließ nach einem Disziplinarverweis die Polizei, krempelt in einem spannenden Doppelfall von Entführung und Mord sein Leben und seine Methoden um.",
       "genres": [
-        "Animation",
-        "Komödie",
-        "Sci-Fi & Fantasy"
+        "Action & Adventure",
+        "Mystery"
       ],
-      "keywords": [
-        "magic",
-        "slavery",
-        "reincarnation",
-        "combat",
-        "anime",
-        "isekai",
-        "based on light novel",
-        "adventure"
-      ],
-      "rating": 7.3,
-      "vote_count": 91,
-      "poster_path": "/Avn1pnxeDznpJStZFq4jOxPM4Ek.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/134667/watch?locale=DE",
+      "keywords": [],
+      "rating": 7,
+      "vote_count": 130,
+      "poster_path": "/lubyGqJqCXCzQ6FOTCNDird8NYh.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/203667-reina-roja/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -134,8 +105,8 @@
         "cruel",
         "brutal violence"
       ],
-      "rating": 8.5,
-      "vote_count": 938,
+      "rating": 8.459,
+      "vote_count": 944,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
@@ -145,109 +116,33 @@
       }
     },
     {
-      "tmdb_id": 318918,
-      "title": "LEGO One Piece",
+      "tmdb_id": 45790,
+      "title": "JoJo's Bizarre Adventure",
       "type": "tv",
-      "overview": "Die Strohhüte stechen in diesem zweiteiligen LEGO-Special in See! Begleite Ruffy, Nami, Lysop und die Crew auf ihrer legendären Reise, die komplett aus Steinen nachgebaut wurde.",
+      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
       "genres": [
         "Animation",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Komödie",
-        "Familie"
-      ],
-      "keywords": [
-        "based on comic",
-        "miniseries",
-        "pirate",
-        "spin off",
-        "swashbuckler",
-        "retelling",
-        "quest",
-        "lego"
-      ],
-      "rating": 8.6,
-      "vote_count": 8,
-      "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/318918-lego-one-piece/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 108978,
-      "title": "Reacher",
-      "type": "tv",
-      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
-      "genres": [
-        "Action & Adventure",
-        "Krimi"
-      ],
-      "keywords": [
-        "assassin",
-        "based on novel or book",
-        "gun",
-        "espionage",
-        "police",
-        "newfoundland and labrador",
-        "conspiracy",
-        "agent",
-        "reboot",
-        "military police"
-      ],
-      "rating": 8.135,
-      "vote_count": 3437,
-      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "type": "tv",
-      "overview": "Ein 34-jähriger Otaku-NEET, der von seiner Familie aus dem Haus vertrieben wurde, bemerkt langsam, dass sein Leben in eine Sackgasse gerät. Er erinnerte sich dann daran, dass sein Leben eigentlich viel besser gewesen wäre, wenn er in der Vergangenheit bessere Entscheidungen getroffen hätte.\n\nGerade als er am Punkt des Bedauerns war, sah er einen Lastwagen mit hoher Geschwindigkeit auf drei Oberschüler zufahren. Mit aller Kraft versuchte er sie zu retten, was damit endete, dass er von dem Truck überfahren wurde.\n\nAls er wieder aufwacht, findet er sich als Rudeus Grayrat in einer Welt mit Schwertern und Magie wieder – allerdings mit den Erinnerungen aus seinem früheren Leben. Geboren in einer neuen Welt, einem neuen Leben, entschied Rudeus: »Diesmal werde ich mein Leben wirklich in vollen Zügen leben, ohne Reue!«. Die Geschichte folgt nun Rudeus vom Säugling bis zum Erwachsenenalter.",
-      "genres": [
-        "Action & Adventure",
-        "Animation",
         "Sci-Fi & Fantasy"
       ],
       "keywords": [
+        "martial arts",
         "magic",
-        "teleportation",
-        "reincarnation",
-        "polygamy",
-        "harem",
-        "romance",
-        "displacement",
-        "second chance",
-        "fantasy world",
-        "seinen",
-        "ecchi",
+        "vampire",
+        "based on manga",
+        "adventurer",
+        "globetrotting",
+        "shounen",
         "anime",
-        "high fantasy",
-        "search for mother",
-        "neet",
-        "life challenges",
-        "other world",
-        "sword and sorcery",
-        "isekai",
-        "otaku",
-        "hikikomori",
-        "erotic",
-        "fantasy",
-        "based on light novel",
+        "muscles",
+        "supernatural power",
+        "horror",
         "adventure"
       ],
-      "rating": 8.429,
-      "vote_count": 1753,
-      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
+      "rating": 8.544,
+      "vote_count": 1666,
+      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -255,36 +150,21 @@
       }
     },
     {
-      "tmdb_id": 299939,
-      "title": "Monster: Die Geschichte von Lizzie Borden",
+      "tmdb_id": 284792,
+      "title": "Medusa",
       "type": "tv",
-      "overview": "Eingesperrt in ihrem tyrannischen Zuhause im viktorianischen Neuengland ermordet Lizzie Borden ihre Eltern auf brutalste Weise und versetzt das ganze Land in Aufruhr.",
+      "overview": "Jemand will die Firmenchefin Bárbara Hidalgo töten. Während skrupellose Familienmitglieder ihr Unternehmen an sich reißen wollen, versucht sie, den Attentäter zu finden.",
       "genres": [
-        "Drama",
-        "Krimi"
+        "Drama"
       ],
       "keywords": [
-        "massachusetts",
-        "based on true story",
-        "murder",
-        "miniseries",
-        "true crime",
-        "axe murder",
-        "macabre",
-        "lizzie borden",
-        "19th century",
-        "20th century",
-        "psychological drama",
-        "crime",
-        "defiant",
-        "sympathetic",
-        "axe",
-        "based on real person"
+        "thriller",
+        "mistery"
       ],
-      "rating": 7,
-      "vote_count": 135,
-      "poster_path": "/cJ5yXkJ25kOc1YoG52rrcBuuKuN.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/299939-monster-the-lizzie-borden-story/watch?locale=DE",
+      "rating": 7.23,
+      "vote_count": 89,
+      "poster_path": "/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/284792-medusa/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -313,10 +193,41 @@
         "phd",
         "based on fanfiction"
       ],
-      "rating": 8.1,
-      "vote_count": 389,
+      "rating": 8.074,
+      "vote_count": 408,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 108978,
+      "title": "Reacher",
+      "type": "tv",
+      "overview": "Als Ex Militärpolizist Jack Reacher wegen eines Mordes, den er nicht begangen hat, verhaftet wird, findet er sich inmitten einer tödlichen Verschwörung korrupter Polizisten, dubioser Geschäftsleute und intriganter Politiker wieder und muss herausfinden, was in Margrave, Georgia, vor sich geht. Die erste Staffel von Reacher basiert auf dem internationalen Bestseller Größenwahn von Lee Child.",
+      "genres": [
+        "Action & Adventure",
+        "Krimi"
+      ],
+      "keywords": [
+        "assassin",
+        "based on novel or book",
+        "gun",
+        "espionage",
+        "police",
+        "newfoundland and labrador",
+        "conspiracy",
+        "agent",
+        "reboot",
+        "military police"
+      ],
+      "rating": 8.1,
+      "vote_count": 3441,
+      "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -384,8 +295,8 @@
         "joseon dynasty (1392–1910)",
         "period piece"
       ],
-      "rating": 6.6,
-      "vote_count": 21,
+      "rating": 6.682,
+      "vote_count": 22,
       "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
       "providers": {
@@ -414,8 +325,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.4,
-      "vote_count": 4789,
+      "rating": 8.411,
+      "vote_count": 4792,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -445,7 +356,7 @@
         "hilarious"
       ],
       "rating": 8.583,
-      "vote_count": 5520,
+      "vote_count": 5523,
       "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
@@ -455,69 +366,67 @@
       }
     },
     {
-      "tmdb_id": 91239,
-      "title": "Bridgerton",
-      "type": "tv",
-      "overview": "Diese von den Bestsellern von Julia Quinn inspirierte Serie begleitet die acht Geschwister der Familie Bridgerton in der Londoner High Society auf der Suche nach Liebe.",
+      "tmdb_id": 245891,
+      "title": "John Wick",
+      "type": "movie",
+      "overview": "John Wick genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov, der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov, für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus an seinen Fersen hängen...",
       "genres": [
-        "Drama"
+        "Action",
+        "Thriller"
       ],
       "keywords": [
-        "based on novel or book",
-        "society",
-        "marriage",
-        "love",
-        "romance",
-        "alternate history",
-        "period drama",
-        "lgbt",
-        "courtship",
-        "georgian or regency era",
-        "period piece",
-        "secret",
-        "non-traditional casting"
+        "hitman",
+        "bratva (russian mafia)",
+        "gangster",
+        "secret organization",
+        "revenge",
+        "murder",
+        "dog",
+        "retired",
+        "widower"
       ],
-      "rating": 8.046,
-      "vote_count": 3408,
-      "poster_path": "/pUCGS3E0L5wzOR2nxzjWSumFfax.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/91239-bridgerton/watch?locale=DE",
+      "rating": 7.464,
+      "vote_count": 21405,
+      "poster_path": "/vr92idbWfEFY0bcapzMk1nZkVXr.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/245891-john-wick/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225287.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225253.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 223313,
-      "title": "Obsession",
+      "tmdb_id": 73586,
+      "title": "Yellowstone",
       "type": "tv",
-      "overview": "Die Affäre eines angesehenen Londoner Chirurgen mit der Verlobten seines Sohnes mündet in eine Amour fou, die ihr Leben für immer zu verändern droht.",
+      "overview": "„Yellowstone“ folgt der einflussreichen Familie Dutton, die eine der größten Ranches in den USA besitzt und ständig um deren Erhalt kämpfen muss. Die Serie zeigt, wie sie sich gegen politische Interessen, Landentwickler und rivalisierende Gruppen behaupten. Gleichzeitig beleuchtet sie die komplexen Beziehungen innerhalb der Familie und die moralischen Grenzen, die sie zu überschreiten bereit sind. Insgesamt verbindet die Serie moderne Western‑Atmosphäre mit Machtkämpfen, Loyalität und Konflikten um Land und Identität.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "Western",
+        "Drama"
       ],
       "keywords": [
-        "love triangle",
-        "based on novel or book",
-        "infidelity",
-        "obsession",
-        "fiancé",
-        "surgeon",
-        "romance",
-        "older man younger woman relationship",
-        "love affair",
-        "incest",
-        "erotic thriller"
+        "montana",
+        "ranch",
+        "family drama",
+        "crime family",
+        "cattle ranch",
+        "neo-western",
+        "yellowstone",
+        "wildlife conservation",
+        "trend",
+        "arrogant",
+        "complicated",
+        "contemporary western"
       ],
-      "rating": 6.47,
-      "vote_count": 197,
-      "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/223313-obsession/watch?locale=DE",
+      "rating": 8.273,
+      "vote_count": 3355,
+      "poster_path": "/n3LvkTNTULObSGmDOixRtahBLjR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -525,7 +434,7 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225271.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225438.html",
         "mentions": 2
       }
     },
@@ -590,7 +499,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -738,29 +647,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Duisburg Ruhrort (1981)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort Schimanski | restauriert in HD"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjljZTM2MGItZTBmZS00ZTVhLTg2OGQtYjVmMTE3ZmY5MWNk",
-      "duration": 5832,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Duisburg Ruhrort (1981) (klare Sprache)",
       "type": "tv",
       "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
@@ -776,6 +662,29 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOGExNTNmMDAtZmVlZi00NGM4LWJlZGUtYjIxZmE4ZjFhMjgw",
       "duration": 5833,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Duisburg Ruhrort (1981)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort Schimanski | restauriert in HD"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjljZTM2MGItZTBmZS00ZTVhLTg2OGQtYjVmMTE3ZmY5MWNkL2F1ZGlvZGVza3JpcHRpb24",
+      "duration": 5832,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1165,7 +1074,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "DogMan",
+      "title": "DogMan (Englisch)",
       "type": "tv",
       "overview": "Bei einer Verkehrskontrolle wird ein Mann am Steuer eines Lastwagens voller Hunde aufgegriffen. Er ist blutverschmiert, trägt Abendkleid und Perücke. Sein Name ist Doug.",
       "genres": [
@@ -1187,7 +1096,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "DogMan (Englisch)",
+      "title": "DogMan",
       "type": "tv",
       "overview": "Bei einer Verkehrskontrolle wird ein Mann am Steuer eines Lastwagens voller Hunde aufgegriffen. Er ist blutverschmiert, trägt Abendkleid und Perücke. Sein Name ist Doug.",
       "genres": [
@@ -1385,6 +1294,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Die Revoluzzer (8/8)",
+      "type": "tv",
+      "overview": "Jacques will mit heimlichen Mitschnitten Merloux erpressen – für eine Zukunft ohne Geldsorgen mit Claudine. Diese gerät unter Druck: Auf der Suche nach den Wanzen enttarnt sie sich unfreiwillig als Mitwirkende. In ihrer Verzweiflung stellt sie sich Jacques entgegen und findet erstmals zu einer eigenen Position gegenüber Vincennes als einem Ort politischer Möglichkeiten.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/123309-008-A/die-revoluzzer-8-8/",
+      "duration": 2609,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Sommer auf Asphalt",
+      "type": "tv",
+      "overview": "Les lebt im Moment. Tagsüber fährt sie als Kurierbotin durch Hamburg, nachts feiert sie mit ihren Freunden. Doch als sie ungewollt schwanger wird und ihr Vater, Norbert, vor der Tür steht, gerät ihr Leben aus den Fugen. Dazu scheint Norbert etwas zu verbergen ... Komödie über Selbstbestimmung und Zugehörigkeit. Mit Mala Emde und Christoph Maria Herbst.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Fernsehfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/126956-000-A/sommer-auf-asphalt/",
+      "duration": 5310,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Die schwarzen Schmetterlinge (4/6)",
       "type": "tv",
       "overview": "Nachdem Albert Kommissar Carrel zu Boden geschlagen hat, beseitigt er alle Spuren. Carrel ist der kleine Junge, den Albert in den 1970ern ausgesetzt hat. Solange hatte es das Herz gebrochen, den Jungen zurückzulassen, sie hatte keine Lust mehr auf das Spiel. Albert beginnt allerdings, in seinem Kopf Lust und Mord zu verwechseln, und attackiert schließlich ein unschuldiges Paar ...",
@@ -1509,50 +1462,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/130430-003-A/prisoner-951-3-4/",
       "duration": 3729,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Prisoner 951 (2/4) - Eine alte Schuld",
-      "type": "tv",
-      "overview": "Als Nazanin glaubt, endlich freizukommen, wird sie stattdessen zurück ins berüchtigte Evin-Gefängnis gebracht. Einzelhaft, endlose Verhöre und neue Anschuldigungen bringen sie an ihre Grenzen. In London deckt Richard den Grund für die Entführung seiner Frau auf, stößt jedoch auf wenig Gehör. Als Nazanin zu fünf Jahren Haft verurteilt wird, wächst die Verzweiflung. Was tun?",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/130430-002-A/prisoner-951-2-4/",
-      "duration": 3579,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Prisoner 951 (1/4) - Der Moment, in dem alles kippt",
-      "type": "tv",
-      "overview": "April 2016: Am Flughafen Teheran wird Nazanin plötzlich festgenommen, angeblich wegen eines Passproblems. Ihre kleine Tochter Gabriella bleibt zurück. In London glaubt ihr Mann Richard zunächst an ein Missverständnis. Doch bald wird klar: Nazanin ist eine politische Geisel. Während sie in Einzelhaft leidet, beginnt Richard einen verzweifelten Kampf um ihre Freilassung.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/130430-001-A/prisoner-951-1-4/",
-      "duration": 4144,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1701,7 +1610,7 @@
       "tmdb_id": null,
       "title": "Inside Zweiter Weltkrieg",
       "type": "tv",
-      "overview": "Teils stählerner Schutz, teils tödliche Falle: U-Boote und Panzer. Im zweiten Weltkrieg waren sie wichtige Bestandteile der Kriegsführung. Mirko Drotschmann nimmt uns mit auf Entdeckungsreise.",
+      "overview": "Teils stählerner Schutz, teils tödliche Falle: U-Boote und Panzer. Im Zweiten Weltkrieg waren sie wichtige Bestandteile der Kriegsführung. Mirko Drotschmann nimmt uns mit auf Entdeckungsreise.",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -2139,6 +2048,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Vor der Eiszeit - Jagd nach dem ältesten Erbgut der Welt",
+      "type": "tv",
+      "overview": "Wissenschaftler entschlüsseln 2 Millionen Jahre alte DNA in Grönland und enthüllen eine verlorene, heiße Welt  – ein Blick in die Vergangenheit, die auch unsere klimatische Zukunft sein könnte.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "NANO Doku"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/wissen/nano-doku/261001-eiszeit-dna-nano-doku-ntk-100.html",
+      "duration": 2577,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der Störenfried – Ermittlungen zu Oskar Brüsewitz",
       "type": "tv",
       "overview": "Kaum ein Ereignis hat die evangelische Kirche in der DDR - und zugleich auch das Verhältnis zwischen Kirche und Staat - so sehr erschüttert wie die Selbstverbrennung des Pastors Oskar Brüsewitz am 18. August 1976 in Zeitz. 2026 jährte sich dieses Ereignis zum fünfzigsten Mal....",
@@ -2381,6 +2312,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Das Mädchen mit den goldenen Händen",
+      "type": "tv",
+      "overview": "Gudrun feiert ihren 60. Geburtstag in dem früheren Waisenhaus, in dem sie zu DDR-Zeiten aufgewachsen ist. Auch ihre Tochter Lara kommt zu dem Fest, doch die beiden haben kein gutes Verhältnis. Als dann auch noch das Waisenhaus verkauft werden soll, eskaliert die Situation völlig ... Ein historisch inspiriertes Familiendrama von Katharina Marie Schubert aus dem Jahr 2020.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/089930-000-A/das-maedchen-mit-den-goldenen-haenden/",
+      "duration": 5861,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der unsichtbare Aufstand",
       "type": "tv",
       "overview": "Als die uruguayische Stadtguerilla den in Montevideo lebenden US-Bürger Philip Michael Santore entführt, scheint diese Tat zunächst unverständlich. Doch dann stellt sich heraus, dass der vermeintlich harmlose Technikberater in Wahrheit ein hochkarätiger Militärberater ist, der im Auftrag der US-Regierung den Polizeiapparat der Diktatur unterstützt. ",
@@ -2535,24 +2488,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Kundschafter des Friedens",
+      "title": "Split vergisst nie – Der Kroatien-Krimi",
       "type": "tv",
-      "overview": "Die Bundesregierung hat ein Problem: Kurz vor den geplanten Verhandlungen zur Wiedervereinigung zweier ehemaliger Sowjetrepubliken wurde der Präsidentschaftskandidat gemeinsam mit BND-Agent Kern entführt. Da schnell klar wird, dass der BND diese Aufgabe nicht lösen kann, wird ein Spitzenagent der DDR reaktiviert. – Altherren-James-Bond-Komödie (2017) von Robert Thalheim.",
+      "overview": "Spielfilm Deutschland 2023 ass ihr Kollege Borko (Kasem Hoxha) ungewöhnlich früh das Büro verlässt und kurz darauf Zeuge eines Mordanschlags wird, ruft bei Chefermittlerin Stascha Nowak (Jasmin Gerat) zunächst wenig Beachtung hervor. Das Opfer, der zwielichtige Investmentbanker Rogur (Ulrich Gebauer), wurde im Auto mit einer Handgranate in die Luft gesprengt....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Der Kroatien-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/051404-000-A/kundschafter-des-friedens/",
-      "duration": 5136,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjMtMDMtMDJfMjAtMTUtTUVa",
+      "duration": 5307,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Dänemark-Krimi: Das Mädchen im Kirchturm",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2024 In der Nacht vernimmt Streifenpolizistin Ida Sörensen (Marlene Morreis) eindringliche Hilferufe vom Kirchturm. Gemeinsam mit ihrer jungen Kollegin Emma (Zoë Valks) trifft die Polizistin am Dom von Ribe ein. Dort, hoch oben im Turm, bedroht ein Mann eine junge Frau mit einem Messer. Ida und Emma ziehen die Waffen, als die mächtige Glocke plötzlich laut schlägt....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Dänemark-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS82ZjQ3YTc1Yi01M2Q3LTRkM2MtOGMzYS0zYjdmNTAwOTllOThfZ2FuemVTZW5kdW5n",
+      "duration": 5298,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2689,50 +2664,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Der Kroatien-Krimi: Split vergisst nie",
-      "type": "tv",
-      "overview": "Meer, Sonne und Palmen – doch in Split endet die Idylle, als Investmentbanker Ilija Rogur durch eine unter seinem Auto platzierte Granate getötet wird. Seine Frau Dana überlebt den Anschlag, verwickelt sich bei der Befragung durch Ermittlerin Stascha Novak jedoch in Widersprüche. Auch Ermittler Borko Vucevic gerät unter Verdacht: Er kann die Explosion bezeugen, kannte das Opfer offenbar und weckt damit Staschas Misstrauen....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Kroatien-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14340719/der-kroatien-krimi-split-vergisst-nie",
-      "duration": 5303,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Marzanna, Göttin des Todes – Der Masuren-Krimi (3)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2023 Für Dr. Viktoria Wex besteht die Psyche aus erklärbaren chemischen Prozessen. Von prophetischen Albträumen hält die Kriminaltechnikerin also nichts. Als ihr bevorstehenden Mord vorausgesagt wird, sieht Viktoria nur wenig Handlungsbedarf. +++ Mit Claudia Eisinger, Sebastian Hülk, Karolina Lodyga, Wieslawa Wesolowska, Olgierd Lukaszewicz u. a. | Buch: Ulli Stephan | Regie: Sven Taddicken",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Masuren-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEX2JhMmNlZmQ0LWUzY2MtNDIyNC1iMjAyLTYxN2Y0MDZiNTRiNl9nYW56ZVNlbmR1bmc",
-      "duration": 5343,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Bliss – Acapulco",
       "type": "tv",
       "overview": "Als Männer von Welt und reiseerprobte Globetrotter nehmen die fünf Sänger das Publikum mit auf eine zweistündige Pauschalreise, um die Leichtigkeit des Alltags neu zu entdecken. Vermeintlich Banales wird mit Blick durch die rosa Sonnenbrille plötzlich spektakulär. Da verwandelt sich das eigene Badezimmer schon mal in eine Oase des Glücks und der Wurstsalat garniert in ein mediterranes Festessen....",
@@ -2821,6 +2752,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Kabarett im Turm: Evelin Pichler - Taschenglück",
+      "type": "tv",
+      "overview": "Die mehrfach ausgezeichnete Kabarettistin Evelin Pichler präsentiert hoch über den Dächern Wiens ihr Programm „Taschenglück“. Mit viel Humor, Wortwitz und Sarkasmus zeigt sie, wie kleine Glücksmomente den Alltag leichter machen können. Zwischen Handy, Brieftasche und kuriosen Begleitern wird „Taschenglück“ zur magischen Kraft – wie bei Mary Poppins oder auf spontanen Reisen. Ein pointenreicher Abend voller Charme und Lacher....",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarettprogramme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14341442/kabarett-im-turm-evelin-pichler-taschenglueck",
+      "duration": 2658,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "André Herrmann in kabarett.com",
       "type": "tv",
       "overview": "Die Welt ist dunkel geworden. Ein Lobbyist im Kanzleramt, der Globus im Würgegriff der Superreichen, das Internet voller Desinformation. Und Musicals. Orr, Musicals! Humor von links, mitten ins Gesicht.",
@@ -2879,28 +2832,6 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14340566/christoph-fritz-zaertlichkeit",
       "duration": 3866,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Dolores Schmidinger: Die Revoluzzerin des Kabaretts",
-      "type": "tv",
-      "overview": "Zum 80. Geburtstag von Dolores Schmidinger blickt diese Doku auf das Leben der Kabarettistin und Schauspielerin zurück. Als eine der ersten Frauen auf Österreichs Kabarettbühnen wurde sie früh durch Auftritte im \"Neuen Theater am Kärntnertor\" und im Fernsehen bekannt. Später feierte sie Erfolge mit \"Gurken haben keine Tränen\" und \"Immer bins i!\". Auch Serien wie \"Kaisermühlen Blues\" machten sie einem breiten Publikum bekannt....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Dolores Schmidinger - Die Revoluzzerin des Kabaretts"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14340474/dolores-schmidinger-die-revoluzzerin-des-kabaretts",
-      "duration": 3571,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2993,6 +2924,75 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Berlin erleben – Ostberlins Mitte wie es einmal war",
+      "type": "tv",
+      "overview": "Die 1960er-, 1970er- und 1980er-Jahre im alten Stadtbezirk Mitte: Alexanderplatz, Unter den Linden und Friedrichstraße sind die schicke Seite der Stadt. Mit Fernsehturm, Staatsoper, Palast der Republik und den vielen Vergnügungsorten an der Friedrichstraße schmückt sich Ostberlin gern.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/dokumentation/geschichte/berlin-erleben-ostberlins-mitte-wie-es-einmal-war-102.html",
+      "duration": 5355,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Das U-Boot (2/2) - Gefahr aus der Tiefe",
+      "type": "tv",
+      "overview": "Innerhalb der letzten 100 Jahre entwickelte sich das U-Boot von einem einfachen Tauchboot zu einer multifunktionalen Hochleistungsmaschine mit atomarer Sprengkraft. Der zweite Teil der Dokumentation zeigt, welche Entwicklung das U-Boot vom Zweiten Weltkrieg bis heute genommen hat und welche Rolle es damals und heute spielt.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/095101-002-A/das-u-boot-2-2/",
+      "duration": 3143,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Das U-Boot (1/2) - Mythos unter Wasser",
+      "type": "tv",
+      "overview": "Innerhalb der letzten 100 Jahre entwickelte sich das U-Boot von einem einfachen Tauchboot zu einer multifunktionalen Hochleistungsmaschine mit atomarer Sprengkraft. Der erste Teil der Dokumentation beschreibt die Anfänge der U-Boot-Entwicklung Ende des 19. Jahrhunderts bis zum Ausbruch des Zweiten Weltkriegs.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/095101-001-A/das-u-boot-1-2/",
+      "duration": 3124,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -3108,75 +3108,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Louis Vuitton, das Imperium der Luxusmacher (1/2)",
-      "type": "tv",
-      "overview": "Die erste Folge von \"Louis Vuitton, das Imperium der Luxusmacher\" dokumentiert Bernard Arnaults Aufstieg vom Bauunternehmer zum Big Player des globalen Kapitalismus. Früh erkannte er, wie lukrativ der Verkauf von Träumen sein kann. Nach Erfahrungen im US-Kapitalismus baute er in Frankreich ein Mode-Imperium auf. Mit 47 war er Milliardär und prägte die Luxusbranche wie kein Zweiter.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/122704-001-A/louis-vuitton-das-imperium-der-luxusmacher-1-2/",
-      "duration": 3596,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Jagd auf Adolf Eichmann",
-      "type": "tv",
-      "overview": "Adolf Eichmann war maßgeblich für die Deportation und Ermordung von sechs Millionen Juden verantwortlich. In Argentinien gelingt es ihm, viele Jahre unerkannt zu bleiben, bis Agenten des israelischen Geheimdienstes Mossad seine wahre Identität aufdecken. Diese Dokumentation zeigt die großangelegte und riskante Verfolgung des NS-Verbrechers.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14340746/jagd-auf-adolf-eichmann",
-      "duration": 2495,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hitlers österreichische Helfer - Ernst Kaltenbrunner",
-      "type": "tv",
-      "overview": "Ernst Kaltenbrunner ist einer von zwei Österreichern, die sich ab Ende 1945 auf der Anklagebank des Nürnberger Hauptkriegsverbrecherprozesses verantworten mussten. Als Chef des Reichssicherheitshauptamtes war er für jene Einsatzgruppen verantwortlich, die im Rücken der Ostfront rund eine Million Menschen ermordeten. Ernst Kaltenbrunner war ein zentraler Akteur der sogenannten \"Endlösung der Judenfrage\"....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14340745/hitlers-oesterreichische-helfer-ernst-kaltenbrunner",
-      "duration": 2673,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     }
   ]
