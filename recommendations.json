@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-02T10:48:29.034Z",
+  "generated_at": "2026-10-03T10:08:30.414Z",
   "items": [
     {
       "tmdb_id": 1492640,
@@ -20,8 +20,8 @@
         "mk ultra",
         "biopic"
       ],
-      "rating": 6.686,
-      "vote_count": 258,
+      "rating": 6.592,
+      "vote_count": 293,
       "poster_path": "/bq852UKtJ0rBPfbKpxoYlQSUiiz.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=DE",
       "providers": {
@@ -31,30 +31,94 @@
       }
     },
     {
-      "tmdb_id": 283428,
-      "title": "The Ramparts of Ice",
+      "tmdb_id": 1763619,
+      "title": "المهايطية",
+      "type": "movie",
+      "overview": "",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "keywords": [],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": "/4nQD7STEWNYW2cKldZQZRrYri90.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1763619/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 220542,
+      "title": "Die Tagebücher der Apothekerin",
       "type": "tv",
-      "overview": "Die Oberschülerin Koyuki Higawa gilt wegen ihrer kalten Mimik und distanzierten Einstellung als unnahbar. Als jedoch ein Junge versucht, ihr näherzukommen, beginnt die Eiswand zu bröckeln und ihr Freundeskreis sich unversehens zu vergrößern …",
+      "overview": "Maomao führte ein friedliches Leben, bis sie eines Tages entführt und als niedere Dienerin an den Kaiserhof verkauft wird. Die junge Apothekerin ist jedoch keine Persönlichkeit, die für ein willfähriges Leben unter Hoheiten bestimmt ist. Als ein Kronprinz nach dem anderen einer mysteriösen Krankheit zum Opfer fällt, schreitet sie unauffällig ein, um ein potentes Heilmittel für ihre Gesundung herzustellen. Trotz ihrer Vorsicht bemerkt der höhergestellte Hofdiener Jinshi ihre Affinität für Heilkräuter und verlangt fortan bei medizinischen Problemen des Hofes nach ihrer Expertise – dadurch verstrickt sie sich unweigerlich in die Intrigen am Kaiserhof.",
       "genres": [
         "Animation",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "detective",
+        "affectation",
+        "work",
+        "politics",
+        "female protagonist",
+        "maid",
+        "historical",
+        "royal court",
+        "lady in waiting",
+        "anime",
+        "medical",
+        "ancient china",
+        "critical",
+        "based on light novel",
+        "amused",
+        "audacious"
+      ],
+      "rating": 8.6,
+      "vote_count": 652,
+      "poster_path": "/6Ph6TDAUYPTYMXp7PhpIrcWxstn.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/220542/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 258165,
+      "title": "East of Eden",
+      "type": "tv",
+      "overview": "Anfang des 20. Jahrhunderts treibt eine unabhängige Frau einen Keil zwischen zwei Brüder und entfacht damit eine Saga, die sich über zwei Generationen erstreckt.",
+      "genres": [
         "Drama"
       ],
       "keywords": [
-        "high school",
-        "romance",
-        "slice of life",
-        "school",
-        "female protagonist",
-        "based on manga",
-        "shoujo",
-        "anime",
-        "love polygon",
-        "youth"
+        "california",
+        "based on novel or book",
+        "dysfunctional family",
+        "sibling rivalry",
+        "miniseries",
+        "period drama",
+        "american civil war",
+        "social issues",
+        "19th century",
+        "family saga",
+        "1900s",
+        "cain & abel",
+        "1860s",
+        "20th century",
+        "period piece",
+        "romantic drama",
+        "emotional"
       ],
-      "rating": 8.605,
-      "vote_count": 62,
-      "poster_path": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/283428/watch?locale=DE",
+      "rating": 8.1,
+      "vote_count": 16,
+      "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -105,13 +169,49 @@
         "cruel",
         "brutal violence"
       ],
-      "rating": 8.459,
-      "vote_count": 944,
+      "rating": 8.463,
+      "vote_count": 950,
       "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
       "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 253811,
+      "title": "TOUGEN ANKI",
+      "type": "tv",
+      "overview": "Laut einer japanischen Legende hat der Krieger Momotarō, dank seiner unglaublichen Kraft, die Oni in die Flucht geschlagen. Doch es ist keine Legende – die Nachfahren von Momotarō kämpfen bis heute darum, die Oni auszurotten! Als Shiki erfährt, dass in seinen Adern das Blut der Oni fließt, ändert sich alles. Um zu überleben, muss er sich dem Momotarō-Clan stellen …",
+      "genres": [
+        "Animation",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "shapeshifting",
+        "mythology",
+        "supernatural",
+        "revenge",
+        "tragedy",
+        "school",
+        "based on manga",
+        "demon",
+        "dark hero",
+        "dark fantasy",
+        "youkai",
+        "shounen",
+        "anime",
+        "guns"
+      ],
+      "rating": 7.6,
+      "vote_count": 109,
+      "poster_path": "/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/253811/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -140,7 +240,7 @@
         "adventure"
       ],
       "rating": 8.544,
-      "vote_count": 1666,
+      "vote_count": 1667,
       "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
       "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
       "providers": {
@@ -150,21 +250,30 @@
       }
     },
     {
-      "tmdb_id": 284792,
-      "title": "Medusa",
+      "tmdb_id": 283428,
+      "title": "The Ramparts of Ice",
       "type": "tv",
-      "overview": "Jemand will die Firmenchefin Bárbara Hidalgo töten. Während skrupellose Familienmitglieder ihr Unternehmen an sich reißen wollen, versucht sie, den Attentäter zu finden.",
+      "overview": "Die Oberschülerin Koyuki Higawa gilt wegen ihrer kalten Mimik und distanzierten Einstellung als unnahbar. Als jedoch ein Junge versucht, ihr näherzukommen, beginnt die Eiswand zu bröckeln und ihr Freundeskreis sich unversehens zu vergrößern …",
       "genres": [
+        "Animation",
         "Drama"
       ],
       "keywords": [
-        "thriller",
-        "mistery"
+        "high school",
+        "romance",
+        "slice of life",
+        "school",
+        "female protagonist",
+        "based on manga",
+        "shoujo",
+        "anime",
+        "love polygon",
+        "youth"
       ],
-      "rating": 7.23,
-      "vote_count": 89,
-      "poster_path": "/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/284792-medusa/watch?locale=DE",
+      "rating": 8.6,
+      "vote_count": 62,
+      "poster_path": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283428/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -193,8 +302,8 @@
         "phd",
         "based on fanfiction"
       ],
-      "rating": 8.074,
-      "vote_count": 408,
+      "rating": 8.071,
+      "vote_count": 423,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
@@ -224,8 +333,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.1,
-      "vote_count": 3441,
+      "rating": 8.134,
+      "vote_count": 3444,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -295,7 +404,7 @@
         "joseon dynasty (1392–1910)",
         "period piece"
       ],
-      "rating": 6.682,
+      "rating": 6.7,
       "vote_count": 22,
       "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
@@ -325,8 +434,8 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.411,
-      "vote_count": 4792,
+      "rating": 8.413,
+      "vote_count": 4796,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -355,8 +464,8 @@
         "workplace comedy",
         "hilarious"
       ],
-      "rating": 8.583,
-      "vote_count": 5523,
+      "rating": 8.584,
+      "vote_count": 5526,
       "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
@@ -366,29 +475,38 @@
       }
     },
     {
-      "tmdb_id": 245891,
-      "title": "John Wick",
+      "tmdb_id": 1366,
+      "title": "Rocky",
       "type": "movie",
-      "overview": "John Wick genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov, der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov, für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus an seinen Fersen hängen...",
+      "overview": "Rocky Balboa ist ein begnadeter Boxer. Doch der Weg zum Ruhm und dem großen Geld blieb ihm immer verwehrt. Als armer Geldeintreiber muss er ein schäbiges Dasein fristen. Da geschieht das Unglaubliche: Der Amateurboxer erhält die Möglichkeit, gegen den Schwergewichtsweltmeister Apollo Creed anzutreten. Was als PR-Gag geplant ist, entpuppt sich als brutaler und gnadenloser Kampf, denn der ehrgeizige Rocky will sich die Chance seines Lebens von niemandem nehmen lassen …",
       "genres": [
-        "Action",
-        "Thriller"
+        "Drama"
       ],
       "keywords": [
-        "hitman",
-        "bratva (russian mafia)",
-        "gangster",
-        "secret organization",
-        "revenge",
-        "murder",
-        "dog",
-        "retired",
-        "widower"
+        "underdog",
+        "philadelphia, pennsylvania",
+        "transporter",
+        "love of one's life",
+        "italian american",
+        "sports",
+        "fight",
+        "independence",
+        "publicity",
+        "boxer",
+        "training",
+        "lovers",
+        "world champion",
+        "victory",
+        "surprise",
+        "boxing",
+        "inspirational",
+        "empathetic",
+        "hopeful"
       ],
-      "rating": 7.464,
-      "vote_count": 21405,
-      "poster_path": "/vr92idbWfEFY0bcapzMk1nZkVXr.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/245891-john-wick/watch?locale=DE",
+      "rating": 7.799,
+      "vote_count": 8941,
+      "poster_path": "/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -396,46 +514,131 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225253.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225804.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 73586,
-      "title": "Yellowstone",
+      "tmdb_id": 1402,
+      "title": "The Walking Dead",
       "type": "tv",
-      "overview": "„Yellowstone“ folgt der einflussreichen Familie Dutton, die eine der größten Ranches in den USA besitzt und ständig um deren Erhalt kämpfen muss. Die Serie zeigt, wie sie sich gegen politische Interessen, Landentwickler und rivalisierende Gruppen behaupten. Gleichzeitig beleuchtet sie die komplexen Beziehungen innerhalb der Familie und die moralischen Grenzen, die sie zu überschreiten bereit sind. Insgesamt verbindet die Serie moderne Western‑Atmosphäre mit Machtkämpfen, Loyalität und Konflikten um Land und Identität.",
+      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
       "genres": [
-        "Western",
-        "Drama"
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "montana",
-        "ranch",
-        "family drama",
-        "crime family",
-        "cattle ranch",
-        "neo-western",
-        "yellowstone",
-        "wildlife conservation",
-        "trend",
-        "arrogant",
-        "complicated",
-        "contemporary western"
+        "post-apocalyptic future",
+        "gore",
+        "undead",
+        "survival",
+        "zombie",
+        "based on graphic novel",
+        "horror"
       ],
-      "rating": 8.273,
-      "vote_count": 3355,
-      "poster_path": "/n3LvkTNTULObSGmDOixRtahBLjR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DE",
+      "rating": 8.08,
+      "vote_count": 18230,
+      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": null,
+        "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225438.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225761.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 138843,
+      "title": "Conjuring - Die Heimsuchung",
+      "type": "movie",
+      "overview": "‘Endlich ausreichend Platz!’ sagt sich die Großfamilie um Mutter Carolyn und Vater Roger, als sie das abgelegene Landhaus in Rhode Island beziehen. Doch anscheinend sind sie nicht allein: Eine fremde und zunehmend böse Macht wohnt mitten unter ihnen und macht ein normales Leben unmöglich. In ihrer Verzweiflung wenden sie sich an das renommierte Pärchen Ed und Lorraine Warren, die als Fachleute auf dem Gebiet der Geisteraustreibung gelten. Doch ihre anfängliche Souveränität weicht der puren Angst, als sie bemerken, mit welch bösen Kräften sie es hier zu tun haben.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "keywords": [
+        "sibling relationship",
+        "1970s",
+        "cellar",
+        "exorcism",
+        "halloween",
+        "haunted house",
+        "possession",
+        "rhode island",
+        "based on true story",
+        "paranormal investigation",
+        "crucifix",
+        "ghost",
+        "demonic",
+        "demonic spirit",
+        "demonology",
+        "psychic vision",
+        "malevolent spirit"
+      ],
+      "rating": 7.543,
+      "vote_count": 13128,
+      "poster_path": "/pO6PL9Uw2fafe3MaF73FrgjH9tL.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/138843-the-conjuring/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000225663.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Cash (2024) (klare Sprache)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2024 +++ Hauptkommissar Faber ist zurück im Dienst, doch sein Job als Chef der Mordkommission ist erstmal weg. Kommissarisch übernimmt vorerst Fabers Kollegin Rosa Herzog die Leitung. Hauptkommissar Jan Pawlak hingegen vergnügt sich lieber im Wettbüro \"Mutluluk\" von Alkim Celik. Als Celiks Schwager Lukas Becker tot aufgefunden wird, steht das „Mutluluk“ plötzlich im Fokus der Ermittlungen....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtMGExZDdjM2ItZWI0Yi00YTFjLWE0ZmItNzY1YTJjNzkzZjUy",
+      "duration": 5338,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Cash (2024)",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2024 +++ Hauptkommissar Faber ist zurück im Dienst, doch sein Job als Chef der Mordkommission ist erstmal weg. Kommissarisch übernimmt vorerst Fabers Kollegin Rosa Herzog die Leitung. Hauptkommissar Jan Pawlak hingegen vergnügt sich lieber im Wettbüro \"Mutluluk\" von Alkim Celik. Als Celiks Schwager Lukas Becker tot aufgefunden wird, steht das „Mutluluk“ plötzlich im Fokus der Ermittlungen....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtODljODg0OTUtZTlhNy00MjdjLWJhNTAtZDU3ZWQ1ZjMwOWZj",
+      "duration": 5338,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -662,52 +865,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOGExNTNmMDAtZmVlZi00NGM4LWJlZGUtYjIxZmE4ZjFhMjgw",
       "duration": 5833,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Duisburg Ruhrort (1981)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort Schimanski | restauriert in HD"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZjljZTM2MGItZTBmZS00ZTVhLTg2OGQtYjVmMTE3ZmY5MWNkL2F1ZGlvZGVza3JpcHRpb24",
-      "duration": 5832,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die letzten Menschen von Köln (2026) (klare Sprache)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2026 +++ Ausnahmezustand in der Domstadt: Die Bergung einer Weltkriegsbombe hält alle in Atem. Währenddessen ermitteln Ballauf und Schenk den gewaltsamen Tod eines Lehrers. Der junge Mann wurde kaltblütig in einem Park erstochen. Tatwaffe: Ein Jagdmesser. Schnell führen die Spuren die Hauptkommissare zur Schwester des Opfers. Doch diese ist wie vom Erdboden verschluckt....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYjM2NzBlNDMtOTBmMC00YTQxLWE5M2QtNTlhYWU3NGI0N2Ew",
-      "duration": 5283,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1074,6 +1231,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Die Spionin - Spielfilm, Norwegen/Schweden/Belgien 2019",
+      "type": "tv",
+      "overview": "1942 steht Sonja Wigert, der größte Filmstar Skandinaviens, ganz oben auf der Liste der Prominenten, die die Deutschen für ihre Propaganda einspannen wollen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/die-spionin-100.html",
+      "duration": 6306,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "DogMan (Englisch)",
       "type": "tv",
       "overview": "Bei einer Verkehrskontrolle wird ein Mann am Steuer eines Lastwagens voller Hunde aufgegriffen. Er ist blutverschmiert, trägt Abendkleid und Perücke. Sein Name ist Doug.",
@@ -1272,24 +1451,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Hot Summer Nights - Spielfilm, USA 2017",
+      "title": "Die schwarzen Schmetterlinge (5/6)",
       "type": "tv",
-      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
+      "overview": "Endlich erfährt Adrien, was Nastya und Albert verbindet. Sie ist die kleine Tochter von Solanges Vater, den Albert erstochen hat. Adrien ist außer sich und konfrontiert den alten Mann. Als der kranke Albert sich sein Insulin spritzt, erfährt Adrien, dass Albert am selben Typ Diabetes leidet wie er selbst. Da zählt Adrien eins und eins zusammen ...",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Fernsehfilme und Serien - Serien"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
-      "duration": 6051,
+      "url": "https://www.arte.tv/de/videos/100886-005-A/die-schwarzen-schmetterlinge-5-6/",
+      "duration": 2656,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "arte"
       }
     },
     {
@@ -1448,28 +1627,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Prisoner 951 (3/4) - Der Preis der Freiheit",
-      "type": "tv",
-      "overview": "Weihnachten in London ist überschattet von Nazanins Abwesenheit. Während Richard um seine Tochter kämpft und gegen die Untätigkeit der Regierung anrennt, findet Nazanin im Frauentrakt des Evin-Gefängnisses neuen Halt. Hoffnung keimt auf – doch die unbedachte Äußerung eines Politikers gefährdet ihren Fall. Richard und Nazanin treffen eine qualvolle Familienentscheidung.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/130430-003-A/prisoner-951-3-4/",
-      "duration": 3729,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Der Froschkönig",
       "type": "tv",
       "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
@@ -1562,6 +1719,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Zwischen den Zeiten",
+      "type": "tv",
+      "overview": "Die Verbrechen der DDR-Staatssicherheit bilden den Hintergrund dieser spannenden und berührend erzählten Dreiecksgeschichte um eine Liebe aus den letzten Jahren der DDR.",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "Herzkino"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/zwischen-den-zeiten-movie-100/zwischen-den-zeiten-104",
+      "duration": 6751,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Schneewittchen am See",
       "type": "tv",
       "overview": "Smilla Witte träumte immer davon, im elterlichen Restaurant \"Schneewittchen am See\" als Köchin zu arbeiten. Doch nach dem Tod ihrer Mutter zehn Jahre zuvor ist sie von zu Hause geflohen.",
@@ -1585,29 +1765,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Weihnachten im Schnee",
-      "type": "tv",
-      "overview": "Die erwachsenen Geschwister Annika, Sanne und Bastian fallen aus allen Wolken: Weihnachten soll dieses Jahr im Schnee stattfinden, genauer gesagt in einer Hütte in Norwegen.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "Herzkino"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/filme/herzkino/weihnachten-im-schnee-100.html",
-      "duration": 5324,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Inside Zweiter Weltkrieg",
       "type": "tv",
       "overview": "Teils stählerner Schutz, teils tödliche Falle: U-Boote und Panzer. Im Zweiten Weltkrieg waren sie wichtige Bestandteile der Kriegsführung. Mirko Drotschmann nimmt uns mit auf Entdeckungsreise.",
@@ -1622,6 +1779,28 @@
       "poster_path": null,
       "url": "https://www.zdf.de/video/dokus/terra-x-history-102/inside-zweiter-weltkrieg-100",
       "duration": 2563,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kriegstüchtig? 70 Jahre Bundeswehr",
+      "type": "tv",
+      "overview": "Die Bundeswehr blickt zurück auf 70 Jahre Geschichte, 1956 wurde die Wehrpflicht eingeführt. \"Terra X History\" fragt: Wie einsatzbereit war die Truppe seitdem – und wie steht sie heute da?",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/dokus/kriegstuechtig-70-jahre-bundeswehr-movie-100",
+      "duration": 5369,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1762,24 +1941,90 @@
     },
     {
       "tmdb_id": null,
-      "title": "Unsere Vereine: Mehr als Kegeln und Kaninchen (S2026/E23)",
+      "title": "Expedition Baikal - Von Nowosibirsk bis zum Baikalsee",
       "type": "tv",
-      "overview": "Von wegen spießig: Vereine sind lebendige Zellen unserer demokratischen Gesellschaft. \"Terra X History\" erzählt die Geschichte des deutschen Vereinswesens – in Ost und West.",
+      "overview": "Dokumentation Deutschland 2018 +++ Noch immer liegen fast 2000 Kilometer vor dem Team und dem himmelblauen Robur. Die Straße führt durch die unendliche Taiga und kreuzt mehrmals die Transsibirische Eisenbahn, der Schienenstrang und die Fernstraße sind hier die beiden großen Lebensadern des riesigen asiatischen Teils Russlands....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History - die Einzeldokus"
+        "Dokumentation und Reportage"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/unsere-vereine--mehr-als-kegeln-und-kaninchen-100",
-      "duration": 2659,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl80ZTMyOWVjNC1mMzljLTRjZGUtOWM5MC1iZmIxMjM5ODNkZDJfcHVibGljYXRpb24",
+      "duration": 2662,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die wilden Flüsse Afrikas - Hoanib",
+      "type": "tv",
+      "overview": "Kaum jemand außerhalb von Namibia kennt den geheimnisvollen Hoanib: ein Fluss, der nur während der Regenzeit für rund zwei Wochen im Jahr Wasser führt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk5MTY2Nw",
+      "duration": 2614,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die wilden Flüsse Afrikas - Sand River",
+      "type": "tv",
+      "overview": "Entlang den Ufern des Flusses Sand findet sich eine der größten Tierpopulationen Afrikas.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzExMDYxNQ",
+      "duration": 2885,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die wilden Flüsse Afrikas - Sambesi",
+      "type": "tv",
+      "overview": "Die wilden Flüsse Afrikas - Sambesi",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAyODQ5Nw",
+      "duration": 2610,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -1960,90 +2205,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tierisch gute Eltern",
+      "title": "Tiere auf dem Land - Erinnerungen an das Dorfleben im Südwesten",
       "type": "tv",
-      "overview": "Unser Planet und seine atemberaubende Tierwelt sind wunderschön und vielfältig. Fast genauso zahlreich sind die Wege, die Tiereltern gefunden haben, um ihren Nachwuchs zu beschützen.",
+      "overview": "Das Zusammenleben von Mensch und Tier auf engstem Raum, in Notzeiten und in guten Jahren, prägte früher das Aufwachsen der Kinder und das Arbeiten von Generationen auf dem Land. Der Hofhund als Aufpasser und das Pferd als Arbeitstier, dazu Kühe, Schweine, Gänse, Hühner und mehr Mäuse, als der Bäuerin lieb war. Katze und Kaninchen galten als Nutztiere, aber für die Kinder waren sie auch Spielgefährten und eine Möglichkeit zum Kuscheln.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Doku & Reportage"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg5NTU0Nw",
-      "duration": 2609,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzE4ODcyMjA",
+      "duration": 5471,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Geschichte der Mächtigen",
-      "type": "tv",
-      "overview": "Damals in Amerika - Die Geschichte der Mächtigen, Film von Lucy Ridout",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjg2NDg2OA",
-      "duration": 2578,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Geschichte der Industriegiganten",
-      "type": "tv",
-      "overview": "Damals in Amerika -  die Die Geschichte der Industriegiganten, Film von Lucy Ridout",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjg2MzcyMw",
-      "duration": 2563,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Geschichte der Traumfabrik Hollywood",
-      "type": "tv",
-      "overview": "Damals in Amerika - Die Geschichte der Traumfabrik Hollywood, Film von Lucie Ridout",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjg2NDg4Mw",
-      "duration": 2572,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2084,94 +2263,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/MTIwNGRiNWItZjRkNi00YjJkLWEwODktNDRmMGM0OTc0NDY1",
       "duration": 5675,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "München 1900 · Von Bierbaronen und Künstlerfürsten",
-      "type": "tv",
-      "overview": "Brigitte Hobmeier, die Darstellerin der Colina Kandl in der Event-Serie \"Oktoberfest 1900\", führt zurück ins Jahr 1900 in München. In eine Zeit, in der München als liberalste Stadt Deutschlands gilt, in der eine neue Frauenbewegung das Fenster in die Moderne aufstößt....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen im BR"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyMFdPMDIxNzkzQTA",
-      "duration": 2590,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Sorry Genosse - Dokumentarfilm von Vera Brückner, Deutschland 2022",
-      "type": "tv",
-      "overview": "Die Medizinstudentin Hedi aus der DDR und der BRD-Student Karl lieben sich in Zeiten des Kalten Kriegs. Sie leben zwar beide in Deutschland, sind aber getrennt durch den Eisernen Vorhang.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentarfilmzeit"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/dokumentarfilmzeit/sorry-genosse-100.html",
-      "duration": 5555,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Heli-Retter: Notarzteinsatz nach Amokfahrt",
-      "type": "tv",
-      "overview": "Der Hubschrauber \"Christoph 22\" startet von Ulm aus zu Rettungseinsätzen auf der Schwäbischen Alb, dem Bodensee und Oberschwaben. In dringenden Notfällen ist er oft das einzige und schnellste Rettungsmittel. An Bord: ein Pilot, ein Notarzt und ein Notfallsanitäter. Diesmal wird das Team zum Einsatz nach einer Amokfahrt gerufen. Mehrere Menschen sind verletzt, die Sicherheitslage ist noch unklar....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTMxMjU",
-      "duration": 2672,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Helden des Alltags – Im Einsatz für ein sauberes Frankfurt",
-      "type": "tv",
-      "overview": "Damit Frankfurt jeden Morgen sauber, sicher und lebenswert ist, sind täglich zahlreiche Menschen im Einsatz. Oft arbeiten sie im Hintergrund, meist fernab der Aufmerksamkeit. Der Film blickt hinter die Kulissen der Frankfurter Entsorgungs- und Service GmbH und erzählt von Menschen, die mit Engagement, Erfahrung und Herzblut dafür sorgen, dass die Stadt funktioniert. Eine Hommage an die oft unsichtbaren Heldinnen und Helden des Alltags.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/OGYwYTE1ZTktMjVkOC00MzE4LWEwMzAtNmRhMzNlOTE0Zjg1",
-      "duration": 2695,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2308,6 +2399,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Kundschafter des Friedens 2",
+      "type": "tv",
+      "overview": "Einst retteten sie Fidel Castro das Leben, jetzt steht den pensionierten DDR-Spionen ein neues Abenteuer bevor: Auf Kuba geraten die \"Kundschafter des Friedens\" nach dem Tod ihres Mentors in einen Kampf um die letzte Bastion des Sozialismus. Zwischen skrupellosen Investoren, politischem Verrat und den Tücken des Ruhestands müssen sie noch einmal ihre alten Spionagekünste einsetzen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/113146-000-A/kundschafter-des-friedens-2/",
+      "duration": 5405,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2458,28 +2571,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/128679-000-A/der-gefangene-von-alcatraz/",
       "duration": 8548,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Pate, Epilog: Der Tod von Michael Corleone",
-      "type": "tv",
-      "overview": "Für Michael Corleone ist es Zeit Bilanz zu ziehen. Er hat den illegalen Tätigkeiten abgeschworen, mit denen sein Vater reich wurde und arbeitet nun mit Bank- und Immobiliengeschäften. Aber seine Jugendverbrechen können nicht ungeschehen gemacht werden ... - Der dritte Teil der Mafiafilm-Trilogie \"Der Pate\" war 1991 für sieben Oscars und für sieben Golden Globes nominiert.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/039997-000-F/der-pate-epilog-der-tod-von-michael-corleone/",
-      "duration": 8901,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2664,6 +2755,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Eva Karl Faltermeier – Live auf der Bühne!",
+      "type": "tv",
+      "overview": "Die Kabarettistin Eva Karl-Faltermeier nimmt ihre Zuschauer mit auf eine Reise in die Südoberpfalz – Heimat des Nebels und Heimat von Faltermeier selbst.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarett & Comedy"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/kabarett/kabarett-in-3sat/eva-karl-faltermeier-live-auf-der-buehne-100.html",
+      "duration": 2587,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Luise Kinseher – \"Wände streichen. Segel setzen\"",
+      "type": "tv",
+      "overview": "Luise Kinseher unterhält mit ihrer Figurenvielfalt: Seit Gatte Heinz verstorben ist, bereist Helga Frese auf der \"Aida\" die Weltmeere und verscherbelt dafür alles.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "Kabarett & Comedy"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/kabarett/kabarett-in-3sat/luise-kinseher-live-auf-der-buehne-waende-streichen-segel-setzen-100.html",
+      "duration": 2579,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Bliss – Acapulco",
       "type": "tv",
       "overview": "Als Männer von Welt und reiseerprobte Globetrotter nehmen die fünf Sänger das Publikum mit auf eine zweistündige Pauschalreise, um die Leichtigkeit des Alltags neu zu entdecken. Vermeintlich Banales wird mit Blick durch die rosa Sonnenbrille plötzlich spektakulär. Da verwandelt sich das eigene Badezimmer schon mal in eine Oase des Glücks und der Wurstsalat garniert in ein mediterranes Festessen....",
@@ -2730,24 +2865,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "4. Wettbewerbstag St. Ingberter Pfanne 2026",
+      "title": "Gery Seidl: Hochtief",
       "type": "tv",
-      "overview": "Hier sehen Sie die Highlights des vierten Wettbewerb-Tages aus St. Ingbert mit dem makaber-lebensfrohen Tod, Kabarettistin Inka Meyer zwischen Dauerstress und Selbstoptimierung und Nils Brunschede, der aus Liebeskummer beste Unterhaltung macht.",
+      "overview": "Wenn Gery Seidl von \"Hochtief\" spricht, kann das zweierlei bedeuten: Hochtiefbau oder die Hochs und Tiefs des Lebens. Als ehemaliger Baustellenleiter kennt er beides bestens. Vor allem aber versteht es Österreichs Kabarettist wie kaum ein anderer, absurde Alltagssituationen in urkomische Geschichten zu verwandeln.\n\nBildquelle: ORF/e&a film/Johannes Ehn",
       "genres": [
         "Komödie"
       ],
       "keywords": [
-        "Unterhaltung & Comedy"
+        "Kabarettprogramme"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9VVUNfMTczNzQy",
-      "duration": 2700,
+      "url": "https://on.orf.at/video/14341552/gery-seidl-hochtief",
+      "duration": 3891,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ARD"
+        "mediathek": "ORF"
       }
     },
     {
@@ -2796,46 +2931,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Otto Jaus: Fast fertig",
+      "title": "SR Klassik am See – Zugabe!",
       "type": "tv",
-      "overview": "Otto Jaus zählt zu den vielseitigsten Entertainern Österreichs. Bekannt wurde er unter anderem durch gemeinsame Ö3-Nummer-1-Hits mit Paul Pizzera sowie durch seine Präsenz auf der Kabarettbühne. Auch Schauspiel- und Gesangstalent prägen seine Karriere: Vom Rock’n’Roll bis zur Opernarie bewegt sich der Wiener souverän zwischen unterschiedlichen Genres....",
+      "overview": "Unter dem Motto \"Zugabe!\" präsentiert die Deutsche Radio Philharmonie Saarbrücken Kaiserslautern vor der beeindruckenden Naturkulisse des Losheimer Stausees bekannte Werke der klassischen Orchesterliteratur.",
       "genres": [
-        "Komödie"
+        "Musik"
       ],
       "keywords": [
-        "Kabarettprogramme"
+        "Musik & Konzerte"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://on.orf.at/video/14340964/otto-jaus-fast-fertig",
-      "duration": 4266,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9NVUtfMTc0NzU4",
+      "duration": 5400,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Christoph Fritz: Zärtlichkeit",
-      "type": "tv",
-      "overview": "Eine missglückte Therapie bringt Christoph Fritz auf die vielleicht seltsamste Suche nach Nähe überhaupt. In seinem zweiten Kabarettprogramm \"Zärtlichkeit\" zeigt Christoph Fritz, dass weniger oft mehr ist. Mit trockenem Humor, lakonischen Alltagsbeobachtungen und schräg-philosophischem Blick beschäftigt er sich mit Einsamkeit, misslungener Nähe und menschlichen Tabus....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14340566/christoph-fritz-zaertlichkeit",
-      "duration": 3866,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2884,46 +2997,71 @@
     },
     {
       "tmdb_id": null,
-      "title": "Junge Talente im Konzert: Alles neu macht der Juni",
+      "title": "Transit DDR - Als die Grenze durchlässiger wurde",
       "type": "tv",
-      "overview": "Die Veranstaltungsreihe „Junge Talente im Konzert“ stellt vor der Sommerpause die Musik von heute in den Mittelpunkt. Spannende junge Ensembles der Joseph Haydn Privathochschule (JHP) nahmen das Publikum auf der Bühne des ORF Landesstudio Burgenland mit zum musikalischen Puls unserer Zeit. \n\nSendungshinweis: Burgenland heute, 2. Juni, 19:00 Uhr in ORF 2 Burgenland",
+      "overview": "Die Dokumentation \"Transit DDR - Als die Grenze durchlässiger wurde\" ist eine filmische Reise in die Zeit des Kalten Krieges. In der sich zwei deutsche Staaten feindlich gegenüberstanden, deren Grenze am Ende aber doch von den Menschen überwunden wurde. Der Film erzählt von Menschen, für die die Fernverkehrsstraße 5 viel mehr war als nur eine Transitstrecke....",
       "genres": [
-        "Musik"
+        "Historie",
+        "Dokumentarfilm"
       ],
       "keywords": [
-        "Junge Talente im Konzert"
+        "Unsere Geschichte"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://on.orf.at/video/14325863/junge-talente-im-konzert-alles-neu-macht-der-juni",
-      "duration": 4610,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Andrè Rieu – Das große Open-Air-Konzert 2025",
-      "type": "tv",
-      "overview": "Auch im Sommer 2025 verwandelte André Rieu Maastricht in einen festlichen Open-Air-Konzertsaal. Zu den Stargästen gehörten die Platin Tenors, Emma Kok, Los del Rio, internationale Sopranistinnen und 300 Tanzpaare.",
-      "genres": [
-        "Musik"
-      ],
-      "keywords": [
-        "Andrè Rieu - Das große Open-Air-Konzert 2025"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC81NjY1MTEtNTE1NTg3",
-      "duration": 8093,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS8xNDYxXzIwMjItMTAtMDEtMTItMDA",
+      "duration": 2679,
       "providers": {
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Meyer Werft - Die dicken Pötte von der Ems",
+      "type": "tv",
+      "overview": "Wenn ein neues Kreuzfahrtschiff die Meyer Werft in Papenburg verlässt, herrscht Volksfeststimmung. Dann kommen die Menschen von weit her, um die schwimmenden Riesen zu bestaunen, die über die schmale Ems zum Meer geführt werden. Wenn es gut läuft, dann verlassen zwei oder drei Schiffe im Jahr die Docks der Meyer Werft. Schiffbau ist eine risikoreiche Branche. Schiffe will das Familienunternehmen auch in der siebten Generation bauen....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Unsere Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjExMDU2Nl9nYW56ZVNlbmR1bmc",
+      "duration": 2606,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Berlin erleben – Der Ku'damm wie er einmal war",
+      "type": "tv",
+      "overview": "In \"Berlin erleben\" geht es diesmal auf den Kurfürstendamm. Wie sah es dort in den 1960er-, 1970er- und 1980er-Jahren aus? Der Kudamm ist Westberlins berühmteste Straße. In der ummauerten Stadt war er für viele ein Stück \"weite Welt\" mit viel Eleganz, schicken Cafés und einem ausschweifenden Nachtleben.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/dokumentation/geschichte/berlin-erleben-der-kudamm-wie-er-einmal-war-102.html",
+      "duration": 5365,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
       }
     },
     {
@@ -3035,75 +3173,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/108493-000-A/hans-hass-pionier-der-tiefe/",
       "duration": 2598,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "FÜR IMMER – Die Geschichte einer Liebe",
-      "type": "tv",
-      "overview": "Im Winter 1952 haben Eva und Dieter das erste Mal miteinander getanzt. Sie haben geheiratet, ein Haus gebaut, drei Kinder bekommen. Sie haben gestritten, gezweifelt, Krisen gemeistert und sind zusammen alt geworden. Nun beginnen Evas Kräfte zu schwinden. In ihrem fein beobachtenden Dokumentarfilm ergründet Grimme-Preisträgerin Pia Lenz eine jahrzehntelange Liebe vom ersten Kuss bis zum letzten gemeinsamen Augenblick....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "FÜR IMMER - Die Geschichte einer Liebe"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI4ODgxMl9nYW56ZVNlbmR1bmc",
-      "duration": 5093,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Unsere Geschichte - Novemberkinder",
-      "type": "tv",
-      "overview": "Geboren am 9. November 1989: Während die Mauer fällt und Geschichte geschrieben wird, kommen in der DDR Kinder zur Welt, deren Leben vom Umbruch ihrer Eltern geprägt sein wird.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/dokumentation/geschichte/novemberkinder-ddr-mauerfall-geschichte-100.html",
-      "duration": 2640,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Louis Vuitton, das Imperium der Luxusmacher (2/2)",
-      "type": "tv",
-      "overview": "Zu Beginn des 21. Jahrhunderts ist LVMH Moët Hennessy Louis Vuitton weit mehr als ein Luxusimperium: Es ist ein Staat im Staate mit immenser Macht. Der Gruppe gehört die Zeitung Les Échos und sie unterhält enge Verbindungen zur Politik. Mit mehr als 75 Marken und unzähligen Immobilien ist Bernard Arnaults Familienholding in Paris allgegenwärtig.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/122704-002-A/louis-vuitton-das-imperium-der-luxusmacher-2-2/",
-      "duration": 3680,
       "providers": {
         "netflix": null,
         "prime": null,
