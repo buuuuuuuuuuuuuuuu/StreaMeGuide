@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-04T10:49:11.360Z",
+  "generated_at": "2026-10-05T11:56:52.203Z",
   "items": [
     {
       "tmdb_id": 1458857,
@@ -18,8 +18,8 @@
         "urban drama",
         "emotional"
       ],
-      "rating": 6.5,
-      "vote_count": 37,
+      "rating": 7.12,
+      "vote_count": 54,
       "poster_path": "/3cM6jJfbseKwBUj9wIytsPZ3bMq.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=DE",
       "providers": {
@@ -46,8 +46,8 @@
         "mk ultra",
         "biopic"
       ],
-      "rating": 6.59,
-      "vote_count": 316,
+      "rating": 6.587,
+      "vote_count": 344,
       "poster_path": "/bq852UKtJ0rBPfbKpxoYlQSUiiz.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=DE",
       "providers": {
@@ -57,58 +57,36 @@
       }
     },
     {
-      "tmdb_id": 1752355,
-      "title": "Schumacher '94 - Die Geburt einer Legende",
-      "type": "movie",
-      "overview": "1994 wird Michael Schumacher zum ersten Mal Formel-1-Weltmeister. Doch zwischen seinem Auftakt-Sieg in Brasilien und dem Titelgewinn in Australien liegt eine der dramatischsten Saisons der Rennsport-Geschichte. Der erst 25-jährige Michael und seine Freundin und spätere Ehefrau Corinna erleben grandiose Siege, Manipulationsvorwürfe und einschneidende Ereignisse wie die tödlichen Unfälle von Ayrton Senna und Roland Ratzenberger. Mitten in der Saison drohen sie plötzlich alles zu verlieren. Gleichzeitig erfasst eine regelrechte „Schumi Mania“ Deutschland.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "biography",
-        "sports documentary",
-        "formula one (f1)",
-        "motor sports"
-      ],
-      "rating": 8.75,
-      "vote_count": 4,
-      "poster_path": "/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 259140,
-      "title": "Ranma1/2",
+      "tmdb_id": 207347,
+      "title": "Blue Box",
       "type": "tv",
-      "overview": "Akane Tendo trifft ihren Verlobten Ranma Saotome, ein ganz besonderes Kampfkunst-Wunderkind: Wenn er kaltes Wasser berührt, verwandelt er sich in ein Mädchen.",
+      "overview": "Der Badmintonspieler Taiki hat die Basketballspielerin Chinatsu seit Langem aus der Ferne bewundert. Doch eines Tages bringt eine überraschende Wendung die beiden einander näher.",
       "genres": [
         "Animation",
-        "Action & Adventure",
-        "Komödie"
+        "Drama"
       ],
       "keywords": [
-        "martial arts",
-        "arranged marriage",
-        "harem",
-        "remake",
-        "romcom",
+        "adolescence",
+        "friendship",
+        "sports",
+        "high school",
+        "basketball",
         "romance",
-        "curse",
+        "slice of life",
+        "school",
         "based on manga",
-        "turns into animal",
+        "school life",
+        "badminton",
         "shounen",
         "anime",
-        "gender swap",
-        "love polygon"
+        "school club",
+        "japanese high school",
+        "bukatsu"
       ],
-      "rating": 8.069,
-      "vote_count": 188,
-      "poster_path": "/1C4HtKv13BQnhofwnPZiyfti5aC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/259140-1-2/watch?locale=DE",
+      "rating": 7.8,
+      "vote_count": 103,
+      "poster_path": "/shXf4cTKUbMpx5AVBKi4V0dMwY3.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/207347/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -143,7 +121,7 @@
         "emotional"
       ],
       "rating": 7.9,
-      "vote_count": 25,
+      "vote_count": 30,
       "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
       "justwatch": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=DE",
       "providers": {
@@ -180,10 +158,46 @@
         "amused",
         "audacious"
       ],
-      "rating": 8.638,
-      "vote_count": 652,
+      "rating": 8.646,
+      "vote_count": 656,
       "poster_path": "/6Ph6TDAUYPTYMXp7PhpIrcWxstn.jpg",
       "justwatch": "https://www.themoviedb.org/tv/220542/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 259140,
+      "title": "Ranma1/2",
+      "type": "tv",
+      "overview": "Akane Tendo trifft ihren Verlobten Ranma Saotome, ein ganz besonderes Kampfkunst-Wunderkind: Wenn er kaltes Wasser berührt, verwandelt er sich in ein Mädchen.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Komödie",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "martial arts",
+        "arranged marriage",
+        "harem",
+        "remake",
+        "romcom",
+        "romance",
+        "curse",
+        "based on manga",
+        "turns into animal",
+        "shounen",
+        "anime",
+        "gender swap",
+        "love polygon"
+      ],
+      "rating": 8.1,
+      "vote_count": 189,
+      "poster_path": "/1C4HtKv13BQnhofwnPZiyfti5aC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/259140-1-2/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -202,8 +216,8 @@
       "keywords": [
         "based on novel or book"
       ],
-      "rating": 7,
-      "vote_count": 12,
+      "rating": 6.933,
+      "vote_count": 15,
       "poster_path": "/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
       "justwatch": "https://www.themoviedb.org/tv/284558-kill-jackie/watch?locale=DE",
       "providers": {
@@ -213,111 +227,44 @@
       }
     },
     {
-      "tmdb_id": 335227,
-      "title": "Der Tod ist mir lieber",
+      "tmdb_id": 37854,
+      "title": "One Piece",
       "type": "tv",
-      "overview": "In Mendoza lebt ein Außenseiter namens Archie. In einer Nacht wird er von einem Zombie gebissen, und nachdem er darüber nachgedacht hat, seinem Leben ein Ende zu setzen, beschließt er, herauszufinden, was mit seinem Körper vor sich geht. Mithilfe einer Freundin und seines Schwarms macht sich Archie auf die Suche nach einem Heilmittel, bevor er sich in ein Monster verwandelt und alle umbringt.",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
       "genres": [
         "Action & Adventure",
-        "Komödie"
-      ],
-      "keywords": [],
-      "rating": 8.3,
-      "vote_count": 7,
-      "poster_path": "/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/335227-prefiero-la-muerte/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 247718,
-      "title": "MobLand: Familie bis aufs Blut",
-      "type": "tv",
-      "overview": "Die Karten werden neu gemischt, als zwei verfeindete Verbrecherfamilien in einer Schlacht aneinandergeraten, die Imperien zu stürzen droht. Harry Da Souza, ein gewiefter Mann fürs Grobe, gerät ins Kreuzfeuer und stellt seine Loyalität unter Beweis.",
-      "genres": [
-        "Krimi",
-        "Drama"
+        "Komödie",
+        "Animation"
       ],
       "keywords": [
-        "london, england",
-        "drug trafficking",
-        "gang war",
-        "gangster",
-        "family business ",
-        "murder",
-        "betrayal",
-        "crime family",
-        "fixer",
-        "corrupt cop",
-        "bold",
-        "cruel",
-        "brutal violence"
-      ],
-      "rating": 8.5,
-      "vote_count": 958,
-      "poster_path": "/a3o7wAGUTu6Yw4fJbKYwrMOwHST.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/247718-mobland/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 207347,
-      "title": "Blue Box",
-      "type": "tv",
-      "overview": "Der Badmintonspieler Taiki hat die Basketballspielerin Chinatsu seit Langem aus der Ferne bewundert. Doch eines Tages bringt eine überraschende Wendung die beiden einander näher.",
-      "genres": [
-        "Animation",
-        "Drama"
-      ],
-      "keywords": [
-        "adolescence",
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
         "friendship",
-        "sports",
-        "high school",
-        "basketball",
-        "romance",
-        "slice of life",
-        "school",
+        "friends",
+        "pirate",
         "based on manga",
-        "badminton",
+        "super power",
+        "adventurer",
         "shounen",
+        "sea adventure",
         "anime",
-        "school club",
-        "bukatsu"
+        "wonder",
+        "fantasy",
+        "adventure",
+        "defiant"
       ],
-      "rating": 7.8,
-      "vote_count": 103,
-      "poster_path": "/shXf4cTKUbMpx5AVBKi4V0dMwY3.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/207347/watch?locale=DE",
+      "rating": 8.75,
+      "vote_count": 5580,
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 203667,
-      "title": "Die rote Königin",
-      "type": "tv",
-      "overview": "Antonia Scott, klügste Frau der Welt, deren Intelligenz sie zur Roten Königin eines geheimen Polizeiprojekts macht. Polizist Jon Gutiérrez – stark, baskisch, schwul – verließ nach einem Disziplinarverweis die Polizei, krempelt in einem spannenden Doppelfall von Entführung und Mord sein Leben und seine Methoden um.",
-      "genres": [
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "keywords": [],
-      "rating": 7.015,
-      "vote_count": 132,
-      "poster_path": "/lubyGqJqCXCzQ6FOTCNDird8NYh.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/203667-reina-roja/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -343,8 +290,8 @@
         "phd",
         "based on fanfiction"
       ],
-      "rating": 8.045,
-      "vote_count": 448,
+      "rating": 8.07,
+      "vote_count": 478,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
@@ -374,8 +321,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.1,
-      "vote_count": 3445,
+      "rating": 8.134,
+      "vote_count": 3450,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -429,33 +376,6 @@
       }
     },
     {
-      "tmdb_id": 275102,
-      "title": "The Scandal",
-      "type": "tv",
-      "overview": "Im Joseon-Reich gerät Lady Cho, eine kluge und selbstbewusste Adlige, in einen Ehekonflikt, als ihr Mann Lord Yoo eine junge Konkubine nehmen will. Sie wendet sich an ihren Cousin Cho Won, einen berüchtigten Verführer, und schlägt ihm ein gefährliches Spiel vor. Gemeinsam wollen sie die tugendhafte junge Witwe Hui-yeon verführen und ihre Gefühle auf die Probe stellen. Cho Won nimmt die Herausforderung an, doch was als Wette beginnt, entwickelt sich zu einem Geflecht aus Begehren, Eifersucht und echten Gefühlen. Während Hui-yeon sich gegen seine Annäherungen wehrt, gerät Cho Won zunehmend in einen inneren Konflikt. Lady Cho versucht, die Kontrolle zu behalten, doch ihre eigenen Gefühle und die wachsende Nähe zwischen Cho Won und Hui-yeon bringen ihren Plan außer Kontrolle. Ein königlicher Befehl verschärft die Lage und zwingt die Beteiligten, sich den Folgen ihrer Intrige zu stellen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "eroticism",
-        "seduction",
-        "remake",
-        "based on movie",
-        "joseon dynasty (1392–1910)",
-        "period piece"
-      ],
-      "rating": 6.7,
-      "vote_count": 22,
-      "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 5920,
       "title": "The Mentalist",
       "type": "tv",
@@ -476,12 +396,39 @@
         "police procedural"
       ],
       "rating": 8.413,
-      "vote_count": 4803,
+      "vote_count": 4808,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 275102,
+      "title": "The Scandal",
+      "type": "tv",
+      "overview": "Im Joseon-Reich gerät Lady Cho, eine kluge und selbstbewusste Adlige, in einen Ehekonflikt, als ihr Mann Lord Yoo eine junge Konkubine nehmen will. Sie wendet sich an ihren Cousin Cho Won, einen berüchtigten Verführer, und schlägt ihm ein gefährliches Spiel vor. Gemeinsam wollen sie die tugendhafte junge Witwe Hui-yeon verführen und ihre Gefühle auf die Probe stellen. Cho Won nimmt die Herausforderung an, doch was als Wette beginnt, entwickelt sich zu einem Geflecht aus Begehren, Eifersucht und echten Gefühlen. Während Hui-yeon sich gegen seine Annäherungen wehrt, gerät Cho Won zunehmend in einen inneren Konflikt. Lady Cho versucht, die Kontrolle zu behalten, doch ihre eigenen Gefühle und die wachsende Nähe zwischen Cho Won und Hui-yeon bringen ihren Plan außer Kontrolle. Ein königlicher Befehl verschärft die Lage und zwingt die Beteiligten, sich den Folgen ihrer Intrige zu stellen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "eroticism",
+        "seduction",
+        "remake",
+        "based on movie",
+        "joseon dynasty (1392–1910)",
+        "period piece"
+      ],
+      "rating": 6.696,
+      "vote_count": 23,
+      "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -506,7 +453,7 @@
         "hilarious"
       ],
       "rating": 8.584,
-      "vote_count": 5528,
+      "vote_count": 5532,
       "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
@@ -516,115 +463,69 @@
       }
     },
     {
-      "tmdb_id": 1366,
-      "title": "Rocky",
-      "type": "movie",
-      "overview": "Rocky Balboa ist ein begnadeter Boxer. Doch der Weg zum Ruhm und dem großen Geld blieb ihm immer verwehrt. Als armer Geldeintreiber muss er ein schäbiges Dasein fristen. Da geschieht das Unglaubliche: Der Amateurboxer erhält die Möglichkeit, gegen den Schwergewichtsweltmeister Apollo Creed anzutreten. Was als PR-Gag geplant ist, entpuppt sich als brutaler und gnadenloser Kampf, denn der ehrgeizige Rocky will sich die Chance seines Lebens von niemandem nehmen lassen …",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "underdog",
-        "philadelphia, pennsylvania",
-        "transporter",
-        "love of one's life",
-        "italian american",
-        "sports",
-        "fight",
-        "independence",
-        "publicity",
-        "boxer",
-        "training",
-        "lovers",
-        "world champion",
-        "victory",
-        "surprise",
-        "boxing",
-        "inspirational",
-        "empathetic",
-        "hopeful"
-      ],
-      "rating": 7.8,
-      "vote_count": 8946,
-      "poster_path": "/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225804.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 1402,
-      "title": "The Walking Dead",
+      "tmdb_id": 15226,
+      "title": "सीआईडी",
       "type": "tv",
-      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
+      "overview": "",
       "genres": [
         "Action & Adventure",
+        "Krimi",
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Mystery"
       ],
       "keywords": [
-        "post-apocalyptic future",
-        "gore",
-        "undead",
-        "survival",
-        "zombie",
-        "based on graphic novel",
-        "horror"
+        "detective",
+        "investigation",
+        "murder",
+        "justice"
       ],
-      "rating": 8.079,
-      "vote_count": 18233,
-      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
+      "rating": 5.7,
+      "vote_count": 31,
+      "poster_path": "/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/15226/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
         "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225761.html",
-        "mentions": 2
       }
     },
     {
-      "tmdb_id": 138843,
-      "title": "Conjuring - Die Heimsuchung",
+      "tmdb_id": 49026,
+      "title": "The Dark Knight Rises",
       "type": "movie",
-      "overview": "‘Endlich ausreichend Platz!’ sagt sich die Großfamilie um Mutter Carolyn und Vater Roger, als sie das abgelegene Landhaus in Rhode Island beziehen. Doch anscheinend sind sie nicht allein: Eine fremde und zunehmend böse Macht wohnt mitten unter ihnen und macht ein normales Leben unmöglich. In ihrer Verzweiflung wenden sie sich an das renommierte Pärchen Ed und Lorraine Warren, die als Fachleute auf dem Gebiet der Geisteraustreibung gelten. Doch ihre anfängliche Souveränität weicht der puren Angst, als sie bemerken, mit welch bösen Kräften sie es hier zu tun haben.",
+      "overview": "Nach dem Tod des Staatsanwalts Harvey Dent alias Two-Face nahm Batman die Schuld von dessen Verbrechen auf sich, um seinen Ruf zu schützen. Daher wurde er von dem Gotham City Police Department gejagt und verließ die Stadt. Die Handlung des Films setzt acht Jahre nach den Ereignissen von The Dark Knight ein. Nachdem der bemerkbar gealterte Batman nach Gotham zurückkehrt, muss er die Wahrheit der geheimnisvollen Selina Kyle herausfinden und den Schurken Bane davon abhalten, Gotham zu zerstören",
       "genres": [
-        "Horror",
+        "Action",
+        "Krimi",
+        "Drama",
         "Thriller"
       ],
       "keywords": [
-        "sibling relationship",
-        "1970s",
-        "cellar",
-        "exorcism",
-        "halloween",
-        "haunted house",
-        "possession",
-        "rhode island",
-        "based on true story",
-        "paranormal investigation",
-        "crucifix",
-        "ghost",
-        "demonic",
-        "demonic spirit",
-        "demonology",
-        "psychic vision",
-        "malevolent spirit"
+        "airplane",
+        "fight",
+        "burglar",
+        "hostage",
+        "secret identity",
+        "crime fighter",
+        "superhero",
+        "villainess",
+        "time bomb",
+        "based on comic",
+        "cover-up",
+        "vigilante",
+        "tragic hero",
+        "mobile",
+        "terrorism",
+        "destruction",
+        "fighting",
+        "criminal underworld",
+        "cat burglar",
+        "flood"
       ],
-      "rating": 7.542,
-      "vote_count": 13135,
-      "poster_path": "/pO6PL9Uw2fafe3MaF73FrgjH9tL.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/138843-the-conjuring/watch?locale=DE",
+      "rating": 7.798,
+      "vote_count": 25055,
+      "poster_path": "/9NyCuhyvFKTqGRLcr4r8fWXnu9v.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -632,8 +533,109 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225663.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225463.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 361292,
+      "title": "Suspiria",
+      "type": "movie",
+      "overview": "Die junge und hoffnungsvolle amerikanische Tänzerin Susie Bannion zieht nach Deutschland, um dort beim renommierten Markos Tanzensemble in Berlin eine Ausbildung zu absolvieren. Nachdem sie das Vortanzen bestanden hat, freundet sie sich dort mit Sara an und macht unter der Aufsicht der künstlerischen Leiterin Madame Blanc, die als eine Revolutionärin gilt, schnell erstaunliche Fortschritte. Doch in der Tanzschule gehen seltsame Dinge vor sich: Kurz vor Susies Ankunft verschwand etwa sogar die Tänzerin Patricia unter ungeklärten Umständen und Dr. Jozef Klemperer, der Psychotherapeut der jungen Tanzschülerin, kommt bald einem dunklen Geheimnis auf die Spur: Hinter der Fassade der Tanzschule verbergen sich grausame Hexen...",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama"
+      ],
+      "keywords": [
+        "berlin, germany",
+        "dance performance",
+        "berlin wall",
+        "telepathy",
+        "1970s",
+        "fascism",
+        "paranormal phenomena",
+        "telekinesis",
+        "remake",
+        "ballet",
+        "female protagonist",
+        "demon",
+        "choreographer",
+        "witchcraft",
+        "occult",
+        "living dead",
+        "ritual sacrifice",
+        "dual role",
+        "choreography",
+        "ballet school",
+        "spiritualism",
+        "dance company",
+        "mysterious",
+        "psychotherapist",
+        "grim",
+        "mysterious events",
+        "good versus evil",
+        "tense"
+      ],
+      "rating": 6.89,
+      "vote_count": 2847,
+      "poster_path": "/ietR9LYrnud7ibM73d6VW97aEpD.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/361292-suspiria/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000225556.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Explosive Mischung",
+      "type": "tv",
+      "overview": "Ein Überfall auf einen Geldautomaten in der Ludwigshafener Innenstadt geht schief: Der schon seit seiner frühen Jugend polizeibekannte Dennis Lohberg kommt bei der Sprengung ums Leben. Eine der Geldkassetten fehlt, und so gehen Lena Odenthal (Ulrike Folkerts) und Johanna Stern (Lisa Bitter) davon aus, dass ein Komplize mit dem Geld floh und den Kumpel liegenließ....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDk1NTQ",
+      "duration": 5361,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatort: Explosive Mischung",
+      "type": "tv",
+      "overview": "Ein Toter nach einer Bankomatsprengung - doch was wie ein Unfall aussieht, führt Lena und Johanna tief in die Machenschaften einer alten Clique. Nach dem Tod des polizeibekannten Kriminellen Dennis bei der Sprengung eines Geldautomaten ermitteln Lena Odenthal und Johanna Stern gegen dessen mutmaßliche Komplizen....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14341813/tatort-explosive-mischung",
+      "duration": 5361,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
       }
     },
     {
@@ -743,7 +745,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -860,52 +862,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzJmMjZkNGI1LTc3ODktNDhiYi1hYjJkLWE2NzE1ZTAyMTNlOV9nYW56ZVNlbmR1bmc",
       "duration": 5262,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Donuts",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 2022 In Bremerhaven, einem der größten Automobilumschlaghäfen Europas, auf einem der Autoterminals wird eine Leiche gefunden – der Bereichsleiter der Fahrer liegt tot im Kofferraum eines Autos. Das Bremer Ermittler-Team mit Liv Moormann und Linda Selb nimmt die Ermittlungen auf und wird vom Bremerhavener Kollegen Robert Petersen unterstützt. Dabei stoßen sie auf Marie, Gheorghe Rusu und Oleg Rusu....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhdG9ydC8yMDIzLTA0LTAyXzIwLTE1LU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5340,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Duisburg Ruhrort (1981) (klare Sprache)",
-      "type": "tv",
-      "overview": "Fernsehfilm Deutschland 1981 +++ Im Duisburger Hafen wird ein Toter gefunden. Es ist der Binnenschiffer Heinz Petschek. Er wurde erstochen. Dringend der Tat verdächtig erweist sich der Schiffer Jan Poppinga; Petschek hatte mit seiner Frau ein Verhältnis. Kriminalhauptkommissar Horst Schimanski glaubt an Poppingas Unschuld....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort Schimanski | restauriert in HD"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOGExNTNmMDAtZmVlZi00NGM4LWJlZGUtYjIxZmE4ZjFhMjgw",
-      "duration": 5833,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1294,28 +1250,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "DogMan",
-      "type": "tv",
-      "overview": "Bei einer Verkehrskontrolle wird ein Mann am Steuer eines Lastwagens voller Hunde aufgegriffen. Er ist blutverschmiert, trägt Abendkleid und Perücke. Sein Name ist Doug.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/dogman-movie-100/dogman-102",
-      "duration": 6602,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "DogMan (Englisch)",
       "type": "tv",
       "overview": "Bei einer Verkehrskontrolle wird ein Mann am Steuer eines Lastwagens voller Hunde aufgegriffen. Er ist blutverschmiert, trägt Abendkleid und Perücke. Sein Name ist Doug.",
@@ -1338,9 +1272,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tornado",
+      "title": "DogMan",
       "type": "tv",
-      "overview": "Ein geraubter Goldschatz wird einer jungen Frau fast zum Verhängnis. Denn das Gold gehört einer brutalen Diebesbande unter Führung eines Mannes namens Sugarman.",
+      "overview": "Bei einer Verkehrskontrolle wird ein Mann am Steuer eines Lastwagens voller Hunde aufgegriffen. Er ist blutverschmiert, trägt Abendkleid und Perücke. Sein Name ist Doug.",
       "genres": [
         "Drama"
       ],
@@ -1350,30 +1284,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/spielfilm-104/tornado-120",
-      "duration": 5221,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tornado (Englisch)",
-      "type": "tv",
-      "overview": "Ein geraubter Goldschatz wird einer jungen Frau fast zum Verhängnis. Denn das Gold gehört einer brutalen Diebesbande unter Führung eines Mannes namens Sugarman.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/spielfilm-104/tornado-120",
-      "duration": 5221,
+      "url": "https://www.zdf.de/video/filme/dogman-movie-100/dogman-102",
+      "duration": 6602,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1484,6 +1396,72 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
       "duration": 6565,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hot Summer Nights - Spielfilm, USA 2017",
+      "type": "tv",
+      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
+      "duration": 6051,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Ein Schloss am Wörthersee - Der Film - Kinofilm, Österreich 1992",
+      "type": "tv",
+      "overview": "Der charmante Lennie Berger hat von seinem Onkel das Schlosshotel Velden geerbt und will es auf Vordermann bringen. Das stößt bei den Angestellten und der Konkurrenz nicht nur auf Zuspruch.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/ein-schloss-am-woerthersee---der-film-100.html",
+      "duration": 4938,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Werkstatthelden mit Herz - Fernsehfilm, Deutschland 2020",
+      "type": "tv",
+      "overview": "Seine altgedienten Angestellten Becker, Roger und Köll will Carlo keinesfalls entlassen, denn sie sind mehr als nur seine Mitarbeiter: Sie sind seine besten Freunde.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/fernsehfilm/werkstatthelden-mit-herz-100.html",
+      "duration": 5353,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1616,50 +1594,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/100886-003-A/die-schwarzen-schmetterlinge-3-6/",
       "duration": 2903,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Mord im Mittsommer - Staffel 11 (3/3) - Fall 25: Amanda",
-      "type": "tv",
-      "overview": "Ein Raubüberfall wird zu einer Kindesentführung, als die Diebe ein Boot stehlen, auf dem sich ein Mädchen aus reichem Hause befindet. Doch das Kind ist schwer krank und wird ohne Medikamente sterben. Alexander und Valpen nehmen sich des Falls an – ohne zu ahnen, dass die Diebe auch Nora in ihrer Gewalt haben. \"Mord im Mittsommer\", die Krimiserie zur gleichnamigen Romanreihe.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/125605-000-A/mord-im-mittsommer-staffel-11-3-3/",
-      "duration": 5312,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Prisoner 951 (4/4) - Das Geständnis",
-      "type": "tv",
-      "overview": "Gabriellas Rückkehr nach London bringt Hoffnung und Herzschmerz: Während Richard um Nähe zu seiner entfremdeten Tochter ringt, kämpft Nazanin im Iran weiter um ihre Freiheit. Die Pandemie, neue Haftstrafen und ein politischer Machtpoker um jahrzehntealte Schulden treiben beide an ihre Grenzen – bis ein riskantes Geständnis alles entscheidet.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/130430-004-A/prisoner-951-4-4/",
-      "duration": 3586,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1806,14 +1740,36 @@
     },
     {
       "tmdb_id": null,
-      "title": "Inside Zweiter Weltkrieg",
+      "title": "Jugend in Ost und West",
       "type": "tv",
-      "overview": "Teils stählerner Schutz, teils tödliche Falle: U-Boote und Panzer. Im Zweiten Weltkrieg waren sie wichtige Bestandteile der Kriegsführung. Mirko Drotschmann nimmt uns mit auf Entdeckungsreise.",
+      "overview": "Klagen der Älteren über \"die Jugend von heute\": Sie begleiten junge Menschen schon immer. \"Terra X History\" zeigt, warum die Konflikte zwischen Jung und Alt so alt sind wie die Bundesrepublik selbst.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
         "Terra X History"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/blauhemd-und-breakdance---jugend-in-ost-und-west-100",
+      "duration": 2682,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Inside Zweiter Weltkrieg (S2026/E26)",
+      "type": "tv",
+      "overview": "U-Boote und Panzer waren während des Zweiten Weltkrieges unabdingbar. Bei \"Terra X History\" erlebt Mirko Drotschmann hautnah, wie der Alltag eines U-Boot- und Panzerfahrers aussah.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History - die Einzeldokus"
       ],
       "rating": null,
       "vote_count": 0,
@@ -1894,6 +1850,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Krieg, Krise, Katastrophe - bist du vorbereitet?",
+      "type": "tv",
+      "overview": "Kriege, Krisen, Katastrophen – wie viel Prepper steckt in uns? Leon Windscheid trifft Prepper und Reservisten, die sich auf den Ernstfall   vorbereiten – und hinterfragt, woher ihre Angst kommt.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/krieg-krise-katastrophe---bist-du-vorbereitet-movie-100",
+      "duration": 2616,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Haben jetzt alle ADHS?",
       "type": "tv",
       "overview": "Neurodivergent sein ist cool – und gefühlt haben alle ADHS. Lola Weippert erzählt im Gespräch mit Leon Windscheid, wie sie den Hype findet.",
@@ -1938,46 +1916,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "Peter Feigl (ZDF 2026)",
+      "title": "Vom Boxhagener Platz",
       "type": "tv",
-      "overview": "Peter Feigls Flucht vor den Nazis verläuft über Prag, Wien, Antwerpen und das französische Lager Gurs bis zur südfranzösischen Kleinstadt Auch. Er findet Unterschlupf und flieht 1944 in die Schweiz.",
+      "overview": "Reportage Deutschland 2026 +++ Vom Wochenmarkt am Boxhagener Platz in Berlin-Friedrichshain geht es auf kulinarische Entdeckungsreise durch Berlin und Brandenburg. rbb88.8-Genussexpertin Jaele Vanuls entdeckt die Vielfalt der Berliner Restaurantszene: In Wilmersdorf trifft sie Asly Aguilar, der im Restaurant Mkhunaa peruanische Küche an den Ludwigkirchplatz bringt. In Mitte probiert sie sich durch die Aromen Südostasiens....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History"
+        "Dokumentation und Reportage"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/interviews/terra-x-history-zeugnisse--interviews-mit-holocaust-ueberlebenden-100/zeitzeugeninterview-peter-feigl-zeugnisse-holocaustueberlebender-100",
-      "duration": 2601,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9iYWI1OWQ3Yi0xYWM3LTRiNWMtODQwNC01ZjBlYTdhMWIzNzhfcHVibGljYXRpb24",
+      "duration": 2652,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "9/11 - Terror, Trauma, Zeitenwende (S2026/E24)",
-      "type": "tv",
-      "overview": "Der 11. September 2001 – ein Datum, das alles veränderte. „Terra X History“ zeigt die Auswirkungen der Terroranschläge auf das World Trade Center und Pentagon auf die USA und die restliche Welt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X History - die Einzeldokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/911---terror-trauma-zeitenwende-100",
-      "duration": 2601,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
+        "mediathek": "ARD"
       }
     },
     {
@@ -2224,28 +2180,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Geschichte der Einwanderer",
-      "type": "tv",
-      "overview": "Damals in Amerika - Die Geschichte der Einwanderer, Film von Charles Colville",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjc4NDIyNA",
-      "duration": 2548,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Dorfchroniken - Wolfram Koch auf Spurensuche",
       "type": "tv",
       "overview": "Eine alte Dorfchronik, ein verschwundenes Skelett und ein rätselhafter Halsring: In Utphe stößt Schauspieler Wolfram Koch auf eine Geschichte, die bis heute Fragen aufwirft. 1974 wird auf einem Acker ein menschliches Skelett entdeckt. Um den Hals trägt es einen geheimnisvollen Ring. Doch kurz darauf verschwindet der Fund – und mit ihm wichtige Spuren....",
@@ -2330,28 +2264,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Störenfried – Ermittlungen zu Oskar Brüsewitz",
-      "type": "tv",
-      "overview": "Kaum ein Ereignis hat die evangelische Kirche in der DDR - und zugleich auch das Verhältnis zwischen Kirche und Staat - so sehr erschüttert wie die Selbstverbrennung des Pastors Oskar Brüsewitz am 18. August 1976 in Zeitz. 2026 jährte sich dieses Ereignis zum fünfzigsten Mal....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/MTIwNGRiNWItZjRkNi00YjJkLWEwODktNDRmMGM0OTc0NDY1",
-      "duration": 5675,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2484,6 +2396,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Die Brücke am Kwai",
+      "type": "tv",
+      "overview": "1943 geraten britische Soldaten in japanische Gefangenschaft und sollen eine Eisenbahnbrücke für die berüchtigte Thailand-Burma-Bahn errichten. Während Oberst Nicholson auf der Einhaltung militärischer Prinzipien besteht, plant ein alliiertes Kommando die Zerstörung des Bauwerks. David Leans oscarprämiertes Kriegsdrama zählt zu den Klassikern des Genres.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/060750-000-A/die-bruecke-am-kwai/",
+      "duration": 9289,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2642,28 +2576,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Der Gefangene von Alcatraz",
-      "type": "tv",
-      "overview": "Eine ungewöhnliche Lebensgeschichte: Der verbitterte Strafgefangene Robert Stroud tötet im Streit einen Wärter und wird zu lebenslanger Einzelhaft verurteilt. Er erhält aber die Erlaubnis, Kanarienvögel zu züchten. Beharrlich entwickelt er unter anderem ein Heilmittel gegen eine tödliche Vogelkrankheit, was ihn über die Gefängnismauern hinaus bekannt macht. Kann er begnadigt werden?",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/128679-000-A/der-gefangene-von-alcatraz/",
-      "duration": 8548,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Split vergisst nie – Der Kroatien-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2023 ass ihr Kollege Borko (Kasem Hoxha) ungewöhnlich früh das Büro verlässt und kurz darauf Zeuge eines Mordanschlags wird, ruft bei Chefermittlerin Stascha Nowak (Jasmin Gerat) zunächst wenig Beachtung hervor. Das Opfer, der zwielichtige Investmentbanker Rogur (Ulrich Gebauer), wurde im Auto mit einer Handgranate in die Luft gesprengt....",
@@ -2808,7 +2720,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI0LTA2LTA4XzIzLTU1LU1FU1o",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI0LTA2LTA4XzIzLTU1LU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5305,
       "providers": {
         "netflix": null,
@@ -3104,6 +3016,75 @@
     },
     {
       "tmdb_id": null,
+      "title": "Capital B - Wem gehört Berlin? (5/5) - Die Stadt als Beute",
+      "type": "tv",
+      "overview": "Im vergangenen Jahrzehnt erobert das Kapital die Stadt. Während von New York aus eine Finanzkrise die Welt in Atem hält, passiert in Berlin zur Überraschung vieler das Gegenteil: Die Stadt boomt. Endlich. Und zieht nicht nur Touristen, sondern auch Investoren aus aller Welt an und wird zum milliardenschweren Immobilieneldorado.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/087960-005-A/capital-b-wem-gehoert-berlin-5-5/",
+      "duration": 3394,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Capital B - Wem gehört Berlin? (4/5) - Arm, aber sexy!",
+      "type": "tv",
+      "overview": "\"Ich bin schwul und das ist auch gut so!\" Nachdem der Berliner Bankenskandal das etwas verstaubte Machtduo Diepgen und Landowsky 2001 hinweggefegt und die Käseglocke von Berlin genommen hat, zieht mit dem charmanten und auch machtbewussten Klaus Wowereit ein neuer Stil in die Politik ein: Locker nach außen, aber knallhart in der Sache. Berlin muss \"Sparen, bis es quietscht!\".",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/087960-004-A/capital-b-wem-gehoert-berlin-4-5/",
+      "duration": 3186,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Capital B - Wem gehört Berlin? (3/5) - Absturz",
+      "type": "tv",
+      "overview": "Die Westberliner Elite um Bürgermeister Eberhard Diepgen und seinen Verbündeten, den Politiker Klaus-Rüdiger Landowsky, hat ihre Macht Mitte der 1990er Jahre zementiert und feiert sich selbst auf großen Festen in den Beton-Kathedralen der vielen Großbaustellen der Stadt. Doch der erhoffte Hauptstadt-Boom bleibt aus. Immobilienhaie und Großinvestoren haben sich verzockt.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/087960-003-A/capital-b-wem-gehoert-berlin-3-5/",
+      "duration": 3133,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Capital B - Wem gehört Berlin? (2/5) - Größenwahn",
       "type": "tv",
       "overview": "1991 wird der Regierende Bürgermeister Eberhard Diepgen in Berlin wiedergewählt. Er und der Fraktionsvorsitzende der CDU, Klaus Landowsky, heimlicher Strippenzieher der Berliner Politik, träumen davon, Berlin wieder zur Weltmetropole zu machen.",
@@ -3215,75 +3196,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Woran wir glauben - Götter, Geister und Gurus",
-      "type": "tv",
-      "overview": "Während die Kirchen Mitglieder verlieren, suchen Millionen neue Formen von Spiritualität: in indischen Ashrams, bei Neo-Druiden, in japanischer Popkultur oder bei Gurus. \"Woran wir glauben\" zeigt eine Welt, in der große Religionen Einfluss verlieren, aber der Hunger nach Erklärungen jenseits wissenschaftlicher Fakten bleibt. Kann die Sehnsucht nach Halt auch zur Gefahr werden?",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/115508-002-A/woran-wir-glauben/",
-      "duration": 3138,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Des Kaisers Spion: Maximilian Ronge",
-      "type": "tv",
-      "overview": "Spionage war sein Leben: Maximilian Ronge, letzter Geheimdienstchef der Habsburgermonarchie, sammelte Informationen, knüpfte ein weitreichendes Netz und ging gegen Verräter mit äußerster Härte vor. Er war es, der Oberst Redl die Pistole übergab. Nach dem Zweiten Weltkrieg nutzte Ronge sein Wissen, um ehemalige Nationalsozialisten aufzuspüren. Die Dokumentation zeichnet das Porträt eines Mannes, der stets im Hintergrund agierte....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14341704/des-kaisers-spion-maximilian-ronge",
-      "duration": 2769,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Woran wir glauben - Die Natur des Menschen",
-      "type": "tv",
-      "overview": "Die Reise beginnt in der Kalahari und führt bis an die Front in der Ukraine. Sie erzählt von alten Ritualen und modernen Sinnkrisen. \"Woran wir glauben – Die Natur des Menschen\" fragt, warum wir nach Trost, Zeichen und Ordnung suchen – in der Natur, bei den Ahnen, in Gott oder im Zweifel. Ist Glaube Teil unserer Biologie oder tatsächlich der Weg zu höherer Erkenntnis?",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/115508-001-A/woran-wir-glauben/",
-      "duration": 3138,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
       }
     }
   ]
