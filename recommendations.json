@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-05T11:56:52.203Z",
+  "generated_at": "2026-10-06T11:36:40.168Z",
   "items": [
     {
       "tmdb_id": 1458857,
@@ -8,8 +8,8 @@
       "type": "movie",
       "overview": "Die alleinerziehende Mutter Anika  versucht, ihren Alltag zu bewältigen und für ihre Familie da zu sein. Als sie beginnt, dem inhaftierten Carousel Briefe zu schreiben, entwickelt sich zwischen den beiden eine ungewöhnliche Verbindung. Aus dem zunächst unerwarteten Kontakt entsteht eine Beziehung, die Anika und Carousel dazu bringt, sich mit ihrer Vergangenheit auseinanderzusetzen. Gemeinsam suchen sie nach einem Weg, alte Belastungen hinter sich zu lassen und eine neue Perspektive für ihr Leben zu finden.",
       "genres": [
-        "Drama",
-        "Liebesfilm"
+        "Liebesfilm",
+        "Drama"
       ],
       "keywords": [
         "single mother",
@@ -18,8 +18,8 @@
         "urban drama",
         "emotional"
       ],
-      "rating": 7.12,
-      "vote_count": 54,
+      "rating": 7.331,
+      "vote_count": 62,
       "poster_path": "/3cM6jJfbseKwBUj9wIytsPZ3bMq.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=DE",
       "providers": {
@@ -29,27 +29,116 @@
       }
     },
     {
-      "tmdb_id": 1492640,
-      "title": "UNABOMBER",
-      "type": "movie",
-      "overview": "In diesem Drama nach wahren Ereignissen wird Ted Kaczynskis Weg vom Harvard-Wunderkind und Testobjekt zum berüchtigten, vom FBI gejagten Unabomber nacherzählt.",
+      "tmdb_id": 37854,
+      "title": "One Piece",
+      "type": "tv",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
       "genres": [
-        "Thriller",
-        "Drama",
-        "Krimi"
+        "Action & Adventure",
+        "Komödie",
+        "Animation"
       ],
       "keywords": [
-        "bomb",
-        "fbi",
-        "based on true story",
-        "terrorism",
-        "mk ultra",
-        "biopic"
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
+        "friendship",
+        "friends",
+        "pirate",
+        "based on manga",
+        "super power",
+        "adventurer",
+        "shounen",
+        "sea adventure",
+        "anime",
+        "wonder",
+        "fantasy",
+        "adventure",
+        "defiant"
       ],
-      "rating": 6.587,
-      "vote_count": 344,
-      "poster_path": "/bq852UKtJ0rBPfbKpxoYlQSUiiz.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=DE",
+      "rating": 8.8,
+      "vote_count": 5582,
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 258165,
+      "title": "East of Eden",
+      "type": "tv",
+      "overview": "Anfang des 20. Jahrhunderts treibt eine unabhängige Frau einen Keil zwischen zwei Brüder und entfacht damit eine Saga, die sich über zwei Generationen erstreckt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "california",
+        "based on novel or book",
+        "dysfunctional family",
+        "sibling rivalry",
+        "miniseries",
+        "period drama",
+        "american civil war",
+        "social issues",
+        "19th century",
+        "family saga",
+        "1900s",
+        "cain & abel",
+        "1860s",
+        "20th century",
+        "period piece",
+        "romantic drama",
+        "emotional"
+      ],
+      "rating": 7.959,
+      "vote_count": 37,
+      "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 220542,
+      "title": "Die Tagebücher der Apothekerin",
+      "type": "tv",
+      "overview": "Maomao führte ein friedliches Leben, bis sie eines Tages entführt und als niedere Dienerin an den Kaiserhof verkauft wird. Die junge Apothekerin ist jedoch keine Persönlichkeit, die für ein willfähriges Leben unter Hoheiten bestimmt ist. Als ein Kronprinz nach dem anderen einer mysteriösen Krankheit zum Opfer fällt, schreitet sie unauffällig ein, um ein potentes Heilmittel für ihre Gesundung herzustellen. Trotz ihrer Vorsicht bemerkt der höhergestellte Hofdiener Jinshi ihre Affinität für Heilkräuter und verlangt fortan bei medizinischen Problemen des Hofes nach ihrer Expertise – dadurch verstrickt sie sich unweigerlich in die Intrigen am Kaiserhof.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "detective",
+        "affectation",
+        "work",
+        "politics",
+        "female protagonist",
+        "maid",
+        "historical",
+        "royal court",
+        "lady in waiting",
+        "anime",
+        "medical",
+        "ancient china",
+        "critical",
+        "based on light novel",
+        "amused",
+        "audacious"
+      ],
+      "rating": 8.6,
+      "vote_count": 656,
+      "poster_path": "/6Ph6TDAUYPTYMXp7PhpIrcWxstn.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/220542/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -94,81 +183,6 @@
       }
     },
     {
-      "tmdb_id": 258165,
-      "title": "East of Eden",
-      "type": "tv",
-      "overview": "Anfang des 20. Jahrhunderts treibt eine unabhängige Frau einen Keil zwischen zwei Brüder und entfacht damit eine Saga, die sich über zwei Generationen erstreckt.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "california",
-        "based on novel or book",
-        "dysfunctional family",
-        "sibling rivalry",
-        "miniseries",
-        "period drama",
-        "american civil war",
-        "social issues",
-        "19th century",
-        "family saga",
-        "1900s",
-        "cain & abel",
-        "1860s",
-        "20th century",
-        "period piece",
-        "romantic drama",
-        "emotional"
-      ],
-      "rating": 7.9,
-      "vote_count": 30,
-      "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 220542,
-      "title": "Die Tagebücher der Apothekerin",
-      "type": "tv",
-      "overview": "Maomao führte ein friedliches Leben, bis sie eines Tages entführt und als niedere Dienerin an den Kaiserhof verkauft wird. Die junge Apothekerin ist jedoch keine Persönlichkeit, die für ein willfähriges Leben unter Hoheiten bestimmt ist. Als ein Kronprinz nach dem anderen einer mysteriösen Krankheit zum Opfer fällt, schreitet sie unauffällig ein, um ein potentes Heilmittel für ihre Gesundung herzustellen. Trotz ihrer Vorsicht bemerkt der höhergestellte Hofdiener Jinshi ihre Affinität für Heilkräuter und verlangt fortan bei medizinischen Problemen des Hofes nach ihrer Expertise – dadurch verstrickt sie sich unweigerlich in die Intrigen am Kaiserhof.",
-      "genres": [
-        "Animation",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "detective",
-        "affectation",
-        "work",
-        "politics",
-        "female protagonist",
-        "maid",
-        "historical",
-        "royal court",
-        "lady in waiting",
-        "anime",
-        "medical",
-        "ancient china",
-        "critical",
-        "based on light novel",
-        "amused",
-        "audacious"
-      ],
-      "rating": 8.646,
-      "vote_count": 656,
-      "poster_path": "/6Ph6TDAUYPTYMXp7PhpIrcWxstn.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/220542/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 259140,
       "title": "Ranma1/2",
       "type": "tv",
@@ -205,66 +219,37 @@
       }
     },
     {
-      "tmdb_id": 284558,
-      "title": "KILL JACKIE",
+      "tmdb_id": 80748,
+      "title": "FBI",
       "type": "tv",
-      "overview": "Die Kokainhändlerin Jackie Price führt seit zwanzig Jahren ein ruhiges Leben. Als eine alltägliche Entscheidung eine Kette von Ereignissen auslöst, erfährt sie, dass „The Seven Demons\", eine Eliteeinheit von Auftragskillern, angeheuert wurde, um sie zu töten. Jackie begibt sich auf eine Verfolgungsjagd durch Europa, um sie aufzuspüren.",
+      "overview": "Die Agenten des New Yorker Büro des FBI arbeiten rund um die Uhr daran, die Stadt und ihr Land vor Terror, organisiertem Verbrechen und fremden Spionen zu beschützen. Unter der Leitung von Special Agent in Charge Dana Mosier setzt sich ihr Team aus verschiedenen Spezialisten mit einzigartigen Fähigkeiten zusammen.",
       "genres": [
-        "Drama",
-        "Krimi"
+        "Krimi",
+        "Action & Adventure",
+        "Drama"
       ],
       "keywords": [
-        "based on novel or book"
+        "new york city",
+        "fbi",
+        "investigation",
+        "gunfight",
+        "foot chase",
+        "criminal investigation",
+        "gun shooting",
+        "special agent",
+        "police procedural",
+        "fbi agent",
+        "federal crime",
+        "crime",
+        "fbi operation"
       ],
-      "rating": 6.933,
-      "vote_count": 15,
-      "poster_path": "/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/284558-kill-jackie/watch?locale=DE",
+      "rating": 7.9,
+      "vote_count": 952,
+      "poster_path": "/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/80748-fbi/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 37854,
-      "title": "One Piece",
-      "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
-      "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
-      ],
-      "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
-      ],
-      "rating": 8.75,
-      "vote_count": 5580,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -290,8 +275,8 @@
         "phd",
         "based on fanfiction"
       ],
-      "rating": 8.07,
-      "vote_count": 478,
+      "rating": 8.072,
+      "vote_count": 489,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
@@ -321,8 +306,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.134,
-      "vote_count": 3450,
+      "rating": 8.136,
+      "vote_count": 3459,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -365,8 +350,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.956,
-      "vote_count": 4363,
+      "rating": 7.955,
+      "vote_count": 4365,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -395,70 +380,13 @@
         "criminal consultant",
         "police procedural"
       ],
-      "rating": 8.413,
-      "vote_count": 4808,
+      "rating": 8.414,
+      "vote_count": 4812,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 275102,
-      "title": "The Scandal",
-      "type": "tv",
-      "overview": "Im Joseon-Reich gerät Lady Cho, eine kluge und selbstbewusste Adlige, in einen Ehekonflikt, als ihr Mann Lord Yoo eine junge Konkubine nehmen will. Sie wendet sich an ihren Cousin Cho Won, einen berüchtigten Verführer, und schlägt ihm ein gefährliches Spiel vor. Gemeinsam wollen sie die tugendhafte junge Witwe Hui-yeon verführen und ihre Gefühle auf die Probe stellen. Cho Won nimmt die Herausforderung an, doch was als Wette beginnt, entwickelt sich zu einem Geflecht aus Begehren, Eifersucht und echten Gefühlen. Während Hui-yeon sich gegen seine Annäherungen wehrt, gerät Cho Won zunehmend in einen inneren Konflikt. Lady Cho versucht, die Kontrolle zu behalten, doch ihre eigenen Gefühle und die wachsende Nähe zwischen Cho Won und Hui-yeon bringen ihren Plan außer Kontrolle. Ein königlicher Befehl verschärft die Lage und zwingt die Beteiligten, sich den Folgen ihrer Intrige zu stellen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "eroticism",
-        "seduction",
-        "remake",
-        "based on movie",
-        "joseon dynasty (1392–1910)",
-        "period piece"
-      ],
-      "rating": 6.696,
-      "vote_count": 23,
-      "poster_path": "/lHaTX3Ef3juOpQjix5eZc3NWsEI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/275102/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 2316,
-      "title": "The Office",
-      "type": "tv",
-      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "office",
-        "work",
-        "boss",
-        "remake",
-        "mockumentary",
-        "employer employee relationship",
-        "sitcom",
-        "employment",
-        "workplace comedy",
-        "hilarious"
-      ],
-      "rating": 8.584,
-      "vote_count": 5532,
-      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -490,106 +418,163 @@
       }
     },
     {
-      "tmdb_id": 49026,
-      "title": "The Dark Knight Rises",
-      "type": "movie",
-      "overview": "Nach dem Tod des Staatsanwalts Harvey Dent alias Two-Face nahm Batman die Schuld von dessen Verbrechen auf sich, um seinen Ruf zu schützen. Daher wurde er von dem Gotham City Police Department gejagt und verließ die Stadt. Die Handlung des Films setzt acht Jahre nach den Ereignissen von The Dark Knight ein. Nachdem der bemerkbar gealterte Batman nach Gotham zurückkehrt, muss er die Wahrheit der geheimnisvollen Selina Kyle herausfinden und den Schurken Bane davon abhalten, Gotham zu zerstören",
+      "tmdb_id": 2316,
+      "title": "The Office",
+      "type": "tv",
+      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
       "genres": [
-        "Action",
-        "Krimi",
-        "Drama",
-        "Thriller"
+        "Komödie"
       ],
       "keywords": [
-        "airplane",
-        "fight",
-        "burglar",
-        "hostage",
-        "secret identity",
-        "crime fighter",
-        "superhero",
-        "villainess",
-        "time bomb",
-        "based on comic",
-        "cover-up",
-        "vigilante",
-        "tragic hero",
-        "mobile",
-        "terrorism",
-        "destruction",
-        "fighting",
-        "criminal underworld",
-        "cat burglar",
-        "flood"
+        "office",
+        "work",
+        "boss",
+        "remake",
+        "mockumentary",
+        "employer employee relationship",
+        "sitcom",
+        "employment",
+        "workplace comedy",
+        "sentimental",
+        "hilarious",
+        "admiring",
+        "amused",
+        "comforting"
       ],
-      "rating": 7.798,
-      "vote_count": 25055,
-      "poster_path": "/9NyCuhyvFKTqGRLcr4r8fWXnu9v.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=DE",
+      "rating": 8.584,
+      "vote_count": 5543,
+      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 438631,
+      "title": "Dune",
+      "type": "movie",
+      "overview": "„Dune“ erzählt die packende Geschichte des brillanten jungen Helden Paul Atreides, dem das Schicksal eine Rolle vorherbestimmt hat, von der er niemals geträumt hätte. Um die Zukunft seiner Familie und seines gesamten Volkes zu sichern, muss Paul auf den gefährlichsten Planeten des Universums reisen. Nur auf dieser Welt existiert ein wertvoller Rohstoff, der es der Menschheit ermöglichen könnte, ihr vollständiges geistiges Potenzial auszuschöpfen. Doch finstere Mächte wollen die Kontrolle über die kostbare Substanz an sich reißen. Es entbrennt ein erbitterter Kampf, den nur diejenigen überleben werden, die ihre eigenen Ängste besiegen.",
+      "genres": [
+        "Science Fiction",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "empire",
+        "future",
+        "army",
+        "based on novel or book",
+        "prophecy",
+        "dystopia",
+        "emperor",
+        "sand",
+        "spice",
+        "chosen one",
+        "hallucinogen",
+        "treason",
+        "baron",
+        "revenge",
+        "premonition",
+        "betrayal",
+        "space",
+        "water shortage",
+        "creature",
+        "desert",
+        "knife fight",
+        "destiny",
+        "giant worm",
+        "space opera",
+        "sand dune",
+        "messiah",
+        "complex",
+        "mother son relationship",
+        "giant creature"
+      ],
+      "rating": 7.784,
+      "vote_count": 15658,
+      "poster_path": "/34Hr4bEzF30jd6sEvI4HihEUEI8.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/438631-dune/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225463.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000226007.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 361292,
-      "title": "Suspiria",
+      "tmdb_id": 1359,
+      "title": "American Psycho",
       "type": "movie",
-      "overview": "Die junge und hoffnungsvolle amerikanische Tänzerin Susie Bannion zieht nach Deutschland, um dort beim renommierten Markos Tanzensemble in Berlin eine Ausbildung zu absolvieren. Nachdem sie das Vortanzen bestanden hat, freundet sie sich dort mit Sara an und macht unter der Aufsicht der künstlerischen Leiterin Madame Blanc, die als eine Revolutionärin gilt, schnell erstaunliche Fortschritte. Doch in der Tanzschule gehen seltsame Dinge vor sich: Kurz vor Susies Ankunft verschwand etwa sogar die Tänzerin Patricia unter ungeklärten Umständen und Dr. Jozef Klemperer, der Psychotherapeut der jungen Tanzschülerin, kommt bald einem dunklen Geheimnis auf die Spur: Hinter der Fassade der Tanzschule verbergen sich grausame Hexen...",
+      "overview": "Auf den ersten Blick ist Patrick Bateman ein stinknormaler, egomanischer Wall-Street-Yuppie, doch hinter der Fassade des proper gewandten Lebemannes verbirgt sich ein mörderischer Abgrund aus Hass und Sadismus. Um die Leere seines einzig von Statussymbolen erhellten Daseins auszufüllen, ist Patrick auf den Serienmord gekommen, insbesondere junge Frauen, aber auch der eine oder andere unvorsichtige Geschäftspartner zählen zu seinen Opfern. Als es ihm zunehmend schwerfällt, zwischen Phantasie und Realität zu unterscheiden, tritt die Polizei auf den Plan.",
       "genres": [
-        "Horror",
-        "Mystery",
-        "Drama"
+        "Thriller",
+        "Drama",
+        "Krimi"
       ],
       "keywords": [
-        "berlin, germany",
-        "dance performance",
-        "berlin wall",
-        "telepathy",
-        "1970s",
-        "fascism",
-        "paranormal phenomena",
-        "telekinesis",
-        "remake",
-        "ballet",
-        "female protagonist",
-        "demon",
-        "choreographer",
-        "witchcraft",
-        "occult",
-        "living dead",
-        "ritual sacrifice",
-        "dual role",
-        "choreography",
-        "ballet school",
-        "spiritualism",
-        "dance company",
-        "mysterious",
-        "psychotherapist",
-        "grim",
-        "mysterious events",
-        "good versus evil",
-        "tense"
+        "new york city",
+        "based on novel or book",
+        "businessman",
+        "psychopath",
+        "dark comedy",
+        "satire",
+        "wall street",
+        "serial killer",
+        "chainsaw",
+        "big city",
+        "psychological thriller",
+        "character study",
+        "white collar",
+        "harvard business school",
+        "voice imitation",
+        "1980s",
+        "american businessman",
+        "bloody",
+        "ambiguity",
+        "psychological horror",
+        "horror"
       ],
-      "rating": 6.89,
-      "vote_count": 2847,
-      "poster_path": "/ietR9LYrnud7ibM73d6VW97aEpD.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/361292-suspiria/watch?locale=DE",
+      "rating": 7.4,
+      "vote_count": 12810,
+      "poster_path": "/5Tx1PH4mejIhvC5mtAc94FtgueF.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1359-american-psycho/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225556.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225902.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nasse Sachen",
+      "type": "tv",
+      "overview": "Bei der Aufklärung mehrerer Straftaten stellt Hauptkommissarin Eva Saalfeld Stasi-Unterlagen sicher, die den Namen ihres Vaters enthalten. Ihre Ermittlungen bringen Eva in Konflikt mit ihrer schon abgeschlossen geglaubten Vergangenheit.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80NzA1MDEtNDUwODA0",
+      "duration": 5305,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -722,7 +707,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI3MjIyOV9nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI3MjIyOV9nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5348,
       "providers": {
         "netflix": null,
@@ -745,7 +730,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmc",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -814,7 +799,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQwL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQw",
       "duration": 5342,
       "providers": {
         "netflix": null,
@@ -847,21 +832,21 @@
     },
     {
       "tmdb_id": null,
-      "title": "Schlafende Hunde",
+      "title": "Die Abrechnung",
       "type": "tv",
-      "overview": "Spielfilm Deutschland 2010 Die Bremer Rentnerin Ruth Thalheim (Marie Anne Fliegel) wird tot in ihrer Wohnung aufgefunden – nichts deutet jedoch auf ein Verbrechen hin. Aber Kommissarin Inga Lürsen (Sabine Postel) entdeckt Ungereimtheiten, die sie an einem „natürlichen Tod“ zweifeln lassen....",
+      "overview": "Fred Schneidereit hat einen Antrag auf vorzeitige Haftentlassung gestellt. Der beginnt, die Ereignisse, die zu seiner Verurteilung geführt haben, zu rekapitulieren. Seine Frau Vera gerät plötzlich in den Fokus des Falls.",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Tatort"
+        "Polizeiruf 110 - Klassiker"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzJmMjZkNGI1LTc3ODktNDhiYi1hYjJkLWE2NzE1ZTAyMTNlOV9nYW56ZVNlbmR1bmc",
-      "duration": 5262,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy84MTY0MjNiYS01NjBiLTQzNTEtYjJiMC0yN2Q0ZDU3NGFmMDc",
+      "duration": 4868,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -977,29 +962,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy83ZGI4YzRjZi01MTk5LTQ2M2ItYTJlNi04YjVlZjlmODEyYmU",
       "duration": 3454,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Zehn Rosen",
-      "type": "tv",
-      "overview": "In einem Hinterhof Magdeburgs wird die schwer zugerichtete Leiche einer jungen Frau gefunden. Hauptkommissarin Brasch vermutet aufgrund der symbolischen Fesselung einen Serientäter. Eine Transfrau gerät unter Verdacht.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Polizeiruf 110"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80MDU3NTItMzg4OTAy",
-      "duration": 5287,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1228,6 +1190,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "A Quiet Place: Tag Eins (Englisch)",
+      "type": "tv",
+      "overview": "Als Manhattan Ziel eines Alien-Angriffs wird, verbünden sich die todkranke Sam und der hilflose Student Eric zum gemeinsamen Überlebenskampf in den Straßen von New York.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/a-quiet-place-tag-eins-movie-100/a-quiet-place-tag-eins-100",
+      "duration": 5733,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "A Quiet Place: Tag Eins",
+      "type": "tv",
+      "overview": "Als Manhattan Ziel eines Alien-Angriffs wird, verbünden sich die todkranke Sam und der hilflose Student Eric zum gemeinsamen Überlebenskampf in den Straßen von New York.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/a-quiet-place-tag-eins-movie-100/a-quiet-place-tag-eins-100",
+      "duration": 5733,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Die Spionin - Spielfilm, Norwegen/Schweden/Belgien 2019",
       "type": "tv",
       "overview": "1942 steht Sonja Wigert, der größte Filmstar Skandinaviens, ganz oben auf der Liste der Prominenten, die die Deutschen für ihre Propaganda einspannen wollen.",
@@ -1338,6 +1344,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Tatami (Englisch)",
+      "type": "tv",
+      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
+      "duration": 5980,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatami",
+      "type": "tv",
+      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
+      "duration": 5980,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "An einem schönen Morgen - Spielfilm, Frankreich/Deutschland 2021",
       "type": "tv",
       "overview": "Dolmetscherin Sandra muss nach dem Tod ihres Mannes nicht nur ihre Tochter allein erziehen, sondern sich auch um ihren Vater Georg kümmern, der an einer neurodegenerativen Krankheit leidet.",
@@ -1352,94 +1402,6 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/an-einem-schoenen-morgen-100.html",
       "duration": 6342,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
-      "type": "tv",
-      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
-      "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
-      "type": "tv",
-      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
-      "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hot Summer Nights - Spielfilm, USA 2017",
-      "type": "tv",
-      "overview": "Cape Cod im Sommer: Außenseiter Daniel findet Anschluss beim Dealer Hunter. Aus einer Mutprobe wird der Einstieg in ein gefährliches Drogengeschäft.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hot-summer-nights-100.html",
-      "duration": 6051,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Ein Schloss am Wörthersee - Der Film - Kinofilm, Österreich 1992",
-      "type": "tv",
-      "overview": "Der charmante Lennie Berger hat von seinem Onkel das Schlosshotel Velden geerbt und will es auf Vordermann bringen. Das stößt bei den Angestellten und der Konkurrenz nicht nur auf Zuspruch.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/ein-schloss-am-woerthersee---der-film-100.html",
-      "duration": 4938,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1762,6 +1724,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Angstthema Krieg: Würdest du für Deutschland kämpfen?",
+      "type": "tv",
+      "overview": "Kampf oder Flucht – was würden wir im Kriegsfall tun? Leon Windscheid fragt, warum wir unterschiedlich auf existenzielle Bedrohungen wie Krieg reagieren und was unsere Entscheidungen beeinflusst.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra Xplore"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/reportagen/angstthema-krieg-wuerdest-du-fuer-deutschland-kaempfen-movie-100",
+      "duration": 2603,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Inside Zweiter Weltkrieg (S2026/E26)",
       "type": "tv",
       "overview": "U-Boote und Panzer waren während des Zweiten Weltkrieges unabdingbar. Bei \"Terra X History\" erlebt Mirko Drotschmann hautnah, wie der Alltag eines U-Boot- und Panzerfahrers aussah.",
@@ -1850,28 +1834,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Krieg, Krise, Katastrophe - bist du vorbereitet?",
-      "type": "tv",
-      "overview": "Kriege, Krisen, Katastrophen – wie viel Prepper steckt in uns? Leon Windscheid trifft Prepper und Reservisten, die sich auf den Ernstfall   vorbereiten – und hinterfragt, woher ihre Angst kommt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra Xplore"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/krieg-krise-katastrophe---bist-du-vorbereitet-movie-100",
-      "duration": 2616,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Haben jetzt alle ADHS?",
       "type": "tv",
       "overview": "Neurodivergent sein ist cool – und gefühlt haben alle ADHS. Lola Weippert erzählt im Gespräch mit Leon Windscheid, wie sie den Hype findet.",
@@ -1912,6 +1874,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Faszination Blau - Königin der Farben",
+      "type": "tv",
+      "overview": "Wo immer wir uns bewegen, überall begegnet uns die Farbe Blau. Im Alltag genauso wie in der Kunst. Blau ist die Lieblingsfarbe der meisten Menschen weltweit. Warum? Immer wieder, in unterschiedlichen Epochen, spielt Blau eine führende Rolle in der Malerei....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen und Reportagen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9EVVJfMTc0NDkz",
+      "duration": 3128,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2136,46 +2120,68 @@
     },
     {
       "tmdb_id": null,
-      "title": "Welt der Wale: Pelagos",
+      "title": "Tu ich’s ...? Soll ich mir die Brüste entfernen lassen?",
       "type": "tv",
-      "overview": "Ein Dreieck der Hoffnung für die Wale und Delfine des Mittelmeers liegt zwischen Korsika, Nizza und Genua, einem Gebiet, das vor gefährlichen Fischereipraktiken geschützt ist und in dem Delfine und Wale gedeihen.",
+      "overview": "Vanessa ist glücklich verheiratet, Mutter zweier Kinder und berufstätig. Ein Gentest verändert ihr Leben schlagartig. Die 35-Jährige ist Trägerin des BRCA2-Gens. Damit beträgt ihr Risiko an Brustkrebs zu erkranken rund 70 Prozent. Auch die Wahrscheinlichkeit für Eierstockkrebs liegt bei ihr weit über dem Durchschnitt. Vanessa hatte es geahnt: Vor wenigen Monaten erst starb ihre Mutter an den Spätfolgen ihrer Brustkrebserkrankung....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen im BR"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1Nzg2MA",
-      "duration": 3174,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDA1NDE1QTA",
+      "duration": 2640,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
       }
     },
     {
       "tmdb_id": null,
-      "title": "Die Geschichte der Arbeiter",
+      "title": "The Second Life – Der Blick der toten Tiere - Dokumentarfilm von Davide Gambino,",
       "type": "tv",
-      "overview": "Film von Charles Colville, phoenix/ZDF",
+      "overview": "Die Welt steht vor dem größten Artenschwund seit dem Aussterben der Dinosaurier. Diesmal ist die Ursache der Mensch. Zugleich bedroht der Verlust der Artenvielfalt auch den Menschen.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokumentarfilmzeit"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjg2NjgyMw",
-      "duration": 2611,
+      "url": "https://www.3sat.de/film/dokumentarfilmzeit/the-second-life---der-blick-der-toten-tiere-100.html",
+      "duration": 4743,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hélène Hubys Wettlauf ins All - Ganz nach oben",
+      "type": "tv",
+      "overview": "Hélène Huby gründet 2021 als erste Frau ein privates Raumfahrtunternehmen. Ihr Ziel: dem dominierenden Player SpaceX von Elon Musk die Stirn zu bieten. Ihre Raumkapsel soll Europa unabhängiger machen im neuen Wettlauf ins All. Der Film begleitet die Pionierin Hélène Huby über mehrere Jahre hinweg. Alles hängt an einem ersten Start ihrer Kapsel in den USA. Das Risiko zu scheitern, ist extrem hoch....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentarfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTQ3NTg",
+      "duration": 4845,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2242,28 +2248,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Vor der Eiszeit - Jagd nach dem ältesten Erbgut der Welt",
-      "type": "tv",
-      "overview": "Wissenschaftler entschlüsseln 2 Millionen Jahre alte DNA in Grönland und enthüllen eine verlorene, heiße Welt  – ein Blick in die Vergangenheit, die auch unsere klimatische Zukunft sein könnte.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "NANO Doku"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/nano-doku/261001-eiszeit-dna-nano-doku-ntk-100.html",
-      "duration": 2577,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
       }
     },
     {
@@ -2396,6 +2380,28 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Police Python 357",
+      "type": "tv",
+      "overview": "Marc Ferrot, Polizist in der französischen Stadt Orléans, lässt sich auf eine leidenschaftliche Affäre mit einer jungen Frau namens Sylvia ein. Als sie ermordet wird, betraut man ausgerechnet Ferrot mit der Aufklärung des Falls. Und alle Indizien sprechen gegen ihn ... - Außergewöhnlicher Thriller von Alain Corneau aus dem Jahr 1975 mit Yves Montand.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/046965-000-A/police-python-357/",
+      "duration": 7285,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2554,24 +2560,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Das Experiment",
+      "title": "Mörderisches Schweigen – Der Bozen-Krimi (S01/E08)",
       "type": "tv",
-      "overview": "20 Männer lassen sich für zwei Wochen auf ein riskantes Rollenspiel ein: Gefangene und Wärter in einem simulierten Gefängnis. Anfangs gelten klare Regeln, Gewalt ist verboten. Doch Macht, Angst und Gehorsam verändern alles. Aus der Studie wird ein Alptraum – und die Frage bleibt: Kann \"Das Experiment\" noch gelingen? Psychothriller, inspiriert vom Stanford-Prison-Experiment.",
+      "overview": "Spielfilm Deutschland 2019 Die seit Monaten vermisste Frau des Gastwirts Gamper (Peter Pertusini) wollte nichts lieber als raus aus ihrem abgelegenen Bergdorf. Wie sich zeigt, ist Teresa nicht weit gekommen: Ihre Leiche wird aus einem Bergsee gezogen....",
       "genres": [
-        "Drama"
+        "Krimi"
       ],
       "keywords": [
-        "Kino - Filme"
+        "Der Bozen-Krimi"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/124357-000-A/das-experiment/",
-      "duration": 6770,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDIzLTA0LTIyXzIxLTQ1LU1FU1o",
+      "duration": 5374,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "arte"
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tod im Fiaker – Der Wien-Krimi: Blind ermittelt",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland/Österreich 2020 Kokain mit einer Prise Zyankalisalz ist eine tödliche Mischung: Alexander Haller erlebt aus nächster Nähe, wie Bankier Schachner nach einer heimlich gezogenen Line zusammenbricht. Zwar kann der blinde Kommissar nicht sehen, was vor sich geht, jedoch bemerkt er den typischen Bittermandelgeruch. Hallers Warnung kommt für seine Schwester Sophie zu spät, die sich bei der Mund-zu-Mund-Beatmung vergiftet....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Wien-Krimi: Blind ermittelt"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzhkNTU1YjBiLTU3OGYtNGY2Yi1hNWVmLTRjY2Q5YTA2NzZhMF9nYW56ZVNlbmR1bmc",
+      "duration": 5250,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -2700,50 +2728,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjQtMDEtMjVfMjAtMTUtTUVa",
       "duration": 5324,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Falsches Spiel – Der Bozen-Krimi (S01/E07)",
-      "type": "tv",
-      "overview": "Ein neuer Mordfall beschäftigt Sonja Schwarz (Chiara Schoras). Um den gewaltsamen Tod eines Kraftfahrers in einem Marmorwerk aufzuklären, muss sie ihre Arbeit auf dem Weingut wieder einmal vernachlässigen. Ausgerechnet jetzt kann sie sich auch nicht auf das Kripo-Team verlassen: Dort gibt es eine undichte Stelle....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Bozen-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1ib3plbi1rcmltaS8yMDI0LTA2LTA4XzIzLTU1LU1FU1ovYXVkaW9kZXNrcmlwdGlvbg",
-      "duration": 5305,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Freund oder Feind – Der Masuren-Krimi (4)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2023 Selbst in die fast unberührte Naturlandschaft Nordpolens ist die vernetzte Cyberwelt vorgedrungen – und mit ihr auch schwer durchschaubare Formen der Kriminalität. Im vierten \"Masuren-Krimi\" versucht Hauptdarstellerin Claudia Eisinger als brillante Kriminaltechnikerin, den eiskalt ausgeführten Mord an einem IT-Unternehmer aufzuklären....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Der Masuren-Krimi"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzUyN2E2YWRhLWNhMDAtNDVlNS05NWVjLTM2OThkNGU4OTIyZV9nYW56ZVNlbmR1bmc",
-      "duration": 5342,
       "providers": {
         "netflix": null,
         "prime": null,
