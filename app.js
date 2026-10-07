@@ -1,4 +1,4 @@
-const APP_VERSION = "2.1.0";
+const APP_VERSION = "2.1.1";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -144,7 +144,7 @@ function qualifyingProviders(item) {
   const out = [];
   if (p.netflix === "flatrate") out.push({ key: "netflix", label: "Netflix" });
   if (p.prime === "flatrate") out.push({ key: "prime", label: "Prime – gratis" });
-  if (p.mediathek) out.push({ key: "mediathek", label: p.mediathek + " Mediathek" });
+  if (p.mediathek) out.push({ key: "mediathek", label: escapeHtml(p.mediathek) + " Mediathek" });
   return out;
 }
 
@@ -339,7 +339,7 @@ function renderProfileSwitch() {
 function metaLine(item) {
   const parts = [...(item.genres || [])];
   if (item.duration) parts.push(Math.round(item.duration / 60) + " Min");
-  return parts.join(" · ");
+  return escapeHtml(parts.join(" · "));
 }
 
 function watchLinkHtml(item) {
@@ -431,7 +431,7 @@ function toggleSection(key) {
 function cardHtml(entry, index, prefsForLove) {
   const loved = isLoved(entry.item, prefsForLove);
   return `
-    <div class="swipe-wrap" data-key="${itemKey(entry.item)}">
+    <div class="swipe-wrap" data-key="${escapeHtml(itemKey(entry.item))}">
       <div class="swipe-hint hint-left">👀 Gesehen?</div>
       <div class="swipe-hint hint-right">🙅 Nicht mein Ding</div>
       <article class="swipe-surface card${entry.relaxed ? " relaxed" : ""}">
@@ -441,7 +441,7 @@ function cardHtml(entry, index, prefsForLove) {
           <div class="genres">${metaLine(entry.item)}</div>
           <div class="badges">${badgeHtml(entry.item, true)}${entry.relaxed ? `<span class="badge relaxed-badge">🔓 gelockert</span>` : ""}${watchLinkHtml(entry.item)}<span class="badge info-badge">ⓘ Details</span></div>
         </div>
-        <button class="love-btn ${loved ? "loved" : ""}" data-key="${itemKey(entry.item)}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
+        <button class="love-btn ${loved ? "loved" : ""}" data-key="${escapeHtml(itemKey(entry.item))}" aria-label="Als Lieblingstitel markieren">${loved ? "♥" : "♡"}</button>
       </article>
     </div>
   `;
@@ -479,7 +479,7 @@ function render() {
 
   heroSlot.innerHTML = `
     <div class="stack">
-      <div class="swipe-wrap" data-key="${itemKey(top.item)}">
+      <div class="swipe-wrap" data-key="${escapeHtml(itemKey(top.item))}">
         <div class="swipe-hint hint-left">👀 Gesehen?</div>
         <div class="swipe-hint hint-right">🙅 Nicht mein Ding</div>
         <article class="swipe-surface hero-card">
@@ -898,9 +898,9 @@ function openAddTitleDialog(profileKey) {
     let html = "";
     matches.forEach(it => {
       html += `
-        <button class="add-result" data-key="${itemKey(it)}">
+        <button class="add-result" data-key="${escapeHtml(itemKey(it))}">
           <span class="add-result-title">${escapeHtml(it.title)}</span>
-          <span class="add-result-meta">${(it.genres || []).join(" · ") || "ohne Genre-Angabe"}</span>
+          <span class="add-result-meta">${escapeHtml((it.genres || []).join(" · ")) || "ohne Genre-Angabe"}</span>
         </button>
       `;
     });
