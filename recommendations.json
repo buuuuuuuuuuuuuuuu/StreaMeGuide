@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-06T11:36:40.168Z",
+  "generated_at": "2026-10-07T11:26:34.249Z",
   "items": [
     {
       "tmdb_id": 1458857,
@@ -18,10 +18,47 @@
         "urban drama",
         "emotional"
       ],
-      "rating": 7.331,
-      "vote_count": 62,
+      "rating": 7.4,
+      "vote_count": 65,
       "poster_path": "/3cM6jJfbseKwBUj9wIytsPZ3bMq.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 258165,
+      "title": "East of Eden",
+      "type": "tv",
+      "overview": "Anfang des 20. Jahrhunderts treibt eine unabhängige Frau einen Keil zwischen zwei Brüder und entfacht damit eine Saga, die sich über zwei Generationen erstreckt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "california",
+        "based on novel or book",
+        "dysfunctional family",
+        "sibling rivalry",
+        "miniseries",
+        "period drama",
+        "american civil war",
+        "social issues",
+        "19th century",
+        "family saga",
+        "1900s",
+        "cain & abel",
+        "1860s",
+        "20th century",
+        "period piece",
+        "romantic drama",
+        "emotional"
+      ],
+      "rating": 7.927,
+      "vote_count": 41,
+      "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -60,196 +97,13 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.8,
-      "vote_count": 5582,
+      "rating": 8.751,
+      "vote_count": 5583,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 258165,
-      "title": "East of Eden",
-      "type": "tv",
-      "overview": "Anfang des 20. Jahrhunderts treibt eine unabhängige Frau einen Keil zwischen zwei Brüder und entfacht damit eine Saga, die sich über zwei Generationen erstreckt.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "california",
-        "based on novel or book",
-        "dysfunctional family",
-        "sibling rivalry",
-        "miniseries",
-        "period drama",
-        "american civil war",
-        "social issues",
-        "19th century",
-        "family saga",
-        "1900s",
-        "cain & abel",
-        "1860s",
-        "20th century",
-        "period piece",
-        "romantic drama",
-        "emotional"
-      ],
-      "rating": 7.959,
-      "vote_count": 37,
-      "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 220542,
-      "title": "Die Tagebücher der Apothekerin",
-      "type": "tv",
-      "overview": "Maomao führte ein friedliches Leben, bis sie eines Tages entführt und als niedere Dienerin an den Kaiserhof verkauft wird. Die junge Apothekerin ist jedoch keine Persönlichkeit, die für ein willfähriges Leben unter Hoheiten bestimmt ist. Als ein Kronprinz nach dem anderen einer mysteriösen Krankheit zum Opfer fällt, schreitet sie unauffällig ein, um ein potentes Heilmittel für ihre Gesundung herzustellen. Trotz ihrer Vorsicht bemerkt der höhergestellte Hofdiener Jinshi ihre Affinität für Heilkräuter und verlangt fortan bei medizinischen Problemen des Hofes nach ihrer Expertise – dadurch verstrickt sie sich unweigerlich in die Intrigen am Kaiserhof.",
-      "genres": [
-        "Animation",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "detective",
-        "affectation",
-        "work",
-        "politics",
-        "female protagonist",
-        "maid",
-        "historical",
-        "royal court",
-        "lady in waiting",
-        "anime",
-        "medical",
-        "ancient china",
-        "critical",
-        "based on light novel",
-        "amused",
-        "audacious"
-      ],
-      "rating": 8.6,
-      "vote_count": 656,
-      "poster_path": "/6Ph6TDAUYPTYMXp7PhpIrcWxstn.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/220542/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 207347,
-      "title": "Blue Box",
-      "type": "tv",
-      "overview": "Der Badmintonspieler Taiki hat die Basketballspielerin Chinatsu seit Langem aus der Ferne bewundert. Doch eines Tages bringt eine überraschende Wendung die beiden einander näher.",
-      "genres": [
-        "Animation",
-        "Drama"
-      ],
-      "keywords": [
-        "adolescence",
-        "friendship",
-        "sports",
-        "high school",
-        "basketball",
-        "romance",
-        "slice of life",
-        "school",
-        "based on manga",
-        "school life",
-        "badminton",
-        "shounen",
-        "anime",
-        "school club",
-        "japanese high school",
-        "bukatsu"
-      ],
-      "rating": 7.8,
-      "vote_count": 103,
-      "poster_path": "/shXf4cTKUbMpx5AVBKi4V0dMwY3.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/207347/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 259140,
-      "title": "Ranma1/2",
-      "type": "tv",
-      "overview": "Akane Tendo trifft ihren Verlobten Ranma Saotome, ein ganz besonderes Kampfkunst-Wunderkind: Wenn er kaltes Wasser berührt, verwandelt er sich in ein Mädchen.",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Komödie",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "martial arts",
-        "arranged marriage",
-        "harem",
-        "remake",
-        "romcom",
-        "romance",
-        "curse",
-        "based on manga",
-        "turns into animal",
-        "shounen",
-        "anime",
-        "gender swap",
-        "love polygon"
-      ],
-      "rating": 8.1,
-      "vote_count": 189,
-      "poster_path": "/1C4HtKv13BQnhofwnPZiyfti5aC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/259140-1-2/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 80748,
-      "title": "FBI",
-      "type": "tv",
-      "overview": "Die Agenten des New Yorker Büro des FBI arbeiten rund um die Uhr daran, die Stadt und ihr Land vor Terror, organisiertem Verbrechen und fremden Spionen zu beschützen. Unter der Leitung von Special Agent in Charge Dana Mosier setzt sich ihr Team aus verschiedenen Spezialisten mit einzigartigen Fähigkeiten zusammen.",
-      "genres": [
-        "Krimi",
-        "Action & Adventure",
-        "Drama"
-      ],
-      "keywords": [
-        "new york city",
-        "fbi",
-        "investigation",
-        "gunfight",
-        "foot chase",
-        "criminal investigation",
-        "gun shooting",
-        "special agent",
-        "police procedural",
-        "fbi agent",
-        "federal crime",
-        "crime",
-        "fbi operation"
-      ],
-      "rating": 7.9,
-      "vote_count": 952,
-      "poster_path": "/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/80748-fbi/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -275,8 +129,8 @@
         "phd",
         "based on fanfiction"
       ],
-      "rating": 8.072,
-      "vote_count": 489,
+      "rating": 8.043,
+      "vote_count": 502,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
@@ -350,7 +204,7 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.955,
+      "rating": 8,
       "vote_count": 4365,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
@@ -381,12 +235,43 @@
         "police procedural"
       ],
       "rating": 8.414,
-      "vote_count": 4812,
+      "vote_count": 4815,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 2316,
+      "title": "The Office",
+      "type": "tv",
+      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "office",
+        "work",
+        "boss",
+        "remake",
+        "mockumentary",
+        "employer employee relationship",
+        "sitcom",
+        "employment",
+        "workplace comedy",
+        "admiring",
+        "amused"
+      ],
+      "rating": 8.6,
+      "vote_count": 5547,
+      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -418,140 +303,73 @@
       }
     },
     {
-      "tmdb_id": 2316,
-      "title": "The Office",
-      "type": "tv",
-      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "office",
-        "work",
-        "boss",
-        "remake",
-        "mockumentary",
-        "employer employee relationship",
-        "sitcom",
-        "employment",
-        "workplace comedy",
-        "sentimental",
-        "hilarious",
-        "admiring",
-        "amused",
-        "comforting"
-      ],
-      "rating": 8.584,
-      "vote_count": 5543,
-      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 438631,
-      "title": "Dune",
+      "tmdb_id": 165,
+      "title": "Zurück in die Zukunft II",
       "type": "movie",
-      "overview": "„Dune“ erzählt die packende Geschichte des brillanten jungen Helden Paul Atreides, dem das Schicksal eine Rolle vorherbestimmt hat, von der er niemals geträumt hätte. Um die Zukunft seiner Familie und seines gesamten Volkes zu sichern, muss Paul auf den gefährlichsten Planeten des Universums reisen. Nur auf dieser Welt existiert ein wertvoller Rohstoff, der es der Menschheit ermöglichen könnte, ihr vollständiges geistiges Potenzial auszuschöpfen. Doch finstere Mächte wollen die Kontrolle über die kostbare Substanz an sich reißen. Es entbrennt ein erbitterter Kampf, den nur diejenigen überleben werden, die ihre eigenen Ängste besiegen.",
+      "overview": "Nachdem Doc Brown am Ende des ersten Teiles Marty mit in die Zukunft genommen hat, sieht er nun selbst, was aus ihm werden wird - ein abgehalfterter Angestellter, der am Ende der Karriereleiter steht.Marty und Doc Brown versuchen, der Zukunft einen kleinen Schubser in die richtige Richtung zu geben. Doch Biff gibt seiner eigenen Zukunft durch einen Fehler Martys eine neue Wendung - und dieser Fehler muß nun ausgebügelt werden...",
       "genres": [
-        "Science Fiction",
-        "Abenteuer"
+        "Abenteuer",
+        "Komödie",
+        "Science Fiction"
       ],
       "keywords": [
-        "empire",
-        "future",
-        "army",
-        "based on novel or book",
-        "prophecy",
-        "dystopia",
-        "emperor",
-        "sand",
-        "spice",
-        "chosen one",
-        "hallucinogen",
-        "treason",
-        "baron",
-        "revenge",
-        "premonition",
-        "betrayal",
-        "space",
-        "water shortage",
-        "creature",
-        "desert",
-        "knife fight",
-        "destiny",
-        "giant worm",
-        "space opera",
-        "sand dune",
-        "messiah",
-        "complex",
-        "mother son relationship",
-        "giant creature"
+        "flying car",
+        "skateboarding",
+        "car race",
+        "lightning",
+        "guitar",
+        "inventor",
+        "time travel",
+        "diner",
+        "car crash",
+        "sequel",
+        "alternate history",
+        "thunderstorm",
+        "tunnel",
+        "high school dance",
+        "angry",
+        "kids",
+        "hoverboard",
+        "2010s",
+        "lighthearted",
+        "enthusiastic"
       ],
       "rating": 7.784,
-      "vote_count": 15658,
-      "poster_path": "/34Hr4bEzF30jd6sEvI4HihEUEI8.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/438631-dune/watch?locale=DE",
+      "vote_count": 14360,
+      "poster_path": "/9m396LRrW2PwIKAogU19pnGpJCI.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/165-back-to-the-future-part-ii/watch?locale=DE",
       "providers": {
-        "netflix": "flatrate",
-        "prime": null,
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000226007.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000226276.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 1359,
-      "title": "American Psycho",
-      "type": "movie",
-      "overview": "Auf den ersten Blick ist Patrick Bateman ein stinknormaler, egomanischer Wall-Street-Yuppie, doch hinter der Fassade des proper gewandten Lebemannes verbirgt sich ein mörderischer Abgrund aus Hass und Sadismus. Um die Leere seines einzig von Statussymbolen erhellten Daseins auszufüllen, ist Patrick auf den Serienmord gekommen, insbesondere junge Frauen, aber auch der eine oder andere unvorsichtige Geschäftspartner zählen zu seinen Opfern. Als es ihm zunehmend schwerfällt, zwischen Phantasie und Realität zu unterscheiden, tritt die Polizei auf den Plan.",
+      "tmdb_id": null,
+      "title": "Wunder gibt es immer wieder",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2021 | Krimi +++ Die Ermittlungen in einem Mordfall führen die Münchner Kommissare Ivo Batic (Miroslav Nemec) und Franz Leitmayr (Udo Wachtveitl) nach Dannerberg im Voralpenland. Dort hatte der Tote in einem Nonnenkloster zuletzt als Wirtschaftsprüfer zu tun. Das gottesfürchtige Leben scheint jedoch nur auf den ersten Blick beschaulich....",
       "genres": [
-        "Thriller",
-        "Drama",
-        "Krimi"
+        "Krimi",
+        "Drama"
       ],
       "keywords": [
-        "new york city",
-        "based on novel or book",
-        "businessman",
-        "psychopath",
-        "dark comedy",
-        "satire",
-        "wall street",
-        "serial killer",
-        "chainsaw",
-        "big city",
-        "psychological thriller",
-        "character study",
-        "white collar",
-        "harvard business school",
-        "voice imitation",
-        "1980s",
-        "american businessman",
-        "bloody",
-        "ambiguity",
-        "psychological horror",
-        "horror"
+        "Tatort"
       ],
-      "rating": 7.4,
-      "vote_count": 12810,
-      "poster_path": "/5Tx1PH4mejIhvC5mtAc94FtgueF.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1359-american-psycho/watch?locale=DE",
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyMVdPMDMxODQyQTA",
+      "duration": 5283,
       "providers": {
-        "netflix": "flatrate",
+        "netflix": null,
         "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225902.html",
-        "mentions": 2
+        "mediathek": "ARD"
       }
     },
     {
@@ -730,7 +548,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -799,35 +617,12 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQw",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQwL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5342,
       "providers": {
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatort: Überlebe wenigstens bis morgen",
-      "type": "tv",
-      "overview": "Niemand vermisst Nelly, niemand fragt nach ihr. Dann zeigt sich, wem sie fatalerweise zu nahekam. Der Stuttgarter \"Tatort\" begleitet die Kommissare Lannert und Bootz bei den Ermittlungen zum Tod der jungen Nelly Schlüter, deren Leiche erst Wochen nach ihrem Tod entdeckt wird. Erstaunlich ist, dass weder Familie, Freunde noch Ex-Freund ihr Verschwinden bemerkt haben. Selbst ihre beste Freundin wirkt erleichtert über Nellys Abwesenheit....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14340876/tatort-ueberlebe-wenigstens-bis-morgen",
-      "duration": 5319,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     },
     {
@@ -1256,50 +1051,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "DogMan (Englisch)",
-      "type": "tv",
-      "overview": "Bei einer Verkehrskontrolle wird ein Mann am Steuer eines Lastwagens voller Hunde aufgegriffen. Er ist blutverschmiert, trägt Abendkleid und Perücke. Sein Name ist Doug.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/dogman-movie-100/dogman-102",
-      "duration": 6602,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "DogMan",
-      "type": "tv",
-      "overview": "Bei einer Verkehrskontrolle wird ein Mann am Steuer eines Lastwagens voller Hunde aufgegriffen. Er ist blutverschmiert, trägt Abendkleid und Perücke. Sein Name ist Doug.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/dogman-movie-100/dogman-102",
-      "duration": 6602,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Curveball – Wir machen die Wahrheit - Spielfilm, Deutschland 2020",
       "type": "tv",
       "overview": "BND-Biowaffenexperte Wolf trifft auf den irakischen Asylbewerber Rafid Alwan. Dieser behauptet, Teil von Saddam Husseins geheimem Biowaffenprogramm gewesen zu sein. Für den BND wäre das eine Sensation – doch die entscheidenden Beweise fehlen.",
@@ -1402,6 +1153,72 @@
       "poster_path": null,
       "url": "https://www.3sat.de/film/spielfilm/an-einem-schoenen-morgen-100.html",
       "duration": 6342,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
+      "type": "tv",
+      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
+      "duration": 6565,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
+      "type": "tv",
+      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
+      "duration": 6565,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Mordnacht - Fernsehfilm, Deutschland 2024",
+      "type": "tv",
+      "overview": "Einer für alle, alle für einen! So lautet das Motto im beschaulichen Heiterstorf vor den Toren Hamburgs. Gabriel Panski will in seinem Heimatort wieder akzeptiert werden.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/fernsehfilm/mordnacht-100.html",
+      "duration": 5331,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1702,6 +1519,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Aufbruchsjahre - Deutschland nach dem Krieg",
+      "type": "tv",
+      "overview": "Seine Spurensuche wird auch zur Reise in die Vergangenheit seiner Familie. Der Film erzählt von Überlebenden, Flüchtlingen, Rückkehrern und Tätern. So entsteht ein Bild der Jahre 1945-48.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/aufbruchsjahre---deutschland-nach-dem-krieg-movie-100/aufbruchsjahre-deutschland-nach-dem-krieg-100",
+      "duration": 5307,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Jugend in Ost und West",
       "type": "tv",
       "overview": "Klagen der Älteren über \"die Jugend von heute\": Sie begleiten junge Menschen schon immer. \"Terra X History\" zeigt, warum die Konflikte zwischen Jung und Alt so alt sind wie die Bundesrepublik selbst.",
@@ -1856,28 +1695,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Weltstädte: Rom - Mit Leon Windscheid",
-      "type": "tv",
-      "overview": "Jahrtausendealte Schönheit. In der \"Terra X\"-Sendung \"Weltstädte – Rom\" taucht Moderator und Psychologe Leon Windscheid in die geheimnisvolle Geschichte der Ewigen Stadt ein.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra X"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/wissen/terra-x/terra-x-weltstaedte-rom-mit-leon-windscheid-doku-100.html",
-      "duration": 2618,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Faszination Blau - Königin der Farben",
       "type": "tv",
       "overview": "Wo immer wir uns bewegen, überall begegnet uns die Farbe Blau. Im Alltag genauso wie in der Kunst. Blau ist die Lieblingsfarbe der meisten Menschen weltweit. Warum? Immer wieder, in unterschiedlichen Epochen, spielt Blau eine führende Rolle in der Malerei....",
@@ -1918,6 +1735,94 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Frühling · Ein Jahr in Kanadas Wildnis",
+      "type": "tv",
+      "overview": "Überall passt sich die Natur an die unterschiedlichen Jahreszeiten an, doch in Kanada sind die Wechsel extrem, spektakulär und vor allem eins: unvorhersehbar.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjcxNw",
+      "duration": 2576,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Sommer · Ein Jahr in Kanadas Wildnis",
+      "type": "tv",
+      "overview": "Im Sommer entfaltet die Schönheit der kanadischen Landschaften ihren Höhepunkt. Die Reise beginnt auf einer Insel vor der Pazifikküste, wo gerade 4.000 kleine Seelöwenbabys geboren wurden. Film von Sue und Jeff Turner.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMjk5NTkzMw",
+      "duration": 2577,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Herbst · Ein Jahr in Kanadas Wildnis",
+      "type": "tv",
+      "overview": "Der Herbst steht für den Wandel des wilden Kanadas - während die Tiere im Süden noch in der Sonne baden, müssen die Streifenhörnchen im Norden schon Wintervorräte sammeln. Im Herbst wandeln sich die kanadischen Wälder in ein Farbenmeer.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjYwMg",
+      "duration": 2563,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Winter · Ein Jahr in Kanadas Wildnis",
+      "type": "tv",
+      "overview": "Die faszinierende Verwandlung der kanadischen Landschaften durch Schnee und Eis. Die Tiere müssen sich anpassen, um zu überleben.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDg4MjYxNw",
+      "duration": 2578,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
       }
     },
     {
@@ -2032,97 +1937,9 @@
     },
     {
       "tmdb_id": null,
-      "title": "Der Ozean · Oase des Lebens",
-      "type": "tv",
-      "overview": "Der Ozean ist eine Oase des Lebens. Die Dokumentarfilmer Michele und Howard Hall tauchen ab in einzigartige, faszinierende Meeresregionen und ihre ganz spezielle Tierwelt.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk1MjA5Mg",
-      "duration": 3091,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Kolibri-Effekt",
-      "type": "tv",
-      "overview": "Kolibris sind wahre Flugkünstler – und bekannt dafür, dass sie in der Luft auf der Stelle schweben können. Aber die bunt schillernden, winzigen Vögel können noch sehr viel mehr – sie sind die Garanten dafür, dass ganze Ökosysteme überleben.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDkxNzgyMg",
-      "duration": 3034,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Winzerfamilien",
-      "type": "tv",
-      "overview": "Im Tessin ist die Weinproduktion vor allem eine Familienangelegenheit: Vater, Mutter und Kinder müssen alle hart arbeiten, um die Zukunft des Betriebs zu sichern – ob im Weinberg, im Keller oder im Verkauf. Das ist eine schwierige Herausforderung in einem Sektor, der unter besonderem Druck steht: Wie kommen die Winzerfamilien damit zurecht?",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen in anderen Landessprachen von Play Suisse"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/die-winzerfamilien?urn=urn:srf:video:d895b9b4-4b44-4d92-aa1d-c4945f8857b8",
-      "duration": 3226,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "SRF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die Haie von Hawaii",
-      "type": "tv",
-      "overview": "Die Doku begleitet Forschende und Taucher vor der Küste Hawaiis und gibt faszinierende Einblicke in das Verhalten verschiedener Haiarten. Sie zeigt die Bedeutung der Tiere für das Ökosystem und räumt mit verbreiteten Vorurteilen über Haie auf.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIwMDExNg",
-      "duration": 3151,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Tu ich’s ...? Soll ich mir die Brüste entfernen lassen?",
       "type": "tv",
-      "overview": "Vanessa ist glücklich verheiratet, Mutter zweier Kinder und berufstätig. Ein Gentest verändert ihr Leben schlagartig. Die 35-Jährige ist Trägerin des BRCA2-Gens. Damit beträgt ihr Risiko an Brustkrebs zu erkranken rund 70 Prozent. Auch die Wahrscheinlichkeit für Eierstockkrebs liegt bei ihr weit über dem Durchschnitt. Vanessa hatte es geahnt: Vor wenigen Monaten erst starb ihre Mutter an den Spätfolgen ihrer Brustkrebserkrankung....",
+      "overview": "Vanessa ist glücklich verheiratet, Mutter zweier Kinder und berufstätig. Ein Gentest verändert ihr Leben schlagartig. Die 35-Jährige ist Trägerin einer Mutation des BRCA2-Gens. Damit beträgt ihr Risiko an Brustkrebs zu erkranken rund 70 Prozent. Auch die Wahrscheinlichkeit für Eierstockkrebs liegt bei ihr weit über dem Durchschnitt....",
       "genres": [
         "Dokumentarfilm"
       ],
@@ -2178,72 +1995,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTQ3NTg",
       "duration": 4845,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Dorfchroniken - Wolfram Koch auf Spurensuche",
-      "type": "tv",
-      "overview": "Eine alte Dorfchronik, ein verschwundenes Skelett und ein rätselhafter Halsring: In Utphe stößt Schauspieler Wolfram Koch auf eine Geschichte, die bis heute Fragen aufwirft. 1974 wird auf einem Acker ein menschliches Skelett entdeckt. Um den Hals trägt es einen geheimnisvollen Ring. Doch kurz darauf verschwindet der Fund – und mit ihm wichtige Spuren....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/ZWZlN2I5OTItOGIxMC00MzAyLTkzM2EtMTNlMTQ4ODUzZmVk",
-      "duration": 2683,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Herbstliche Restlesküche - Aus Überschuss wird Hochgenuss!",
-      "type": "tv",
-      "overview": "Gerade zur Erntezeit im Herbst hat man oft zu viel Überschuss an Lebensmitteln. Der Film nimmt Bezug auf die historischen Hintergründe des Resteessens und gibt Inspirationen, was man aus zu viel Kürbis, Pilzen aber auch Fleisch für leckere Mahlzeiten machen kann. Die Protagonisten vom Allgäu über die Schwäbische Alb bis zum Neckar zeigen, wie aus Lebensmittelüberschuss herbstlicher Hochgenuss werden kann.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIyNzU0NDY",
-      "duration": 2659,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tiere auf dem Land - Erinnerungen an das Dorfleben im Südwesten",
-      "type": "tv",
-      "overview": "Das Zusammenleben von Mensch und Tier auf engstem Raum, in Notzeiten und in guten Jahren, prägte früher das Aufwachsen der Kinder und das Arbeiten von Generationen auf dem Land. Der Hofhund als Aufpasser und das Pferd als Arbeitstier, dazu Kühe, Schweine, Gänse, Hühner und mehr Mäuse, als der Bäuerin lieb war. Katze und Kaninchen galten als Nutztiere, aber für die Kinder waren sie auch Spielgefährten und eine Möglichkeit zum Kuscheln.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Doku & Reportage"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzE4ODcyMjA",
-      "duration": 5471,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2560,6 +2311,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Ungebetene Gäste - Der Usedom-Krimi",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2021 Es brennt auf Usedom: Karin Lossows Reetdachhaus steht in Flammen. Im letzten Moment kann sie sich mit Ellen Norgaards Hilfe aus dem Haus retten. Karin hat eine Rauchvergiftung erlitten und wird sofort ins Krankenhaus gebracht. In der Klinik freundet sie sich mit der ehemaligen Krankenschwester Saskia Bernard an, die von einem Auto angefahren und schwer verletzt wurde....",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Usedom-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci11c2Vkb20ta3JpbWkvMjAyMS0xMS0wOF8yMC0xNS1NRVo",
+      "duration": 5342,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Das Mädchen ohne Namen – Der Amsterdam-Krimi (5)",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2022  \n\nDie junge Weißrussin Laila erlebt bei ihrer Ankunft in Amsterdam eine böse Überraschung: Statt als Saisonkellnerin in der Gastronomie arbeiten zu können, landet sie in den Fängen von brutalen Zuhältern. \n\nMit Hannes Jaenicke, Fedja van Huêt, Peter Post, Birgit Welink, Arent Jan Linde u. a. | Buch: Peter Koller | Regie: Ismail Sahin",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Amsterdam-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1hbXN0ZXJkYW1rcmltaS8yMDI1LTEyLTE0XzAwLTEwLU1FWg",
+      "duration": 5326,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Mörderisches Schweigen – Der Bozen-Krimi (S01/E08)",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2019 Die seit Monaten vermisste Frau des Gastwirts Gamper (Peter Pertusini) wollte nichts lieber als raus aus ihrem abgelegenen Bergdorf. Wie sich zeigt, ist Teresa nicht weit gekommen: Ihre Leiche wird aus einem Bergsee gezogen....",
@@ -2684,50 +2479,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzkzY2E4ODIyLTk1MWYtNDg2OS05NTVhLWE3ZmY5ODdkZmFlNl9nYW56ZVNlbmR1bmc",
       "duration": 5343,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Gier nach Gold. Ein Krimi aus Passau (6)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2024\r\n\r\nDie Konditorin Roswitha Hertel bekommt Überraschungsbesuch aus Texas: Dave Henigan will der Geschichte seines Vaters nachspüren, eines US-Soldaten, der nach Kriegsende in Passau stationiert war.\r\n\r\nMit Marie Leuenberger, Michael Ostrowski, Nadja Sabersky, Stefan Rudolf, Bettina Mittendorfer u.a. | Buch: Michael Vershinin | Regie: Felix Karolus",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Ein Krimi aus Passau"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjQtMDItMDFfMjAtMTUtTUVa",
-      "duration": 5284,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Zeit zu beten. Ein Krimi aus Passau (5)",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2023 Frederike Bader (Marie Leuenberger) will ihrem ehemaligen Zeugenschützer Jochen Mohn (Stefan Rudolf) helfen. Der hat einen Verdacht: Ist der neue Lebensgefährte seiner Ex-Frau, Anwalt Jürgen Ritter (Peter Fieseler), Handlanger organisierter Geldwäscher? Offiziell kann Mohn – inzwischen Passauer Kripo-Chef – gegen Ritter nicht ermitteln....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Ein Krimi aus Passau"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2tyaW1pLWF1cy1wYXNzYXUtLzIwMjQtMDEtMjVfMjAtMTUtTUVa",
-      "duration": 5324,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2868,6 +2619,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "NOICE in kabarett.com",
+      "type": "tv",
+      "overview": "Show, Sound & Stimmung sind jung, kreativ und voller Energie: NOICE ist A Cappella Popmusik vom Feinsten! Fünf Stimmen, Beatbox & pure Harmonien - 100 % live.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "kabarett.com"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9LQUJfMTc0OTMw",
+      "duration": 2700,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Gery Seidl: Hochtief",
       "type": "tv",
       "overview": "Wenn Gery Seidl von \"Hochtief\" spricht, kann das zweierlei bedeuten: Hochtiefbau oder die Hochs und Tiefs des Lebens. Als ehemaliger Baustellenleiter kennt er beides bestens. Vor allem aber versteht es Österreichs Kabarettist wie kaum ein anderer, absurde Alltagssituationen in urkomische Geschichten zu verwandeln.\n\nBildquelle: ORF/e&a film/Johannes Ehn",
@@ -2886,50 +2659,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kabarett im Turm: Evelin Pichler - Taschenglück",
-      "type": "tv",
-      "overview": "Die mehrfach ausgezeichnete Kabarettistin Evelin Pichler präsentiert hoch über den Dächern Wiens ihr Programm „Taschenglück“. Mit viel Humor, Wortwitz und Sarkasmus zeigt sie, wie kleine Glücksmomente den Alltag leichter machen können. Zwischen Handy, Brieftasche und kuriosen Begleitern wird „Taschenglück“ zur magischen Kraft – wie bei Mary Poppins oder auf spontanen Reisen. Ein pointenreicher Abend voller Charme und Lacher....",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "Kabarettprogramme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14341442/kabarett-im-turm-evelin-pichler-taschenglueck",
-      "duration": 2658,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "André Herrmann in kabarett.com",
-      "type": "tv",
-      "overview": "Die Welt ist dunkel geworden. Ein Lobbyist im Kanzleramt, der Globus im Würgegriff der Superreichen, das Internet voller Desinformation. Und Musicals. Orr, Musicals! Humor von links, mitten ins Gesicht.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "kabarett.com"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3NyLW9ubGluZS5kZS9LQUJfMTc0NTk4",
-      "duration": 2700,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -2996,6 +2725,75 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "USA 1960-1980: Die konservative Revolution (3/3)",
+      "type": "tv",
+      "overview": "1970er Jahre: Wirtschaftskrise, Inflation und Vietnam-Debakel prägen die USA. Ronald Reagan und die Konservativen stemmen sich gegen das \"Equal Rights Amendment\" und Feministinnen. Die Regierung verbündet sich mit der Waffenlobby, hetzt gegen Sozialhilfeempfänger und reformiert die Steuern zugunsten der Reichen. Die evangelikale Rechte wird zum Machtfaktor.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/125682-003-A/usa-1960-1980-die-konservative-revolution-3-3/",
+      "duration": 3191,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "USA 1960-1980: Die konservative Revolution (2/3)",
+      "type": "tv",
+      "overview": "Als Reaktion auf die Aufhebung der Rassentrennung, den studentischen Widerstand gegen den Vietnamkrieg und die immer lauter werdende Stimme der Feministinnen wenden sich zahlreiche Amerikaner den Konservativen zu. Dem republikanischen Präsidenten Richard Nixon kommt dies zugute. Er vertritt zwar einige rechte Ideen, kann jedoch nicht als Konservativer bezeichnet werden.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/125682-002-A/usa-1960-1980-die-konservative-revolution-2-3/",
+      "duration": 3213,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "USA 1960-1980: Die konservative Revolution (1/3)",
+      "type": "tv",
+      "overview": "In den 1960er Jahren gelten die US-amerikanischen Konservativen als Spinner am rechten Rand der Republikanischen Partei. Zur allgemeinen Überraschung wird der ultrakonservative Senator Barry Goldwater als Kandidat für die Präsidentschaftswahl 1964 aufgestellt. Er verliert zwar, doch die konservative Bewegung ist aus ihrer Lethargie erwacht.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/125682-001-A/usa-1960-1980-die-konservative-revolution-1-3/",
+      "duration": 3149,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -3111,75 +2909,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Wir machen unser Ding!",
-      "type": "tv",
-      "overview": "Udo Lindenberg war auch ein Superstar in der DDR. Er hatte Millionen Fans. Allerdings nur inoffiziell unter den Jugendlichen, die ihre Jeansjacken gerne mit großflächigen \"Udo L\"-Kugelschreiber-Aufschriften auf der Rückenseite auffrischten. Seine Songs mokierten sich über die DDR-Staatsführung (nicht nur über die) und seine anarchischen Texte, von der Jugend gefeiert, bargen erheblichen politischen Sprengstoff....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Unsere Geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9lZjIxZjI3NC0zMmIwLTRmNGItOGU3MC04NTliYTY1NzNhMzg",
-      "duration": 2595,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Woran wir glauben - Eine bessere Welt",
-      "type": "tv",
-      "overview": "Kann Glaube die Welt besser machen? Diese Folge reist von Ordensfrauen in der Bretagne zu Seenotretterinnen im Mittelmeer, von Gospelsängern in New Orleans zum Volk der Wixárika in Mexiko. Sie führt zu Menschen, die aus ihrem Glauben an Gott, Gerechtigkeit, Natur oder Gemeinschaft handeln. Zwischen Trost und Zweifel fragt der Film: Brauchen wir den Glauben, um nicht aufzugeben?",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Die Zeit vor dem 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/115508-003-A/woran-wir-glauben/",
-      "duration": 3123,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Des Kaisers Waffenschmiede - Die Skodawerke",
-      "type": "tv",
-      "overview": "Wie aus einem Attentat ein Weltkrieg wurde: Am 28. Juni 1914 fallen der österreichische Thronfolger Franz Ferdinand und und seine Frau Sophie in Sarajevo einem Anschlag zum Opfer. Einen Monat später erklärt Österreich-Ungarn Serbien den Krieg. Im Zentrum der Dokumentation steht Škoda, das vom Friedensbetrieb zum größten Waffenproduzenten der Monarchie aufstieg....",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "zeit.geschichte"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14341711/des-kaisers-waffenschmiede-die-skodawerke",
-      "duration": 2612,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
       }
     }
   ]
