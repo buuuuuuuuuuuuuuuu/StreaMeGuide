@@ -1,33 +1,7 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-07T11:26:34.249Z",
+  "generated_at": "2026-10-08T11:41:45.329Z",
   "items": [
-    {
-      "tmdb_id": 1458857,
-      "title": "Tyler Perry's Doing Life",
-      "type": "movie",
-      "overview": "Die alleinerziehende Mutter Anika  versucht, ihren Alltag zu bewältigen und für ihre Familie da zu sein. Als sie beginnt, dem inhaftierten Carousel Briefe zu schreiben, entwickelt sich zwischen den beiden eine ungewöhnliche Verbindung. Aus dem zunächst unerwarteten Kontakt entsteht eine Beziehung, die Anika und Carousel dazu bringt, sich mit ihrer Vergangenheit auseinanderzusetzen. Gemeinsam suchen sie nach einem Weg, alte Belastungen hinter sich zu lassen und eine neue Perspektive für ihr Leben zu finden.",
-      "genres": [
-        "Liebesfilm",
-        "Drama"
-      ],
-      "keywords": [
-        "single mother",
-        "ex-con",
-        "tearjerker",
-        "urban drama",
-        "emotional"
-      ],
-      "rating": 7.4,
-      "vote_count": 65,
-      "poster_path": "/3cM6jJfbseKwBUj9wIytsPZ3bMq.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
     {
       "tmdb_id": 258165,
       "title": "East of Eden",
@@ -55,8 +29,8 @@
         "romantic drama",
         "emotional"
       ],
-      "rating": 7.927,
-      "vote_count": 41,
+      "rating": 8.078,
+      "vote_count": 45,
       "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
       "justwatch": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=DE",
       "providers": {
@@ -97,8 +71,8 @@
         "adventure",
         "defiant"
       ],
-      "rating": 8.751,
-      "vote_count": 5583,
+      "rating": 8.8,
+      "vote_count": 5584,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -129,8 +103,8 @@
         "phd",
         "based on fanfiction"
       ],
-      "rating": 8.043,
-      "vote_count": 502,
+      "rating": 8,
+      "vote_count": 514,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
@@ -160,8 +134,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.136,
-      "vote_count": 3459,
+      "rating": 8.137,
+      "vote_count": 3460,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -205,7 +179,7 @@
         "gritty"
       ],
       "rating": 8,
-      "vote_count": 4365,
+      "vote_count": 4366,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -235,7 +209,7 @@
         "police procedural"
       ],
       "rating": 8.414,
-      "vote_count": 4815,
+      "vote_count": 4820,
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
       "providers": {
@@ -262,11 +236,10 @@
         "sitcom",
         "employment",
         "workplace comedy",
-        "admiring",
-        "amused"
+        "admiring"
       ],
       "rating": 8.6,
-      "vote_count": 5547,
+      "vote_count": 5552,
       "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
@@ -303,41 +276,32 @@
       }
     },
     {
-      "tmdb_id": 165,
-      "title": "Zurück in die Zukunft II",
+      "tmdb_id": 1010581,
+      "title": "Culpa Mia - Meine Schuld",
       "type": "movie",
-      "overview": "Nachdem Doc Brown am Ende des ersten Teiles Marty mit in die Zukunft genommen hat, sieht er nun selbst, was aus ihm werden wird - ein abgehalfterter Angestellter, der am Ende der Karriereleiter steht.Marty und Doc Brown versuchen, der Zukunft einen kleinen Schubser in die richtige Richtung zu geben. Doch Biff gibt seiner eigenen Zukunft durch einen Fehler Martys eine neue Wendung - und dieser Fehler muß nun ausgebügelt werden...",
+      "overview": "Noah muss ihre Stadt, ihren Freund und ihre Freunde hinter sich lassen und in die Villa des neuen reichen Ehemanns ihrer Mutter ziehen. Dort lernt sie Nick, ihren neuen Stiefbruder, kennen. Sie verlieben sich heimlich unsterblich ineinander.",
       "genres": [
-        "Abenteuer",
-        "Komödie",
-        "Science Fiction"
+        "Drama",
+        "Liebesfilm",
+        "Thriller"
       ],
       "keywords": [
-        "flying car",
-        "skateboarding",
-        "car race",
-        "lightning",
-        "guitar",
-        "inventor",
-        "time travel",
-        "diner",
-        "car crash",
-        "sequel",
-        "alternate history",
-        "thunderstorm",
-        "tunnel",
-        "high school dance",
-        "angry",
-        "kids",
-        "hoverboard",
-        "2010s",
-        "lighthearted",
-        "enthusiastic"
+        "first time",
+        "forbidden love",
+        "stepbrother",
+        "female protagonist",
+        "underage sex",
+        "stepsister",
+        "based on young adult novel",
+        "enemies to lovers",
+        "passion and romance",
+        "car",
+        "step-sibling romance"
       ],
-      "rating": 7.784,
-      "vote_count": 14360,
-      "poster_path": "/9m396LRrW2PwIKAogU19pnGpJCI.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/165-back-to-the-future-part-ii/watch?locale=DE",
+      "rating": 7.727,
+      "vote_count": 4208,
+      "poster_path": "/slzaPwGjl1eejJQYDVykq3UWK9M.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1010581-culpa-mia/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -345,7 +309,185 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000226276.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000226456.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 250670,
+      "title": "Maxton Hall - Die Welt zwischen uns",
+      "type": "tv",
+      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "romance",
+        "millionaire",
+        "bookworm",
+        "drama"
+      ],
+      "rating": 8.3,
+      "vote_count": 684,
+      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000226456.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 223313,
+      "title": "Obsession",
+      "type": "tv",
+      "overview": "Die Affäre eines angesehenen Londoner Chirurgen mit der Verlobten seines Sohnes mündet in eine Amour fou, die ihr Leben für immer zu verändern droht.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "love triangle",
+        "based on novel or book",
+        "infidelity",
+        "obsession",
+        "fiancé",
+        "surgeon",
+        "romance",
+        "older man younger woman relationship",
+        "love affair",
+        "incest",
+        "erotic thriller"
+      ],
+      "rating": 6.47,
+      "vote_count": 197,
+      "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/223313-obsession/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000225271.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 1402,
+      "title": "The Walking Dead",
+      "type": "tv",
+      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "post-apocalyptic future",
+        "gore",
+        "undead",
+        "survival",
+        "zombie",
+        "based on graphic novel",
+        "horror"
+      ],
+      "rating": 8.079,
+      "vote_count": 18245,
+      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000226419.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 245891,
+      "title": "John Wick",
+      "type": "movie",
+      "overview": "John Wick genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov, der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov, für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus an seinen Fersen hängen...",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "keywords": [
+        "hitman",
+        "bratva (russian mafia)",
+        "gangster",
+        "secret organization",
+        "revenge",
+        "murder",
+        "dog",
+        "retired",
+        "widower"
+      ],
+      "rating": 7.5,
+      "vote_count": 21430,
+      "poster_path": "/vr92idbWfEFY0bcapzMk1nZkVXr.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/245891-john-wick/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000226385.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 138843,
+      "title": "Conjuring - Die Heimsuchung",
+      "type": "movie",
+      "overview": "‘Endlich ausreichend Platz!’ sagt sich die Großfamilie um Mutter Carolyn und Vater Roger, als sie das abgelegene Landhaus in Rhode Island beziehen. Doch anscheinend sind sie nicht allein: Eine fremde und zunehmend böse Macht wohnt mitten unter ihnen und macht ein normales Leben unmöglich. In ihrer Verzweiflung wenden sie sich an das renommierte Pärchen Ed und Lorraine Warren, die als Fachleute auf dem Gebiet der Geisteraustreibung gelten. Doch ihre anfängliche Souveränität weicht der puren Angst, als sie bemerken, mit welch bösen Kräften sie es hier zu tun haben.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "keywords": [
+        "sibling relationship",
+        "1970s",
+        "cellar",
+        "exorcism",
+        "halloween",
+        "haunted house",
+        "possession",
+        "rhode island",
+        "based on true story",
+        "paranormal investigation",
+        "crucifix",
+        "ghost",
+        "demonic",
+        "demonic spirit",
+        "demonology",
+        "psychic vision",
+        "malevolent spirit"
+      ],
+      "rating": 7.543,
+      "vote_count": 13148,
+      "poster_path": "/pO6PL9Uw2fafe3MaF73FrgjH9tL.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/138843-the-conjuring/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Filmstarts",
+        "url": "https://www.filmstarts.de/nachrichten/1000225678.html",
         "mentions": 2
       }
     },
@@ -548,7 +690,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmc",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -617,7 +759,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQwL2F1ZGlvZGVza3JpcHRpb24",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQw",
       "duration": 5342,
       "providers": {
         "netflix": null,
@@ -742,21 +884,21 @@
     },
     {
       "tmdb_id": null,
-      "title": "Walzerbahn",
+      "title": "Zehn Rosen",
       "type": "tv",
-      "overview": "Saison an der Ostsee. Ein Unbekannter bricht auf Zeltplätzen, in Ferienheime, in Bungalows und Autos ein und stiehlt Geld und Wertgegenstände. Obwohl die Kriminalpolizei Tag und Nacht recherchiert, haben ihre Ermittlungen wenig Erfolg. Die Suche nach dem \"Küstenschreck\" führt die Polizei schließlich auf einen Rummel, dessen Route entlang der Küste mit den Tatorten übereinstimmt.",
+      "overview": "In einem Hinterhof Magdeburgs wird die schwer zugerichtete Leiche einer jungen Frau gefunden. Hauptkommissarin Brasch vermutet aufgrund der symbolischen Fesselung einen Serientäter. Eine Transfrau gerät unter Verdacht.",
       "genres": [
         "Krimi",
         "Drama"
       ],
       "keywords": [
-        "Polizeiruf 110 - Klassiker"
+        "Polizeiruf 110"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy83ZGI4YzRjZi01MTk5LTQ2M2ItYTJlNi04YjVlZjlmODEyYmU",
-      "duration": 3454,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9zZW5kdW5nLzI4MjA0MC80MDU3NTItMzg4OTAy",
+      "duration": 5287,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -985,7 +1127,29 @@
     },
     {
       "tmdb_id": null,
-      "title": "A Quiet Place: Tag Eins (Englisch)",
+      "title": "Sterben - Drama, Deutschland 2023",
+      "type": "tv",
+      "overview": "Familie Lunies ist schon lange keine Familie mehr. Erst als der Tod, der alte Bastard, auftaucht, begegnen sie sich wieder.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/sterben-104.html",
+      "duration": 10288,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "A Quiet Place: Tag Eins",
       "type": "tv",
       "overview": "Als Manhattan Ziel eines Alien-Angriffs wird, verbünden sich die todkranke Sam und der hilflose Student Eric zum gemeinsamen Überlebenskampf in den Straßen von New York.",
       "genres": [
@@ -1007,7 +1171,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "A Quiet Place: Tag Eins",
+      "title": "A Quiet Place: Tag Eins (Englisch)",
       "type": "tv",
       "overview": "Als Manhattan Ziel eines Alien-Angriffs wird, verbünden sich die todkranke Sam und der hilflose Student Eric zum gemeinsamen Überlebenskampf in den Straßen von New York.",
       "genres": [
@@ -1095,28 +1259,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Tatami (Englisch)",
-      "type": "tv",
-      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
-      "duration": 5980,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Tatami",
       "type": "tv",
       "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
@@ -1139,68 +1281,24 @@
     },
     {
       "tmdb_id": null,
-      "title": "An einem schönen Morgen - Spielfilm, Frankreich/Deutschland 2021",
+      "title": "Tatami (Englisch)",
       "type": "tv",
-      "overview": "Dolmetscherin Sandra muss nach dem Tod ihres Mannes nicht nur ihre Tochter allein erziehen, sondern sich auch um ihren Vater Georg kümmern, der an einer neurodegenerativen Krankheit leidet.",
+      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "Spielfilm"
+        "Spielfilm-Highlights"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/an-einem-schoenen-morgen-100.html",
-      "duration": 6342,
+      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
+      "duration": 5980,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023",
-      "type": "tv",
-      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
-      "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Hammarskjöld – Kampf für den Frieden - Spielfilm, Schweden/Norwegen/Südafrika 2023 (Englisch)",
-      "type": "tv",
-      "overview": "Nach der Ermordung von UN-Soldaten im Kongo sieht UN-Generalsekretär Dag Hammarskjöld keinen anderen Weg, als persönlich vor Ort zu verhandeln. Trotz eines möglichen Attentats.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/hammarskjoeld--kampf-fuer-den-frieden-100.html",
-      "duration": 6565,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
+        "mediathek": "ZDF"
       }
     },
     {
@@ -1695,6 +1793,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Berlin 1933 | Tagebuch einer Großstadt (2/2)",
+      "type": "tv",
+      "overview": "Dokumentation Deutschland 2023 +++ Aus Berlin, der vibrierenden Metropole der Weimarer Republik, wurde 1933 in nur wenigen Monaten die Hauptstadt des Dritten Reichs. Die Ereignisse des Jahres werden chronologisch erzählt, aus den Blickwinkeln der Zeitgenossen. Grundlage sind Tagebücher und Briefe, Bilder und Filme. Eine Collage über das Ende einer Demokratie und den Beginn einer Diktatur, vergangen und gegenwärtig zugleich....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentation und Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl8yYzMxYjI5OC0xZDdlLTRiMWEtYjQwZS1jZWJmNDFhMjVjYzZfcHVibGljYXRpb24",
+      "duration": 5447,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Berlin 1933 | Tagebuch einer Großstadt (1/2)",
+      "type": "tv",
+      "overview": "Dokumentation Deutschland 2023 +++ Aus Berlin, der vibrierenden Metropole der Weimarer Republik, wurde 1933 in nur wenigen Monaten die Hauptstadt des Dritten Reichs. Die Ereignisse des Jahres werden chronologisch erzählt, aus den Blickwinkeln der Zeitgenossen. Grundlage sind Tagebücher und Briefe, Bilder und Filme. Eine Collage über das Ende einer Demokratie und den Beginn einer Diktatur, vergangen und gegenwärtig zugleich....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentation und Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9kZjgzMTQ0Ni0yNjEwLTQ1MjctOGZmZi1iNjI0ZWQ0ZWRhMGZfcHVibGljYXRpb24",
+      "duration": 5399,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "491 Tage Geisel in Gaza · Eli Sharabi im Gespräch",
+      "type": "tv",
+      "overview": "491 Tage war Eli Sharabi in der Gewalt der Hamas. Am 8. Februar 2025 kam er frei. Wenige Wochen später sprach er mit Ilana Dayan, einer der renommiertesten Investigativjournalistinnen Israels, über die Zeit seiner Gefangenschaft.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTEyMjU2OA",
+      "duration": 3224,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "Phoenix"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Faszination Blau - Königin der Farben",
       "type": "tv",
       "overview": "Wo immer wir uns bewegen, überall begegnet uns die Farbe Blau. Im Alltag genauso wie in der Kunst. Blau ist die Lieblingsfarbe der meisten Menschen weltweit. Warum? Immer wieder, in unterschiedlichen Epochen, spielt Blau eine führende Rolle in der Malerei....",
@@ -1863,72 +2027,6 @@
       "poster_path": null,
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDk5MTY2Nw",
       "duration": 2614,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die wilden Flüsse Afrikas - Sand River",
-      "type": "tv",
-      "overview": "Entlang den Ufern des Flusses Sand findet sich eine der größten Tierpopulationen Afrikas.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvMzExMDYxNQ",
-      "duration": 2885,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die wilden Flüsse Afrikas - Sambesi",
-      "type": "tv",
-      "overview": "Die wilden Flüsse Afrikas - Sambesi",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTAyODQ5Nw",
-      "duration": 2610,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "Phoenix"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Geist des Nordens",
-      "type": "tv",
-      "overview": "Die Doku erkundet die faszinierenden Landschaften und Kulturen Nordeuropas und zeigt, wie Natur, Klima und Traditionen das Leben der Menschen prägen.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokumentationen"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTE1ODM5NQ",
-      "duration": 2998,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2311,6 +2409,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Am Ende einer Reise (19) – Der Usedom-Krimi",
+      "type": "tv",
+      "overview": "Spielfilm Deutschland 2022 Polizeiobermeister Holm Brendel (Rainer Sellien) folgt den Spuren des prominenten schwedischen Krimiautors Arvid Johanssons in Ystad. Ex-Staatsanwältin Karin Lossow (Katrin Sass) begleitet Holm auf dem privaten Trip. Auf der Fähre zurück nach Usedom lernt sie Dana Driest (Karolina Gorczyca) kennen, eine gebürtige Polin. Sie hat ein auffälliges Hämatom an der Wange. Wurde sie Opfer häuslicher Gewalt?...",
+      "genres": [
+        "Krimi"
+      ],
+      "keywords": [
+        "Der Usedom-Krimi"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS81NmJkN2E4OC0wYmVhLTQ3MTctOGEyYS1lMjY4YTNiNTFiYmFfZ2FuemVTZW5kdW5n",
+      "duration": 5337,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Ungebetene Gäste - Der Usedom-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2021 Es brennt auf Usedom: Karin Lossows Reetdachhaus steht in Flammen. Im letzten Moment kann sie sich mit Ellen Norgaards Hilfe aus dem Haus retten. Karin hat eine Rauchvergiftung erlitten und wird sofort ins Krankenhaus gebracht. In der Klinik freundet sie sich mit der ehemaligen Krankenschwester Saskia Bernard an, die von einem Auto angefahren und schwer verletzt wurde....",
@@ -2455,30 +2575,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMTItMTlfMjAtMTUtTUVa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci16dWVyaWNoIGtyaW1pLzIwMjQtMTItMTlfMjAtMTUtTUVaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5327,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Dämonen – Ein Krimi vom Bodensee",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2024 Ein Schiff mit einer festgebundenen Leiche wird aus dem Bodensee geborgen. Ein Fall für Elena Barin (Hayal Kaya) und Achim Schatz (Julian Bayer), denn Henry Budde wurde offensichtlich vorsätzlich erschlagen. Womöglich von seinem Sohn Stefan Eisel (Lasse Myhr). Der wohnte mit dem Vater zusammen und erweist sich als spurlos verschwunden....",
-      "genres": [
-        "Krimi"
-      ],
-      "keywords": [
-        "Ein Krimi vom Bodensee"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzkzY2E4ODIyLTk1MWYtNDg2OS05NTVhLWE3ZmY5ODdkZmFlNl9nYW56ZVNlbmR1bmc",
-      "duration": 5343,
       "providers": {
         "netflix": null,
         "prime": null,
