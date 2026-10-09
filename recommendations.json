@@ -1,7 +1,103 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-08T11:41:45.329Z",
+  "generated_at": "2026-10-09T11:35:22.007Z",
   "items": [
+    {
+      "tmdb_id": 1620080,
+      "title": "Mniej obcy",
+      "type": "movie",
+      "overview": "",
+      "genres": [
+        "Drama",
+        "Musik"
+      ],
+      "keywords": [
+        "rebellion",
+        "musician",
+        "growing up",
+        "rock band",
+        "life and career",
+        "vocalist"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": "/5lxcAE2DLtK8bFfCXOV9TM13RDq.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1620080-mniej-obcy/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 288673,
+      "title": "Carrie",
+      "type": "tv",
+      "overview": "Nachdem der plötzliche Tod ihres Vaters sie in das gnadenlose Ökosystem einer öffentlichen Highschool zwingt, gerät Carrie in einen viralen Mobbing-Skandal, der ihre Gemeinde erschüttert. Neben der beiläufigen Grausamkeit des Social-Media-Zeitalters muss sie sich auch mit mysteriösen telekinetischen Kräften auseinandersetzen, die parallel zu ihrer Pubertät erwachen.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "telekinesis",
+        "supernatural",
+        "high school",
+        "death of father",
+        "social outcast",
+        "zealot",
+        "angry",
+        "abusive mother",
+        "supernatural horror",
+        "cautionary",
+        "school bullying",
+        "horror",
+        "intense",
+        "antagonistic",
+        "celebratory",
+        "cruel"
+      ],
+      "rating": 8.363,
+      "vote_count": 62,
+      "poster_path": "/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/288673-carrie/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 255752,
+      "title": "Haunted Hotel",
+      "type": "tv",
+      "overview": "Eine alleinerziehende Mutter erbt ein Hotel von ihrem verstorbenen Bruder und zieht mit seinem gutmütigen Geist und weiteren untoten Gästen ein, die nicht gehen wollen.",
+      "genres": [
+        "Animation",
+        "Komödie"
+      ],
+      "keywords": [
+        "hotel",
+        "murder",
+        "single mother",
+        "demon",
+        "demonic possession",
+        "adult animation",
+        "haunted hotel",
+        "supernatural horror",
+        "ghosts"
+      ],
+      "rating": 8.2,
+      "vote_count": 122,
+      "poster_path": "/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/255752-haunted-hotel/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 258165,
       "title": "East of Eden",
@@ -29,8 +125,8 @@
         "romantic drama",
         "emotional"
       ],
-      "rating": 8.078,
-      "vote_count": 45,
+      "rating": 8.1,
+      "vote_count": 50,
       "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
       "justwatch": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=DE",
       "providers": {
@@ -40,41 +136,94 @@
       }
     },
     {
-      "tmdb_id": 37854,
-      "title": "One Piece",
+      "tmdb_id": 290233,
+      "title": "Im Kreis der Korruption",
       "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+      "overview": "Vier Freunde, die sich schon ein Leben lang kennen, verstricken sich in ein Netz aus Erpressung, als ein geleaktes Video droht, Geheimnisse preiszugeben, die ihre Freundschaft zerstören könnten.",
       "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
+        "Mystery",
+        "Krimi"
       ],
       "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
+        "based on novel or book",
+        "investigation",
+        "murder",
+        "betrayal",
+        "conspiracy",
+        "political",
+        "gritty",
+        "suspenseful",
+        "thriller"
       ],
-      "rating": 8.8,
-      "vote_count": 5584,
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
+      "rating": 9,
+      "vote_count": 1,
+      "poster_path": "/1zHJHUWNfQQD206OIKogfb6RYVy.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/290233-el-circulo/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 283428,
+      "title": "The Ramparts of Ice",
+      "type": "tv",
+      "overview": "Die Oberschülerin Koyuki Higawa gilt wegen ihrer kalten Mimik und distanzierten Einstellung als unnahbar. Als jedoch ein Junge versucht, ihr näherzukommen, beginnt die Eiswand zu bröckeln und ihr Freundeskreis sich unversehens zu vergrößern …",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "keywords": [
+        "high school",
+        "romance",
+        "slice of life",
+        "school",
+        "female protagonist",
+        "based on manga",
+        "shoujo",
+        "anime",
+        "love polygon",
+        "youth"
+      ],
+      "rating": 8.646,
+      "vote_count": 65,
+      "poster_path": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/283428/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "type": "tv",
+      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "martial arts",
+        "magic",
+        "vampire",
+        "based on manga",
+        "adventurer",
+        "globetrotting",
+        "shounen",
+        "anime",
+        "muscles",
+        "supernatural power",
+        "horror",
+        "adventure"
+      ],
+      "rating": 8.5,
+      "vote_count": 1670,
+      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -103,8 +252,8 @@
         "phd",
         "based on fanfiction"
       ],
-      "rating": 8,
-      "vote_count": 514,
+      "rating": 8.056,
+      "vote_count": 524,
       "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
       "providers": {
@@ -134,8 +283,8 @@
         "reboot",
         "military police"
       ],
-      "rating": 8.137,
-      "vote_count": 3460,
+      "rating": 8.136,
+      "vote_count": 3467,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
@@ -189,36 +338,6 @@
       }
     },
     {
-      "tmdb_id": 5920,
-      "title": "The Mentalist",
-      "type": "tv",
-      "overview": "Der Job des charismatischen Ex-TV-Show-Stars Patrick Jane innerhalb des California Bureau of Investigation ist es, die Ermittlungen einer Spezialeinheit zu unterstützen. Jane, der seine Karriere als \"Mentalist\" mit vermeintlich übersinnlichen Fähigkeiten nach einer familiären Tragödie beendete, besitzt eine unvergleichliche Beobachtungsgabe und verblüffende Kombinationsfähigkeiten.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "california",
-        "con man",
-        "cop",
-        "serial killer",
-        "criminal investigation",
-        "forensic psychology",
-        "criminal consultant",
-        "police procedural"
-      ],
-      "rating": 8.414,
-      "vote_count": 4820,
-      "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 2316,
       "title": "The Office",
       "type": "tv",
@@ -239,12 +358,42 @@
         "admiring"
       ],
       "rating": 8.6,
-      "vote_count": 5552,
+      "vote_count": 5554,
       "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 5920,
+      "title": "The Mentalist",
+      "type": "tv",
+      "overview": "Der Job des charismatischen Ex-TV-Show-Stars Patrick Jane innerhalb des California Bureau of Investigation ist es, die Ermittlungen einer Spezialeinheit zu unterstützen. Jane, der seine Karriere als \"Mentalist\" mit vermeintlich übersinnlichen Fähigkeiten nach einer familiären Tragödie beendete, besitzt eine unvergleichliche Beobachtungsgabe und verblüffende Kombinationsfähigkeiten.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "california",
+        "con man",
+        "cop",
+        "serial killer",
+        "criminal investigation",
+        "forensic psychology",
+        "criminal consultant",
+        "police procedural"
+      ],
+      "rating": 8.415,
+      "vote_count": 4825,
+      "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -276,132 +425,31 @@
       }
     },
     {
-      "tmdb_id": 1010581,
-      "title": "Culpa Mia - Meine Schuld",
-      "type": "movie",
-      "overview": "Noah muss ihre Stadt, ihren Freund und ihre Freunde hinter sich lassen und in die Villa des neuen reichen Ehemanns ihrer Mutter ziehen. Dort lernt sie Nick, ihren neuen Stiefbruder, kennen. Sie verlieben sich heimlich unsterblich ineinander.",
-      "genres": [
-        "Drama",
-        "Liebesfilm",
-        "Thriller"
-      ],
-      "keywords": [
-        "first time",
-        "forbidden love",
-        "stepbrother",
-        "female protagonist",
-        "underage sex",
-        "stepsister",
-        "based on young adult novel",
-        "enemies to lovers",
-        "passion and romance",
-        "car",
-        "step-sibling romance"
-      ],
-      "rating": 7.727,
-      "vote_count": 4208,
-      "poster_path": "/slzaPwGjl1eejJQYDVykq3UWK9M.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1010581-culpa-mia/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000226456.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 250670,
-      "title": "Maxton Hall - Die Welt zwischen uns",
+      "tmdb_id": 95594,
+      "title": "Fast & Furious Spy Racers",
       "type": "tv",
-      "overview": "Steht die ehrgeizige Stipendiatin Ruby Bell aus einfachen Verhältnissen, die auf dem elitären Maxton Hall Privatcollege einzig und allein auf ihren Lebenstraum hinarbeitet: das Studium an der Oxford University. Ihre sorgfältig geordnete Welt gerät jäh aus den Fugen, als sie unfreiwillig Zeugin eines brisanten Geheimnisses wird, das sie mitten ins Fadenkreuz des überprivilegierten und arroganten Schülers James Beaufort rückt. Der gutaussehende Erbe eines Modehauses versucht fortan, Rubys Schweigen zu erkaufen. Und obwohl die beiden aus unterschiedlichen Welten kommen, werden sie bald alles aufs Spiel setzen, um zusammen zu sein. Aber können sie den Abgrund, der sie trennt, wirklich überwinden?",
+      "overview": "Teenager Tony Toretto ist der Cousin des berühmten Dom. Er eifert seinem Verwandten nach, als er und seine Freunde von einer Regierungsorganisation damit beauftragt werden, sich in eine Elite-Renn-Liga einzuschleusen. Die wird von einer kriminellen Organisation namens SH1FT3R organisiert, die nach der Weltherrschaft greift. Das Team muss sich durch gewiefte Pläne das Vertrauen der Organisation erschleichen und den Balanceakt meistern, nicht aufzufallen und zugleich doch die schlimmsten Pläne zu vereiteln.",
       "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "romance",
-        "millionaire",
-        "bookworm",
-        "drama"
-      ],
-      "rating": 8.3,
-      "vote_count": 684,
-      "poster_path": "/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000226456.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 223313,
-      "title": "Obsession",
-      "type": "tv",
-      "overview": "Die Affäre eines angesehenen Londoner Chirurgen mit der Verlobten seines Sohnes mündet in eine Amour fou, die ihr Leben für immer zu verändern droht.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "love triangle",
-        "based on novel or book",
-        "infidelity",
-        "obsession",
-        "fiancé",
-        "surgeon",
-        "romance",
-        "older man younger woman relationship",
-        "love affair",
-        "incest",
-        "erotic thriller"
-      ],
-      "rating": 6.47,
-      "vote_count": 197,
-      "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/223313-obsession/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225271.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 1402,
-      "title": "The Walking Dead",
-      "type": "tv",
-      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
-      "genres": [
+        "Animation",
         "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Kids",
+        "Familie"
       ],
       "keywords": [
-        "post-apocalyptic future",
-        "gore",
-        "undead",
-        "survival",
-        "zombie",
-        "based on graphic novel",
-        "horror"
+        "street race",
+        "computer animation",
+        "mission",
+        "race car driver",
+        "criminal",
+        "based on movie",
+        "3d animation",
+        "cars",
+        "vehicle"
       ],
-      "rating": 8.079,
-      "vote_count": 18245,
-      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
+      "rating": 7,
+      "vote_count": 2206,
+      "poster_path": "/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/95594-fast-furious-spy-racers/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -409,85 +457,62 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000226419.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000226341.html",
         "mentions": 2
       }
     },
     {
-      "tmdb_id": 245891,
-      "title": "John Wick",
+      "tmdb_id": 809,
+      "title": "Shrek 2 - Der tollkühne Held kehrt zurück",
       "type": "movie",
-      "overview": "John Wick genießt seinen frühen Ruhestand in der Vorstadt. Doch als seine Frau einer tödlichen Krankheit erliegt, verfällt er in Trauer. Nur sein Hund bleibt ihm noch als Gefährte. Als eines Tages jedoch drei russische Gangster in sein Haus einsteigen und seinen treuen Begleiter töten, holt ihn seine finstere Vergangenheit ein, war er doch früher der Top-Auftragskiller an der Ostküste. So tauscht er schließlich die Vorstadtidylle gegen jede Menge Feuerkraft und macht sich, auf Rache sinnend, auf die Suche nach den Einbrechern. Einer von ihnen ist Iosef Tarasov, der Sohn des einflussreichen Verbrecherbosses Viggo Tarasov, für den Wick selbst einmal gearbeitet hatte. Doch für Freundschaft ist kein Platz in dem Rachefeldzug und so hat er bald auch den ehemaligen Kollegen Marcus an seinen Fersen hängen...",
+      "overview": "Die frisch verheirateten Shrek und Prinzessin Fiona werden in Fionas Königreich \"Weit weit weg\" eingeladen, um die Hochzeit von Fionas Eltern segnen zu lassen - was Shrek für keine gute Idee hält, und er hat Recht damit: Die Eltern sind von der Verwandlung ihrer Tochter in eine Ogerin entsetzt, eine Gute Fee möchte ihren Sohn Prinz Charming mit Fiona verkuppeln und ein Killerkater wird damit beauftragt, Shrek beiseite zu schaffen.",
       "genres": [
-        "Action",
-        "Thriller"
+        "Animation",
+        "Komödie",
+        "Familie",
+        "Fantasy",
+        "Liebesfilm"
       ],
       "keywords": [
-        "hitman",
-        "bratva (russian mafia)",
-        "gangster",
-        "secret organization",
-        "revenge",
-        "murder",
-        "dog",
-        "retired",
-        "widower"
+        "prison",
+        "princess",
+        "magic",
+        "kingdom",
+        "fairy tale",
+        "liberation",
+        "transformation",
+        "honeymoon",
+        "prince",
+        "villain",
+        "parents-in-law",
+        "enchantment",
+        "sequel",
+        "anthropomorphism",
+        "dragon",
+        "aftercreditsstinger",
+        "ogre",
+        "fairy godmother",
+        "philosophical",
+        "complex",
+        "3d animation",
+        "cartoon donkey",
+        "hilarious",
+        "romantic",
+        "bold",
+        "excited"
       ],
-      "rating": 7.5,
-      "vote_count": 21430,
-      "poster_path": "/vr92idbWfEFY0bcapzMk1nZkVXr.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/245891-john-wick/watch?locale=DE",
+      "rating": 7.3,
+      "vote_count": 13848,
+      "poster_path": "/uygoHVaXQvB6BYJfca4KDkb9jmM.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/809-shrek-2/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000226385.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 138843,
-      "title": "Conjuring - Die Heimsuchung",
-      "type": "movie",
-      "overview": "‘Endlich ausreichend Platz!’ sagt sich die Großfamilie um Mutter Carolyn und Vater Roger, als sie das abgelegene Landhaus in Rhode Island beziehen. Doch anscheinend sind sie nicht allein: Eine fremde und zunehmend böse Macht wohnt mitten unter ihnen und macht ein normales Leben unmöglich. In ihrer Verzweiflung wenden sie sich an das renommierte Pärchen Ed und Lorraine Warren, die als Fachleute auf dem Gebiet der Geisteraustreibung gelten. Doch ihre anfängliche Souveränität weicht der puren Angst, als sie bemerken, mit welch bösen Kräften sie es hier zu tun haben.",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "keywords": [
-        "sibling relationship",
-        "1970s",
-        "cellar",
-        "exorcism",
-        "halloween",
-        "haunted house",
-        "possession",
-        "rhode island",
-        "based on true story",
-        "paranormal investigation",
-        "crucifix",
-        "ghost",
-        "demonic",
-        "demonic spirit",
-        "demonology",
-        "psychic vision",
-        "malevolent spirit"
-      ],
-      "rating": 7.543,
-      "vote_count": 13148,
-      "poster_path": "/pO6PL9Uw2fafe3MaF73FrgjH9tL.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/138843-the-conjuring/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000225678.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000226365.html",
         "mentions": 2
       }
     },
@@ -621,7 +646,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtODljODg0OTUtZTlhNy00MjdjLWJhNTAtZDU3ZWQ1ZjMwOWZj",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtODljODg0OTUtZTlhNy00MjdjLWJhNTAtZDU3ZWQ1ZjMwOWZjL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5338,
       "providers": {
         "netflix": null,
@@ -644,7 +669,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTM4Nzc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTM4NzcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5298,
       "providers": {
         "netflix": null,
@@ -690,7 +715,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmc",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmcvYXVkaW9kZXNrcmlwdGlvbg",
       "duration": 5315,
       "providers": {
         "netflix": null,
@@ -759,7 +784,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQw",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWVkYjNiYzItYjg4ZC00ZWMyLWFhMDEtYWNlMzA2MGRlMmQwL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5342,
       "providers": {
         "netflix": null,
@@ -1127,6 +1152,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Air - Der große Wurf",
+      "type": "tv",
+      "overview": "1984 steht das Basketballgeschäft von Nike vor dem Aus, doch der Sonderbeauftragte Sonny Vaccaro setzt alles daran, um den Nachwuchsstar Michael Jordan als Markenbotschafter zu gewinnen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/air---der-grosse-wurf-movie-100/air---der-grosse-wurf-100",
+      "duration": 6428,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Air - Der große Wurf (Englisch)",
+      "type": "tv",
+      "overview": "1984 steht das Basketballgeschäft von Nike vor dem Aus, doch der Sonderbeauftragte Sonny Vaccaro setzt alles daran, um den Nachwuchsstar Michael Jordan als Markenbotschafter zu gewinnen.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/air---der-grosse-wurf-movie-100/air---der-grosse-wurf-100",
+      "duration": 6428,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Sterben - Drama, Deutschland 2023",
       "type": "tv",
       "overview": "Familie Lunies ist schon lange keine Familie mehr. Erst als der Tod, der alte Bastard, auftaucht, begegnen sie sich wieder.",
@@ -1149,7 +1218,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "A Quiet Place: Tag Eins",
+      "title": "A Quiet Place: Tag Eins (Englisch)",
       "type": "tv",
       "overview": "Als Manhattan Ziel eines Alien-Angriffs wird, verbünden sich die todkranke Sam und der hilflose Student Eric zum gemeinsamen Überlebenskampf in den Straßen von New York.",
       "genres": [
@@ -1171,7 +1240,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "A Quiet Place: Tag Eins (Englisch)",
+      "title": "A Quiet Place: Tag Eins",
       "type": "tv",
       "overview": "Als Manhattan Ziel eines Alien-Angriffs wird, verbünden sich die todkranke Sam und der hilflose Student Eric zum gemeinsamen Überlebenskampf in den Straßen von New York.",
       "genres": [
@@ -1303,6 +1372,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Der Code des Killers (3/3)",
+      "type": "tv",
+      "overview": "1987: Im Abstand von drei Jahren wurden im englischen Narborough zwei 15-jährige Mädchen vergewaltigt und ermordet. Nachdem die ersten Ermittlungen ins Leere liefen, hofft Kriminalhauptkommissar David Baker, mit Hilfe des DNA-Testverfahrens den Täter zu finden ... – Die bahnbrechende Entdeckung des genetischen Fingerabdrucks kommt 1987 erstmals zum Einsatz.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/120034-003-A/der-code-des-killers-3-3/",
+      "duration": 2588,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Code des Killers (2/3)",
+      "type": "tv",
+      "overview": "1986 in Narborough: Drei Jahre nachdem die 15-jährige Lynda Mann vergewaltigt und erdrosselt wurde, wird eine zweite Mädchenleiche gefunden. Dawn Ashworth wurde auf die gleiche Weise ermordet. Es gibt einen Geständigen und die Polizei braucht dringend einen Ermittlungserfolg, doch Kriminalhauptkommissar David Baker will Gewissheit – er bittet DNA-Forscher Alec Jeffreys um Hilfe.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/120034-002-A/der-code-des-killers-2-3/",
+      "duration": 2728,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Code des Killers (1/3)",
+      "type": "tv",
+      "overview": "November 1983 in Narborough, Leicestershire: Die 15-jährige Lynda Mann wird vergewaltigt und ermordet aufgefunden. Kriminalhauptkommissar David Baker und sein Team fahnden nach dem Täter. Einige Kilometer weiter forscht der Wissenschaftler Alec Jeffreys am genetischen Fingerabdruck von Lebewesen ... – Spannender Dreiteiler über die Anfänge der DNA-Analyse in der Kriminalarbeit.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilme und Serien - Serien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/120034-001-A/der-code-des-killers-1-3/",
+      "duration": 2710,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Mordnacht - Fernsehfilm, Deutschland 2024",
       "type": "tv",
       "overview": "Einer für alle, alle für einen! So lautet das Motto im beschaulichen Heiterstorf vor den Toren Hamburgs. Gabriel Panski will in seinem Heimatort wieder akzeptiert werden.",
@@ -1405,72 +1540,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/126956-000-A/sommer-auf-asphalt/",
       "duration": 5310,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die schwarzen Schmetterlinge (4/6)",
-      "type": "tv",
-      "overview": "Nachdem Albert Kommissar Carrel zu Boden geschlagen hat, beseitigt er alle Spuren. Carrel ist der kleine Junge, den Albert in den 1970ern ausgesetzt hat. Solange hatte es das Herz gebrochen, den Jungen zurückzulassen, sie hatte keine Lust mehr auf das Spiel. Albert beginnt allerdings, in seinem Kopf Lust und Mord zu verwechseln, und attackiert schließlich ein unschuldiges Paar ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/100886-004-A/die-schwarzen-schmetterlinge-4-6/",
-      "duration": 3448,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Der Schimmelreiter",
-      "type": "tv",
-      "overview": "Nach dem Tod seines Schwiegervaters wird Hauke Haien Küstenschutzdirektor in Nordfriesland. Er warnt vor den Folgen des Klimawandels, doch nur seine Frau Elke unterstützt ihn beim Küstenschutz. Die Menschen wenden sich gegen ihn und es kommt zur Katastrophe. Die moderne Adaption von Francis Meletzky überträgt Theodor Storms Novelle in die Gegenwart.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Fernsehfilme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/104449-000-A/der-schimmelreiter/",
-      "duration": 5718,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die schwarzen Schmetterlinge (3/6)",
-      "type": "tv",
-      "overview": "Albert und Solange setzen ihr mörderisches Spiel fort. Als eines der Opfer ein Baby hinterlässt, will Solange es behalten. Doch das kommt für Albert nicht infrage, er setzt den kleinen Jungen auf dem Friedhof aus. Adrien belastet die Arbeit mit Albert mittlerweile so sehr, dass er in alte Muster verfällt. Und Kommissar Carrel stattet Albert im Alleingang einen Besuch ab ...",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Fernsehfilme und Serien - Serien"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/100886-003-A/die-schwarzen-schmetterlinge-3-6/",
-      "duration": 2903,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1793,20 +1862,20 @@
     },
     {
       "tmdb_id": null,
-      "title": "Berlin 1933 | Tagebuch einer Großstadt (2/2)",
+      "title": "Hannah Arendt - Denken ist gefährlich",
       "type": "tv",
-      "overview": "Dokumentation Deutschland 2023 +++ Aus Berlin, der vibrierenden Metropole der Weimarer Republik, wurde 1933 in nur wenigen Monaten die Hauptstadt des Dritten Reichs. Die Ereignisse des Jahres werden chronologisch erzählt, aus den Blickwinkeln der Zeitgenossen. Grundlage sind Tagebücher und Briefe, Bilder und Filme. Eine Collage über das Ende einer Demokratie und den Beginn einer Diktatur, vergangen und gegenwärtig zugleich....",
+      "overview": "Aktivistin, Medienstar, Denkerin \"ohne Geländer\" - Hannah Arendt ist berühmt für ihre Studie zur Entstehung totalitärer Herrschaft, umstritten für ihre Diagnose der \"Banalität des Bösen\". Bewundert wird ihr unermüdliches und furchtloses Eintreten für die Freiheit des Denkens und die offene Gesellschaft. Ihre Bücher und Essays sind bis heute Bestseller....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentation und Reportage"
+        "Dokumentation & Reportage"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl8yYzMxYjI5OC0xZDdlLTRiMWEtYjQwZS1jZWJmNDFhMjVjYzZfcHVibGljYXRpb24",
-      "duration": 5447,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIyODM0NzI",
+      "duration": 5184,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1815,7 +1884,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "Berlin 1933 | Tagebuch einer Großstadt (1/2)",
+      "title": "Berlin 1933 | Tagebuch einer Großstadt",
       "type": "tv",
       "overview": "Dokumentation Deutschland 2023 +++ Aus Berlin, der vibrierenden Metropole der Weimarer Republik, wurde 1933 in nur wenigen Monaten die Hauptstadt des Dritten Reichs. Die Ereignisse des Jahres werden chronologisch erzählt, aus den Blickwinkeln der Zeitgenossen. Grundlage sind Tagebücher und Briefe, Bilder und Filme. Eine Collage über das Ende einer Demokratie und den Beginn einer Diktatur, vergangen und gegenwärtig zugleich....",
       "genres": [
@@ -1827,8 +1896,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9kZjgzMTQ0Ni0yNjEwLTQ1MjctOGZmZi1iNjI0ZWQ0ZWRhMGZfcHVibGljYXRpb24",
-      "duration": 5399,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9kNGUyMjAxZi1kZTZkLTRkMjEtYTdjZi03NjgzMTU1OTgxYWJfcHVibGljYXRpb24",
+      "duration": 10754,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2035,6 +2104,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Abbamania",
+      "type": "tv",
+      "overview": "Mit ABBAMANIA kommt eine der erfolgreichsten ABBA-Tribute-Shows der Welt nach Straubing. Seit Jahren begeistert die Produktion auf den großen Bühnen Deutschlands und Europas mit einer aufwendigen Liveshow, originalgetreuen Kostümen und den größten Hits der schwedischen Pop-Legenden – von \"Waterloo\" über \"Mamma Mia\" bis \"The Winner Takes It All\".",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokus & Reportagen im BR"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDA1MDU2QTA",
+      "duration": 3627,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Eltern-Burnout - Was hilft gegen Erziehungsstress?",
+      "type": "tv",
+      "overview": "Perfektionismus, widersprüchliche Erziehungsratgeber, Leistungsdruck und ungerechte Verteilung der Care Arbeit: bei Eltern auf Dauer ein Rezept für chronische Erschöpfung.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "NANO Doku"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/wissen/nano-doku/261008-eltern-burnout-nano-doku-ndk-102.html",
+      "duration": 2651,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Tu ich’s ...? Soll ich mir die Brüste entfernen lassen?",
       "type": "tv",
       "overview": "Vanessa ist glücklich verheiratet, Mutter zweier Kinder und berufstätig. Ein Gentest verändert ihr Leben schlagartig. Die 35-Jährige ist Trägerin einer Mutation des BRCA2-Gens. Damit beträgt ihr Risiko an Brustkrebs zu erkranken rund 70 Prozent. Auch die Wahrscheinlichkeit für Eierstockkrebs liegt bei ihr weit über dem Durchschnitt....",
@@ -2233,6 +2346,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Kurzschluss - Wild und blutig",
+      "type": "tv",
+      "overview": "(1) Orla, Kurzfilm (2) Zoom - Orla (3) Time to Go, Kurzfilm (4) Zoom – Time to Go",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Kurzfilme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/130662-009-A/kurzschluss/",
+      "duration": 3323,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Zero Dark Thirty - Die Jagd auf Osama bin Laden",
+      "type": "tv",
+      "overview": "Die Jagd nach Osama bin Laden hielt die Welt mehr als ein Jahrzehnt lang in Atem und war streng geheim. Einige Details wurden seither veröffentlicht – und die entscheidenden Aspekte der Operation in diesem Film erstmals enthüllt. Im Mittelpunkt der Untersuchung steht die leitende Ermittlerin Maya. Ein investigatives Drama von Oscarpreisträgerin Kathryn Bigelow.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/092924-000-A/zero-dark-thirty-die-jagd-auf-osama-bin-laden/",
+      "duration": 8858,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nebraska",
+      "type": "tv",
+      "overview": "Ein Vater und sein erwachsener Sohn begeben sich auf eine Reise, um einen vermeintlichen Millionen-Dollar-Gewinn abzuholen. Was als mühsamer, aber vergeblicher Roadtrip beginnt, wird schließlich zur Suche nach einem Weg zur Wiedergutmachung. Ein ergreifendes Roadmovie von Alexander Payne über Würde, das Älterwerden und eine tiefe Vater-Sohn-Beziehung.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/130524-000-A/nebraska/",
+      "duration": 6491,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Police Python 357",
       "type": "tv",
       "overview": "Marc Ferrot, Polizist in der französischen Stadt Orléans, lässt sich auf eine leidenschaftliche Affäre mit einer jungen Frau namens Sylvia ein. Als sie ermordet wird, betraut man ausgerechnet Ferrot mit der Aufklärung des Falls. Und alle Indizien sprechen gegen ihn ... - Außergewöhnlicher Thriller von Alain Corneau aus dem Jahr 1975 mit Yves Montand.",
@@ -2299,28 +2478,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Das Mädchen mit den goldenen Händen",
-      "type": "tv",
-      "overview": "Gudrun feiert ihren 60. Geburtstag in dem früheren Waisenhaus, in dem sie zu DDR-Zeiten aufgewachsen ist. Auch ihre Tochter Lara kommt zu dem Fest, doch die beiden haben kein gutes Verhältnis. Als dann auch noch das Waisenhaus verkauft werden soll, eskaliert die Situation völlig ... Ein historisch inspiriertes Familiendrama von Katharina Marie Schubert aus dem Jahr 2020.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/089930-000-A/das-maedchen-mit-den-goldenen-haenden/",
-      "duration": 5861,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Der unsichtbare Aufstand",
       "type": "tv",
       "overview": "Als die uruguayische Stadtguerilla den in Montevideo lebenden US-Bürger Philip Michael Santore entführt, scheint diese Tat zunächst unverständlich. Doch dann stellt sich heraus, dass der vermeintlich harmlose Technikberater in Wahrheit ein hochkarätiger Militärberater ist, der im Auftrag der US-Regierung den Polizeiapparat der Diktatur unterstützt. ",
@@ -2365,50 +2522,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Im Schatten der Wälder",
-      "type": "tv",
-      "overview": "Kommissarin Michèle Varin wird seit dem Tod ihres Sohnes von Alpträumen verfolgt. Gleichzeitig muss sie den Suizid einer psychisch kranken Frau untersuchen. Als ihr Kollege sich während der Ermittlungen erschießt, verschwimmen Realität und Wahn für Varin völlig. Guillaume Nicloux inszeniert mit Josiane Balasko einen atmosphärischen Psychothriller zwischen Krimi und Mystery.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/040258-000-A/im-schatten-der-waelder/",
-      "duration": 5642,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Alles in bester Ordnung",
-      "type": "tv",
-      "overview": "Marlen ist viel gereist und sammelt leidenschaftlich Dinge. Alles ist zu wertvoll, um es wegzuschmeißen. Fynn dagegen will mit nur 100 Dingen durch die Welt gehen. \"Ordnung ist das halbe Leben!\", sagt er. \"Willkommen in der anderen Hälfte!\", antwortet sie. – Komödie von Natja Brunckhorst, die ihre Premiere 2021 auf dem Filmfest Hamburg feierte.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/087848-000-A/alles-in-bester-ordnung/",
-      "duration": 5568,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Am Ende einer Reise (19) – Der Usedom-Krimi",
       "type": "tv",
       "overview": "Spielfilm Deutschland 2022 Polizeiobermeister Holm Brendel (Rainer Sellien) folgt den Spuren des prominenten schwedischen Krimiautors Arvid Johanssons in Ystad. Ex-Staatsanwältin Karin Lossow (Katrin Sass) begleitet Holm auf dem privaten Trip. Auf der Fähre zurück nach Usedom lernt sie Dana Driest (Karolina Gorczyca) kennen, eine gebürtige Polin. Sie hat ein auffälliges Hämatom an der Wange. Wurde sie Opfer häuslicher Gewalt?...",
@@ -2421,7 +2534,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS81NmJkN2E4OC0wYmVhLTQ3MTctOGEyYS1lMjY4YTNiNTFiYmFfZ2FuemVTZW5kdW5n",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS81NmJkN2E4OC0wYmVhLTQ3MTctOGEyYS1lMjY4YTNiNTFiYmFfZ2FuemVTZW5kdW5nL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5337,
       "providers": {
         "netflix": null,
@@ -2531,7 +2644,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjMtMDMtMDJfMjAtMTUtTUVa",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2Rhc2Vyc3RlLmRlL2Rlci1rcm9hdGllbmtyaW1pLzIwMjMtMDMtMDJfMjAtMTUtTUVaL2F1ZGlvZGVza3JpcHRpb24",
       "duration": 5307,
       "providers": {
         "netflix": null,
@@ -2741,7 +2854,7 @@
       "tmdb_id": null,
       "title": "Gery Seidl: Hochtief",
       "type": "tv",
-      "overview": "Wenn Gery Seidl von \"Hochtief\" spricht, kann das zweierlei bedeuten: Hochtiefbau oder die Hochs und Tiefs des Lebens. Als ehemaliger Baustellenleiter kennt er beides bestens. Vor allem aber versteht es Österreichs Kabarettist wie kaum ein anderer, absurde Alltagssituationen in urkomische Geschichten zu verwandeln.\n\nBildquelle: ORF/e&a film/Johannes Ehn",
+      "overview": "Zwischen Hochtiefbau und Alltagswahnsinn: Gery Seidl verwandelt Krisen in Kabarettgold. Mit seinem Programm \"Hochtief\" verbindet Gery Seidl zwei Welten: den Hochtiefbau und die Hochs und Tiefs des Lebens. Der ehemalige Baustellenleiter und gefeierte Kabarettist erzählt von absurden Alltagssituationen, menschlichen Eigenheiten und den kleinen Katastrophen des täglichen Lebens....",
       "genres": [
         "Komödie"
       ],
@@ -2823,6 +2936,75 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Babylon Prag (2/2) - Ein Sturm zieht auf",
+      "type": "tv",
+      "overview": "Die Weltwirtschaftskrise heizt die latenten Konflikte zwischen der tschechischen Mehrheit, der deutschen und der jüdischen Minderheit weiter an. Mahnende Rufe progressiver Künstler, die Einheit aller Staatsbürger der Tschechoslowakei stets im Auge zu behalten, verhallen ungehört. Auch die Regierung vermag es nicht, die Bürger dieses Staates zu einen.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/123892-002-A/babylon-prag-2-2/",
+      "duration": 2579,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Babylon Prag (1/2) - Die wilden 20er Jahre",
+      "type": "tv",
+      "overview": "In den 1920er Jahren zieht die Moldau-Metropole Prag mit New York, Paris und Berlin gleich: Nach der Gründung der ersten Tschechoslowakischen Republik 1918 blühen in der Hauptstadt Kunst und Kultur auf, das Nachtleben pulsiert. Doch unter der glitzernden Oberfläche dieses Aufbruchs in eine neue, moderne Zeit schwelen Konflikte, die auch zur Gewalt führen: Babylon Prag.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/123892-001-A/babylon-prag-1-2/",
+      "duration": 2570,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "\"Blix Not Bombs\" - Der Diplomat und der Krieg",
+      "type": "tv",
+      "overview": "Als Chefdiplomat im Auftrag der Uno war Hans Blix ein wichtiger Akteur in globalen Krisen. Regisseurin Greta Stocklassa blickt mit ihm auf die letzten 60 Jahre Weltpolitik zurück. Warum gibt es noch immer Kriege? Kann Diplomatie die Welt retten? Reicht es aus, in bestimmten Situationen die Wahrheit zu sagen …?",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Biographien"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/107451-000-A/blix-not-bombs-der-diplomat-und-der-krieg/",
+      "duration": 5002,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
       }
     },
     {
@@ -2934,75 +3116,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/087960-004-A/capital-b-wem-gehoert-berlin-4-5/",
       "duration": 3186,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Capital B - Wem gehört Berlin? (3/5) - Absturz",
-      "type": "tv",
-      "overview": "Die Westberliner Elite um Bürgermeister Eberhard Diepgen und seinen Verbündeten, den Politiker Klaus-Rüdiger Landowsky, hat ihre Macht Mitte der 1990er Jahre zementiert und feiert sich selbst auf großen Festen in den Beton-Kathedralen der vielen Großbaustellen der Stadt. Doch der erhoffte Hauptstadt-Boom bleibt aus. Immobilienhaie und Großinvestoren haben sich verzockt.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/087960-003-A/capital-b-wem-gehoert-berlin-3-5/",
-      "duration": 3133,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Capital B - Wem gehört Berlin? (2/5) - Größenwahn",
-      "type": "tv",
-      "overview": "1991 wird der Regierende Bürgermeister Eberhard Diepgen in Berlin wiedergewählt. Er und der Fraktionsvorsitzende der CDU, Klaus Landowsky, heimlicher Strippenzieher der Berliner Politik, träumen davon, Berlin wieder zur Weltmetropole zu machen.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/087960-002-A/capital-b-wem-gehoert-berlin-2-5/",
-      "duration": 3162,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Capital B - Wem gehört Berlin? (1/5) - Sommer der Anarchie",
-      "type": "tv",
-      "overview": "November 1989. Kaum ist die Berliner Mauer gefallen, versuchen alle, die Gunst der Stunde zu nutzen und zwischen Mauerbrachen, maroden Altbauten und den verlassenen Industrieanlagen eines untergegangenen Landes ihre Claims abzustecken.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/087960-001-A/capital-b-wem-gehoert-berlin-1-5/",
-      "duration": 3168,
       "providers": {
         "netflix": null,
         "prime": null,
