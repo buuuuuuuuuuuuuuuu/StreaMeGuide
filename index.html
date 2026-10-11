@@ -30,7 +30,10 @@
 
   <header class="topbar">
     <div class="brand"><span class="blob" aria-hidden="true"></span> StreaMeGuide</div>
-    <button class="icon-btn" id="theme-btn" aria-label="Hell/Dunkel umschalten">🌙</button>
+    <div class="topbar-actions">
+      <button class="icon-btn" id="tv-btn" aria-label="Jetzt im TV">📺</button>
+      <button class="icon-btn" id="theme-btn" aria-label="Hell/Dunkel umschalten">🌙</button>
+    </div>
   </header>
 
   <section class="panel" id="onboarding-panel">
@@ -106,7 +109,18 @@
   </div>
 </div>
 
+<div id="tv-view" class="overlay full tv-overlay">
+  <div class="refine-panel tv-panel">
+    <div class="refine-header">
+      <h3>📺 Jetzt im TV</h3>
+      <button class="btn secondary small" id="tv-close">Fertig</button>
+    </div>
+    <div id="tv-body"></div>
+  </div>
+</div>
+
 <script src="sync.js"></script>
+<script src="tv.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

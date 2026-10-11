@@ -19,7 +19,7 @@ lieber weniger Ergebnisse anzeigen als schlechte.
 - Vanilla HTML/CSS/JS, gehostet auf GitHub Pages
 - GitHub Actions Cron (Node.js) für den täglichen Daten-Abruf
 - Datenquellen: TMDb API, MediathekViewWeb, Presse-RSS (Serienjunkies, Filmstarts, Filmdienst, Moviepilot)
-- Optionaler Supabase-Sync (geteiltes Haushalts-Token + RLS, keine Nutzerkonten), Tabelle `sg_profiles`
+- Optionaler Supabase-Sync (geteiltes Haushalts-Token + RLS, keine Nutzerkonten), Tabellen `sg_profiles` und `sg_tv` (TV-Programm, befüllt von `tv-update.yml`)
 - Fonts: Syne (Überschriften), Plus Jakarta Sans (Fließtext)
 
 ## Design-System „Sorbet Sticker"
@@ -45,6 +45,8 @@ lieber weniger Ergebnisse anzeigen als schlechte.
 - `pointer-events: none` nur für Watch-Links **während einer Drag-Geste** setzen, nie global.
 - z-index: `#modal-overlay` und `#refine-view` dürfen nicht dieselbe Ebene haben (beide früher 60), sonst öffnet sich der Dialog „Film oder Serie hinzufügen" unsichtbar hinter dem Refine-Overlay.
 - Der localStorage-Key `streamguide:profiles` bleibt **bewusst klein geschrieben**. Nicht umbenennen, sonst gehen gespeicherte Profile verloren.
+- TV-Programmdaten (Privatsender lizenzpflichtig) nie als Datei ins öffentliche Repo committen – nur in Supabase (`sg_tv`, Lesen per Haushalts-Token).
+- Die Rand-Wischgeste für „Jetzt im TV“ nutzt Touch-Events (Safari bricht Pointer-Events beim Scrollen ab); Karten-Gesten ignorieren Starts in `EDGE_ZONE`. `#tv-view` hat z-index 65 – nicht auf 60 (Refine) oder 90 (Dialog) legen.
 - Supabase-URL endet auf `.supabase.co`, nicht `.supabase.com`. Die Client-Validierung fängt den Tippfehler ab, nicht entfernen.
 
 ## Tests
@@ -53,4 +55,4 @@ lieber weniger Ergebnisse anzeigen als schlechte.
 - Im PR-Text eine kurze iPhone-Testliste angeben (was in Safari angetippt/geprüft werden soll, auch im Dark Mode).
 
 ## Versionierung
-- Aktueller Stand: v2.3.0. Bei sichtbaren Änderungen die Version erhöhen und kurz im PR erwähnen.
+- Aktueller Stand: v2.4.0. Bei sichtbaren Änderungen die Version erhöhen und kurz im PR erwähnen.

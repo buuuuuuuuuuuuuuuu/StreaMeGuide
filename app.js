@@ -1,4 +1,4 @@
-const APP_VERSION = "2.3.0";
+const APP_VERSION = "2.4.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -764,6 +764,8 @@ function attachSwipe(wrapEl, profileKey) {
   }
 
   wrapEl.addEventListener("pointerdown", (e) => {
+    // Start am linken Rand gehört der Geste "Jetzt im TV" (tv.js)
+    if (e.clientX <= EDGE_ZONE) { dragging = false; return; }
     // Wurde ein Link oder Button berührt, darf das Antippen nicht zusätzlich
     // die Detailansicht öffnen – sonst würde beides gleichzeitig passieren.
     onControl = !!(e.target.closest && e.target.closest("a, button"));
@@ -1303,6 +1305,7 @@ async function init() {
   };
 
   document.getElementById("sync-btn").onclick = () => openSyncDialog();
+  initTv();
 
   initPanel();
   renderStrictness();

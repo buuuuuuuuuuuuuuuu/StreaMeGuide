@@ -78,6 +78,59 @@ Policy aus Schritt 2 plus deinem Token.
 Fertig. Ab jetzt werden Änderungen automatisch ein paar Sekunden nach dem
 Bewerten hochgeladen, und beim Öffnen der App wird abgeglichen.
 
+## 6. TV-Programm („📺 Jetzt im TV“) einrichten
+
+Das TV-Programm holt ein eigener Workflow alle zwei Stunden und legt es in
+eurem Supabase ab – nicht im öffentlichen Repo, weil die Programmdaten der
+Privatsender lizenzpflichtig sind. Lesen kann es nur, wer euer
+Haushalts-Token kennt. Dauer: ca. 5 Minuten, einmalig.
+
+**a) Tabelle anlegen.** In Supabase wieder **SQL Editor** öffnen, einfügen,
+**Run**:
+
+```sql
+create table if not exists public.sg_tv (
+  household_id text primary key,
+  data         jsonb not null,
+  updated_at   timestamptz not null default now()
+);
+
+alter table public.sg_tv enable row level security;
+
+drop policy if exists "household access" on public.sg_tv;
+create policy "household access" on public.sg_tv
+  for all
+  using (
+    household_id = current_setting('request.headers', true)::json->>'x-household-id'
+  )
+  with check (
+    household_id = current_setting('request.headers', true)::json->>'x-household-id'
+  );
+
+grant select, insert, update on public.sg_tv to anon;
+```
+
+**b) Drei Secrets im GitHub-Repo anlegen.** Am iPhone in Safari (die
+GitHub-App kann das nicht): github.com → Repo **StreaMeGuide** →
+**Settings** → **Secrets and variables** → **Actions** →
+**New repository secret**. Name und Wert jeweils exakt so:
+
+| Name | Wert |
+|---|---|
+| `SUPABASE_URL` | Projekt-URL aus Schritt 3, z. B. `https://abcdefgh.supabase.co` |
+| `SUPABASE_ANON_KEY` | Anon-Key aus Schritt 3 (`eyJ...`) |
+| `SG_HOUSEHOLD` | euer Haushalts-Token aus der App (Geräte-Sync → 📋 Token kopieren) |
+
+**c) Einmal von Hand starten.** Repo → **Actions** → **TV-Programm
+aktualisieren** → **Run workflow**. Nach ca. einer Minute sollte der Lauf
+grün sein; im Log steht pro Sender die Anzahl der Sendungen.
+
+**d) In der App:** vom linken Bildschirmrand nach rechts wischen oder oben
+auf 📺 tippen. Nach links wischen oder „Fertig“ schließt die Ansicht.
+
+Sender ergänzen: in `scripts/fetch-tv.mjs` eine Zeile in `TV_CHANNELS`
+hinzufügen. Die App zeigt automatisch alle Sender, die im Programm stehen.
+
 ---
 
 ## Wie Konflikte aufgelöst werden
@@ -97,12 +150,16 @@ je eigenem Profil ist das unproblematisch.
 - **Fehler 404** → Tabelle fehlt; SQL aus Schritt 2 nochmal ausführen.
 - **„Bereits aktuell", aber nichts kommt an** → Token stimmt nicht exakt
   überein (Leerzeichen beim Kopieren?).
+- **TV-Programm: „Tabelle sg_tv fehlt"** → SQL aus Schritt 6a ausführen.
+- **TV-Programm: „Noch keine Programmdaten"** → Workflow aus Schritt 6c
+  starten; im Log prüfen, ob die Secrets stimmen (das Token muss exakt dem
+  in der App entsprechen).
 - **Nichts geht mehr** → im Dialog „Sync ausschalten". Die Profile bleiben
   lokal erhalten, nichts geht verloren.
 
 ## Datenschutz
 
-Auf dem Server liegen nur die Geschmacksprofile: Genres, bewertete Titel und
-Gründe. Keine Namen außer dem, was du selbst als `profile_name` einträgst,
+Auf dem Server liegen nur die Geschmacksprofile (Genres, bewertete Titel und
+Gründe) und, falls eingerichtet, das allgemeine TV-Programm. Keine Namen außer dem, was du selbst als `profile_name` einträgst,
 keine E-Mail, kein Standort. Wer das Token kennt, kann diese Daten lesen und
 ändern – behandle es wie ein Passwort.
