@@ -36,16 +36,25 @@ nach zwei individuellen Geschmacksprofilen.
 - Netflix/Prime haben keine offizielle Katalog-API. Die Verfügbarkeits­daten
   kommen über TMDb (Quelle: JustWatch) und spiegeln die *regionale*
   Verfügbarkeit – nicht zwingend exakt deinen individuellen Tarif.
-- Die Mediathek-Auswahl sucht gezielt nach Inhaltstypen (Tatort, Filme im
-  Ersten, Terra X, Dokumentation, Herzkino, Kino, Konzert …) statt nach den
-  neuesten Beiträgen – sonst dominieren Regionalmagazine, Nachrichten und
-  Sport. Die Genres stehen pro Kategorie fest und werden NICHT aus
-  Beschreibungstexten geraten. Mindestlänge 40 Min.
+- Die Mediathek-Auswahl sucht gezielt nach Inhaltstypen (Tatort, Spielfilm,
+  Kino, Terra X, Dokumentation, Konzert …) statt nach den neuesten
+  Beiträgen – sonst dominieren Regionalmagazine, Nachrichten und Sport.
+  Mindestlänge 40 Min.
+- **Qualitätsmaßstab:** Niveau „Bad Banks", „4 Blocks", „Berlin Station".
+  Filme und Serien aus der Mediathek werden bei TMDb gesucht und bringen von
+  dort Bewertung, Stimmen und Genres mit; ohne Treffer fliegen sie raus.
+  Vorabend- und Degeto-Ware (Regionalkrimis, Pilcher & Co., „Morden im
+  Norden") steht auf der Sperrliste `LOWBROW` – im Abrufskript und in
+  `app.js`. Die Suchen „Krimi", „Herzkino" und „Comedy" sind abgeschaltet.
+- Zusätzlich zu Trending/Popular holt das Skript gezielt hoch bewertete
+  deutsche Produktionen und gut bewertete Netflix/Prime-Titel
+  (`DISCOVER_LISTS`). Titel, die TMDb kostenlos in einer Mediathek kennt,
+  bekommen über MediathekViewWeb einen Direktlink.
 - Erfasste Sender: ARD inkl. Dritte, ZDF, arte, 3sat. **ZDFneo gibt es in
   dieser Datenquelle nicht als eigenen Sender** – die Inhalte laufen unter
   „ZDF". Kategorien und Sperrliste stehen in
   `scripts/fetch-recommendations.mjs` (`MEDIATHEK_CATEGORIES`,
-  `MEDIATHEK_JUNK`).
+  `MEDIATHEK_JUNK`, `LOWBROW`).
 - Lieblingstitel-Ergänzung ohne LLM: In der App bei einem Titel auf das Herz
   tippen, das trägt ihn direkt in `loved_titles` des aktiven Profils ein.
   Über "Profil exportieren" lässt sich die aktualisierte Datei sichern.
@@ -76,16 +85,24 @@ Wechseln: gewünschte Dateien nach `icons/icon-192.png` bzw.
 ## Filterstrenge
 Im Setup-Panel lässt sich einstellen, wie hart gefiltert wird:
 
-- **Locker** – breite Auswahl, nur Ausschlüsse aus dem Profil greifen
+- **Locker** – mindestens 50 Bewertungen; deutsche Produktionen: 20
+  Bewertungen, Wertung ab 6,5
 - **Normal** (Standard) – mindestens 300 Bewertungen, Wertung ab 6,5; ohne
-  Genre-Treffer muss die Wertung mindestens 7,5 betragen
+  Genre-Treffer muss die Wertung mindestens 7,5 betragen. Deutsche
+  Produktionen: 40 Bewertungen, Wertung ab 7,0
 - **Streng** – mindestens 1000 Bewertungen, Wertung ab 7,2, und ein echter
-  Genre-Treffer ist Pflicht
+  Genre-Treffer ist Pflicht. Deutsche Produktionen: 80 Bewertungen, Wertung
+  ab 7,3
+
+Deutsche Produktionen haben bei TMDb nur einen Bruchteil der Stimmen von
+US-Titeln, deshalb eigene Schwellen – mit höherer Mindestwertung, damit
+keine Vorabend-Ware durchrutscht.
 
 Zusätzlich gilt in allen Stufen: Titel, deren Genres überwiegend aus
-abgelehnten Sendungen stammen, werden ausgeschlossen. Mediathek-Titel haben
-keine Bewertungen und sind von der Stimmen-Schwelle ausgenommen, müssen ab
-"Normal" aber thematisch passen.
+abgelehnten Sendungen stammen, werden ausgeschlossen. Mediathek-Filme und
+-Serien werden wie alle anderen nach Bewertung geprüft. Mediathek-Beiträge
+ohne Bewertung (Dokus, Kabarett, Konzerte) brauchen in jeder Stufe einen
+Genre-Treffer.
 
 Angezeigt werden die besten 50 Treffer; der Rest ist über einen Button am
 Listenende erreichbar.
@@ -103,7 +120,9 @@ ganz oben, damit sie nicht zwischen den Anbieterlisten untergehen.
 **Mindestbelegung:** Jeder Bereich (Netflix, Prime, Mediathek) zeigt
 mindestens zwei Titel. Reicht die reguläre Auswahl nicht, wird aus der
 Reserve aufgefüllt – also aus Titeln, die nur an einer *weichen* Hürde
-gescheitert sind (Bewertung, Stimmenzahl, Genre-Passung). Harte
+gescheitert sind (Bewertung, Stimmenzahl, Genre-Passung). Die Reserve
+enthält nur Titel, die mindestens die Stufe „Locker" bestehen; darunter
+bleibt ein Bereich lieber kurz. Harte
 Ausschlüsse (abgelehnte Genres, Sperrwörter, bereits bewertet, Füllmaterial)
 werden nie aufgeweicht. Aufgefüllte Titel tragen ein Badge „🔓 gelockert"
 und eine gestrichelte Umrandung.

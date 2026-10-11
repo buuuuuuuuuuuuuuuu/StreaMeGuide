@@ -2,10 +2,13 @@
 // Braucht: Umgebungsvariable TMDB_API_KEY (Read Access Token, v4 auth)
 //
 // Was es tut:
-// 1. Holt "trending" + "popular" Filme/Serien von TMDb (Region DE)
-// 2. Prüft für jeden Titel die Watch-Provider in DE -> nur Netflix/Prime im
-//    Abo ("flatrate") zählen, Miete/Kauf wird verworfen
-// 3. Holt aktuelle Mediathek-Einträge (ARD/ZDF) über die MediathekViewWeb-API
+// 1. Holt "trending" + "popular" Filme/Serien von TMDb (Region DE) und
+//    gezielt hoch bewertete Titel (deutsche Produktionen, Netflix/Prime)
+// 2. Prüft für jeden Titel die Watch-Provider in DE -> Netflix/Prime im
+//    Abo ("flatrate") oder kostenlos in einer Mediathek zählen,
+//    Miete/Kauf wird verworfen
+// 3. Holt Mediathek-Einträge über die MediathekViewWeb-API; Filme und
+//    Serien daraus müssen bei TMDb mit Bewertung gefunden werden
 // 4. Schreibt alles in ein einheitliches recommendations.json
 
 import { writeFile } from "node:fs/promises";
@@ -38,21 +41,36 @@ async function genreMaps() {
   return map;
 }
 
+// Öffentlich-rechtliche Mediatheken, wie sie bei TMDb/JustWatch heißen
+// ("ARD Mediathek", "ZDF", "Arte", "3sat" …) – kostenlos, daher "free"/"ads".
+const PUBLIC_PROVIDERS = [
+  [/\bARD\b/i, "ARD"], [/\bZDF/i, "ZDF"], [/\barte\b/i, "arte"],
+  [/3sat/i, "3sat"], [/phoenix/i, "Phoenix"]
+];
+
 async function watchProviders(type, id) {
+  const none = { netflix: null, prime: null, mediathek: null, link: null };
   try {
     const data = await tmdb(`/${type}/${id}/watch/providers`);
     const de = data.results?.DE;
-    if (!de) return { netflix: null, prime: null, link: null };
+    if (!de) return none;
     const flat = (de.flatrate || []).map(p => p.provider_name);
+    const open = [...(de.flatrate || []), ...(de.free || []), ...(de.ads || [])].map(p => p.provider_name);
+    const pub = PUBLIC_PROVIDERS.find(([re]) => open.some(n => re.test(n)));
     return {
       netflix: flat.some(n => n.includes("Netflix")) ? "flatrate" : null,
       prime: flat.some(n => n.includes("Amazon Prime Video")) ? "flatrate" : null,
+      mediathek: pub ? pub[1] : null,
       // JustWatch-Seite zum Titel: zeigt alle Anbieter inkl. Direktlinks
       link: de.link || null
     };
   } catch {
-    return { netflix: null, prime: null, link: null };
+    return none;
   }
+}
+
+function isAvailable(p) {
+  return !!(p.netflix || p.prime || p.mediathek);
 }
 
 async function keywords(type, id) {
@@ -65,39 +83,76 @@ async function keywords(type, id) {
   }
 }
 
+function tmdbItem(type, raw, genreMap, providers, kw) {
+  return {
+    tmdb_id: raw.id,
+    title: raw.title || raw.name,
+    type,
+    overview: raw.overview || "",
+    genres: (raw.genre_ids || []).map(id => genreMap[id]).filter(Boolean),
+    keywords: kw,
+    rating: raw.vote_average || null,
+    vote_count: raw.vote_count || 0,
+    // Deutsche Produktionen haben bei TMDb viel weniger Stimmen als
+    // US-Titel – die App legt dafür eigene Schwellen an.
+    original_language: raw.original_language || null,
+    poster_path: raw.poster_path || null,
+    justwatch: providers.link,
+    providers: { netflix: providers.netflix, prime: providers.prime, mediathek: providers.mediathek }
+  };
+}
+
+// Trending/Popular allein liefert vor allem Massenware. Deshalb zusätzlich
+// gezielt hoch bewertete Titel: deutsche Produktionen (Niveau "Bad Banks",
+// "4 Blocks") und gut bewertete Netflix/Prime-Titel.
+// Netflix = Provider 8, Amazon Prime Video = Provider 9.
+const DISCOVER_LISTS = [
+  ...[1, 2, 3].map(page => ["tv", "/discover/tv", {
+    with_original_language: "de", "vote_count.gte": 40, "vote_average.gte": 7,
+    sort_by: "popularity.desc", page
+  }]),
+  ...[1, 2].map(page => ["movie", "/discover/movie", {
+    with_original_language: "de", "vote_count.gte": 60, "vote_average.gte": 7,
+    sort_by: "popularity.desc", page
+  }]),
+  ...[1, 2, 3].map(page => ["tv", "/discover/tv", {
+    with_watch_providers: "8|9", with_watch_monetization_types: "flatrate",
+    "vote_count.gte": 300, "vote_average.gte": 7.5, sort_by: "popularity.desc", page
+  }]),
+  ...[1, 2].map(page => ["movie", "/discover/movie", {
+    with_watch_providers: "8|9", with_watch_monetization_types: "flatrate",
+    "vote_count.gte": 500, "vote_average.gte": 7.3, sort_by: "popularity.desc", page
+  }])
+];
+
 async function collectTmdbItems(genreMap) {
   const lists = [
-    ["movie", "/trending/movie/day"],
-    ["tv", "/trending/tv/day"],
-    ["movie", "/movie/popular"],
-    ["tv", "/tv/popular"]
+    ["movie", "/trending/movie/day", {}],
+    ["tv", "/trending/tv/day", {}],
+    ["movie", "/movie/popular", {}],
+    ["tv", "/tv/popular", {}],
+    ...DISCOVER_LISTS
   ];
   const seen = new Map();
 
-  for (const [type, path] of lists) {
-    const data = await tmdb(path, { region: REGION, watch_region: REGION });
+  for (const [type, path, params] of lists) {
+    let data;
+    try {
+      data = await tmdb(path, { region: REGION, watch_region: REGION, ...params });
+    } catch (e) {
+      console.warn(`  ${path} -> FEHLER: ${e.message}`);
+      continue;
+    }
     for (const raw of data.results || []) {
       const key = `${type}-${raw.id}`;
       if (seen.has(key)) continue;
+      if (LOWBROW.test(raw.title || raw.name || "")) continue; // Vorabend-Ware, auch bei guter Fan-Wertung
 
       const providers = await watchProviders(type, raw.id);
-      if (!providers.netflix && !providers.prime) continue; // nur mit Abo verfügbar
+      if (!isAvailable(providers)) continue; // nur im Abo oder kostenlos in der Mediathek
 
       const kw = await keywords(type, raw.id);
-
-      seen.set(key, {
-        tmdb_id: raw.id,
-        title: raw.title || raw.name,
-        type,
-        overview: raw.overview || "",
-        genres: (raw.genre_ids || []).map(id => genreMap[id]).filter(Boolean),
-        keywords: kw,
-        rating: raw.vote_average || null,
-        vote_count: raw.vote_count || 0,
-        poster_path: raw.poster_path || null,
-        justwatch: providers.link,
-        providers: { netflix: providers.netflix, prime: providers.prime, mediathek: null }
-      });
+      seen.set(key, tmdbItem(type, raw, genreMap, providers, kw));
     }
   }
   return [...seen.values()];
@@ -128,29 +183,51 @@ const CHANNEL_LABELS = {
   "dw": "DW"
 };
 
-// Gesuchte Reihen mit festen Genres. Erweiterbar.
 // Gesuchte Reihen mit festen Genres. WICHTIG: Die Genre-Namen müssen exakt
 // denen entsprechen, die TMDb bei language=de-DE liefert ("Krimi", nicht
 // "Crime") – sonst matchen Mediathek-Titel nie gegen die Vorlieben und
 // werden ab Strenge "Normal" komplett aussortiert.
+//
+// validate: Filme und Serien müssen bei TMDb gefunden werden und bringen
+// von dort Bewertung, Stimmen und Genres mit. Was nicht gefunden wird,
+// fliegt raus – ohne Bewertung gibt es kein Qualitätssignal.
+// Bewusst NICHT mehr abgefragt: "Krimi" (liefert fast nur Regionalkrimis
+// wie Usedom-/Bozen-Krimi), "Herzkino" (Pilcher & Co.) und "Comedy"
+// (Comedy Scheune & Co.).
 const MEDIATHEK_CATEGORIES = [
-  { topic: "Tatort",           genres: ["Krimi", "Drama"],             size: 12 },
-  { topic: "Polizeiruf 110",   genres: ["Krimi", "Drama"],             size: 6 },
-  { topic: "Filme im Ersten",  genres: ["Drama"],                      size: 10 },
-  { topic: "Spielfilm",        genres: ["Drama"],                      size: 10 },
-  { topic: "Fernsehfilm",      genres: ["Drama"],                      size: 8 },
-  { topic: "Herzkino",         genres: ["Liebesfilm", "Drama"],        size: 6 },
+  { topic: "Tatort",           genres: ["Krimi", "Drama"],             size: 8,  validate: true },
+  { topic: "Polizeiruf 110",   genres: ["Krimi", "Drama"],             size: 5,  validate: true },
+  { topic: "Filme im Ersten",  genres: ["Drama"],                      size: 6,  validate: true },
+  { topic: "Spielfilm",        genres: ["Drama"],                      size: 10, validate: true },
+  { topic: "Fernsehfilm",      genres: ["Drama"],                      size: 5,  validate: true },
+  { topic: "Kino",             genres: ["Drama"],                      size: 10, validate: true },
+  { topic: "Serien",           genres: ["Drama"],                      size: 8,  validate: true },
   { topic: "Terra X",          genres: ["Dokumentarfilm"],             size: 8 },
   { topic: "Dokumentation",    genres: ["Dokumentarfilm"],             size: 12 },
   { topic: "Doku",             genres: ["Dokumentarfilm"],             size: 10 },
   { topic: "Die Story",        genres: ["Dokumentarfilm"],             size: 6 },
-  { topic: "Kino",             genres: ["Drama"],                      size: 8 },
-  { topic: "Krimi",            genres: ["Krimi"],                      size: 8 },
-  { topic: "Comedy",           genres: ["Komödie"],                    size: 6 },
   { topic: "Kabarett",         genres: ["Komödie"],                    size: 5 },
   { topic: "Konzert",          genres: ["Musik"],                      size: 5 },
   { topic: "Geschichte",       genres: ["Historie", "Dokumentarfilm"], size: 8 }
 ];
+
+// Vorabend- und Degeto-Ware ("Morden im Norden"-Liga). Fliegt immer raus,
+// auch wenn Fans sie bei TMDb hoch bewertet haben. Gleiche Liste in app.js
+// (LOWBROW) – doppelte Filterung, bitte beide pflegen.
+const LOWBROW = new RegExp([
+  "[\\wäöüß]+-?krimi\\b",            // Usedom-Krimi, Spreewaldkrimi, Der Kroatien-Krimi …
+  "ein krimi (vom|aus|im|in|am)\\b",     // "Dämonen – Ein Krimi vom Bodensee"
+  "herzkino", "rosamunde pilcher", "inga lindström", "katie fforde",
+  "utta danella", "traumschiff", "kreuzfahrt ins glück", "traumhotel",
+  "bergdoktor", "bergretter", "morden im norden", "rentnercops",
+  "hubert (und|ohne) staller", "\\bsoko\\b", "rosenheim-cops", "\\bwapo\\b",
+  "großstadtrevier", "in aller freundschaft", "um himmels willen",
+  "landarztpraxis", "notruf hafenkante", "letzte spur berlin",
+  "watzmann ermittelt", "dr\\. mertens", "familie dr\\. kleist",
+  "der staatsanwalt", "die chefin", "ein starkes team", "nord bei nordwest",
+  "der kommissar und das meer", "friesland", "feuerwehrfrauen",
+  "klarer? sprache", "kurzschluss", "kurzfilm"
+].join("|"), "i");
 
 // Ballast, der trotz Themensuche durchrutschen kann
 const MEDIATHEK_JUNK = new RegExp([
@@ -167,15 +244,15 @@ const MEDIATHEK_JUNK = new RegExp([
 // Ausgaben täglicher Sendungen – keine Empfehlung wert.
 const DATED_TITLE = /vom\s+\d{1,2}\.\s*(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember|\d{1,2}\.)/i;
 
-async function mvwQuery(topic, size) {
+async function mvwQuery(query, size, { fields = ["topic"], durationMin = 2400 } = {}) {
   const body = {
-    queries: [{ fields: ["topic"], query: topic }],
+    queries: [{ fields, query }],
     sortBy: "timestamp",
     sortOrder: "desc",
     future: false,
     offset: 0,
-    size: size * 3,        // Puffer, da anschließend hart gefiltert wird
-    duration_min: 2400     // ab 40 Minuten: Filme, Krimis, lange Dokus
+    size,
+    duration_min: durationMin  // Standard ab 40 Minuten: Filme, Krimis, lange Dokus
   };
   const res = await fetch("https://mediathekviewweb.de/api/query", {
     method: "POST",
@@ -198,17 +275,79 @@ function isJunk(r) {
   if (DATED_TITLE.test(title)) return true;
   if (MEDIATHEK_JUNK.test(title)) return true;
   if (MEDIATHEK_JUNK.test(topic)) return true;
+  if (LOWBROW.test(title) || LOWBROW.test(topic)) return true;
   return false;
 }
 
-async function collectMediathekItems() {
+// Mediathek-Titel für die TMDb-Suche zerlegen:
+//   "Cash (2024) (klare Sprache)"                       -> Cash, 2024
+//   "Sterben - Drama, Deutschland 2023"                 -> Sterben, 2023
+//   "Der Code des Killers (2/3)"                        -> Der Code des Killers (Serie)
+//   "Tatort: Explosive Mischung"                        -> Explosive Mischung
+function parseMediathekTitle(title) {
+  let t = title;
+  let year = null;
+  let series = false;
+  t = t.replace(/\s*\((?:video in )?(?:klarer? sprache|englisch|ov|omu|originalversion|mit untertiteln?|hörfassung|audiodeskription)\)/gi, "");
+  const y1 = t.match(/\((\d{4})\)/);
+  if (y1) { year = Number(y1[1]); t = t.replace(y1[0], ""); }
+  const suffix = t.match(/\s[-–]\s(?:spielfilm|fernsehfilm|kinofilm|drama|thriller|komödie|krimi|tragikomödie|film)\b(.*)$/i);
+  if (suffix) {
+    const y2 = suffix[1].match(/(\d{4})\s*$/);
+    if (y2 && !year) year = Number(y2[1]);
+    t = t.slice(0, suffix.index);
+  }
+  if (/\((?:\d+\/\d+|S\d+\/E\d+)\)/i.test(t)) series = true;
+  t = t.replace(/\s*\((?:\d+\/\d+|S\d+\/E\d+|\d+)\)/gi, "");
+  t = t.replace(/^(?:tatort|polizeiruf 110)\s*[:\-–]\s*/i, "");
+  return { base: t.replace(/\s+/g, " ").trim(), year, series };
+}
+
+function releaseYear(hit) {
+  const d = hit.release_date || hit.first_air_date || "";
+  return d ? Number(d.slice(0, 4)) : null;
+}
+
+// Mediathek-Eintrag bei TMDb suchen. Strenger als die Presse-Suche, weil
+// Episodentitel oft Allerweltswörter sind ("Licht", "Cash"):
+//  - Tatort/Polizeiruf: nur ein Treffer, der den Reihennamen im Titel trägt
+//  - mit Jahresangabe: Jahr muss passen (±1)
+//  - ohne Jahr: deutsche Produktion oder bekannter Titel (≥ 200 Stimmen)
+async function tmdbValidateMediathek(r) {
+  const { base, year, series } = parseMediathekTitle(r.title);
+  if (!base) return null;
+  const reihe = /^polizeiruf/i.test(r.topic || "") ? "Polizeiruf 110"
+    : /^tatort/i.test(r.topic || "") ? "Tatort" : null;
+
+  const query = reihe ? `${reihe} ${base}` : base;
+  const wanted = new Set(reihe ? [normTitle(`${reihe} ${base}`)] : [normTitle(base)]);
+  const data = await tmdb("/search/multi", { query, include_adult: "false" });
+  const hits = (data.results || []).filter(h =>
+    (h.media_type === "movie" || h.media_type === "tv") && (!series || h.media_type === "tv")
+  );
+  return hits.find(h => {
+    const names = [h.title, h.name, h.original_title, h.original_name].filter(Boolean).map(normTitle);
+    if (!names.some(n => wanted.has(n))) return false;
+    const hy = releaseYear(h);
+    if (year && hy) return Math.abs(hy - year) <= 1;
+    return h.original_language === "de" || (h.vote_count || 0) >= 200;
+  }) || null;
+}
+
+// Untergrenze schon beim Abruf (die App legt je nach Strenge noch drauf)
+const MEDIATHEK_MIN_RATING = 6.5;
+const MEDIATHEK_MIN_VOTES = 15;
+
+async function collectMediathekItems(genreMap) {
   const collected = [];
+  const seenTmdb = new Set();
   let failed = 0;
 
   for (const cat of MEDIATHEK_CATEGORIES) {
     try {
-      const results = await mvwQuery(cat.topic, cat.size);
-      let kept = 0;
+      // Mit TMDb-Prüfung fällt viel weg – deshalb großzügiger abrufen
+      const results = await mvwQuery(cat.topic, cat.size * (cat.validate ? 5 : 3));
+      let kept = 0, checked = 0;
 
       for (const r of results) {
         if (kept >= cat.size) break;
@@ -216,7 +355,7 @@ async function collectMediathekItems() {
         if (!label) continue;          // Sender ohne Eintrag in CHANNEL_LABELS überspringen
         if (isJunk(r)) continue;
 
-        collected.push({
+        const item = {
           tmdb_id: null,
           title: r.title.trim(),
           type: "tv",
@@ -229,10 +368,38 @@ async function collectMediathekItems() {
           url: r.url_website || null,
           duration: r.duration || null,
           providers: { netflix: null, prime: null, mediathek: label }
-        });
+        };
+
+        if (cat.validate) {
+          if (checked >= cat.size * 4) break; // TMDb-Abfragen begrenzen
+          checked++;
+          let hit = null;
+          try { hit = await tmdbValidateMediathek(r); } catch { hit = null; }
+          if (!hit) continue;                                   // unbekannt -> raus
+          if ((hit.vote_average || 0) < MEDIATHEK_MIN_RATING) continue;
+          if ((hit.vote_count || 0) < MEDIATHEK_MIN_VOTES) continue;
+          const key = `${hit.media_type}-${hit.id}`;
+          if (seenTmdb.has(key)) continue;                      // weitere Teile/Fassungen
+          seenTmdb.add(key);
+          Object.assign(item, {
+            tmdb_id: hit.id,
+            title: hit.title || hit.name,
+            type: hit.media_type,
+            overview: hit.overview || item.overview,
+            genres: (hit.genre_ids || []).map(id => genreMap[id]).filter(Boolean),
+            rating: hit.vote_average,
+            vote_count: hit.vote_count || 0,
+            original_language: hit.original_language || null,
+            poster_path: hit.poster_path || null
+          });
+          if (!item.genres.length) item.genres = cat.genres;
+          if (LOWBROW.test(item.title)) continue;
+        }
+
+        collected.push(item);
         kept++;
       }
-      console.log(`  "${cat.topic}" -> ${kept} übernommen (von ${results.length})`);
+      console.log(`  "${cat.topic}" -> ${kept} übernommen (von ${results.length}${cat.validate ? `, ${checked} bei TMDb geprüft` : ""})`);
     } catch (e) {
       failed++;
       console.warn(`  "${cat.topic}" -> FEHLER: ${e.message}`);
@@ -242,7 +409,7 @@ async function collectMediathekItems() {
   // Duplikate entfernen
   const seen = new Set();
   const unique = collected.filter(it => {
-    const key = it.title.toLowerCase().replace(/\s+/g, " ");
+    const key = it.tmdb_id != null ? `t:${it.tmdb_id}` : it.title.toLowerCase().replace(/\s+/g, " ");
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
@@ -253,6 +420,26 @@ async function collectMediathekItems() {
     console.warn("WARNUNG: Keine Mediathek-Inhalte gefunden.");
   }
   return unique;
+}
+
+// Titel, die TMDb als "kostenlos in der Mediathek" kennt, haben noch keinen
+// Direktlink – den liefert MediathekViewWeb über eine Titelsuche.
+async function addMediathekLinks(items) {
+  for (const it of items) {
+    if (!it.providers.mediathek || it.url) continue;
+    try {
+      const results = await mvwQuery(it.title, 15, { fields: ["title", "topic"], durationMin: 1200 });
+      const want = normTitle(it.title);
+      const hit = results.find(r =>
+        CHANNEL_LABELS[(r.channel || "").toLowerCase()] && !isJunk(r) &&
+        (normTitle(r.topic) === want || normTitle(r.title) === want || normTitle(r.title).startsWith(want + " "))
+      );
+      if (hit && hit.url_website) {
+        it.url = hit.url_website;
+        it.providers.mediathek = CHANNEL_LABELS[hit.channel.toLowerCase()];
+      }
+    } catch { /* ohne Direktlink bleibt der JustWatch-Link */ }
+  }
 }
 
 // ---------------------------------------------------------------
@@ -429,9 +616,10 @@ async function collectPressItems(genreMap, existingKeys) {
 
       const type = hit.media_type;
       if (existingKeys.has(`${type}-${hit.id}`)) continue; // schon über TMDb-Listen drin
+      if (LOWBROW.test(hit.title || hit.name || "")) continue;
 
       const providers = await watchProviders(type, hit.id);
-      if (!providers.netflix && !providers.prime) continue; // nicht im Abo -> raus
+      if (!isAvailable(providers)) continue; // nicht im Abo/in der Mediathek -> raus
 
       const kw = await keywords(type, hit.id);
       items.push({
@@ -445,7 +633,8 @@ async function collectPressItems(genreMap, existingKeys) {
         vote_count: hit.vote_count || 0,
         poster_path: hit.poster_path || null,
         justwatch: providers.link,
-        providers: { netflix: providers.netflix, prime: providers.prime, mediathek: null },
+        original_language: hit.original_language || null,
+        providers: { netflix: providers.netflix, prime: providers.prime, mediathek: providers.mediathek },
         buzz: { source: cand.source, url: cand.url, mentions: cand.mentions }
       });
       existingKeys.add(`${type}-${hit.id}`);
@@ -461,7 +650,7 @@ async function collectPressItems(genreMap, existingKeys) {
 async function main() {
   const genreMap = await genreMaps();
 
-  console.log("Hole TMDb-Titel (Netflix/Prime im Abo) …");
+  console.log("Hole TMDb-Titel (Netflix/Prime im Abo, Mediathek kostenlos) …");
   const tmdbItems = await collectTmdbItems(genreMap);
   console.log(`TMDb: ${tmdbItems.length} Titel im Abo verfügbar`);
 
@@ -471,7 +660,21 @@ async function main() {
   const pressItems = await collectPressItems(genreMap, existingKeys);
 
   console.log("Hole Mediathek-Inhalte …");
-  const mediathekItems = await collectMediathekItems();
+  const mediathekRaw = await collectMediathekItems(genreMap);
+
+  // Mediathek-Titel, die TMDb schon kennt (z. B. auch bei Netflix), nicht
+  // doppelt führen: Mediathek-Angaben am vorhandenen Eintrag ergänzen.
+  const byKey = new Map([...tmdbItems, ...pressItems].map(it => [`${it.type}-${it.tmdb_id}`, it]));
+  const mediathekItems = mediathekRaw.filter(it => {
+    const existing = it.tmdb_id != null && byKey.get(`${it.type}-${it.tmdb_id}`);
+    if (!existing) return true;
+    existing.providers.mediathek = existing.providers.mediathek || it.providers.mediathek;
+    existing.url = existing.url || it.url;
+    return false;
+  });
+
+  console.log("Suche Mediathek-Direktlinks …");
+  await addMediathekLinks([...tmdbItems, ...pressItems]);
 
   const output = {
     schema: 2,                       // Kennzeichnet den überarbeiteten Abgleich

@@ -1,4 +1,4 @@
-const APP_VERSION = "2.2.0";
+const APP_VERSION = "2.3.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -24,11 +24,17 @@ const STRICTNESS_KEY = "streamguide:strictness";
 // Qualitätsstufen. min_votes verhindert Titel, die nur eine Handvoll
 // Bewertungen haben; requireGenre verlangt eine echte Überschneidung mit
 // den Vorlieben statt nur "nicht ausgeschlossen".
+// minVotesDe/ratingFloorDe gelten für deutschsprachige Produktionen: Die
+// haben bei TMDb nur einen Bruchteil der Stimmen von US-Titeln ("Bad Banks"
+// liegt bei rund 200), sollen aber bei der Wertung höher liegen, damit keine
+// Vorabend-Ware durchrutscht.
 const STRICTNESS = {
   locker: {
     label: "Locker",
     minVotes: 50,
     ratingFloor: 0,
+    minVotesDe: 20,
+    ratingFloorDe: 6.5,
     requireGenre: false,
     genreOrRating: 0,
     note: "Breite Auswahl · Mediathek nur mit Genre-Treffer"
@@ -37,6 +43,8 @@ const STRICTNESS = {
     label: "Normal",
     minVotes: 300,
     ratingFloor: 6.5,
+    minVotesDe: 40,
+    ratingFloorDe: 7.0,
     requireGenre: false,
     genreOrRating: 7.5,   // ohne Genre-Treffer muss die Wertung stimmen
     note: "Genre-Treffer oder starke Bewertung"
@@ -45,6 +53,8 @@ const STRICTNESS = {
     label: "Streng",
     minVotes: 1000,
     ratingFloor: 7.2,
+    minVotesDe: 80,
+    ratingFloorDe: 7.3,
     requireGenre: true,
     genreOrRating: 0,
     note: "Nur Genre-Treffer, hohe Schwellen"
@@ -167,11 +177,31 @@ const JUNK_TITLE = new RegExp([
 // "… vom 7. August" / "… vom 07.08." kennzeichnet Ausgaben täglicher Sendungen
 const DATED_TITLE = /vom\s+\d{1,2}\.\s*(januar|februar|märz|april|mai|juni|juli|august|september|oktober|november|dezember|\d{1,2}\.)/i;
 
+// Vorabend- und Degeto-Ware ("Morden im Norden"-Liga): immer raus, auch
+// wenn Fans sie bei TMDb hoch bewertet haben. Gleiche Liste im Abrufskript
+// (scripts/fetch-recommendations.mjs, LOWBROW) – bitte beide pflegen.
+const LOWBROW = new RegExp([
+  "[\\wäöüß]+-?krimi\\b", "ein krimi (vom|aus|im|in|am)\\b",
+  "herzkino", "rosamunde pilcher", "inga lindström", "katie fforde",
+  "utta danella", "traumschiff", "kreuzfahrt ins glück", "traumhotel",
+  "bergdoktor", "bergretter", "morden im norden", "rentnercops",
+  "hubert (und|ohne) staller", "\\bsoko\\b", "rosenheim-cops", "\\bwapo\\b",
+  "großstadtrevier", "in aller freundschaft", "um himmels willen",
+  "landarztpraxis", "notruf hafenkante", "letzte spur berlin",
+  "watzmann ermittelt", "dr\\. mertens", "familie dr\\. kleist",
+  "der staatsanwalt", "die chefin", "ein starkes team", "nord bei nordwest",
+  "der kommissar und das meer", "friesland", "feuerwehrfrauen",
+  "klarer? sprache", "kurzschluss", "kurzfilm"
+].join("|"), "i");
+
 function isJunkItem(item) {
   const t = item.title || "";
   if (!t.trim()) return true;
   if (DATED_TITLE.test(t)) return true;
   if (JUNK_TITLE.test(t)) return true;
+  if (LOWBROW.test(t)) return true;
+  // Bei Mediathek-Einträgen steht die Sendereihe im ersten Keyword
+  if (item.providers && item.providers.mediathek && LOWBROW.test((item.keywords || [])[0] || "")) return true;
   return false;
 }
 
@@ -220,18 +250,24 @@ function currentStrictness() {
   return STRICTNESS[key] ? key : "normal";
 }
 
-function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
+function scoreForProfile(item, prefs, lovedWeights, excludedKeys, rulesKey = currentStrictness()) {
   if (!prefs) return { pass: true, score: item.rating || 0 };
 
   // --- harte Ausschlüsse: nie anzeigen, auch nicht gelockert ---
   if (excludedKeys && excludedKeys.has(itemKey(item))) return { pass: false, hard: true };
   if (isJunkItem(item)) return { pass: false, hard: true };
 
-  const rules = STRICTNESS[currentStrictness()];
+  const rules = STRICTNESS[rulesKey];
   const genres = item.genres || [];
   const keywords = (item.keywords || []).map(k => k.toLowerCase());
   const hay = ((item.title || "") + " " + (item.overview || "")).toLowerCase();
   const isMediathek = !!(item.providers && item.providers.mediathek);
+  const rated = typeof item.rating === "number" && item.rating > 0;
+  // Mediathek-Filme und -Serien bringen seit dem TMDb-Abgleich eine Bewertung
+  // mit und werden dann genauso streng geprüft wie Netflix/Prime. Ohne
+  // Bewertung (Dokus, Kabarett …) gilt weiter nur der Genre-Anker unten.
+  const unratedMediathek = isMediathek && !rated;
+  const isGerman = item.original_language === "de";
 
   if (genreOverlap(genres, prefs.excluded_genres || []) > 0) return { pass: false, hard: true };
   if ((prefs.keyword_blocks || []).some(k => keywords.includes(k.toLowerCase()) || hay.includes(k.toLowerCase()))) {
@@ -255,7 +291,7 @@ function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
     if (keywords.includes(k.toLowerCase()) || hay.includes(k.toLowerCase())) score += 1.5;
   });
   genres.forEach(g => { score += (lovedNorm[normGenre(g)] || 0) * 0.8; });
-  if (!isMediathek && (item.vote_count || 0) > 3000) score += 0.4;
+  if (!unratedMediathek && (item.vote_count || 0) > 3000) score += 0.4;
   if (item.buzz) score += 0.6 + Math.min(item.buzz.mentions || 1, 3) * 0.3;
 
   // Genres aus abgelehnten Titeln: deutlicher Ausschluss
@@ -263,11 +299,12 @@ function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
   if (negative <= -1.5) return { pass: false, hard: true };
 
   // --- weiche Hürden: bei zu wenig Treffern darf gelockert werden ---
-  const floor = Math.max(prefs.min_rating ?? 0, rules.ratingFloor);
-  if (!isMediathek) {
-    if (typeof item.rating !== "number" || item.rating <= 0) return { pass: false, hard: false, score };
+  const floor = Math.max(prefs.min_rating ?? 0, isGerman ? rules.ratingFloorDe : rules.ratingFloor);
+  const minVotes = isGerman ? rules.minVotesDe : rules.minVotes;
+  if (!unratedMediathek) {
+    if (!rated) return { pass: false, hard: false, score };
     if (item.rating < floor) return { pass: false, hard: false, score };
-    if ((item.vote_count || 0) < rules.minVotes) return { pass: false, hard: false, score };
+    if ((item.vote_count || 0) < minVotes) return { pass: false, hard: false, score };
   }
 
   // Mediathek-Titel tragen keine Bewertung. Ohne Genre-Treffer gibt es damit
@@ -275,7 +312,7 @@ function scoreForProfile(item, prefs, lovedWeights, excludedKeys) {
   // thematische Anker hier in jeder Stufe Pflicht, auch bei "Locker".
   // (Sonst landen z. B. Konzertmitschnitte in der Liste, nur weil "Musik"
   // nicht ausdrücklich ausgeschlossen wurde.)
-  if (isMediathek && !relevant) return { pass: false, hard: false, score };
+  if (unratedMediathek && !relevant) return { pass: false, hard: false, score };
 
   if (rules.requireGenre && !relevant) return { pass: false, hard: false, score };
   if (!rules.requireGenre && rules.genreOrRating > 0 && !relevant) {
@@ -301,7 +338,9 @@ function computeList() {
       if (sa.hard || sb.hard) return;                       // einer lehnt hart ab
       const score = Math.min(sa.score ?? 0, sb.score ?? 0);
       if (sa.pass && sb.pass) pass.push({ item: it, score });
-      else soft.push({ item: it, score, relaxed: true });    // nur weich gescheitert
+      else if (scoreForProfile(it, A, wA, exA, "locker").pass && scoreForProfile(it, B, wB, exB, "locker").pass) {
+        soft.push({ item: it, score, relaxed: true });      // nur weich gescheitert
+      }
     });
   } else {
     const prefs = state.profiles[view];
@@ -311,10 +350,15 @@ function computeList() {
       const s = scoreForProfile(it, prefs, w, ex);
       if (s.hard) return;
       if (s.pass) pass.push({ item: it, score: s.score });
-      else soft.push({ item: it, score: s.score ?? 0, relaxed: true });
+      else if (scoreForProfile(it, prefs, w, ex, "locker").pass) {
+        soft.push({ item: it, score: s.score ?? 0, relaxed: true });
+      }
     });
   }
 
+  // Reserve ("gelockert") enthält nur Titel, die wenigstens die Stufe
+  // "Locker" bestehen. Darunter liegt Füllmaterial, das auch zum Auffüllen
+  // der Bereiche nicht taugt – lieber ein kurzer Bereich als Müll.
   const bySc = (a, b) => b.score - a.score;
   return { pass: pass.sort(bySc), soft: soft.sort(bySc) };
 }
