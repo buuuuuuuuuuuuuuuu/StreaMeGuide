@@ -35,6 +35,9 @@ lieber weniger Ergebnisse anzeigen als schlechte.
 - Doppelte Junk-Filterung: im Fetch-Skript **und** clientseitig
 - Drei Strenge-Stufen (Locker/Normal/Streng) mit harten und weichen Ausschlusskategorien; Fallback-Inhalte dürfen nie wirklich ausgeschlossenes Material sein
 - Presse-RSS: nur Titel in Anführungszeichen aus Schlagzeilen extrahieren und jeden Titel über TMDb validieren, bevor er aufgenommen wird
+- Qualitätsmaßstab für Fiktion: Niveau „Bad Banks", „4 Blocks", „Berlin Station" – keine Vorabend-/Degeto-Ware („Morden im Norden", Regionalkrimis, Pilcher & Co.). Sperrliste `LOWBROW` steht doppelt (Abrufskript und app.js)
+- Mediathek-Filme und -Serien nur mit TMDb-Treffer (Bewertung + Stimmen) aufnehmen; deutsche Produktionen haben eigene Schwellen (`minVotesDe`/`ratingFloorDe`)
+- Die Reserve („gelockert") darf nie unter die Stufe „Locker" fallen – auch nicht zum Auffüllen der Bereiche
 
 ## Bekannte Fallstricke – nicht erneut einbauen
 - Mediathek-Genres müssen deutsch sein, weil TMDb mit `language=de-DE` deutsche Genres liefert. Englische Genres filtern alle Öffentlich-Rechtlichen heraus.
@@ -50,4 +53,4 @@ lieber weniger Ergebnisse anzeigen als schlechte.
 - Im PR-Text eine kurze iPhone-Testliste angeben (was in Safari angetippt/geprüft werden soll, auch im Dark Mode).
 
 ## Versionierung
-- Aktueller Stand: v2.2.0. Bei sichtbaren Änderungen die Version erhöhen und kurz im PR erwähnen.
+- Aktueller Stand: v2.3.0. Bei sichtbaren Änderungen die Version erhöhen und kurz im PR erwähnen.
