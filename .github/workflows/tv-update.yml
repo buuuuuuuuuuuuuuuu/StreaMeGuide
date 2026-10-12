@@ -1,0 +1,26 @@
+name: TV-Programm aktualisieren
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # alle zwei Stunden
+  workflow_dispatch: {}      # manuell auslösbar im Actions-Tab
+
+permissions:
+  contents: read             # schreibt nichts ins Repo, nur nach Supabase
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: TV-Programm holen und in Supabase ablegen
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SG_HOUSEHOLD: ${{ secrets.SG_HOUSEHOLD }}
+        run: node scripts/fetch-tv.mjs

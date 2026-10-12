@@ -910,6 +910,73 @@ input[type=file]{ display:none; }
 .refine-row:active{ transform: translate(2px,2px); }
 .refine-row .genres{ margin-bottom: 0; }
 
+/* ---------- Jetzt im TV ---------- */
+.topbar-actions{ display:flex; gap: 8px; flex-shrink: 0; }
+/* Eigene Ebene: über der Liste, unter Dialog (90) und Update-Banner (70);
+   nicht 60 wie #refine-view – zwei Overlays auf einer Ebene hatten wir schon. */
+.tv-overlay{ z-index: 65; }
+.tv-overlay.open .tv-panel{ animation: slideRight var(--base) var(--spring); }
+@keyframes slideRight{ from{ transform: translateX(-100%);} to{ transform: translateX(0);} }
+
+.tv-row{
+  display:flex;
+  gap: 12px;
+  align-items:flex-start;
+  background: var(--paper-2);
+  border: var(--line);
+  border-radius: var(--r);
+  box-shadow: var(--pop-sm);
+  padding: 12px 14px;
+  margin-bottom: 10px;
+}
+.tv-channel{
+  flex-shrink: 0;
+  width: 92px;
+  font-family:'Syne', sans-serif;
+  font-weight: 800;
+  font-size: var(--t-xs);
+  letter-spacing: 0.02em;
+  overflow-wrap: anywhere;   /* lange Sendernamen nie über den Rand */
+  text-transform: uppercase;
+  color: var(--on-accent);
+  background: var(--lavender);
+  border: var(--line);
+  border-radius: 10px;
+  padding: 6px 6px;
+  text-align: center;
+  line-height: 1.15;
+}
+.tv-row:nth-child(6n+2) .tv-channel{ background: var(--butter); }
+.tv-row:nth-child(6n+3) .tv-channel{ background: var(--bubble); }
+.tv-row:nth-child(6n+4) .tv-channel{ background: var(--mint); }
+.tv-row:nth-child(6n+5) .tv-channel{ background: var(--sky); }
+.tv-row:nth-child(6n+6) .tv-channel{ background: var(--peach); }
+.tv-body{ min-width: 0; flex: 1; }
+.tv-now{ font-weight: 700; font-size: var(--t-body); line-height: 1.25; overflow-wrap: anywhere; }
+.tv-now.tv-none{ font-weight: 500; color: var(--ink-soft); }
+.tv-sub{ font-size: var(--t-sm); color: var(--ink-soft); margin-top: 2px; overflow-wrap: anywhere; }
+.tv-time{ font-size: var(--t-sm); margin-top: 4px; }
+.tv-bar{
+  height: 6px;
+  margin-top: 6px;
+  border: 1.5px solid var(--ink);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.tv-bar span{ display:block; height: 100%; background: var(--mint); }
+.tv-next{
+  font-size: var(--t-sm);
+  color: var(--ink-soft);
+  margin-top: 8px;
+  overflow-wrap: anywhere;
+}
+.tv-next-label{
+  font-weight: 700;
+  color: var(--ink);
+  margin-right: 4px;
+}
+.tv-foot{ font-size: var(--t-xs); color: var(--ink-soft); text-align: center; margin-top: 14px; }
+
 /* ---------- Update-Banner ---------- */
 .update-banner{
   color: var(--on-accent);

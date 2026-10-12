@@ -82,6 +82,18 @@ Wechseln: gewünschte Dateien nach `icons/icon-192.png` bzw.
 `icons/icon-512.png` kopieren. Neu erzeugen lassen sie sich mit
 `python3 icons/make_icons.py` (benötigt Pillow).
 
+## Jetzt im TV
+Vom linken Bildschirmrand nach rechts wischen (oder 📺 oben) öffnet eine
+zweite Ansicht: pro Sender die laufende Sendung mit Endzeit und
+Fortschrittsbalken und was direkt danach kommt. Sender: Das Erste, ZDF,
+arte, rbb, RTL, SAT.1, Pro7, Kabel Eins, VOX – erweiterbar über
+`TV_CHANNELS` in `scripts/fetch-tv.mjs`.
+
+Die Daten holt der Workflow `tv-update.yml` alle zwei Stunden und legt sie
+in Supabase ab (Tabelle `sg_tv`), nicht im öffentlichen Repo. Einrichtung:
+SYNC-SETUP.md, Schritt 6. Quelle ist die inoffizielle Programm-Schnittstelle
+von TV Spielfilm; ändert sie sich, steht der Fehler im Workflow-Log.
+
 ## Filterstrenge
 Im Setup-Panel lässt sich einstellen, wie hart gefiltert wird:
 
