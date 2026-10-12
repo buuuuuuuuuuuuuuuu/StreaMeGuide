@@ -297,16 +297,32 @@ function stripTags(s) {
   return (s || "")
     .replace(/<!\[CDATA\[|\]\]>/g, "")
     .replace(/<[^>]*>/g, "")
+    // Anführungszeichen kommen in Feeds oft als Entity (&#8222; &bdquo; …)
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&bdquo;/g, "\u201E").replace(/&ldquo;/g, "\u201C").replace(/&rdquo;/g, "\u201D")
+    .replace(/&raquo;/g, "\u00BB").replace(/&laquo;/g, "\u00AB")
     .replace(/&amp;/g, "&").replace(/&quot;/g, '"')
     .replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
     .trim();
 }
 
-// Werktitel aus einer Schlagzeile ziehen: „Titel" oder "Titel" oder »Titel«
+// Werktitel aus einer Schlagzeile ziehen. Nur echte Anführungszeichen-Paare:
+// „Titel“ (deutsch), “Titel”, »Titel«, «Titel» und "Titel". Der einfache
+// Apostroph zählt bewusst nicht – sonst wird aus „Netflix' neue Serie …"
+// ein Wortfetzen zum Kandidaten.
+const QUOTE_PATTERNS = [
+  /\u201E([^\u201E\u201C\u201D"]{2,60})[\u201C\u201D"]/g,  // „…“  „…”  „…"
+  /\u201C([^\u201E\u201C\u201D"]{2,60})\u201D/g,            // “…”
+  /\u00BB([^\u00AB\u00BB]{2,60})\u00AB/g,                     // »…«
+  /\u00AB([^\u00AB\u00BB]{2,60})\u00BB/g,                     // «…»
+  /(?:^|[^\w\u201E])"([^"\u201E\u201C\u201D]{2,60})"/g        // "…"
+];
+
 function extractQuotedTitles(text) {
-  const out = [];
-  const patterns = [/[„»"']([^"„»"']{2,60})["«"']/g, /"([^"]{2,60})"/g];
-  patterns.forEach(re => {
+  const out = new Set();
+  QUOTE_PATTERNS.forEach(re => {
+    re.lastIndex = 0;
     let m;
     while ((m = re.exec(text)) !== null) {
       const t = m[1].trim();
@@ -314,10 +330,10 @@ function extractQuotedTitles(text) {
       if (!t) continue;
       if (t.split(/\s+/).length > 8) continue;
       if (/^(staffel|season|folge|teil)\b/i.test(t)) continue;
-      out.push(t);
+      out.add(t);
     }
   });
-  return out;
+  return [...out];
 }
 
 async function fetchFeedXml(feed) {
@@ -357,13 +373,27 @@ async function fetchFeedTitles(feed) {
   return found;
 }
 
+// Für den Titelvergleich: Groß/Klein, Satzzeichen und Leerraum ignorieren
+function normTitle(s) {
+  return (s || "")
+    .toLowerCase()
+    .normalize("NFKD").replace(/[\u0300-\u036f]/g, "")
+    .replace(/&/g, " und ")
+    .replace(/[^a-z0-9ß]+/g, " ")
+    .trim();
+}
+
 async function tmdbSearch(name) {
   const data = await tmdb("/search/multi", { query: name, include_adult: "false" });
   const hits = (data.results || []).filter(r => r.media_type === "movie" || r.media_type === "tv");
-  if (!hits.length) return null;
-  // Bestes Ergebnis: exakter Namenstreffer bevorzugt, sonst populärstes
-  const exact = hits.find(h => (h.title || h.name || "").toLowerCase() === name.toLowerCase());
-  return exact || hits[0];
+  // Nur ein echter Namenstreffer zählt (deutscher oder Originaltitel).
+  // Kein Rückgriff auf das erstbeste Ergebnis: TMDb liefert zu fast jedem
+  // Suchbegriff irgendetwas – lieber keine Treffer als Müll.
+  const wanted = normTitle(name);
+  if (!wanted) return null;
+  return hits.find(h =>
+    [h.title, h.name, h.original_title, h.original_name].some(t => t && normTitle(t) === wanted)
+  ) || null;
 }
 
 async function collectPressItems(genreMap, existingKeys) {

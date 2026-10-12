@@ -10,7 +10,8 @@ const SYNC_KEY = "streamguide:sync";
 const sync = {
   config: null,       // { url, anonKey, household, auto }
   lastResult: null,   // { ok, at, message }
-  pushTimer: null
+  pushTimer: null,
+  pendingSlots: new Set()
 };
 
 function loadSyncConfig() {
@@ -98,12 +99,19 @@ async function syncPush(slots = ["A", "B"]) {
   }
 }
 
-// Nach lokalen Änderungen automatisch (verzögert) hochladen
+// Nach lokalen Änderungen automatisch (verzögert) hochladen.
+// Geänderte Profile werden gesammelt: In der "Beide"-Ansicht wird erst A,
+// dann B gespeichert – ohne Sammeln würde der zweite Aufruf den Upload
+// von A abbrechen und dessen Änderung ginge beim nächsten Abgleich verloren.
 function schedulePush(changedSlot = null) {
   if (!syncReady() || !sync.config.auto) return;
   clearTimeout(sync.pushTimer);
-  const slots = changedSlot ? [changedSlot] : ["A", "B"];
-  sync.pushTimer = setTimeout(() => syncPush(slots), 2500);
+  (changedSlot ? [changedSlot] : ["A", "B"]).forEach(s => sync.pendingSlots.add(s));
+  sync.pushTimer = setTimeout(() => {
+    const slots = [...sync.pendingSlots];
+    sync.pendingSlots.clear();
+    syncPush(slots);
+  }, 2500);
 }
 
 // ---------- Pull ----------
