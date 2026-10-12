@@ -50,4 +50,4 @@ lieber weniger Ergebnisse anzeigen als schlechte.
 - Im PR-Text eine kurze iPhone-Testliste angeben (was in Safari angetippt/geprüft werden soll, auch im Dark Mode).
 
 ## Versionierung
-- Aktueller Stand: v2.0.0. Bei sichtbaren Änderungen die Version erhöhen und kurz im PR erwähnen.
+- Aktueller Stand: v2.2.0. Bei sichtbaren Änderungen die Version erhöhen und kurz im PR erwähnen.

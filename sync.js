@@ -85,7 +85,12 @@ async function syncPush(slots = ["A", "B"]) {
     });
     if (!res.ok) {
       const txt = await res.text();
-      return { ok: false, message: `Fehler ${res.status}: ${txt.slice(0, 140)}` };
+      // Auch beim automatischen Hochladen sichtbar machen – sonst zeigt der
+      // Status weiter "Sync" an, obwohl nichts gesichert wurde.
+      const result = { ok: false, at: new Date().toISOString(), message: `Fehler ${res.status}: ${txt.slice(0, 140)}` };
+      sync.lastResult = result;
+      updateSyncStatus();
+      return result;
     }
     const result = { ok: true, at: new Date().toISOString(), message: `${rows.length} Profil(e) gesichert` };
     sync.lastResult = result;

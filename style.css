@@ -578,14 +578,16 @@ input[type=file]{ display:none; }
   z-index: 0;
   border-radius: var(--r-lg);
 }
-.hint-left{
-  left:0; padding-left: 20px;
-  justify-content: flex-start;
-  background: var(--mint);
-}
-.hint-right{
+/* Der Hinweis liegt auf der Seite, die beim Wischen frei wird:
+   nach links wischen = "Gesehen?" rechts, nach rechts = "Nicht mein Ding" links */
+.hint-seen{
   right:0; padding-right: 20px;
   justify-content: flex-end;
+  background: var(--mint);
+}
+.hint-skip{
+  left:0; padding-left: 20px;
+  justify-content: flex-start;
   background: var(--peach);
 }
 .swipe-surface{ position: relative; z-index: 2; will-change: transform; }

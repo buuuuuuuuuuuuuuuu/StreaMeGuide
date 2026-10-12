@@ -213,7 +213,7 @@ async function collectMediathekItems() {
       for (const r of results) {
         if (kept >= cat.size) break;
         const label = CHANNEL_LABELS[(r.channel || "").toLowerCase()];
-        if (!label) continue;          // fremde Sender (ORF, SRF, DW …) überspringen
+        if (!label) continue;          // Sender ohne Eintrag in CHANNEL_LABELS überspringen
         if (isJunk(r)) continue;
 
         collected.push({

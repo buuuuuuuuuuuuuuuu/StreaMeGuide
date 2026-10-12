@@ -1,4 +1,4 @@
-const APP_VERSION = "2.1.1";
+const APP_VERSION = "2.2.0";
 const STORAGE_KEY = "streamguide:profiles";
 const RECS_URL = "recommendations.json";
 const RECS_SAMPLE_URL = "recommendations.sample.json";
@@ -10,10 +10,12 @@ const REASONS = {
   not_interested: ["Genre nicht meins", "Thema nicht meins", "Kenn ich schon", "Zu gehypt", "Falscher Zeitpunkt", "Sonstiges"]
 };
 const CATEGORY_LABEL = { like: "Gut bewertet", dislike: "Nicht gut bewertet", not_interested: "Sowas nicht" };
+// Deutsche Namen wie bei TMDb (language=de-DE). Ältere, englisch
+// gespeicherte Einträge greifen weiter über GENRE_SYNONYMS.
 const GENRE_POOL = [
-  "Drama", "Crime", "Comedy", "Sci-Fi", "Mystery", "Thriller", "Action",
-  "Documentary", "Fantasy", "Horror", "Romance", "Animation", "Family",
-  "History", "War", "Western", "Adventure", "Music"
+  "Drama", "Krimi", "Komödie", "Science Fiction", "Mystery", "Thriller", "Action",
+  "Dokumentarfilm", "Fantasy", "Horror", "Liebesfilm", "Animation", "Familie",
+  "Historie", "Kriegsfilm", "Western", "Abenteuer", "Musik"
 ];
 
 const VISIBLE_LIMIT = 50;
@@ -432,8 +434,8 @@ function cardHtml(entry, index, prefsForLove) {
   const loved = isLoved(entry.item, prefsForLove);
   return `
     <div class="swipe-wrap" data-key="${escapeHtml(itemKey(entry.item))}">
-      <div class="swipe-hint hint-left">👀 Gesehen?</div>
-      <div class="swipe-hint hint-right">🙅 Nicht mein Ding</div>
+      <div class="swipe-hint hint-seen">👀 Gesehen?</div>
+      <div class="swipe-hint hint-skip">🙅 Nicht mein Ding</div>
       <article class="swipe-surface card${entry.relaxed ? " relaxed" : ""}">
         <span class="rank">${String(index + 1).padStart(2, "0")}</span>
         <div class="body">
@@ -480,14 +482,14 @@ function render() {
   heroSlot.innerHTML = `
     <div class="stack">
       <div class="swipe-wrap" data-key="${escapeHtml(itemKey(top.item))}">
-        <div class="swipe-hint hint-left">👀 Gesehen?</div>
-        <div class="swipe-hint hint-right">🙅 Nicht mein Ding</div>
+        <div class="swipe-hint hint-seen">👀 Gesehen?</div>
+        <div class="swipe-hint hint-skip">🙅 Nicht mein Ding</div>
         <article class="swipe-surface hero-card">
           <span class="eyebrow">Heute Abend</span>
           <h2>${escapeHtml(top.item.title)}</h2>
           <p class="overview">${escapeHtml((top.item.overview || "").slice(0, 180))}${(top.item.overview || "").length > 180 ? "…" : ""}</p>
           <div class="hero-foot">
-            <span class="badges">${badgeHtml(top.item, true)}${watchLinkHtml(top.item)}</span>
+            <span class="badges">${badgeHtml(top.item, true)}${top.relaxed ? `<span class="badge relaxed-badge">🔓 gelockert</span>` : ""}${watchLinkHtml(top.item)}</span>
             ${top.item.rating ? `<span class="score">★ ${top.item.rating.toFixed(1)}</span>` : ""}
           </div>
         </article>
@@ -704,15 +706,17 @@ function findItemByKey(key) {
 
 function attachSwipe(wrapEl, profileKey) {
   const surface = wrapEl.querySelector(".swipe-surface");
-  const hintLeft = wrapEl.querySelector(".hint-left");
-  const hintRight = wrapEl.querySelector(".hint-right");
+  // Wischen nach links legt den rechten Rand frei – dort steht "Gesehen?";
+  // Wischen nach rechts legt links "Nicht mein Ding" frei.
+  const hintSeen = wrapEl.querySelector(".hint-seen");
+  const hintSkip = wrapEl.querySelector(".hint-skip");
   let startX = 0, startY = 0, dx = 0, dy = 0, dragging = false, locked = null, onControl = false;
 
   function reset() {
     surface.style.transition = "transform .2s ease";
     surface.style.transform = "translateX(0)";
-    hintLeft.style.opacity = 0;
-    hintRight.style.opacity = 0;
+    hintSeen.style.opacity = 0;
+    hintSkip.style.opacity = 0;
   }
 
   wrapEl.addEventListener("pointerdown", (e) => {
@@ -731,8 +735,8 @@ function attachSwipe(wrapEl, profileKey) {
     if (locked === null) locked = Math.abs(dx) > Math.abs(dy) ? "h" : "v";
     if (locked === "v") return;
     surface.style.transform = `translateX(${dx}px)`;
-    hintLeft.style.opacity = dx < 0 ? Math.min(Math.abs(dx) / SWIPE_THRESHOLD, 1) : 0;
-    hintRight.style.opacity = dx > 0 ? Math.min(dx / SWIPE_THRESHOLD, 1) : 0;
+    hintSeen.style.opacity = dx < 0 ? Math.min(Math.abs(dx) / SWIPE_THRESHOLD, 1) : 0;
+    hintSkip.style.opacity = dx > 0 ? Math.min(dx / SWIPE_THRESHOLD, 1) : 0;
   });
 
   function onEnd() {
@@ -792,7 +796,11 @@ function finalizeClassification(profileKey, item, category, reasons) {
     const prefs = state.profiles[slot];
     ensureLists(prefs);
     const entry = { tmdb_id: item.tmdb_id ?? null, title: item.title, genres: item.genres || [], reasons, rated_at: new Date().toISOString() };
-    prefs[listKey] = prefs[listKey].filter(e => (e.tmdb_id ?? null) !== (item.tmdb_id ?? null) || e.title !== item.title);
+    // Aus allen Listen entfernen – ein Titel gehört immer nur in eine
+    // (sonst stünde er nach einer Neubewertung doppelt in "Profil verfeinern").
+    ["seen_liked", "seen_disliked", "not_interested"].forEach(k => {
+      prefs[k] = prefs[k].filter(e => (e.tmdb_id ?? null) !== (item.tmdb_id ?? null) || e.title !== item.title);
+    });
     prefs[listKey].push(entry);
     saveProfiles(slot);
   });
@@ -805,6 +813,14 @@ function finalizeClassification(profileKey, item, category, reasons) {
 function closeModal() {
   document.getElementById("modal-overlay").classList.remove("open");
   document.getElementById("modal-content").innerHTML = "";
+  // Eine angewischte Karte zurückschieben – auch wenn der Dialog über den
+  // Hintergrund geschlossen wurde und kein onCancel lief.
+  document.querySelectorAll(".swipe-surface").forEach(el => {
+    if (!el.style.transform || el.style.transform === "translateX(0px)") return;
+    el.style.transition = "transform .2s ease";
+    el.style.transform = "translateX(0)";
+  });
+  document.querySelectorAll(".swipe-hint").forEach(el => { el.style.opacity = 0; });
 }
 
 function bothNote(profileKey) {
@@ -943,7 +959,7 @@ function openGenrePicker(profileKey, title) {
     <div class="modal-headline">Welche Genres passen zu „${escapeHtml(title)}"?</div>
     <p class="modal-sub">Danach fließen diese Genres in deine Empfehlungen ein.</p>
     <div class="chip-grid">
-      ${GENRE_POOL.map(g => `<button class="chip genre-chip" data-g="${g}">${g}</button>`).join("")}
+      ${GENRE_POOL.map(g => `<button class="chip genre-chip" data-g="${escapeHtml(g)}">${escapeHtml(g)}</button>`).join("")}
     </div>
     <div class="modal-actions">
       <button class="btn small" id="genre-next">Weiter</button>
@@ -991,7 +1007,8 @@ function renderRefineView() {
   const profileKey = state.activeView !== "both" ? state.activeView : "A";
   const prefs = state.profiles[profileKey];
   if (!prefs) {
-    view.querySelector("#refine-body").innerHTML = `<div class="empty">Für dieses Profil wurde noch nichts bewertet. Wisch dich durch die Vorschläge.</div>`;
+    view.querySelector("#refine-title").textContent = "Profil verfeinern";
+    view.querySelector("#refine-body").innerHTML = `<div class="empty">Für dieses Profil ist noch keine Datei geladen. Lade sie oben unter „Profile &amp; Einstellungen“ hoch.</div>`;
     return;
   }
   ensureLists(prefs);
@@ -1217,12 +1234,27 @@ async function init() {
   });
 
   document.getElementById("copy-prompt").onclick = async () => {
-    const res = await fetch("onboarding-prompt.md");
-    const text = await res.text();
-    await navigator.clipboard.writeText(text);
     const btn = document.getElementById("copy-prompt");
     const original = btn.textContent;
-    btn.textContent = "Kopiert ✓";
+    const loadText = () => fetch("onboarding-prompt.md").then(res => {
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      return res.text();
+    });
+    try {
+      // Safari erlaubt das Kopieren nur direkt im Tipp. Nach einem
+      // "await fetch" wäre die Geste verbraucht – deshalb bekommt
+      // ClipboardItem das Laden als Promise und kopiert sofort.
+      if (window.ClipboardItem && navigator.clipboard.write) {
+        await navigator.clipboard.write([new ClipboardItem({
+          "text/plain": loadText().then(t => new Blob([t], { type: "text/plain" }))
+        })]);
+      } else {
+        await navigator.clipboard.writeText(await loadText());
+      }
+      btn.textContent = "Kopiert ✓";
+    } catch (e) {
+      btn.textContent = "Kopieren fehlgeschlagen";
+    }
     setTimeout(() => { btn.textContent = original; }, 1600);
   };
 
@@ -1252,12 +1284,12 @@ async function init() {
   // Sync: Konfiguration laden und im Hintergrund abgleichen
   loadSyncConfig();
   updateSyncStatus();
-  if (syncReady()) {
-    syncPull();
-    document.addEventListener("visibilitychange", () => {
-      if (document.visibilityState === "visible") syncPull();
-    });
-  }
+  if (syncReady()) syncPull();
+  // Immer registrieren: Auch ein erst später eingerichteter Sync soll beim
+  // Zurückkehren in die App abgleichen, ohne dass neu geladen werden muss.
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible" && syncReady()) syncPull();
+  });
 
   registerServiceWorker();
 }
