@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-11T11:06:54.282Z",
+  "generated_at": "2026-10-12T12:37:29.774Z",
   "items": [
     {
       "tmdb_id": 1236045,
@@ -18,9 +18,9 @@
         "political thriller",
         "mayoral candidate"
       ],
-      "rating": 7.4,
-      "vote_count": 154,
-      "poster_path": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "rating": 7.477,
+      "vote_count": 244,
+      "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1236045-animals/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
@@ -44,18 +44,23 @@
         "supernatural",
         "high school",
         "death of father",
+        "teenage girl",
+        "miniseries",
         "social outcast",
         "zealot",
         "angry",
         "abusive mother",
+        "social scandal",
+        "mother daughter relationship",
         "supernatural horror",
         "cautionary",
         "school bullying",
+        "teen horror",
         "horror",
         "celebratory"
       ],
-      "rating": 8.366,
-      "vote_count": 146,
+      "rating": 8.392,
+      "vote_count": 186,
       "poster_path": "/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
       "justwatch": "https://www.themoviedb.org/tv/288673-carrie/watch?locale=DE",
       "providers": {
@@ -80,8 +85,8 @@
         "newfoundland",
         "supernatural thriller"
       ],
-      "rating": 7.4,
-      "vote_count": 60,
+      "rating": 7.241,
+      "vote_count": 81,
       "poster_path": "/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
       "justwatch": "https://www.themoviedb.org/tv/285322-below/watch?locale=DE",
       "providers": {
@@ -91,60 +96,36 @@
       }
     },
     {
-      "tmdb_id": 289423,
-      "title": "Take Charge of My Heart",
+      "tmdb_id": 207347,
+      "title": "Blue Box",
       "type": "tv",
-      "overview": "Der reiche Erbe Baek Ho-rang hat ein künstliches Herz, dem langsam der Strom ausgeht. Da trifft es sich gut, dass er eines Tages der Drehbuchautorin Na Bo-bae begegnet, deren Körper elektrisch aufgeladen ist. Denn seitdem sie als Kind von einem Blitz getroffen wurde, verfügt sie über elektrische Kräfte, wodurch sie jeden, den sie berührt, leicht unter Strom setzt. Aus diesem Grund trägt sie Handschuhe und distanziert sich von jedem. Als die zwei sich aber begegnen und versehentlich küssen, stellt sie mit Erstaunen fest, dass ihre Elektrizität ihm nichts anhat und sein künstliches Herz stattdessen wieder auflädt.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Komödie"
-      ],
-      "keywords": [
-        "romcom",
-        "artificial heart",
-        "chaebol",
-        "based on web novel"
-      ],
-      "rating": 6.6,
-      "vote_count": 5,
-      "poster_path": "/w1Or7tvbNsW1EXZ9PE6ZfxnPQ8U.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/289423/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 259140,
-      "title": "Ranma1/2",
-      "type": "tv",
-      "overview": "Akane Tendo trifft ihren Verlobten Ranma Saotome, ein ganz besonderes Kampfkunst-Wunderkind: Wenn er kaltes Wasser berührt, verwandelt er sich in ein Mädchen.",
+      "overview": "Der Badmintonspieler Taiki hat die Basketballspielerin Chinatsu seit Langem aus der Ferne bewundert. Doch eines Tages bringt eine überraschende Wendung die beiden einander näher.",
       "genres": [
         "Animation",
-        "Action & Adventure",
-        "Komödie",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
       "keywords": [
-        "martial arts",
-        "arranged marriage",
-        "harem",
-        "remake",
-        "romcom",
+        "adolescence",
+        "friendship",
+        "sports",
+        "high school",
+        "basketball",
         "romance",
-        "curse",
+        "slice of life",
+        "school",
         "based on manga",
-        "turns into animal",
+        "school life",
+        "badminton",
         "shounen",
         "anime",
-        "gender swap",
-        "love polygon"
+        "school club",
+        "japanese high school",
+        "bukatsu"
       ],
-      "rating": 8.088,
-      "vote_count": 193,
-      "poster_path": "/1C4HtKv13BQnhofwnPZiyfti5aC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/259140-1-2/watch?locale=DE",
+      "rating": 7.9,
+      "vote_count": 104,
+      "poster_path": "/shXf4cTKUbMpx5AVBKi4V0dMwY3.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/207347/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -152,37 +133,26 @@
       }
     },
     {
-      "tmdb_id": 220542,
-      "title": "Die Tagebücher der Apothekerin",
+      "tmdb_id": 293610,
+      "title": "닥터X: 하얀 마피아의 시대",
       "type": "tv",
-      "overview": "Maomao führte ein friedliches Leben, bis sie eines Tages entführt und als niedere Dienerin an den Kaiserhof verkauft wird. Die junge Apothekerin ist jedoch keine Persönlichkeit, die für ein willfähriges Leben unter Hoheiten bestimmt ist. Als ein Kronprinz nach dem anderen einer mysteriösen Krankheit zum Opfer fällt, schreitet sie unauffällig ein, um ein potentes Heilmittel für ihre Gesundung herzustellen. Trotz ihrer Vorsicht bemerkt der höhergestellte Hofdiener Jinshi ihre Affinität für Heilkräuter und verlangt fortan bei medizinischen Problemen des Hofes nach ihrer Expertise – dadurch verstrickt sie sich unweigerlich in die Intrigen am Kaiserhof.",
+      "overview": "In einem Krankenhaus, in dem Ego und Korruption vorherrschen, taucht ein geheimnisvoller, aber brillanter Chirurg auf – und nimmt sich trotz heftigen Widerstands scheinbar aussichtsloser Fälle an.",
       "genres": [
-        "Animation",
+        "Mystery",
         "Drama",
-        "Mystery"
+        "Krimi"
       ],
       "keywords": [
-        "detective",
-        "affectation",
-        "work",
-        "politics",
-        "female protagonist",
-        "maid",
-        "historical",
-        "royal court",
-        "lady in waiting",
-        "anime",
-        "medical",
-        "ancient china",
-        "critical",
-        "based on light novel",
-        "amused",
-        "audacious"
+        "surgeon",
+        "remake",
+        "hospital",
+        "doctor",
+        "medical drama"
       ],
-      "rating": 8.7,
-      "vote_count": 664,
-      "poster_path": "/6Ph6TDAUYPTYMXp7PhpIrcWxstn.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/220542/watch?locale=DE",
+      "rating": 8.5,
+      "vote_count": 6,
+      "poster_path": "/xYFTiwC7Tl0xOUFiVFUPWXHTHnr.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/293610-x/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -222,7 +192,7 @@
         "defiant"
       ],
       "rating": 8.752,
-      "vote_count": 5589,
+      "vote_count": 5591,
       "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37854/watch?locale=DE",
       "providers": {
@@ -232,34 +202,72 @@
       }
     },
     {
-      "tmdb_id": 1032863,
-      "title": "Die theoretische Unwahrscheinlichkeit von Liebe",
-      "type": "movie",
-      "overview": "Olive, eine Doktorandin, küsst spontan den einschüchterndsten Professor ihres Fachbereichs, Adam Carlsen. Ihr gemeinsames Bedürfnis nach einer Scheinbeziehung wird zum chemischen Experiment, das womöglich die Formel für die Liebe liefert.",
+      "tmdb_id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "type": "tv",
+      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
       "genres": [
-        "Liebesfilm",
-        "Komödie"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "based on novel or book",
-        "professor",
-        "romcom",
-        "love",
-        "biologist",
-        "pretend relationship",
-        "asexuality",
-        "fake dating",
-        "demisexual",
-        "phd",
-        "based on fanfiction"
+        "martial arts",
+        "magic",
+        "vampire",
+        "based on manga",
+        "adventurer",
+        "globetrotting",
+        "shounen",
+        "anime",
+        "muscles",
+        "supernatural power",
+        "horror",
+        "adventure"
       ],
-      "rating": 8.033,
-      "vote_count": 554,
-      "poster_path": "/jJjyJUT5uASrZ5BGRBf0DwTZIhh.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=DE",
+      "rating": 8.547,
+      "vote_count": 1673,
+      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/45790/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 259140,
+      "title": "Ranma1/2",
+      "type": "tv",
+      "overview": "Akane Tendo trifft ihren Verlobten Ranma Saotome, ein ganz besonderes Kampfkunst-Wunderkind: Wenn er kaltes Wasser berührt, verwandelt er sich in ein Mädchen.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Komödie",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "martial arts",
+        "arranged marriage",
+        "harem",
+        "remake",
+        "romcom",
+        "romance",
+        "curse",
+        "based on manga",
+        "turns into animal",
+        "shounen",
+        "anime",
+        "gender swap",
+        "love polygon"
+      ],
+      "rating": 8.1,
+      "vote_count": 193,
+      "poster_path": "/1C4HtKv13BQnhofwnPZiyfti5aC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/259140-1-2/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -297,8 +305,8 @@
         "police procedural",
         "gritty"
       ],
-      "rating": 7.957,
-      "vote_count": 4372,
+      "rating": 7.958,
+      "vote_count": 4375,
       "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit/watch?locale=DE",
       "providers": {
@@ -329,41 +337,11 @@
         "military police"
       ],
       "rating": 8.134,
-      "vote_count": 3476,
+      "vote_count": 3481,
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
       "providers": {
         "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 5920,
-      "title": "The Mentalist",
-      "type": "tv",
-      "overview": "Der Job des charismatischen Ex-TV-Show-Stars Patrick Jane innerhalb des California Bureau of Investigation ist es, die Ermittlungen einer Spezialeinheit zu unterstützen. Jane, der seine Karriere als \"Mentalist\" mit vermeintlich übersinnlichen Fähigkeiten nach einer familiären Tragödie beendete, besitzt eine unvergleichliche Beobachtungsgabe und verblüffende Kombinationsfähigkeiten.",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
-      ],
-      "keywords": [
-        "california",
-        "con man",
-        "cop",
-        "serial killer",
-        "criminal investigation",
-        "forensic psychology",
-        "criminal consultant",
-        "police procedural"
-      ],
-      "rating": 8.4,
-      "vote_count": 4840,
-      "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": null
       }
@@ -388,13 +366,43 @@
         "workplace comedy",
         "admiring"
       ],
-      "rating": 8.584,
-      "vote_count": 5564,
+      "rating": 8.6,
+      "vote_count": 5571,
       "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 5920,
+      "title": "The Mentalist",
+      "type": "tv",
+      "overview": "Der Job des charismatischen Ex-TV-Show-Stars Patrick Jane innerhalb des California Bureau of Investigation ist es, die Ermittlungen einer Spezialeinheit zu unterstützen. Jane, der seine Karriere als \"Mentalist\" mit vermeintlich übersinnlichen Fähigkeiten nach einer familiären Tragödie beendete, besitzt eine unvergleichliche Beobachtungsgabe und verblüffende Kombinationsfähigkeiten.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "california",
+        "con man",
+        "cop",
+        "serial killer",
+        "criminal investigation",
+        "forensic psychology",
+        "criminal consultant",
+        "police procedural"
+      ],
+      "rating": 8.416,
+      "vote_count": 4845,
+      "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -426,94 +434,47 @@
       }
     },
     {
-      "tmdb_id": 578,
-      "title": "Der weiße Hai",
-      "type": "movie",
-      "overview": "Ein weißer Hai terrorisiert eine Badeinsel an der amerikanischen Atlantikküste. Besonnene Einheimische unter Führung von Polizeichef Brody wollen alle Strände schließen und zur großen Jagd blasen, während die Schar der Kaufleute und Gastwirte angesichts der einträglichen Badesaison lieber zur Tagesordnung übergeht und sich damit auch durchsetzt. Als der Hai erneut zuschlägt, bildet Brody mit dem erfahrenen Haifänger Quint und dem Ozeanologen Hooper ein Jagd-Team und rückt dem Gegner auf See zu Leibe.",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Abenteuer"
-      ],
-      "keywords": [
-        "dying and death",
-        "beach",
-        "based on novel or book",
-        "bathing",
-        "shipwreck",
-        "fishing",
-        "atlantic ocean",
-        "shark attack",
-        "police chief",
-        "ferry boat",
-        "animal attack",
-        "long island, new york",
-        "dead child",
-        "creature",
-        "skinny dipping",
-        "shark",
-        "great white shark",
-        "dead dog",
-        "killer shark",
-        "child killed by animal",
-        "fourth of july",
-        "severed leg",
-        "fishing boat",
-        "sea adventure",
-        "animal horror",
-        "shark cage"
-      ],
-      "rating": 7.7,
-      "vote_count": 11921,
-      "poster_path": "/jkchPeYVLZkGg40Co7t3FC0FUti.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/578-jaws/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      },
-      "buzz": {
-        "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000226129.html",
-        "mentions": 2
-      }
-    },
-    {
-      "tmdb_id": 44217,
-      "title": "Vikings",
+      "tmdb_id": 70523,
+      "title": "Dark",
       "type": "tv",
-      "overview": "Inspiriert von den überlieferten Sagen des legendären Wikingerkönigs Ragnar Lothbrok entführt die gefeierte Hitserie in den eisigen Norden des europäischen Kontinents im 8. Jahrhundert: Krieger Ragnar glaubt, dass jenseits des wilden Ozeans im unerforschten Westen ein neues Land mit reichen Schätzen auf die Wikingerhorden wartet. Für seine Überzeugungen setzt er alles auf eine Karte, lässt ein neues Schiff bauen und macht sich in den packenden neun Episoden der ersten Staffel auf, um Geschichte zu schreiben.",
+      "overview": "Nach dem Verschwinden eines Kindes begeben sich vier Familien auf die verzweifelte Suche nach Antworten und der Lösung eines Rätsels, das drei Generationen umspannt.",
       "genres": [
-        "Action & Adventure",
+        "Krimi",
         "Drama",
-        "War & Politics"
+        "Sci-Fi & Fantasy",
+        "Mystery"
       ],
       "keywords": [
-        "scandinavia",
-        "vikings (norsemen)",
-        "royalty",
-        "historical fiction",
-        "king",
-        "battle",
-        "historical",
-        "middle ages (476-1453)",
-        "dark ages",
-        "norse mythology",
-        "historical drama",
-        "warrior",
-        "8th century",
-        "period piece",
-        "violence",
-        "sword and sandal",
-        "exciting",
-        "action",
-        "baffled",
-        "violent"
+        "hotel",
+        "detective",
+        "small town",
+        "cave",
+        "nuclear power plant",
+        "time travel",
+        "investigation",
+        "time machine",
+        "cop",
+        "woods",
+        "surrealism",
+        "priest",
+        "time loop",
+        "disappearance",
+        "incest",
+        "missing child",
+        "alternate timeline",
+        "watchmaker",
+        "mysterious past",
+        "family crisis",
+        "science fiction",
+        "suspense",
+        "thriller",
+        "dignified",
+        "chilling"
       ],
-      "rating": 8.103,
-      "vote_count": 7932,
-      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/44217-vikings/watch?locale=DE",
+      "rating": 8.4,
+      "vote_count": 7906,
+      "poster_path": "/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/70523-dark/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -521,8 +482,54 @@
       },
       "buzz": {
         "source": "Filmstarts",
-        "url": "https://www.filmstarts.de/nachrichten/1000226869.html",
+        "url": "https://www.filmstarts.de/nachrichten/1000225785.html",
         "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Unter Freunden",
+      "type": "tv",
+      "overview": "Fernsehfilm Deutschland 2026 Als die Buchhalterin Francesca Polidoro tot am Kieler Fördeufer gefunden wird, übernehmen Mila Şahin und die neu nach Kiel versetzte Anna Nowak ihren ersten gemeinsamen Fall. Die Ermittlungen führen zu Prometheus, einem gefeierten Hightech-Unternehmen mit besten politischen Kontakten....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9hMjIyNWMyMC05NDUwLTQzMjktOGUyZi0yMDMwYzIzZGQ0ZjFfZ2FuemVTZW5kdW5n",
+      "duration": 5170,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Tatort: Unter Freunden",
+      "type": "tv",
+      "overview": "Alte Freundschaft, neue Konflikte: Ein Fall bringt zwei Kommissarinnen an ihre Grenzen. Kommissarin Mila Sahin startet in Kiel neu – gemeinsam mit ihrer früheren Polizeischulfreundin Anna Nowak. Der erste Fall führt zu einer jungen Frau, die offenbar belastendes Material über ihren Arbeitgeber, die Prometheus AG, verschwinden ließ....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14342811/tatort-unter-freunden",
+      "duration": 5170,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
       }
     },
     {
@@ -642,29 +649,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Explosive Mischung",
-      "type": "tv",
-      "overview": "Ein Überfall auf einen Geldautomaten in der Ludwigshafener Innenstadt geht schief: Der schon seit seiner frühen Jugend polizeibekannte Dennis Lohberg kommt bei der Sprengung ums Leben. Eine der Geldkassetten fehlt, und so gehen Lena Odenthal (Ulrike Folkerts) und Johanna Stern (Lisa Bitter) davon aus, dass ein Komplize mit dem Geld floh und den Kumpel liegenließ....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDk1NTQ",
-      "duration": 5361,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Tatort: Explosive Mischung",
       "type": "tv",
       "overview": "Ein Toter nach einer Bankomatsprengung - doch was wie ein Unfall aussieht, führt Lena und Johanna tief in die Machenschaften einer alten Clique. Nach dem Tod des polizeibekannten Kriminellen Dennis bei der Sprengung eines Geldautomaten ermitteln Lena Odenthal und Johanna Stern gegen dessen mutmaßliche Komplizen....",
@@ -684,6 +668,29 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Explosive Mischung",
+      "type": "tv",
+      "overview": "Ein Überfall auf einen Geldautomaten in der Ludwigshafener Innenstadt geht schief: Der schon seit seiner frühen Jugend polizeibekannte Dennis Lohberg kommt bei der Sprengung ums Leben. Eine der Geldkassetten fehlt, und so gehen Lena Odenthal (Ulrike Folkerts) und Johanna Stern (Lisa Bitter) davon aus, dass ein Komplize mit dem Geld floh und den Kumpel liegenließ....",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "Tatort"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNDk1NTQvYXVkaW9kZXNrcmlwdGlvbg",
+      "duration": 5361,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -747,54 +754,8 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTM4NzcvYXVkaW9kZXNrcmlwdGlvbg",
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNTM4Nzc",
       "duration": 5298,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Die goldene Zeit",
-      "type": "tv",
-      "overview": "Ein Auftragsmord im Rotlichtmilieu erschüttert den Hamburger Kiez. Während der Ermittlungen trifft Thorsten Falke auf seinen alten Bekannten Lübke und wird mit seiner eigenen St. Pauli-Vergangenheit als jugendlicher Türsteher konfrontiert. Julia Grosz ist angesichts von Prostitution und modernem Menschenhandel jede nostalgische Kiezverbundenheit fremd....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjI3MjIyOV9nYW56ZVNlbmR1bmc",
-      "duration": 5348,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Dunkelheit",
-      "type": "tv",
-      "overview": "Spielfilm Deutschland 2025 Mit einer Umzugskiste in den Händen fährt Hauptkommissar Hamza Kulina (Edin Hasanovic) in den Keller des Polizeipräsidiums und betritt seinen neuen Arbeitsplatz: die „Abteilung für Altfälle“. Maryam Azadi (Melika Foroutan), Leiterin und einzige Mitarbeiterin der Abteilung, ist freundlich, aber auch ein wenig distanziert: Sie erwartet nicht, dass es der neue Kollege sonderlich lange bei den Altfällen aushält....",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "Tatort"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS9wbGFuQVJEXzliZGFjNjgxLWQ1MGEtNDdiNC04OTgwLThjMzhlMDZlNWU4M19nYW56ZVNlbmR1bmc",
-      "duration": 5315,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -1161,6 +1122,72 @@
     },
     {
       "tmdb_id": null,
+      "title": "Spiders - Ihr Biss ist der Tod",
+      "type": "tv",
+      "overview": "Kaleb lebt in einem sozial schwachen Vorort von Paris und schlägt sich mit Hehlerei durchs Leben. Doch es ist seine Vorliebe für exotische Tiere, die ihn in Schwierigkeiten bringt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/spiders---ihr-biss-ist-der-tod-movie-100/spiders---ihr-biss-ist-der-tod-100",
+      "duration": 6106,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Spiders - Ihr Biss ist der Tod (Französisch)",
+      "type": "tv",
+      "overview": "Kaleb lebt in einem sozial schwachen Vorort von Paris und schlägt sich mit Hehlerei durchs Leben. Doch es ist seine Vorliebe für exotische Tiere, die ihn in Schwierigkeiten bringt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm-Highlights"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/filme/spiders---ihr-biss-ist-der-tod-movie-100/spiders---ihr-biss-ist-der-tod-100",
+      "duration": 6106,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Nikita - Spielfilm, Frankreich/Italien 1990",
+      "type": "tv",
+      "overview": "Beim Einbruch in eine Apotheke erschießt die drogenabhängige Punkerin Nikita einen Polizisten. Sie wird geschnappt und zu lebenslanger Haft verurteilt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Spielfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/spielfilm/nikita-100.html",
+      "duration": 6629,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Air - Der große Wurf",
       "type": "tv",
       "overview": "1984 steht das Basketballgeschäft von Nike vor dem Aus, doch der Sonderbeauftragte Sonny Vaccaro setzt alles daran, um den Nachwuchsstar Michael Jordan als Markenbotschafter zu gewinnen.",
@@ -1227,7 +1254,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "A Quiet Place: Tag Eins (Englisch)",
+      "title": "A Quiet Place: Tag Eins",
       "type": "tv",
       "overview": "Als Manhattan Ziel eines Alien-Angriffs wird, verbünden sich die todkranke Sam und der hilflose Student Eric zum gemeinsamen Überlebenskampf in den Straßen von New York.",
       "genres": [
@@ -1249,7 +1276,7 @@
     },
     {
       "tmdb_id": null,
-      "title": "A Quiet Place: Tag Eins",
+      "title": "A Quiet Place: Tag Eins (Englisch)",
       "type": "tv",
       "overview": "Als Manhattan Ziel eines Alien-Angriffs wird, verbünden sich die todkranke Sam und der hilflose Student Eric zum gemeinsamen Überlebenskampf in den Straßen von New York.",
       "genres": [
@@ -1311,72 +1338,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Adagio – Erbarmungslose Stadt - Spielfilm, Italien 2023",
-      "type": "tv",
-      "overview": "Korrupte Carabinieri erpressen Manuel, auf einer Party in Rom belastende Fotos eines prominenten Politikers zu machen. Doch Manuel flieht mit den Bildern und wird nun gnadenlos verfolgt.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.3sat.de/film/spielfilm/adagio--erbarmungslose-stadt-100.html",
-      "duration": 7345,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "3sat"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatami (Englisch)",
-      "type": "tv",
-      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
-      "duration": 5980,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Tatami",
-      "type": "tv",
-      "overview": "Die iranische Judoka Leila hat bei der WM gute Chancen auf Gold, doch als sich ein Duell mit der israelischen Favoritin abzeichnet, soll Leila auf Befehl ihres Landes das Turnier abbrechen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Spielfilm-Highlights"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/filme/tatami-movie-100/tatami-100",
-      "duration": 5980,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
       }
     },
     {
@@ -1535,6 +1496,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Werkstatthelden mit Herz - Fernsehfilm, Deutschland 2020",
+      "type": "tv",
+      "overview": "Seine altgedienten Angestellten Becker, Roger und Köll will Carlo keinesfalls entlassen, denn sie sind mehr als nur seine Mitarbeiter: Sie sind seine besten Freunde.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Fernsehfilm"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.3sat.de/film/fernsehfilm/werkstatthelden-mit-herz-100.html",
+      "duration": 5353,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "3sat"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Der Froschkönig",
       "type": "tv",
       "overview": "Ein modernes Fernsehmärchen in der Gegenwart: Isabelle, reiche Tochter eines Schlosshotelbesitzers, verliert eine goldene Kette. Jimi, der als Taucher Aquarien reinigt, holt sie ihr zurück.",
@@ -1673,6 +1656,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Dating damals und heute",
+      "type": "tv",
+      "overview": "Menschen sind nicht fürs Alleinsein gemacht, letztlich geht es um die Erhaltung der Art. Die romantische Liebe spielt dabei lange eine untergeordnete Rolle.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Terra X History"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.zdf.de/video/dokus/terra-x-history-102/amore-und-algorithmus---dating-damals-und-heute-100",
+      "duration": 2623,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Aufbruchsjahre - Deutschland nach dem Krieg",
       "type": "tv",
       "overview": "Seine Spurensuche wird auch zur Reise in die Vergangenheit seiner Familie. Der Film erzählt von Überlebenden, Flüchtlingen, Rückkehrern und Tätern. So entsteht ein Bild der Jahre 1945-48.",
@@ -1695,14 +1700,14 @@
     },
     {
       "tmdb_id": null,
-      "title": "Jugend in Ost und West",
+      "title": "Jugend in Ost und West (S2026/E27)",
       "type": "tv",
-      "overview": "Klagen der Älteren über \"die Jugend von heute\": Sie begleiten junge Menschen schon immer. \"Terra X History\" zeigt, warum die Konflikte zwischen Jung und Alt so alt sind wie die Bundesrepublik selbst.",
+      "overview": "\"Terra X History\" zeigt, wie sich Hoffnungen und Ängste, Moden und Protestformen der jungen Generation über acht Jahrzehnte verändert haben: von den Trümmerkindern bis zu den Digital Natives.",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Terra X History"
+        "Terra X History - die Einzeldokus"
       ],
       "rating": null,
       "vote_count": 0,
@@ -1819,28 +1824,6 @@
       "poster_path": null,
       "url": "https://www.zdf.de/reportagen/larp-gaming--fantasiewelten-gut-fuer-die-psyche-movie-100",
       "duration": 2607,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Haben jetzt alle ADHS?",
-      "type": "tv",
-      "overview": "Neurodivergent sein ist cool – und gefühlt haben alle ADHS. Lola Weippert erzählt im Gespräch mit Leon Windscheid, wie sie den Hype findet.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Terra Xplore"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/reportagen/haben-jetzt-alle-adhs-terra-xplore-movie-100",
-      "duration": 2616,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2311,6 +2294,50 @@
     },
     {
       "tmdb_id": null,
+      "title": "Shutter Island",
+      "type": "tv",
+      "overview": "1954: Der US-Marshal Teddy Daniels und sein neuer Partner Chuck Aule sollen im Ashecliffe Hospital auf Shutter Island das Verschwinden einer Patientin aufklären. Der Fall ist jedoch nicht der einzige Grund, der Teddy auf die Insel treibt. Es gibt Gerüchte von geheimen Experimenten in der Klinik, denen die Patienten hilflos ausgeliefert sind. Ein Psychothriller von Martin Scorsese.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/128690-000-A/shutter-island/",
+      "duration": 7650,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Der Sternwanderer",
+      "type": "tv",
+      "overview": "Wall ist ein verschlafenes englisches Dorf. Hier gibt der junge Tristan Thorne dem hübschesten Mädchen, dessen Liebe er zu gewinnen hofft, ein gewagtes Versprechen: Er wird ihr einen herabgefallenen Stern bringen. Dazu muss er jedoch gegen alle Verbote verstoßen ... – Verfilmung (2007) des gleichnamigen Romans von Neil Gaiman. Regie: Matthew Vaughn.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/101328-000-A/der-sternwanderer/",
+      "duration": 7196,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Kurzschluss - Wild und blutig",
       "type": "tv",
       "overview": "(1) Orla, Kurzfilm (2) Zoom - Orla (3) Time to Go, Kurzfilm (4) Zoom – Time to Go",
@@ -2399,28 +2426,6 @@
     },
     {
       "tmdb_id": null,
-      "title": "Die Brücke am Kwai",
-      "type": "tv",
-      "overview": "1943 geraten britische Soldaten in japanische Gefangenschaft und sollen eine Eisenbahnbrücke für die berüchtigte Thailand-Burma-Bahn errichten. Während Oberst Nicholson auf der Einhaltung militärischer Prinzipien besteht, plant ein alliiertes Kommando die Zerstörung des Bauwerks. David Leans oscarprämiertes Kriegsdrama zählt zu den Klassikern des Genres.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/060750-000-A/die-bruecke-am-kwai/",
-      "duration": 9289,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
       "title": "Kundschafter des Friedens 2",
       "type": "tv",
       "overview": "Einst retteten sie Fidel Castro das Leben, jetzt steht den pensionierten DDR-Spionen ein neues Abenteuer bevor: Auf Kuba geraten die \"Kundschafter des Friedens\" nach dem Tod ihres Mentors in einen Kampf um die letzte Bastion des Sozialismus. Zwischen skrupellosen Investoren, politischem Verrat und den Tücken des Ruhestands müssen sie noch einmal ihre alten Spionagekünste einsetzen.",
@@ -2457,28 +2462,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/010323-000-A/der-unsichtbare-aufstand/",
       "duration": 6919,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Kurzschluss - Auf zu neuen Ufern",
-      "type": "tv",
-      "overview": "(1) Wovon träumen Distelfinken? (2) Ein paar Dinge, die am Fluss passieren (3) Die Holzpuppe und der Wal (4) Short Cuts",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Kurzfilme"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/128693-019-A/kurzschluss/",
-      "duration": 3645,
       "providers": {
         "netflix": null,
         "prime": null,
@@ -2905,6 +2888,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Geschichten vom Franz",
+      "type": "tv",
+      "overview": "Wenn Franz nervös wird, bekommt er nur ein Piepsen heraus. Ausgerechnet ein Bodybuilder soll ihm helfen, endlich cool und mutig werden. Franz ist neun Jahre alt. In seiner Klasse ist er der kleinste Bub. Wegen seiner Locken wird er oft für ein Mädchen gehalten. Wenn er aufgeregt ist, verliert er die Stimme und piepst nur noch. Und das ärgert ihn am meisten....",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichten vom Franz"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://on.orf.at/video/14342829/geschichten-vom-franz",
+      "duration": 4530,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ORF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "Es war einmal in Nordirland (3/3) - Frieden ist möglich",
       "type": "tv",
       "overview": "Fast 30 Jahre schwelte der blutige Nordirland-Konflikt und forderte über 3.500 Menschenleben. In dieser Folge: Der Wunsch nach Frieden auf beiden Seiten der Bevölkerung steigt – genau wie auch das internationale Interesse an einer Lösung des Konflikts. 1995 besucht US-Präsident Bill Clinton Belfast, um sich für den Friedensprozess einzusetzen.",
@@ -3058,29 +3064,6 @@
       "poster_path": null,
       "url": "https://www.arte.tv/de/videos/107451-000-A/blix-not-bombs-der-diplomat-und-der-krieg/",
       "duration": 5002,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "USA 1960-1980: Die konservative Revolution (3/3)",
-      "type": "tv",
-      "overview": "1970er Jahre: Wirtschaftskrise, Inflation und Vietnam-Debakel prägen die USA. Ronald Reagan und die Konservativen stemmen sich gegen das \"Equal Rights Amendment\" und Feministinnen. Die Regierung verbündet sich mit der Waffenlobby, hetzt gegen Sozialhilfeempfänger und reformiert die Steuern zugunsten der Reichen. Die evangelikale Rechte wird zum Machtfaktor.",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Geschichte - Das 20. Jahrhundert"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.arte.tv/de/videos/125682-003-A/usa-1960-1980-die-konservative-revolution-3-3/",
-      "duration": 3191,
       "providers": {
         "netflix": null,
         "prime": null,
