@@ -5,7 +5,8 @@ Deutschsprachige PWA mit täglichen Streaming-Empfehlungen für zwei Haushaltspr
 Leitprinzip: **„Lieber keine Treffer als Müll"** – Qualität vor Menge. Im Zweifel
 lieber weniger Ergebnisse anzeigen als schlechte.
 
-- Name immer exakt **StreaMeGuide** (großes M mitten im Wort) in allen sichtbaren Texten.
+- Name immer exakt **StreaMeGuide** (großes M mitten im Wort) in allen sichtbaren Texten. Das „e“ ist Absicht: „Stream me Guide“.
+- In Kleinschreibung (Projektnamen, Bot-Namen, Vorschläge in Anleitungen) heißt es **streameguide** – nie „streamguide“ ohne e. Ausnahme: bestehende interne localStorage-Keys `streamguide:*` bleiben, weil eine Umbenennung gespeicherte Daten löscht.
 - Sprache der Oberfläche: Deutsch.
 
 ## Arbeitsweise (wichtig)
