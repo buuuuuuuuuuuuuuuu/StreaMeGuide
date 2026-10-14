@@ -17,7 +17,7 @@ const DRY_RUN = process.env.DRY_RUN === "1";
 // Datenquellen: frei verfügbare XMLTV-Dateien (Standardformat für
 // Programmdaten). Die erste ist die Hauptquelle; die zweite wird nur
 // geladen, wenn dort Sender fehlen. Beide am 14.10.2026 vom GitHub-Runner
-// aus geprüft. (Die frühere TV-Spielfilm-Schnittstelle gibt es nicht mehr.)
+// aus geprüft, ebenso alle Sender-IDs unten. (Die frühere TV-Spielfilm-Schnittstelle gibt es nicht mehr.)
 const SOURCES = [
   { name: "epgshare01", url: "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz" },
   { name: "iptv-epg",   url: "https://iptv-epg.org/files/epg-de.xml.gz" }
@@ -35,7 +35,33 @@ export const TV_CHANNELS = [
   { id: "sat1",   name: "SAT.1",      xmltv: ["SAT.1.de", "SAT1.de", "Sat1.de"] },
   { id: "pro7",   name: "Pro7",       xmltv: ["ProSieben.de"] },
   { id: "kabel1", name: "Kabel Eins", xmltv: ["kabel.eins.de", "KabelEins.de"] },
-  { id: "vox",    name: "VOX",        xmltv: ["VOX.de"] }
+  { id: "vox",    name: "VOX",        xmltv: ["VOX.de"] },
+  // Weitere Öffentlich-Rechtliche (\u00AD = weicher Trennstrich für die schmale Senderkachel)
+  { id: "3sat",         name: "3sat",            xmltv: ["3sat.de"] },
+  { id: "zdfneo",       name: "ZDFneo",          xmltv: ["ZDFneo.de", "zdf_neo.de"] },
+  { id: "one",          name: "ONE",             xmltv: ["ONE.de"] },
+  { id: "phoenix",      name: "phoenix",         xmltv: ["PHOENIX.de", "phoenix.de"] },
+  { id: "tagesschau24", name: "tages\u00ADschau24", xmltv: ["tagesschau24.de"] },
+  { id: "ardalpha",     name: "ARD alpha",       xmltv: ["ARD.alpha.de", "ARD-alpha.de"] },
+  // Private Unterhaltung
+  { id: "rtlzwei",      name: "RTLZWEI",         xmltv: ["RTLZWEI.de"] },
+  { id: "sixx",         name: "sixx",            xmltv: ["sixx.de"] },
+  { id: "sat1gold",     name: "SAT.1 Gold",      xmltv: ["SAT.1.Gold.de", "SAT1GOLD.de"] },
+  { id: "pro7maxx",     name: "Pro7 MAXX",       xmltv: ["ProSieben.MAXX.de", "ProSiebenMAXX.de"] },
+  { id: "kabel1doku",   name: "Kabel Eins Doku", xmltv: ["kabel.eins.Doku.de", "KabelEinsDoku.de"] },
+  { id: "nitro",        name: "Nitro",           xmltv: ["NITRO.de"] },
+  { id: "dmax",         name: "DMAX",            xmltv: ["DMAX.de"] },
+  { id: "tele5",        name: "Tele 5",          xmltv: ["Tele.5.de", "Tele5.de"] },
+  { id: "rtlup",        name: "RTLup",           xmltv: ["RTLup.de"] },
+  { id: "voxup",        name: "VOXup",           xmltv: ["VOXup.de"] },
+  { id: "comedycentral",name: "Comedy Central",  xmltv: ["Comedy.Central.de", "ComedyCentral.de"] },
+  // Nachrichten & Sport
+  { id: "ntv",          name: "ntv",             xmltv: ["ntv.de", "n-tv.de"] },
+  { id: "welt",         name: "WELT",            xmltv: ["WELT.de"] },
+  { id: "sport1",       name: "SPORT1",          xmltv: ["SPORT1.de"] },
+  { id: "eurosport1",   name: "Euro\u00ADsport 1", xmltv: ["Eurosport.1.de", "Eurosport1.de"] },
+  // Nur die österreichische Fassung ist in den Quellen – Programm weicht teils ab
+  { id: "servustv",     name: "ServusTV AT",     xmltv: ["Servus.TV.Österreich.de"] }
 ];
 
 const WINDOW_BEFORE = 3600;       // laufende Sendungen, die bis zu 1 h vorher begannen

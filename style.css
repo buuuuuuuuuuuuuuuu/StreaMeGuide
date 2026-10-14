@@ -936,7 +936,7 @@ input[type=file]{ display:none; }
   font-weight: 800;
   font-size: var(--t-xs);
   letter-spacing: 0.02em;
-  overflow-wrap: anywhere;   /* lange Sendernamen nie über den Rand */
+  overflow-wrap: normal;     /* nie mitten im Wort trennen – tv.js verkleinert lange Namen */
   text-transform: uppercase;
   color: var(--on-accent);
   background: var(--lavender);
@@ -946,11 +946,69 @@ input[type=file]{ display:none; }
   text-align: center;
   line-height: 1.15;
 }
-.tv-row:nth-child(6n+2) .tv-channel{ background: var(--butter); }
-.tv-row:nth-child(6n+3) .tv-channel{ background: var(--bubble); }
-.tv-row:nth-child(6n+4) .tv-channel{ background: var(--mint); }
-.tv-row:nth-child(6n+5) .tv-channel{ background: var(--sky); }
-.tv-row:nth-child(6n+6) .tv-channel{ background: var(--peach); }
+/* Farbe hängt am Sender, nicht an der Position – bleibt beim Sortieren gleich */
+.tv-c1 .tv-channel{ background: var(--butter); }
+.tv-c2 .tv-channel{ background: var(--bubble); }
+.tv-c3 .tv-channel{ background: var(--mint); }
+.tv-c4 .tv-channel{ background: var(--sky); }
+.tv-c5 .tv-channel{ background: var(--peach); }
+
+/* Sortieren & Ausblenden */
+.tv-row{
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;   /* kein iOS-Menü beim langen Drücken */
+}
+.tv-handle, .tv-eye, .tv-edit-hint{ display: none; }
+.tv-hidden{ display: none; }
+.tv-editing .tv-hidden{ display: flex; opacity: 0.45; }
+.tv-editing .tv-edit-hint{
+  display: block;
+  font-size: var(--t-sm);
+  color: var(--ink-soft);
+  text-align: center;
+  margin: 4px 0 12px;
+}
+.tv-editing .tv-row{ border-style: dashed; }
+.tv-editing .tv-row{ gap: 8px; padding-left: 8px; padding-right: 8px; }
+.tv-editing .tv-channel{ width: 80px; }
+.tv-editing .tv-handle{
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  width: 16px;
+  justify-content: center;
+  font-size: 1.1rem;
+  color: var(--ink-soft);
+  cursor: grab;
+  touch-action: none;
+}
+.tv-editing .tv-eye{
+  display: block;
+  flex-shrink: 0;
+  align-self: center;
+  width: 32px; height: 32px;
+  padding: 0;
+  border: var(--line);
+  border-radius: 50%;
+  background: var(--sky);   /* Pastellfläche: Symbol auch im Dark Mode sichtbar */
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.tv-row.tv-lifted{
+  z-index: 3;
+  border-style: solid;
+  box-shadow: var(--pop-lg);
+  transform: scale(1.03) rotate(-1deg);
+  transition: transform var(--fast) var(--spring), box-shadow var(--fast);
+  pointer-events: none;   /* nur während des Ziehens – siehe CLAUDE.md */
+}
+.tv-placeholder{
+  border: 2.5px dashed var(--ink-soft);
+  border-radius: var(--r);
+  margin-bottom: 10px;
+}
 .tv-body{ min-width: 0; flex: 1; }
 .tv-now{ font-weight: 700; font-size: var(--t-body); line-height: 1.25; overflow-wrap: anywhere; }
 .tv-now.tv-none{ font-weight: 500; color: var(--ink-soft); }
