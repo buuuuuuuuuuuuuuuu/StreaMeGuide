@@ -8,10 +8,18 @@ Dauer: ca. 10 Minuten, einmalig.
 
 ---
 
-## 1. Supabase-Projekt anlegen
+## 1. Supabase-Projekt anlegen – oder ein vorhandenes nutzen
+
+**Schon ein Supabase-Projekt vorhanden** (z. B. weil der kostenlose Plan
+mit zwei Projekten ausgeschöpft ist)? Dann kein neues anlegen, sondern das
+vorhandene verwenden und direkt mit Schritt 2 weitermachen. Die Tabellen
+von StreaMeGuide heißen alle `sg_…`, kommen den anderen Tabellen dort nicht
+in die Quere und sind über ihre eigene Zugriffsregel abgesichert.
+
+Sonst:
 
 1. supabase.com aufrufen, kostenlos registrieren (GitHub-Login geht).
-2. **New project** → Name z. B. `streamguide`, Region Frankfurt, ein
+2. **New project** → Name z. B. `streameguide`, Region Frankfurt, ein
    Datenbank-Passwort vergeben (brauchst du für die App nicht, aber
    trotzdem notieren).
 3. Kurz warten, bis das Projekt bereitsteht.
