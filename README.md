@@ -91,8 +91,9 @@ arte, rbb, RTL, SAT.1, Pro7, Kabel Eins, VOX – erweiterbar über
 
 Die Daten holt der Workflow `tv-update.yml` alle zwei Stunden und legt sie
 in Supabase ab (Tabelle `sg_tv`), nicht im öffentlichen Repo. Einrichtung:
-SYNC-SETUP.md, Schritt 6. Quelle ist die inoffizielle Programm-Schnittstelle
-von TV Spielfilm; ändert sie sich, steht der Fehler im Workflow-Log.
+SYNC-SETUP.md, Schritt 6. Quelle sind frei verfügbare XMLTV-Dateien
+(epgshare01.online, Ausweichquelle iptv-epg.org); fehlt ein Sender oder
+ändert sich eine Quelle, steht das pro Sender im Workflow-Log.
 
 ## Filterstrenge
 Im Setup-Panel lässt sich einstellen, wie hart gefiltert wird:

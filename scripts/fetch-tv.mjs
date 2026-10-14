@@ -1,98 +1,139 @@
 // Läuft alle zwei Stunden per GitHub Action (tv-update.yml).
-// Holt das TV-Programm für heute und morgen und legt es in Supabase ab
+// Holt das TV-Programm (jetzt bis +36 Stunden) und legt es in Supabase ab
 // (Tabelle sg_tv, siehe SYNC-SETUP.md Schritt 6) – NICHT als Datei im
 // öffentlichen Repo: Programmdaten der Privatsender sind lizenzpflichtig.
 //
 // Braucht als Repo-Secrets: SUPABASE_URL, SUPABASE_ANON_KEY, SG_HOUSEHOLD
 // (dasselbe Haushalts-Token wie in der App unter "Geräte-Sync").
+// Mit DRY_RUN=1 wird nichts gespeichert, nur das Ergebnis ausgegeben.
+
+import { gunzipSync } from "node:zlib";
 
 const SUPABASE_URL = (process.env.SUPABASE_URL || "").trim().replace(/\/+$/, "");
 const SUPABASE_ANON_KEY = (process.env.SUPABASE_ANON_KEY || "").trim();
 const HOUSEHOLD = (process.env.SG_HOUSEHOLD || "").trim();
+const DRY_RUN = process.env.DRY_RUN === "1";
 
-// Sender in Anzeigereihenfolge. Neuen Sender = eine Zeile ergänzen.
-// codes: Senderkürzel bei der Datenquelle; mehrere werden der Reihe nach
-// probiert, falls sich ein Kürzel ändert.
-export const TV_CHANNELS = [
-  { id: "ard",    name: "Das Erste",  codes: ["ARD"] },
-  { id: "zdf",    name: "ZDF",        codes: ["ZDF"] },
-  { id: "arte",   name: "arte",       codes: ["ARTE"] },
-  { id: "rbb",    name: "rbb",        codes: ["RBB"] },
-  { id: "rtl",    name: "RTL",        codes: ["RTL"] },
-  { id: "sat1",   name: "SAT.1",      codes: ["SAT1"] },
-  { id: "pro7",   name: "Pro7",       codes: ["PRO7"] },
-  { id: "kabel1", name: "Kabel Eins", codes: ["K1"] },
-  { id: "vox",    name: "VOX",        codes: ["VOX"] }
+// Datenquellen: frei verfügbare XMLTV-Dateien (Standardformat für
+// Programmdaten). Die erste ist die Hauptquelle; die zweite wird nur
+// geladen, wenn dort Sender fehlen. Beide am 14.10.2026 vom GitHub-Runner
+// aus geprüft. (Die frühere TV-Spielfilm-Schnittstelle gibt es nicht mehr.)
+const SOURCES = [
+  { name: "epgshare01", url: "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz" },
+  { name: "iptv-epg",   url: "https://iptv-epg.org/files/epg-de.xml.gz" }
 ];
 
-// Datenquelle: Programm-Schnittstelle von TV Spielfilm (inoffiziell,
-// liefert pro Sender und Tag eine JSON-Liste). Feldnamen werden tolerant
-// gelesen, damit kleine Formatänderungen nicht gleich alles brechen.
-const SOURCE = (code, date) => `https://live.tvspielfilm.de/static/broadcast/list/${code}/${date}`;
+// Sender in Anzeigereihenfolge. Neuen Sender = eine Zeile ergänzen.
+// xmltv: Sender-IDs in den XMLTV-Dateien (je Quelle unterschiedlich,
+// deshalb mehrere – die erste passende gewinnt).
+export const TV_CHANNELS = [
+  { id: "ard",    name: "Das Erste",  xmltv: ["Das.Erste.de", "DasErste.de"] },
+  { id: "zdf",    name: "ZDF",        xmltv: ["ZDF.de"] },
+  { id: "arte",   name: "arte",       xmltv: ["ARTE.de", "arte.de"] },
+  { id: "rbb",    name: "rbb",        xmltv: ["RBB.de", "rbbBerlin.de"] },
+  { id: "rtl",    name: "RTL",        xmltv: ["RTL.de"] },
+  { id: "sat1",   name: "SAT.1",      xmltv: ["SAT.1.de", "SAT1.de", "Sat1.de"] },
+  { id: "pro7",   name: "Pro7",       xmltv: ["ProSieben.de"] },
+  { id: "kabel1", name: "Kabel Eins", xmltv: ["kabel.eins.de", "KabelEins.de"] },
+  { id: "vox",    name: "VOX",        xmltv: ["VOX.de"] }
+];
 
-// Unix-Sekunden aus Zahl (Sekunden oder Millisekunden), Zahl-String oder ISO-Datum
-export function toUnix(v) {
-  if (v == null || v === "") return null;
-  if (typeof v === "number" || /^\d+$/.test(String(v))) {
-    const n = Number(v);
-    return n > 1e11 ? Math.round(n / 1000) : n;
+const WINDOW_BEFORE = 3600;       // laufende Sendungen, die bis zu 1 h vorher begannen
+const WINDOW_AFTER = 36 * 3600;   // bis 36 h in die Zukunft
+
+// "20261013024500 +0000" -> Unix-Sekunden
+export function xmltvTime(v) {
+  const m = /^(\d{4})(\d\d)(\d\d)(\d\d)(\d\d)(\d\d)?\s*([+-])?(\d\d)?(\d\d)?/.exec(v || "");
+  if (!m) return null;
+  const utc = Date.UTC(+m[1], +m[2] - 1, +m[3], +m[4], +m[5], +(m[6] || 0)) / 1000;
+  const off = m[7] ? (m[7] === "-" ? -1 : 1) * ((+m[8] || 0) * 3600 + (+m[9] || 0) * 60) : 0;
+  return utc - off;
+}
+
+function decodeXml(s) {
+  return (s || "")
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'").replace(/&amp;/g, "&")
+    .trim();
+}
+
+const tag = (body, name) => {
+  const m = new RegExp(`<${name}\\b[^>]*>([\\s\\S]*?)</${name}>`).exec(body);
+  return m ? decodeXml(m[1]) : "";
+};
+const attr = (attrs, name) => {
+  const m = new RegExp(`\\b${name}="([^"]*)"`).exec(attrs);
+  return m ? m[1] : "";
+};
+
+// Liest aus einer XMLTV-Datei nur die gewünschten Sender im Zeitfenster.
+// Ergebnis: Map Sender-ID -> [{ s, e, t, st?, g? }]
+export function parseXmltv(xml, wantedIds, now = Math.floor(Date.now() / 1000)) {
+  const wanted = new Set(wantedIds);
+  const out = new Map();
+  const re = /<programme\b([^>]*)>([\s\S]*?)<\/programme>/g;
+  let m;
+  while ((m = re.exec(xml)) !== null) {
+    const ch = attr(m[1], "channel");
+    if (!wanted.has(ch)) continue;
+    const s = xmltvTime(attr(m[1], "start"));
+    const e = xmltvTime(attr(m[1], "stop"));
+    if (!s || !e || e <= s) continue;
+    if (e <= now - WINDOW_BEFORE || s >= now + WINDOW_AFTER) continue;
+    const t = tag(m[2], "title");
+    if (!t) continue;
+    const show = { s, e, t };
+    const st = tag(m[2], "sub-title");
+    if (st && st !== t) show.st = st;
+    const g = tag(m[2], "category");
+    if (g) show.g = g;
+    if (!out.has(ch)) out.set(ch, []);
+    out.get(ch).push(show);
   }
-  const t = Date.parse(v);
-  return Number.isNaN(t) ? null : Math.round(t / 1000);
+  for (const list of out.values()) {
+    list.sort((a, b) => a.s - b.s);
+    // Doppelte Einträge (gleiche Startzeit) entfernen
+    for (let i = list.length - 1; i > 0; i--) if (list[i].s === list[i - 1].s) list.splice(i, 1);
+  }
+  return out;
 }
 
-export function normalizeShow(raw) {
-  const s = toUnix(raw.timestart ?? raw.timeStart ?? raw.starttime ?? raw.startTime ?? raw.start);
-  const e = toUnix(raw.timeend ?? raw.timeEnd ?? raw.endtime ?? raw.endTime ?? raw.end);
-  const t = String(raw.title ?? raw.name ?? "").trim();
-  if (!s || !e || e <= s || !t) return null;
-  const show = { s, e, t };
-  const st = String(raw.episodeTitle ?? raw.subtitle ?? raw.subTitle ?? "").trim();
-  if (st && st !== t) show.st = st;
-  const g = String(raw.genre ?? raw.sart_id ?? "").trim();
-  if (g && !/^\d+$/.test(g)) show.g = g;
-  return show;
-}
-
-// Datum in deutscher Zeit (der Programmtag der Quelle)
-export function berlinDate(offsetDays = 0) {
-  const d = new Date(Date.now() + offsetDays * 86400000);
-  return new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Berlin" }).format(d); // YYYY-MM-DD
-}
-
-async function fetchDay(code, date) {
-  const res = await fetch(SOURCE(code, date), {
-    headers: { "User-Agent": "StreaMeGuide/1.0 (personal use)", "Accept": "application/json" }
+async function loadSource(src) {
+  const res = await fetch(src.url, {
+    headers: { "User-Agent": "streameguide/1.0 (personal use)" },
+    signal: AbortSignal.timeout(90000)
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const data = await res.json();
-  const list = Array.isArray(data) ? data : (data.broadcasts || data.items || data.data || []);
-  if (!Array.isArray(list)) throw new Error("unerwartetes Format");
-  return list;
+  let buf = Buffer.from(await res.arrayBuffer());
+  if (buf[0] === 0x1f && buf[1] === 0x8b) buf = gunzipSync(buf); // gzip
+  const xml = buf.toString("utf8");
+  if (!xml.includes("<programme")) throw new Error("keine <programme>-Einträge");
+  return xml;
 }
 
-export async function collectChannel(ch, now = Math.floor(Date.now() / 1000)) {
-  const errors = [];
-  for (const code of ch.codes) {
+export async function collectChannels(now = Math.floor(Date.now() / 1000), load = loadSource) {
+  const allIds = TV_CHANNELS.flatMap(c => c.xmltv);
+  const found = new Map();   // Sender-id (ard, zdf …) -> shows
+  for (const src of SOURCES) {
+    const missing = TV_CHANNELS.filter(c => !found.has(c.id));
+    if (!missing.length) break;
+    let parsed;
     try {
-      const dayErrors = [];
-      const days = await Promise.all([berlinDate(-1), berlinDate(0), berlinDate(1)].map(d =>
-        fetchDay(code, d).catch(e => { dayErrors.push(`${d} ${e.message}`); return []; }) // ein fehlender Tag ist kein Totalausfall
-      ));
-      const seen = new Set();
-      const shows = days.flat()
-        .map(normalizeShow)
-        .filter(Boolean)
-        .filter(sh => sh.e > now - 3600 && sh.s < now + 36 * 3600) // Fenster: jetzt bis +36 h
-        .sort((a, b) => a.s - b.s)
-        .filter(sh => { const k = `${sh.s}|${sh.t}`; if (seen.has(k)) return false; seen.add(k); return true; });
-      if (shows.length) return { id: ch.id, name: ch.name, shows };
-      errors.push(`${code}: ${dayErrors.length ? dayErrors.join(", ") : "keine Sendungen"}`);
+      parsed = parseXmltv(await load(src), allIds, now);
     } catch (e) {
-      errors.push(`${code}: ${e.message}`);
+      console.warn(`  Quelle ${src.name}: FEHLER ${e.message}`);
+      continue;
     }
+    for (const ch of missing) {
+      const id = ch.xmltv.find(x => (parsed.get(x) || []).length);
+      if (id) found.set(ch.id, parsed.get(id));
+    }
+    console.log(`  Quelle ${src.name}: ${missing.filter(c => found.has(c.id)).length} von ${missing.length} fehlenden Sendern gefunden`);
   }
-  throw new Error(errors.join(" | "));
+  return TV_CHANNELS.filter(c => found.has(c.id)).map(c => ({ id: c.id, name: c.name, shows: found.get(c.id) }));
 }
 
 async function saveToSupabase(payload) {
@@ -111,7 +152,7 @@ async function saveToSupabase(payload) {
 }
 
 async function main() {
-  if (!SUPABASE_URL || !SUPABASE_ANON_KEY || !HOUSEHOLD) {
+  if (!DRY_RUN && (!SUPABASE_URL || !SUPABASE_ANON_KEY || !HOUSEHOLD)) {
     // Kein Fehler: Solange der Sync nicht eingerichtet ist, soll der
     // Workflow nicht alle zwei Stunden rot werden.
     console.warn("TV-Programm übersprungen: Secrets SUPABASE_URL, SUPABASE_ANON_KEY und SG_HOUSEHOLD fehlen (siehe SYNC-SETUP.md, Schritt 6).");
@@ -121,19 +162,25 @@ async function main() {
     throw new Error("SUPABASE_URL endet auf .supabase.com – richtig ist .supabase.co");
   }
 
-  const channels = [];
+  const now = Math.floor(Date.now() / 1000);
+  const channels = await collectChannels(now);
+  const fmt = (u) => new Date(u * 1000).toLocaleTimeString("de-DE", { timeZone: "Europe/Berlin", hour: "2-digit", minute: "2-digit" });
   for (const ch of TV_CHANNELS) {
-    try {
-      const c = await collectChannel(ch);
-      channels.push(c);
-      console.log(`  ${ch.name}: ${c.shows.length} Sendungen`);
-    } catch (e) {
-      console.warn(`  ${ch.name}: FEHLER ${e.message}`);
-    }
+    const c = channels.find(x => x.id === ch.id);
+    if (!c) { console.warn(`  ${ch.name}: FEHLER keine Sendungen gefunden`); continue; }
+    const cur = c.shows.find(s => s.s <= now && s.e > now);
+    const next = c.shows.find(s => s.s >= (cur ? cur.e : now));
+    console.log(`  ${ch.name}: ${c.shows.length} Sendungen` +
+      (cur ? ` · jetzt ${fmt(cur.s)}–${fmt(cur.e)} ${cur.t}` : "") +
+      (next ? ` · danach ${fmt(next.s)} ${next.t}` : ""));
   }
-  if (!channels.length) throw new Error("Für keinen Sender Programmdaten erhalten – Datenquelle prüfen.");
+  if (!channels.length) throw new Error("Für keinen Sender Programmdaten erhalten – Datenquellen prüfen.");
 
   const payload = { generated_at: new Date().toISOString(), channels };
+  if (DRY_RUN) {
+    console.log(`Testlauf: ${channels.length} von ${TV_CHANNELS.length} Sendern, ${JSON.stringify(payload).length} Bytes – nichts gespeichert.`);
+    return;
+  }
   await saveToSupabase(payload);
   console.log(`Gespeichert: ${channels.length} von ${TV_CHANNELS.length} Sendern.`);
 }
