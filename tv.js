@@ -4,18 +4,46 @@
    Die Programmdaten legt der Workflow tv-update.yml in Supabase ab
    (Tabelle sg_tv) – gelesen wird mit dem Haushalts-Token aus dem Sync.
    Öffnen: vom linken Bildschirmrand nach rechts wischen oder 📺 oben.
+   Lange auf eine Kachel drücken: Bearbeiten-Modus – Kacheln ziehen, um
+   die Reihenfolge zu ändern, 👁 zum Aus-/Einblenden (pro Gerät gespeichert).
    =========================================================== */
 
 const TV_CACHE_KEY = "streamguide:tv";
 const EDGE_ZONE = 24;        // px vom linken Rand, in denen die Wischgeste startet
 const TV_SWIPE_MIN = 60;     // so weit muss man wischen
+// Neue Schlüssel mit "streameguide:" (siehe CLAUDE.md); die älteren
+// "streamguide:"-Schlüssel bleiben, damit nichts verloren geht.
+const TV_ORDER_KEY = "streameguide:tv-order";
+const TV_HIDDEN_KEY = "streameguide:tv-hidden";
+const LONG_PRESS_MS = 450;
 
 const tv = {
   data: null,                // { generated_at, channels: [{ id, name, shows: [{s,e,t,st?,g?}] }] }
   loading: false,
   error: null,
-  timer: null
+  timer: null,
+  editing: false,            // Bearbeiten-Modus (Griffe + Augen sichtbar)
+  dragging: false            // gerade wird eine Kachel gezogen
 };
+
+function readList(key) {
+  try { const v = JSON.parse(localStorage.getItem(key) || "[]"); return Array.isArray(v) ? v : []; }
+  catch { return []; }
+}
+function writeList(key, list) {
+  try { localStorage.setItem(key, JSON.stringify(list)); } catch { /* privat/voll: egal */ }
+}
+
+// Sender in gespeicherter Reihenfolge; neue Sender (nach einer Erweiterung
+// der Senderliste) hängen hinten an.
+function orderedChannels() {
+  const chans = (tv.data && tv.data.channels) || [];
+  const order = readList(TV_ORDER_KEY);
+  const pos = new Map(order.map((id, i) => [id, i]));
+  return chans
+    .map((ch, i) => ({ ch, i }))
+    .sort((a, b) => (pos.has(a.ch.id) ? pos.get(a.ch.id) : 1e6 + a.i) - (pos.has(b.ch.id) ? pos.get(b.ch.id) : 1e6 + b.i));
+}
 
 function loadTvCache() {
   try {
@@ -59,7 +87,7 @@ function nowAndNext(shows, now) {
   return { cur: null, next: shows.find(sh => sh.s > now) || null };
 }
 
-function tvRowHtml(ch, now) {
+function tvRowHtml(ch, colorIdx, hidden, now) {
   const { cur, next } = nowAndNext(ch.shows || [], now);
   let body;
   if (cur) {
@@ -77,9 +105,11 @@ function tvRowHtml(ch, now) {
     ? `<div class="tv-next"><span class="tv-next-label">Danach</span> ${hhmm(next.s)} ${escapeHtml(next.t)}</div>`
     : "";
   return `
-    <div class="tv-row">
+    <div class="tv-row tv-c${colorIdx % 6}${hidden ? " tv-hidden" : ""}" data-id="${escapeHtml(ch.id)}">
+      <span class="tv-handle" aria-hidden="true">☰</span>
       <span class="tv-channel">${escapeHtml(ch.name)}</span>
       <div class="tv-body">${body}${nextHtml}</div>
+      <button class="tv-eye" aria-label="${hidden ? "Einblenden" : "Ausblenden"}">${hidden ? "🙈" : "👁"}</button>
     </div>`;
 }
 
@@ -96,17 +126,174 @@ function renderTv() {
     return;
   }
 
+  if (tv.dragging) return;   // nicht unter dem Finger neu aufbauen
+
   const now = Math.floor(Date.now() / 1000);
   let html = "";
+  body.classList.toggle("tv-editing", tv.editing);
   if (tv.data && tv.data.channels && tv.data.channels.length) {
-    html += tv.data.channels.map(ch => tvRowHtml(ch, now)).join("");
+    const hidden = new Set(readList(TV_HIDDEN_KEY));
+    const list = orderedChannels();
+    html += `<div class="tv-edit-hint">Kacheln ziehen zum Sortieren · 👁 tippen zum Aus- und Einblenden</div>`;
+    html += `<div class="tv-list">${list.map(({ ch, i }) => tvRowHtml(ch, i, hidden.has(ch.id), now)).join("")}</div>`;
+    if (list.every(({ ch }) => hidden.has(ch.id)) && !tv.editing) {
+      html += `<div class="empty">Alle Sender sind ausgeblendet.</div><button class="btn small" id="tv-edit-start">Sender bearbeiten</button>`;
+    }
     const stand = new Date(tv.data.generated_at).toLocaleString("de-DE", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
-    html += `<div class="tv-foot">Programmstand: ${escapeHtml(stand)}${tv.loading ? " · aktualisiere …" : ""}</div>`;
+    html += `<div class="tv-foot">Programmstand: ${escapeHtml(stand)}${tv.loading ? " · aktualisiere …" : ""}<br>Lange auf einen Sender drücken: sortieren und ausblenden</div>`;
   } else if (tv.loading) {
     html += `<div class="empty">Lade Programm …</div>`;
   }
   if (tv.error) html += `<div class="empty tv-error">${escapeHtml(tv.error)}</div>`;
   body.innerHTML = html;
+  fitChannelNames();
+  const startBtn = body.querySelector("#tv-edit-start");
+  if (startBtn) startBtn.onclick = () => { setTvEditing(true); renderTv(); };
+}
+
+function setTvEditing(on) {
+  tv.editing = on;
+  document.getElementById("tv-body").classList.toggle("tv-editing", on);
+  document.getElementById("tv-close").textContent = on ? "Fertig sortiert" : "Fertig";
+  fitChannelNames();   // im Bearbeiten-Modus ist die Senderkachel schmaler
+}
+
+// Lange Sendernamen ("tagesschau24", "phoenix") passen in Großbuchstaben
+// nicht in die Kachel. Statt sie mitten im Wort umzubrechen, wird die
+// Schrift so weit verkleinert, bis das längste Wort passt.
+function fitChannelNames() {
+  document.querySelectorAll("#tv-body .tv-channel").forEach(el => {
+    el.style.fontSize = "";
+    if (!el.offsetParent) return;   // ausgeblendet: nichts zu messen
+    const cs = getComputedStyle(el);
+    const room = el.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    const range = document.createRange();
+    range.selectNodeContents(el);
+    const textWidth = () => range.getBoundingClientRect().width;   // breiteste Zeile
+    let size = parseFloat(cs.fontSize);
+    while (textWidth() > room + 0.5 && size > 7) {
+      size -= 0.5;
+      el.style.fontSize = size + "px";
+    }
+  });
+}
+
+function saveTvOrder() {
+  const ids = [...document.querySelectorAll("#tv-body .tv-row")].map(r => r.dataset.id);
+  writeList(TV_ORDER_KEY, ids);
+}
+
+function toggleTvHidden(id) {
+  const hidden = new Set(readList(TV_HIDDEN_KEY));
+  hidden.has(id) ? hidden.delete(id) : hidden.add(id);
+  writeList(TV_HIDDEN_KEY, [...hidden]);
+  renderTv();
+}
+
+// ---------- Kacheln verschieben ----------
+// Lange drücken hebt die Kachel an ("in die Hand nehmen") und schaltet den
+// Bearbeiten-Modus ein; ohne Loslassen kann sie direkt gezogen werden.
+// Im Bearbeiten-Modus startet der Griff ☰ das Ziehen sofort.
+function initTvReorder() {
+  const body = document.getElementById("tv-body");
+  const scroller = document.querySelector("#tv-view .tv-panel");
+  let pressTimer = null, start = null, drag = null, lastY = 0, autoScroll = null;
+
+  const point = (e) => (e.touches && e.touches[0]) || (e.changedTouches && e.changedTouches[0]) || e;
+
+  function lift(row, y) {
+    // Erst den Bearbeiten-Modus einschalten: Griff und Auge machen die
+    // Kacheln etwas höher – gemessen wird danach, sonst verrutscht die Kachel.
+    if (!tv.editing) setTvEditing(true);
+    const rect = row.getBoundingClientRect();
+    const ph = document.createElement("div");
+    ph.className = "tv-placeholder";
+    ph.style.height = rect.height + "px";
+    row.parentNode.insertBefore(ph, row);
+    Object.assign(row.style, { position: "fixed", left: rect.left + "px", top: rect.top + "px", width: rect.width + "px" });
+    row.classList.add("tv-lifted");
+    drag = { row, ph, grab: Math.min(Math.max(y - rect.top, 10), rect.height - 10) };
+    tv.dragging = true;
+    move(y);
+    if (navigator.vibrate) navigator.vibrate(15);
+    tickAutoScroll();
+  }
+
+  function move(y) {
+    lastY = y;
+    drag.row.style.top = (y - drag.grab) + "px";
+    const rows = [...body.querySelectorAll(".tv-row:not(.tv-lifted)")];
+    const target = rows.find(r => { const b = r.getBoundingClientRect(); return y < b.top + b.height / 2; });
+    if (target) { if (target.previousElementSibling !== drag.ph) target.parentNode.insertBefore(drag.ph, target); }
+    else if (rows.length) rows[rows.length - 1].after(drag.ph);
+  }
+
+  // Am oberen/unteren Rand mitscrollen, damit lange Listen erreichbar sind
+  function tickAutoScroll() {
+    cancelAnimationFrame(autoScroll);
+    if (!drag) return;
+    const box = scroller.getBoundingClientRect();
+    const zone = 70;
+    let dy = 0;
+    if (lastY && lastY < box.top + zone) dy = -Math.ceil((box.top + zone - lastY) / 6);
+    else if (lastY && lastY > box.bottom - zone) dy = Math.ceil((lastY - (box.bottom - zone)) / 6);
+    if (dy) { scroller.scrollTop += dy; move(lastY); }
+    autoScroll = requestAnimationFrame(tickAutoScroll);
+  }
+
+  function drop() {
+    cancelAnimationFrame(autoScroll);
+    const { row, ph } = drag;
+    ph.replaceWith(row);
+    row.classList.remove("tv-lifted");
+    row.removeAttribute("style");
+    drag = null;
+    tv.dragging = false;
+    saveTvOrder();
+  }
+
+  function onStart(e) {
+    if (e.type === "mousedown" && e.button !== 0) return;
+    const row = e.target.closest(".tv-row");
+    if (!row || e.target.closest(".tv-eye") || drag) return;
+    const p = point(e);
+    start = { x: p.clientX, y: p.clientY, row };
+    lastY = p.clientY;
+    clearTimeout(pressTimer);
+    if (tv.editing && e.target.closest(".tv-handle")) { lift(row, p.clientY); return; }
+    pressTimer = setTimeout(() => { if (start) lift(start.row, lastY); }, LONG_PRESS_MS);
+  }
+
+  function onMove(e) {
+    const p = point(e);
+    if (drag) { e.preventDefault(); move(p.clientY); return; }
+    if (start && (Math.abs(p.clientX - start.x) > 10 || Math.abs(p.clientY - start.y) > 10)) {
+      clearTimeout(pressTimer);   // Finger bewegt sich: das ist Scrollen, kein langes Drücken
+      start = null;
+    }
+    lastY = p.clientY;
+  }
+
+  function onEnd() {
+    clearTimeout(pressTimer);
+    start = null;
+    if (drag) drop();
+  }
+
+  body.addEventListener("touchstart", onStart, { passive: true });
+  body.addEventListener("touchmove", onMove, { passive: false });
+  body.addEventListener("touchend", onEnd);
+  body.addEventListener("touchcancel", onEnd);
+  body.addEventListener("mousedown", onStart);
+  window.addEventListener("mousemove", (e) => { if (start || drag) onMove(e); });
+  window.addEventListener("mouseup", onEnd);
+  // Kein Kontextmenü/Textauswahl beim langen Drücken
+  body.addEventListener("contextmenu", (e) => { if (e.target.closest(".tv-row")) e.preventDefault(); });
+
+  body.addEventListener("click", (e) => {
+    const eye = e.target.closest(".tv-eye");
+    if (eye) toggleTvHidden(eye.closest(".tv-row").dataset.id);
+  });
 }
 
 function openTv() {
@@ -121,6 +308,7 @@ function openTv() {
 }
 
 function closeTv() {
+  if (tv.editing) setTvEditing(false);
   document.getElementById("tv-view").classList.remove("open");
   clearInterval(tv.timer);
   tv.timer = null;
@@ -139,7 +327,7 @@ function initTvGestures() {
   document.addEventListener("touchstart", (e) => {
     if (e.touches.length !== 1 || isOpen("modal-overlay")) { mode = null; return; }
     const t = e.touches[0];
-    if (isOpen("tv-view")) mode = "close";
+    if (isOpen("tv-view")) mode = tv.editing ? null : "close";   // beim Sortieren nicht wegwischen
     else if (t.clientX <= EDGE_ZONE && !isOpen("refine-view")) mode = "open";
     else mode = null;
     startX = t.clientX; startY = t.clientY;
@@ -161,8 +349,14 @@ function initTvGestures() {
 function initTv() {
   loadTvCache();
   document.getElementById("tv-btn").onclick = () => openTv();
-  document.getElementById("tv-close").onclick = () => closeTv();
+  document.getElementById("tv-close").onclick = () => {
+    if (tv.editing) { setTvEditing(false); renderTv(); }   // erst den Bearbeiten-Modus beenden
+    else closeTv();
+  };
   initTvGestures();
+  initTvReorder();
+  // Erst mit geladener Schrift (Syne) stimmt die Breite der Sendernamen
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitChannelNames);
   // Zurück in die App: frische Daten holen, falls die Ansicht offen ist
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "visible" && document.getElementById("tv-view").classList.contains("open")) fetchTv();
