@@ -36,7 +36,7 @@ export const TV_CHANNELS = [
   { id: "zdf",           name: "ZDF",              xmltv: ["ZDF.de"] },
   { id: "rtl",           name: "RTL",              xmltv: ["RTL.de"] },
   { id: "sat1",          name: "SAT.1",            xmltv: ["SAT.1.de", "SAT1.de", "Sat1.de"] },
-  { id: "pro7",          name: "ProSieben",        xmltv: ["ProSieben.de"] },
+  { id: "pro7",          name: "Pro\u00ADSieben",   xmltv: ["ProSieben.de"] },
   { id: "kabel1",        name: "Kabel Eins",       xmltv: ["kabel.eins.de", "KabelEins.de"] },
   { id: "vox",           name: "VOX",              xmltv: ["VOX.de"] },
   { id: "arte",          name: "arte",             xmltv: ["ARTE.de", "arte.de"] },
@@ -50,12 +50,12 @@ export const TV_CHANNELS = [
   { id: "voxup",         name: "VOXup",            xmltv: ["VOXup.de"] },
   { id: "superrtl",      name: "SUPER RTL",        xmltv: ["SUPER.RTL.de", "SuperRTL.de"] },
   { id: "sat1gold",      name: "SAT.1 Gold",       xmltv: ["SAT.1.Gold.de", "SAT1GOLD.de"] },
-  { id: "pro7maxx",      name: "ProSieben MAXX",   xmltv: ["ProSieben.MAXX.de", "ProSiebenMAXX.de"] },
+  { id: "pro7maxx",      name: "Pro\u00ADSieben MAXX", xmltv: ["ProSieben.MAXX.de", "ProSiebenMAXX.de"] },
   { id: "rtlup",         name: "RTLup",            xmltv: ["RTLup.de"] },
   { id: "nitro",         name: "Nitro",            xmltv: ["NITRO.de"] },
   { id: "sixx",          name: "sixx",             xmltv: ["sixx.de"] },
   { id: "rtlzwei",       name: "RTLZWEI",          xmltv: ["RTLZWEI.de"] },
-  { id: "hr",            name: "hr-fernsehen",     xmltv: ["HR.de", "hr.de"] },
+  { id: "hr",            name: "hr-fern\u00ADsehen", xmltv: ["HR.de", "hr.de"] },
   { id: "ntv",           name: "ntv",              xmltv: ["ntv.de", "n-tv.de"] },
   { id: "phoenix",       name: "phoenix",          xmltv: ["PHOENIX.de", "phoenix.de"] },
   { id: "bbcworld",      name: "BBC World News",   xmltv: ["BBC.World.News.de", "BBCWorld.de"] },
@@ -129,7 +129,8 @@ export function parseXmltv(xml, wantedIds, now = Math.floor(Date.now() / 1000)) 
     if (!s || !e || e <= s) continue;
     if (e <= now - WINDOW_BEFORE || s >= now + WINDOW_AFTER) continue;
     const t = tag(m[2], "title");
-    if (!t) continue;
+    // Platzhalter mancher Quellen (z. B. Artflix: "No Data") sind kein Programm
+    if (!t || /^(no data|keine daten|tba|n\/a)$/i.test(t)) continue;
     const show = { s, e, t };
     const st = tag(m[2], "sub-title");
     if (st && st !== t) show.st = st;
