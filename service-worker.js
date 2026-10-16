@@ -1,4 +1,4 @@
-const APP_VERSION = "2.5.1";
+const APP_VERSION = "2.6.0";
 const CACHE_NAME = `streamguide-v${APP_VERSION}`;
 const SHELL_FILES = [
   "./",

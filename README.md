@@ -85,7 +85,7 @@ Wechseln: gewünschte Dateien nach `icons/icon-192.png` bzw.
 ## Jetzt im TV
 Vom linken Bildschirmrand nach rechts wischen (oder 📺 oben) öffnet eine
 zweite Ansicht: pro Sender die laufende Sendung mit Endzeit und
-Fortschrittsbalken und was direkt danach kommt. 32 Sender (Hauptsender,
+Fortschrittsbalken und was direkt danach kommt. 49 Sender in der Reihenfolge der o2-TV-Senderliste (Hauptsender, Dritte,
 weitere Öffentlich-Rechtliche, private Spartensender, Nachrichten & Sport) –
 erweiterbar über `TV_CHANNELS` in `scripts/fetch-tv.mjs`.
 
@@ -93,7 +93,7 @@ erweiterbar über `TV_CHANNELS` in `scripts/fetch-tv.mjs`.
 Loslassen lässt sie sich verschieben. Im Bearbeiten-Modus haben alle Kacheln
 einen Griff ☰ und ein 👁 zum Aus-/Einblenden; „Fertig sortiert" beendet ihn.
 Reihenfolge und ausgeblendete Sender gelten pro Gerät (localStorage
-`streameguide:tv-order` / `streameguide:tv-hidden`).
+`streameguide:tv-order-v2` / `streameguide:tv-hidden`).
 
 Die Daten holt der Workflow `tv-update.yml` alle zwei Stunden und legt sie
 in Supabase ab (Tabelle `sg_tv`), nicht im öffentlichen Repo. Einrichtung:

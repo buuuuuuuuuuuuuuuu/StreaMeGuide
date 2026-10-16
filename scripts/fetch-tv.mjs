@@ -23,46 +23,64 @@ const SOURCES = [
   { name: "iptv-epg",   url: "https://iptv-epg.org/files/epg-de.xml.gz" }
 ];
 
-// Sender in Anzeigereihenfolge. Neuen Sender = eine Zeile ergänzen.
-// xmltv: Sender-IDs in den XMLTV-Dateien (je Quelle unterschiedlich,
-// deshalb mehrere – die erste passende gewinnt).
+// Sender in Anzeigereihenfolge – entspricht der o2-TV-Senderliste des
+// Haushalts (Stand 16.10.2026). Neuen Sender = eine Zeile an der passenden Stelle.
+// xmltv: Sender-IDs in den XMLTV-Dateien, nach Vorrang geordnet – die erste
+// ID, die in irgendeiner Quelle Programm hat, gewinnt. So wird das genaue
+// Regionalfenster (z. B. NDR Hamburg) bevorzugt, sonst das allgemeine Programm.
+// \u00AD = weicher Trennstrich für die schmale Senderkachel.
+// Aus der o2-Liste in keiner Quelle vorhanden (Stand 16.10.2026): Cirkus Krimi,
+// ducktv, Arthouse CNMA, Bloody Movies, Cinema of Hearts.
 export const TV_CHANNELS = [
-  { id: "ard",    name: "Das Erste",  xmltv: ["Das.Erste.de", "DasErste.de"] },
-  { id: "zdf",    name: "ZDF",        xmltv: ["ZDF.de"] },
-  { id: "arte",   name: "arte",       xmltv: ["ARTE.de", "arte.de"] },
-  { id: "rbb",    name: "rbb",        xmltv: ["RBB.de", "rbbBerlin.de"] },
-  { id: "rtl",    name: "RTL",        xmltv: ["RTL.de"] },
-  { id: "sat1",   name: "SAT.1",      xmltv: ["SAT.1.de", "SAT1.de", "Sat1.de"] },
-  { id: "pro7",   name: "Pro7",       xmltv: ["ProSieben.de"] },
-  { id: "kabel1", name: "Kabel Eins", xmltv: ["kabel.eins.de", "KabelEins.de"] },
-  { id: "vox",    name: "VOX",        xmltv: ["VOX.de"] },
-  // Weitere Öffentlich-Rechtliche (\u00AD = weicher Trennstrich für die schmale Senderkachel)
-  { id: "3sat",         name: "3sat",            xmltv: ["3sat.de"] },
-  { id: "zdfneo",       name: "ZDFneo",          xmltv: ["ZDFneo.de", "zdf_neo.de"] },
-  { id: "zdfinfo",      name: "ZDFinfo",         xmltv: ["ZDFinfo.de"] },
-  { id: "one",          name: "ONE",             xmltv: ["ONE.de"] },
-  { id: "phoenix",      name: "phoenix",         xmltv: ["PHOENIX.de", "phoenix.de"] },
-  { id: "tagesschau24", name: "tages\u00ADschau24", xmltv: ["tagesschau24.de"] },
-  { id: "ardalpha",     name: "ARD alpha",       xmltv: ["ARD.alpha.de", "ARD-alpha.de"] },
-  // Private Unterhaltung
-  { id: "rtlzwei",      name: "RTLZWEI",         xmltv: ["RTLZWEI.de"] },
-  { id: "sixx",         name: "sixx",            xmltv: ["sixx.de"] },
-  { id: "sat1gold",     name: "SAT.1 Gold",      xmltv: ["SAT.1.Gold.de", "SAT1GOLD.de"] },
-  { id: "pro7maxx",     name: "Pro7 MAXX",       xmltv: ["ProSieben.MAXX.de", "ProSiebenMAXX.de"] },
-  { id: "kabel1doku",   name: "Kabel Eins Doku", xmltv: ["kabel.eins.Doku.de", "KabelEinsDoku.de"] },
-  { id: "nitro",        name: "Nitro",           xmltv: ["NITRO.de"] },
-  { id: "dmax",         name: "DMAX",            xmltv: ["DMAX.de"] },
-  { id: "tele5",        name: "Tele 5",          xmltv: ["Tele.5.de", "Tele5.de"] },
-  { id: "rtlup",        name: "RTLup",           xmltv: ["RTLup.de"] },
-  { id: "voxup",        name: "VOXup",           xmltv: ["VOXup.de"] },
-  { id: "comedycentral",name: "Comedy Central",  xmltv: ["Comedy.Central.de", "ComedyCentral.de"] },
-  // Nachrichten & Sport
-  { id: "ntv",          name: "ntv",             xmltv: ["ntv.de", "n-tv.de"] },
-  { id: "welt",         name: "WELT",            xmltv: ["WELT.de"] },
-  { id: "sport1",       name: "SPORT1",          xmltv: ["SPORT1.de"] },
-  { id: "eurosport1",   name: "Euro\u00ADsport 1", xmltv: ["Eurosport.1.de", "Eurosport1.de"] },
-  // Nur die österreichische Fassung ist in den Quellen – Programm weicht teils ab
-  { id: "servustv",     name: "ServusTV AT",     xmltv: ["Servus.TV.Österreich.de"] }
+  { id: "ard",           name: "Das Erste",        xmltv: ["Das.Erste.de", "DasErste.de"] },
+  { id: "zdf",           name: "ZDF",              xmltv: ["ZDF.de"] },
+  { id: "rtl",           name: "RTL",              xmltv: ["RTL.de"] },
+  { id: "sat1",          name: "SAT.1",            xmltv: ["SAT.1.de", "SAT1.de", "Sat1.de"] },
+  { id: "pro7",          name: "ProSieben",        xmltv: ["ProSieben.de"] },
+  { id: "kabel1",        name: "Kabel Eins",       xmltv: ["kabel.eins.de", "KabelEins.de"] },
+  { id: "vox",           name: "VOX",              xmltv: ["VOX.de"] },
+  { id: "arte",          name: "arte",             xmltv: ["ARTE.de", "arte.de"] },
+  { id: "rbb",           name: "rbb Berlin",       xmltv: ["rbbBerlin.de", "RBB.de"] },
+  { id: "zdfneo",        name: "ZDFneo",           xmltv: ["ZDFneo.de", "zdf_neo.de"] },
+  { id: "zdfinfo",       name: "ZDFinfo",          xmltv: ["ZDFinfo.de"] },
+  { id: "3sat",          name: "3sat",             xmltv: ["3sat.de"] },
+  { id: "one",           name: "ONE",              xmltv: ["ONE.de"] },
+  { id: "tagesschau24",  name: "tages\u00ADschau24",  xmltv: ["tagesschau24.de"] },
+  { id: "ardalpha",      name: "ARD alpha",        xmltv: ["ARD.alpha.de", "ARD-alpha.de"] },
+  { id: "voxup",         name: "VOXup",            xmltv: ["VOXup.de"] },
+  { id: "superrtl",      name: "SUPER RTL",        xmltv: ["SUPER.RTL.de", "SuperRTL.de"] },
+  { id: "sat1gold",      name: "SAT.1 Gold",       xmltv: ["SAT.1.Gold.de", "SAT1GOLD.de"] },
+  { id: "pro7maxx",      name: "ProSieben MAXX",   xmltv: ["ProSieben.MAXX.de", "ProSiebenMAXX.de"] },
+  { id: "rtlup",         name: "RTLup",            xmltv: ["RTLup.de"] },
+  { id: "nitro",         name: "Nitro",            xmltv: ["NITRO.de"] },
+  { id: "sixx",          name: "sixx",             xmltv: ["sixx.de"] },
+  { id: "rtlzwei",       name: "RTLZWEI",          xmltv: ["RTLZWEI.de"] },
+  { id: "hr",            name: "hr-fernsehen",     xmltv: ["HR.de", "hr.de"] },
+  { id: "ntv",           name: "ntv",              xmltv: ["ntv.de", "n-tv.de"] },
+  { id: "phoenix",       name: "phoenix",          xmltv: ["PHOENIX.de", "phoenix.de"] },
+  { id: "bbcworld",      name: "BBC World News",   xmltv: ["BBC.World.News.de", "BBCWorld.de"] },
+  { id: "cnn",           name: "CNN Inter\u00ADnational", xmltv: ["CNN.International.de", "CNNInternational.de"] },
+  { id: "dmax",          name: "DMAX",             xmltv: ["DMAX.de"] },
+  { id: "welt",          name: "WELT",             xmltv: ["WELT.de"] },
+  { id: "kika",          name: "KiKA",             xmltv: ["KIKA.de", "KiKA.de"] },
+  { id: "nick",          name: "Nickel\u00ADodeon", xmltv: ["nick.de", "Nick.de"] },
+  { id: "n24doku",       name: "N24 Doku",         xmltv: ["N24.DOKU.de", "N24Doku.de"] },
+  { id: "br",            name: "BR Nord",          xmltv: ["BRFernsehenNord.de", "BR.de"] },
+  { id: "mdr",           name: "MDR Sachsen",      xmltv: ["MDRSachsen.de", "MDR.de"] },
+  { id: "ndr",           name: "NDR Hamburg",      xmltv: ["NDRHamburg.de", "NDR.de"] },
+  { id: "radiobremen",   name: "Radio Bremen",     xmltv: ["RadioBremenTV.de"] },
+  { id: "sr",            name: "SR",               xmltv: ["SRFernsehen.de"] },
+  { id: "swr",           name: "SWR BW",           xmltv: ["SWRBW.de", "SWR/SR.de"] },
+  { id: "wdr",           name: "WDR Aachen",       xmltv: ["WDRAachen.de", "WDR.de"] },
+  { id: "comedycentral", name: "Comedy Central",   xmltv: ["Comedy.Central.de", "ComedyCentral.de"] },
+  { id: "df1",           name: "DF1",              xmltv: ["DF1.de"] },
+  { id: "sport1",        name: "SPORT1",           xmltv: ["SPORT1.de"] },
+  { id: "tele5",         name: "Tele 5",           xmltv: ["Tele.5.de", "Tele5.de"] },
+  { id: "tlc",           name: "TLC",              xmltv: ["TLC.de"] },
+  { id: "eurosport1",    name: "Euro\u00ADsport 1", xmltv: ["Eurosport.1.de", "Eurosport1.de"] },
+  { id: "ric",           name: "RiC",              xmltv: ["RiC.de"] },
+  { id: "toggoplus",     name: "TOGGO plus",       xmltv: ["TOGGO.plus.de", "TOGGOplus.de"] },
+  { id: "artflix",       name: "Artflix",          xmltv: ["Artflix.de"] }
 ];
 
 const WINDOW_BEFORE = 3600;       // laufende Sendungen, die bis zu 1 h vorher begannen
@@ -143,24 +161,30 @@ async function loadSource(src) {
 
 export async function collectChannels(now = Math.floor(Date.now() / 1000), load = loadSource) {
   const allIds = TV_CHANNELS.flatMap(c => c.xmltv);
-  const found = new Map();   // Sender-id (ard, zdf …) -> shows
+  // Alle Quellen laden: Regionalfenster (NDR Hamburg, WDR Aachen …) gibt es
+  // teils nur in der zweiten Quelle, sollen aber Vorrang vor dem allgemeinen
+  // Programm der ersten haben.
+  const parsed = [];
   for (const src of SOURCES) {
-    const missing = TV_CHANNELS.filter(c => !found.has(c.id));
-    if (!missing.length) break;
-    let parsed;
     try {
-      parsed = parseXmltv(await load(src), allIds, now);
+      parsed.push({ src, map: parseXmltv(await load(src), allIds, now) });
     } catch (e) {
       console.warn(`  Quelle ${src.name}: FEHLER ${e.message}`);
-      continue;
     }
-    for (const ch of missing) {
-      const id = ch.xmltv.find(x => (parsed.get(x) || []).length);
-      if (id) found.set(ch.id, parsed.get(id));
-    }
-    console.log(`  Quelle ${src.name}: ${missing.filter(c => found.has(c.id)).length} von ${missing.length} fehlenden Sendern gefunden`);
   }
-  return TV_CHANNELS.filter(c => found.has(c.id)).map(c => ({ id: c.id, name: c.name, shows: found.get(c.id) }));
+  const out = [];
+  for (const ch of TV_CHANNELS) {
+    let hit = null;
+    for (const id of ch.xmltv) {
+      for (const p of parsed) {
+        const shows = p.map.get(id);
+        if (shows && shows.length) { hit = { shows, id, src: p.src.name }; break; }
+      }
+      if (hit) break;
+    }
+    if (hit) out.push({ id: ch.id, name: ch.name, shows: hit.shows, from: `${hit.src}/${hit.id}` });
+  }
+  return out;
 }
 
 async function saveToSupabase(payload) {
@@ -197,13 +221,14 @@ async function main() {
     if (!c) { console.warn(`  ${ch.name}: FEHLER keine Sendungen gefunden`); continue; }
     const cur = c.shows.find(s => s.s <= now && s.e > now);
     const next = c.shows.find(s => s.s >= (cur ? cur.e : now));
-    console.log(`  ${ch.name}: ${c.shows.length} Sendungen` +
+    console.log(`  ${ch.name.replace(/\u00AD/g, "")} [${c.from}]: ${c.shows.length} Sendungen` +
       (cur ? ` · jetzt ${fmt(cur.s)}–${fmt(cur.e)} ${cur.t}` : "") +
       (next ? ` · danach ${fmt(next.s)} ${next.t}` : ""));
   }
   if (!channels.length) throw new Error("Für keinen Sender Programmdaten erhalten – Datenquellen prüfen.");
 
-  const payload = { generated_at: new Date().toISOString(), channels };
+  // "from" ist nur fürs Log – nicht mit abspeichern
+  const payload = { generated_at: new Date().toISOString(), channels: channels.map(({ from, ...c }) => c) };
   if (DRY_RUN) {
     console.log(`Testlauf: ${channels.length} von ${TV_CHANNELS.length} Sendern, ${JSON.stringify(payload).length} Bytes – nichts gespeichert.`);
     return;
