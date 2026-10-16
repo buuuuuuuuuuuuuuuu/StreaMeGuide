@@ -34,15 +34,24 @@ function writeList(key, list) {
   try { localStorage.setItem(key, JSON.stringify(list)); } catch { /* privat/voll: egal */ }
 }
 
-// Sender in gespeicherter Reihenfolge; neue Sender (nach einer Erweiterung
-// der Senderliste) hängen hinten an.
+// Sender in gespeicherter Reihenfolge. Neue Sender (nach einer Erweiterung
+// der Senderliste) erscheinen direkt hinter ihrem Vorgänger aus der
+// Senderliste – also z. B. ZDFinfo unter ZDFneo, auch wenn schon sortiert wurde.
 function orderedChannels() {
   const chans = (tv.data && tv.data.channels) || [];
   const order = readList(TV_ORDER_KEY);
-  const pos = new Map(order.map((id, i) => [id, i]));
-  return chans
-    .map((ch, i) => ({ ch, i }))
-    .sort((a, b) => (pos.has(a.ch.id) ? pos.get(a.ch.id) : 1e6 + a.i) - (pos.has(b.ch.id) ? pos.get(b.ch.id) : 1e6 + b.i));
+  const byId = new Map(chans.map((ch, i) => [ch.id, { ch, i }]));
+  const result = order.filter(id => byId.has(id)).map(id => byId.get(id));
+  const placed = new Set(result.map(e => e.ch.id));
+  chans.forEach((ch, i) => {
+    if (placed.has(ch.id)) return;
+    // Vorgänger in der Senderliste suchen, der schon einsortiert ist
+    let at = -1;
+    for (let j = i - 1; j >= 0 && at < 0; j--) at = result.findIndex(e => e.ch.id === chans[j].id);
+    result.splice(at + 1, 0, { ch, i });
+    placed.add(ch.id);
+  });
+  return result;
 }
 
 function loadTvCache() {
