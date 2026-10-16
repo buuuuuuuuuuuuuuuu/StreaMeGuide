@@ -12,4 +12,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/probe-tv.mjs
+      - run: node scripts/fetch-tv.mjs
+        env:
+          DRY_RUN: "1"
