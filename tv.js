@@ -13,7 +13,10 @@ const EDGE_ZONE = 24;        // px vom linken Rand, in denen die Wischgeste star
 const TV_SWIPE_MIN = 60;     // so weit muss man wischen
 // Neue Schlüssel mit "streameguide:" (siehe CLAUDE.md); die älteren
 // "streamguide:"-Schlüssel bleiben, damit nichts verloren geht.
-const TV_ORDER_KEY = "streameguide:tv-order";
+// "-v2": Seit der Umstellung auf die o2-Senderreihenfolge (v2.6.0) gilt eine
+// neue Grundordnung. Der neue Schlüssel setzt eine alte, eigene Sortierung
+// einmalig zurück; Ausblendungen (TV_HIDDEN_KEY) bleiben erhalten.
+const TV_ORDER_KEY = "streameguide:tv-order-v2";
 const TV_HIDDEN_KEY = "streameguide:tv-hidden";
 const LONG_PRESS_MS = 450;
 
