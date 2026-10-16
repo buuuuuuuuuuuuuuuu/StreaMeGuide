@@ -85,7 +85,7 @@ Wechseln: gewünschte Dateien nach `icons/icon-192.png` bzw.
 ## Jetzt im TV
 Vom linken Bildschirmrand nach rechts wischen (oder 📺 oben) öffnet eine
 zweite Ansicht: pro Sender die laufende Sendung mit Endzeit und
-Fortschrittsbalken und was direkt danach kommt. 31 Sender (Hauptsender,
+Fortschrittsbalken und was direkt danach kommt. 32 Sender (Hauptsender,
 weitere Öffentlich-Rechtliche, private Spartensender, Nachrichten & Sport) –
 erweiterbar über `TV_CHANNELS` in `scripts/fetch-tv.mjs`.
 

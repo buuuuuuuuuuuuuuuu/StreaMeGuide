@@ -39,6 +39,7 @@ export const TV_CHANNELS = [
   // Weitere Öffentlich-Rechtliche (\u00AD = weicher Trennstrich für die schmale Senderkachel)
   { id: "3sat",         name: "3sat",            xmltv: ["3sat.de"] },
   { id: "zdfneo",       name: "ZDFneo",          xmltv: ["ZDFneo.de", "zdf_neo.de"] },
+  { id: "zdfinfo",      name: "ZDFinfo",         xmltv: ["ZDFinfo.de"] },
   { id: "one",          name: "ONE",             xmltv: ["ONE.de"] },
   { id: "phoenix",      name: "phoenix",         xmltv: ["PHOENIX.de", "phoenix.de"] },
   { id: "tagesschau24", name: "tages\u00ADschau24", xmltv: ["tagesschau24.de"] },
