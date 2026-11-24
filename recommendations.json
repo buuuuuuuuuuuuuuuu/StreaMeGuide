@@ -1,7 +1,34 @@
 {
   "schema": 2,
-  "generated_at": "2026-11-23T15:32:40.576Z",
+  "generated_at": "2026-11-24T15:26:45.109Z",
   "items": [
+    {
+      "tmdb_id": 1611767,
+      "title": "Clashing Through the Snow – Ein Weihnachts-Roadtrip",
+      "type": "movie",
+      "overview": "Ein Schneesturm kurz vor Weihnachten zwingt die rivalisierenden Lektoren Ryan Mitchell und Hannah Hendricks, sich einen Mietwagen zu teilen - denn in New York wartet ein Deal, der ihre Karriere retten könnte. Zwischen Pannen und Umwegen durch Kleinstädte zeigt der Weihnachtszauber Wirkung, und aus erbitterter Rivalität wird etwas, das niemand kommen sah.",
+      "genres": [
+        "Liebesfilm",
+        "Komödie"
+      ],
+      "keywords": [
+        "co-workers relationship",
+        "duringcreditsstinger",
+        "christmas",
+        "enemies to lovers",
+        "holiday road trip"
+      ],
+      "rating": 6.2,
+      "vote_count": 23,
+      "original_language": "en",
+      "poster_path": "/55l2SV45Do33qPAHNRJ8TQHq3b7.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1611767-clashing-through-the-snow/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
     {
       "tmdb_id": 1595124,
       "title": "Steps – Die Stiefschwestern",
@@ -45,14 +72,43 @@
         "mean girl",
         "sibling team up"
       ],
-      "rating": 6.841,
-      "vote_count": 63,
+      "rating": 7.109,
+      "vote_count": 78,
       "original_language": "en",
       "poster_path": "/mfQlzKlMxh8hv0ypDeVCL7fWnST.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1595124-steps/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1131943,
+      "title": "Madden",
+      "type": "movie",
+      "overview": "Inspiriert von einer Ikone, erzählt MADDEN von John Maddens Weg von seiner mit dem Super Bowl-Sieg gekrönten Arbeit mit Al Davis und den Raiders über seine Zeit als die Stimme des Footballs, bis hin zur Entwicklung des Madden NFL-Videospiels. Eine Würdigung eines Menschen, dessen Verstand den Sport ebenso überragte wie seine Beziehung zu seiner Frau Virginia und seine Liebe für die Menschen.",
+      "genres": [
+        "Drama",
+        "Historie",
+        "Komödie"
+      ],
+      "keywords": [
+        "video game",
+        "sports",
+        "american football",
+        "american football coach",
+        "based on true story",
+        "sports broadcasting"
+      ],
+      "rating": 6.6,
+      "vote_count": 59,
+      "original_language": "en",
+      "poster_path": "/duGWWAtONWquFg2rjsvy6Eu7EhF.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1131943-madden/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -67,8 +123,8 @@
         "Thriller"
       ],
       "keywords": [],
-      "rating": 7.468,
-      "vote_count": 31,
+      "rating": 7.545,
+      "vote_count": 33,
       "original_language": "es",
       "poster_path": "/zEgspsTdAhGiY7HQhtGkGRdWt1i.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1568060-perfectos-mentirosos/watch?locale=DE",
@@ -102,92 +158,11 @@
         "adoring",
         "tv movie"
       ],
-      "rating": 6.9,
-      "vote_count": 104,
+      "rating": 6.936,
+      "vote_count": 118,
       "original_language": "en",
       "poster_path": "/3ePSAJ7u1u4WbtUKaQyBQAzqQeT.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1551025-guarding-stars/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1131943,
-      "title": "Madden",
-      "type": "movie",
-      "overview": "Inspiriert von einer Ikone, erzählt MADDEN von John Maddens Weg von seiner mit dem Super Bowl-Sieg gekrönten Arbeit mit Al Davis und den Raiders über seine Zeit als die Stimme des Footballs, bis hin zur Entwicklung des Madden NFL-Videospiels. Eine Würdigung eines Menschen, dessen Verstand den Sport ebenso überragte wie seine Beziehung zu seiner Frau Virginia und seine Liebe für die Menschen.",
-      "genres": [
-        "Drama",
-        "Historie",
-        "Komödie"
-      ],
-      "keywords": [
-        "video game",
-        "sports",
-        "american football",
-        "american football coach",
-        "based on true story",
-        "sports broadcasting"
-      ],
-      "rating": 6.8,
-      "vote_count": 50,
-      "original_language": "en",
-      "poster_path": "/duGWWAtONWquFg2rjsvy6Eu7EhF.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1131943-madden/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1307474,
-      "title": "Vicentina bittet um Entschuldigung",
-      "type": "movie",
-      "overview": "Vicentina (Rejane Faria) kämpft damit, den Tod ihres Sohnes Wesley (Renato Novaes) zu verarbeiten, der bei einem Verkehrsunfall ums Leben kam, den er als Busfahrer selbst verursacht hat. Als sich herausstellt, dass es sich um einen Suizid gehandelt haben könnte, begibt sie sich auf eine Reise, um sich bei den Angehörigen der Opfer zu entschuldigen.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "suicide",
-        "bus accident",
-        "mother son relationship",
-        "grief & loss"
-      ],
-      "rating": 7.8,
-      "vote_count": 7,
-      "original_language": "pt",
-      "poster_path": "/hJecr964XtXhHnXQmuVLxBbvY3h.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1307474-vicentina-pede-desculpas/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 300523,
-      "title": "The Blue Road",
-      "type": "tv",
-      "overview": "Brutale Morde und verschlüsselte Botschaften bringen Ermittler aus zwei Ländern dazu, ihre Kräfte zu bündeln, doch die tödliche Wahrheit lauert gefährlich nahe.",
-      "genres": [
-        "Krimi",
-        "Mystery"
-      ],
-      "keywords": [
-        "detective",
-        "film noir",
-        "miniseries",
-        "thriller",
-        "crime thriller"
-      ],
-      "rating": 7.7,
-      "vote_count": 16,
-      "original_language": "ko",
-      "poster_path": "/9mmOjx2bWuLd9NnVpC71OUEXBym.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/300523-puleungil/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -231,11 +206,38 @@
         "amused",
         "euphoric"
       ],
-      "rating": 8,
-      "vote_count": 123,
+      "rating": 8.016,
+      "vote_count": 128,
       "original_language": "en",
       "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/291507-the-body/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 300523,
+      "title": "The Blue Road",
+      "type": "tv",
+      "overview": "Brutale Morde und verschlüsselte Botschaften bringen Ermittler aus zwei Ländern dazu, ihre Kräfte zu bündeln, doch die tödliche Wahrheit lauert gefährlich nahe.",
+      "genres": [
+        "Krimi",
+        "Mystery"
+      ],
+      "keywords": [
+        "detective",
+        "film noir",
+        "miniseries",
+        "thriller",
+        "crime thriller"
+      ],
+      "rating": 7.632,
+      "vote_count": 19,
+      "original_language": "ko",
+      "poster_path": "/9mmOjx2bWuLd9NnVpC71OUEXBym.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/300523-puleungil/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -268,8 +270,8 @@
         "adventure",
         "epic"
       ],
-      "rating": 7.223,
-      "vote_count": 4135,
+      "rating": 7.222,
+      "vote_count": 4139,
       "original_language": "en",
       "poster_path": "/k2JoKm6FCt1aurhV9taI4Zjn0ff.jpg",
       "justwatch": "https://www.themoviedb.org/tv/84773-the-lord-of-the-rings-the-rings-of-power/watch?locale=DE",
@@ -277,6 +279,66 @@
         "netflix": null,
         "prime": "flatrate",
         "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": 303745,
+      "title": "Undercover-Liebe",
+      "type": "tv",
+      "overview": "Yoon Yi-jun, der Erbe der Taekang-Gruppe, ist der Hauptverdächtige in einem Mordfall. Um die Wahrheit aufzudecken, schleust sich Kang Jae-hee als männlicher Sekretär ein. Doch je näher sie der Wahrheit kommen, desto näher kommen sich auch Yi-jun und Jae-hee. Werden Jae-hee, die ihre wahre Identität verbirgt, und Yi-jun, der ein Geheimnis hütet, einander ihre wahren Gefühle offenbaren?",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "bodyguard",
+        "romcom",
+        "undercover cop",
+        "cross dressing",
+        "murder investigation",
+        "employer employee relationship",
+        "murder suspect",
+        "based on web novel"
+      ],
+      "rating": 9,
+      "vote_count": 96,
+      "original_language": "ko",
+      "poster_path": "/fFcn3MngCVaQ19kAraXgmIOshN0.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/303745-naui-yujoeingan/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 340615,
+      "title": "The Trials of Karen Read",
+      "type": "tv",
+      "overview": "",
+      "genres": [
+        "Krimi",
+        "Dokumentarfilm",
+        "Drama"
+      ],
+      "keywords": [
+        "small town",
+        "boston, massachusetts",
+        "girlfriend",
+        "miniseries",
+        "police officer killed",
+        "blizzard"
+      ],
+      "rating": 7,
+      "vote_count": 1,
+      "original_language": "en",
+      "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/340615-the-trials-of-karen-read/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
       }
     },
     {
@@ -302,10 +364,90 @@
         "awestruck"
       ],
       "rating": 7.3,
-      "vote_count": 884,
+      "vote_count": 887,
       "original_language": "en",
       "poster_path": "/5Ldw6Gwprw6JPNKPSIUggWXg9l2.jpg",
       "justwatch": "https://www.themoviedb.org/tv/103540-percy-jackson-and-the-olympians/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 96677,
+      "title": "Lupin",
+      "type": "tv",
+      "overview": "Inspiriert von den Abenteuern Arsène Lupins beschließt der Meisterdieb Assane Diop, seinen Vater zu rächen, dem von einer reichen Familie großes Unrecht zugefügt wurde.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "keywords": [
+        "paris, france",
+        "based on novel or book",
+        "investigation",
+        "police",
+        "thief",
+        "revenge",
+        "heist",
+        "criminal",
+        "disguise",
+        "dramedy",
+        "arsene lupin",
+        "thriller",
+        "exciting",
+        "action"
+      ],
+      "rating": 7.681,
+      "vote_count": 2818,
+      "original_language": "fr",
+      "poster_path": "/jJ5R8waqwGCn06H3oeDeXWYYdYZ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/96677-lupin/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 37854,
+      "title": "One Piece",
+      "type": "tv",
+      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+      "genres": [
+        "Action & Adventure",
+        "Komödie",
+        "Animation"
+      ],
+      "keywords": [
+        "ocean",
+        "sea",
+        "boat",
+        "treasure",
+        "fight",
+        "liberation",
+        "ship",
+        "friendship",
+        "friends",
+        "pirate",
+        "based on manga",
+        "super power",
+        "adventurer",
+        "shounen",
+        "sea adventure",
+        "anime",
+        "wonder",
+        "fantasy",
+        "adventure",
+        "defiant"
+      ],
+      "rating": 8.8,
+      "vote_count": 5670,
+      "original_language": "ja",
+      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/37854-wanpisu/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -418,121 +560,13 @@
         "chosen",
         "pharisee"
       ],
-      "rating": 8.9,
-      "vote_count": 1086,
+      "rating": 8.865,
+      "vote_count": 1089,
       "original_language": "en",
       "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
       "justwatch": "https://www.themoviedb.org/tv/85077-the-chosen/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 37854,
-      "title": "One Piece",
-      "type": "tv",
-      "overview": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gold Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
-      "genres": [
-        "Action & Adventure",
-        "Komödie",
-        "Animation"
-      ],
-      "keywords": [
-        "ocean",
-        "sea",
-        "boat",
-        "treasure",
-        "fight",
-        "liberation",
-        "ship",
-        "friendship",
-        "friends",
-        "pirate",
-        "based on manga",
-        "super power",
-        "adventurer",
-        "shounen",
-        "sea adventure",
-        "anime",
-        "wonder",
-        "fantasy",
-        "adventure",
-        "defiant"
-      ],
-      "rating": 8.756,
-      "vote_count": 5669,
-      "original_language": "ja",
-      "poster_path": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/37854-wanpisu/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 312359,
-      "title": "Dragon Ball Super: Beerus",
-      "type": "tv",
-      "overview": "Jahre nach dem erbitterten Kampf gegen Majin Boo herrscht auf der Erde endlich Frieden. Doch dann erwacht Beerus, der Gott der Zerstörung, aus seinem langen Schlaf. Als er von dem Saiyajin hört, der Freezer besiegt hat, taucht er unvermittelt bei Son Goku auf – und die ganze Erde gerät in Gefahr. Goku und seine Freunde stellen sich einem Kampf, der das Universum erschüttert.",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "martial arts",
-        "god",
-        "remake",
-        "dragon",
-        "based on manga",
-        "battle",
-        "universe",
-        "super power",
-        "edited from tv series",
-        "shounen",
-        "anime"
-      ],
-      "rating": 9.597,
-      "vote_count": 431,
-      "original_language": "ja",
-      "poster_path": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/312359-doragonboru-chao-birusu/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 303745,
-      "title": "Undercover-Liebe",
-      "type": "tv",
-      "overview": "Yoon Yi-jun, der Erbe der Taekang-Gruppe, ist der Hauptverdächtige in einem Mordfall. Um die Wahrheit aufzudecken, schleust sich Kang Jae-hee als männlicher Sekretär ein. Doch je näher sie der Wahrheit kommen, desto näher kommen sich auch Yi-jun und Jae-hee. Werden Jae-hee, die ihre wahre Identität verbirgt, und Yi-jun, der ein Geheimnis hütet, einander ihre wahren Gefühle offenbaren?",
-      "genres": [
-        "Komödie",
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
-        "bodyguard",
-        "romcom",
-        "undercover cop",
-        "cross dressing",
-        "murder investigation",
-        "employer employee relationship",
-        "murder suspect",
-        "based on web novel"
-      ],
-      "rating": 9,
-      "vote_count": 94,
-      "original_language": "ko",
-      "poster_path": "/fFcn3MngCVaQ19kAraXgmIOshN0.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/303745-naui-yujoeingan/watch?locale=DE",
-      "providers": {
-        "netflix": null,
         "prime": "flatrate",
         "mediathek": null
       }
@@ -557,7 +591,7 @@
         "one person army",
         "sign language"
       ],
-      "rating": 6.8,
+      "rating": 6.885,
       "vote_count": 78,
       "original_language": "id",
       "poster_path": "/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
@@ -595,8 +629,8 @@
         "military corruption",
         "corrupt military"
       ],
-      "rating": 6.18,
-      "vote_count": 256,
+      "rating": 6.168,
+      "vote_count": 262,
       "original_language": "es",
       "poster_path": "/cetKHC0wHV7xtwJmC1azDqB7jH8.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1507696-apocalipsis-z-nuevo-mundo/watch?locale=DE",
@@ -621,8 +655,8 @@
         "approving",
         "car chase"
       ],
-      "rating": 6.534,
-      "vote_count": 249,
+      "rating": 6.586,
+      "vote_count": 256,
       "original_language": "en",
       "poster_path": "/nNMAZ9d83p5xjgPDVMoTMbxXjrc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1294189-the-mongoose/watch?locale=DE",
@@ -633,39 +667,27 @@
       }
     },
     {
-      "tmdb_id": 687163,
-      "title": "Der Astronaut – Project Hail Mary",
+      "tmdb_id": 1101412,
+      "title": "Fall 2: Deadpoint",
       "type": "movie",
-      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+      "overview": "Während eines gefährlichen Aufstiegs am thailändischen Mount Kwan sitzen zwei Kletterer in schwindelerregender Höhe fest; dort machen die enorme Tiefe, die völlige Ausgesetztheit und die schier aussichtslosen Umstände jeden Augenblick zu einem Kampf ums Überleben.",
       "genres": [
-        "Science Fiction",
-        "Abenteuer"
+        "Thriller"
       ],
       "keywords": [
-        "friendship",
-        "coma",
-        "based on novel or book",
-        "bravery",
-        "sun",
-        "language barrier",
-        "space travel",
-        "space mission",
-        "alien",
-        "space",
-        "memory loss",
-        "suicide mission",
-        "astronaut",
-        "scientist",
-        "science teacher",
-        "save the planet",
-        "spaceship",
-        "interspecies friendship"
+        "sequel",
+        "rock climbing",
+        "sport climbing",
+        "climb",
+        "cautionary",
+        "dramatic",
+        "mountain climber"
       ],
-      "rating": 8.6,
-      "vote_count": 9000,
+      "rating": 7.231,
+      "vote_count": 886,
       "original_language": "en",
-      "poster_path": "/qUraey7aJVaqx6NhlXl5Q7Z1rEX.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
+      "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1101412-fall-2-deadpoint/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -702,7 +724,7 @@
         "crime"
       ],
       "rating": 8.295,
-      "vote_count": 6725,
+      "vote_count": 6727,
       "original_language": "en",
       "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
       "justwatch": "https://www.themoviedb.org/tv/42009-black-mirror/watch?locale=DE",
@@ -744,8 +766,8 @@
         "matter of fact",
         "brutal violence"
       ],
-      "rating": 7.984,
-      "vote_count": 1505,
+      "rating": 7.983,
+      "vote_count": 1509,
       "original_language": "en",
       "poster_path": "/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
       "justwatch": "https://www.themoviedb.org/tv/41727-banshee/watch?locale=DE",
@@ -792,7 +814,7 @@
         "horror"
       ],
       "rating": 8.316,
-      "vote_count": 8856,
+      "vote_count": 8858,
       "original_language": "en",
       "poster_path": "/fOVIpyRhNCUbKTn9ZDxYduyLwB.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1622-supernatural/watch?locale=DE",
@@ -825,8 +847,8 @@
         "police procedural",
         "clinical"
       ],
-      "rating": 8.42,
-      "vote_count": 5040,
+      "rating": 8.4,
+      "vote_count": 5042,
       "original_language": "en",
       "poster_path": "/4GrRdnfrxNZw5hr2OA4NGZfxX3U.jpg",
       "justwatch": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
@@ -858,7 +880,7 @@
         "sentimental",
         "wry"
       ],
-      "rating": 7.989,
+      "rating": 8,
       "vote_count": 2249,
       "original_language": "en",
       "poster_path": "/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
@@ -887,7 +909,7 @@
         "supervillain"
       ],
       "rating": 7.737,
-      "vote_count": 11884,
+      "vote_count": 11886,
       "original_language": "en",
       "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
       "justwatch": "https://www.themoviedb.org/tv/60735-the-flash/watch?locale=DE",
@@ -934,39 +956,11 @@
         "thriller",
         "dignified"
       ],
-      "rating": 8.428,
+      "rating": 8.4,
       "vote_count": 8017,
       "original_language": "de",
       "poster_path": "/gw8ZlIXEg6SIx3FgMEQqmBkPYKV.jpg",
       "justwatch": "https://www.themoviedb.org/tv/70523-dark/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 131488,
-      "title": "Die Kaiserin",
-      "type": "tv",
-      "overview": "Als sich die rebellische Elisabeth in Kaiser Franz Joseph verliebt und überraschend seine Frau wird, gerät sie in eine Welt der Intrigen und Spannungen am Wiener Hof.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "austria",
-        "emperor",
-        "historical figure",
-        "royalty",
-        "empress",
-        "austria-hungary",
-        "habsburger"
-      ],
-      "rating": 7.707,
-      "vote_count": 196,
-      "original_language": "de",
-      "poster_path": "/sixRdWKWlLwIMqkHejsIvvqgI66.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/131488-die-kaiserin/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -1008,6 +1002,34 @@
         "mediathek": "ARD"
       },
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL2FyZC5kZS92aWRlby1ERUctLTMxNzg1OQ"
+    },
+    {
+      "tmdb_id": 131488,
+      "title": "Die Kaiserin",
+      "type": "tv",
+      "overview": "Als sich die rebellische Elisabeth in Kaiser Franz Joseph verliebt und überraschend seine Frau wird, gerät sie in eine Welt der Intrigen und Spannungen am Wiener Hof.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "austria",
+        "emperor",
+        "historical figure",
+        "royalty",
+        "empress",
+        "austria-hungary",
+        "habsburger"
+      ],
+      "rating": 7.707,
+      "vote_count": 196,
+      "original_language": "de",
+      "poster_path": "/sixRdWKWlLwIMqkHejsIvvqgI66.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/131488-die-kaiserin/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
     },
     {
       "tmdb_id": 83936,
@@ -1088,34 +1110,6 @@
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNTQ0YTk3YmYtOTcwNC00YTFiLWIxZGYtMzkyNWFhYTRkZjIy"
     },
     {
-      "tmdb_id": 252372,
-      "title": "Achtsam morden",
-      "type": "tv",
-      "overview": "Als der Mafia-Rechtsanwalt Björn mithilfe eines Achtsamkeitstrainings eine bessere Work-Life-Balance finden will, entdeckt er erstaunliche Bewältigungsstrategien – darunter Mord.",
-      "genres": [
-        "Drama",
-        "Komödie",
-        "Krimi"
-      ],
-      "keywords": [
-        "based on novel or book",
-        "murder",
-        "mafia",
-        "lawyer",
-        "thriller"
-      ],
-      "rating": 7.583,
-      "vote_count": 204,
-      "original_language": "de",
-      "poster_path": "/g9KJoXaudo3OhzsBVTTT7gnDPt8.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/252372-achtsam-morden/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 70837,
       "title": "Charité",
       "type": "tv",
@@ -1142,6 +1136,34 @@
         "mediathek": "ORF"
       },
       "url": "https://on.orf.at/video/14347858/charite-196166-herzflimmern"
+    },
+    {
+      "tmdb_id": 252372,
+      "title": "Achtsam morden",
+      "type": "tv",
+      "overview": "Als der Mafia-Rechtsanwalt Björn mithilfe eines Achtsamkeitstrainings eine bessere Work-Life-Balance finden will, entdeckt er erstaunliche Bewältigungsstrategien – darunter Mord.",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Krimi"
+      ],
+      "keywords": [
+        "based on novel or book",
+        "murder",
+        "mafia",
+        "lawyer",
+        "thriller"
+      ],
+      "rating": 7.583,
+      "vote_count": 204,
+      "original_language": "de",
+      "poster_path": "/g9KJoXaudo3OhzsBVTTT7gnDPt8.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/252372-achtsam-morden/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
     },
     {
       "tmdb_id": 122241,
@@ -1249,35 +1271,6 @@
       }
     },
     {
-      "tmdb_id": 5475,
-      "title": "Türkisch für Anfänger",
-      "type": "tv",
-      "overview": "Die Serie konzentriert sich auf die deutsch-türkische Stieffamilie Schneider-Öztürk, ihren Alltag und insbesondere auf die älteste Tochter Lena, die die Show erzählt. Während der 52 Folgen der Serie wurden sowohl typische Probleme von Teenagern als auch interkulturelle Erfahrungen behandelt.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "germany",
-        "turkey",
-        "multiculturalism",
-        "cultural difference",
-        "teenage love",
-        "comedy of situation",
-        "family show"
-      ],
-      "rating": 7.312,
-      "vote_count": 93,
-      "original_language": "de",
-      "poster_path": "/7PhdLbWwMnfpZaaSPa96X2Rgpj.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/5475-turkisch-fur-anfanger/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": "3sat"
-      },
-      "url": "https://www.3sat.de/film/spielfilm/tuerkisch-fuer-anfaenger-100.html"
-    },
-    {
       "tmdb_id": 93785,
       "title": "Barbaren",
       "type": "tv",
@@ -1313,6 +1306,35 @@
       }
     },
     {
+      "tmdb_id": 5475,
+      "title": "Türkisch für Anfänger",
+      "type": "tv",
+      "overview": "Die Serie konzentriert sich auf die deutsch-türkische Stieffamilie Schneider-Öztürk, ihren Alltag und insbesondere auf die älteste Tochter Lena, die die Show erzählt. Während der 52 Folgen der Serie wurden sowohl typische Probleme von Teenagern als auch interkulturelle Erfahrungen behandelt.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "germany",
+        "turkey",
+        "multiculturalism",
+        "cultural difference",
+        "teenage love",
+        "comedy of situation",
+        "family show"
+      ],
+      "rating": 7.312,
+      "vote_count": 93,
+      "original_language": "de",
+      "poster_path": "/7PhdLbWwMnfpZaaSPa96X2Rgpj.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/5475-turkisch-fur-anfanger/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": "3sat"
+      },
+      "url": "https://www.3sat.de/film/spielfilm/tuerkisch-fuer-anfaenger-100.html"
+    },
+    {
       "tmdb_id": 206010,
       "title": "Kleo",
       "type": "tv",
@@ -1336,31 +1358,6 @@
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 6202,
-      "title": "Stromberg",
-      "type": "tv",
-      "overview": "„Stromberg“ ist die Sitcom rund um den ganz normalen Bürowahnsinn. Im Mittelpunkt steht ein Chef, den man seinem ärgsten Feind nicht als Vorgesetzten wünscht: Bernd Stromberg. Er ist sarkastisch bis ins Mark, egozentrisch ohne Gleichen, zielstrebig bis in die Haarspitzen – vor allem wenn es um seine eigenen Interessen geht.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "office",
-        "mockumentary",
-        "satirical",
-        "bold"
-      ],
-      "rating": 7.73,
-      "vote_count": 141,
-      "original_language": "de",
-      "poster_path": "/2ThMER8tdMHzSq4GKx9PbRndGHk.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/6202-stromberg/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -1402,6 +1399,57 @@
       }
     },
     {
+      "tmdb_id": 6202,
+      "title": "Stromberg",
+      "type": "tv",
+      "overview": "„Stromberg“ ist die Sitcom rund um den ganz normalen Bürowahnsinn. Im Mittelpunkt steht ein Chef, den man seinem ärgsten Feind nicht als Vorgesetzten wünscht: Bernd Stromberg. Er ist sarkastisch bis ins Mark, egozentrisch ohne Gleichen, zielstrebig bis in die Haarspitzen – vor allem wenn es um seine eigenen Interessen geht.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "office",
+        "mockumentary",
+        "satirical",
+        "bold"
+      ],
+      "rating": 7.73,
+      "vote_count": 141,
+      "original_language": "de",
+      "poster_path": "/2ThMER8tdMHzSq4GKx9PbRndGHk.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/6202-stromberg/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 51488,
+      "title": "Der Tatortreiniger",
+      "type": "tv",
+      "overview": "Heiko „Schotty“ Schotte, ist Gebäudereiniger (mit Spezialisierung zum Tatortreiniger) der Spuren des Ablebens von Menschen an Tatorten beseitigt.",
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "keywords": [
+        "slapstick comedy",
+        "crime scene",
+        "stereotype",
+        "cleaning service"
+      ],
+      "rating": 8.166,
+      "vote_count": 157,
+      "original_language": "de",
+      "poster_path": "/e5UpVIBWuw34CX8GxGlQWewJWVB.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/51488-der-tatortreiniger/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": "ARD"
+      }
+    },
+    {
       "tmdb_id": 43189,
       "title": "Berlin Alexanderplatz",
       "type": "tv",
@@ -1432,6 +1480,62 @@
         "netflix": null,
         "prime": "flatrate",
         "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": 153642,
+      "title": "Die Discounter",
+      "type": "tv",
+      "overview": "Zwischen den Regalen vom Feinkost Kosinski in Hamburg-Altona wird nicht nur eingekauft; es wird gevögelt, gefeiert, gefetzt, verliebt, sich gehasst und zwischendurch wird auch ein bisschen gearbeitet.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "mockumentary"
+      ],
+      "rating": 7.611,
+      "vote_count": 81,
+      "original_language": "de",
+      "poster_path": "/fIn8U6sMTmP4qjYYeDoBLHDjQ7P.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/153642-die-discounter/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 100074,
+      "title": "Biohackers",
+      "type": "tv",
+      "overview": "Mia beginnt ein Medizinstudium, um das Vertrauen einer Dozentin zu gewinnen, mit der sie ein dunkles Geheimnis verbindet, und wird in illegale Genexperimente verwickelt.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "keywords": [
+        "biotechnology",
+        "genetics",
+        "revenge",
+        "villainess",
+        "university",
+        "genetic engineering",
+        "medical student",
+        "vengeance",
+        "biohacker",
+        "suspenseful"
+      ],
+      "rating": 7.198,
+      "vote_count": 411,
+      "original_language": "de",
+      "poster_path": "/xjcOhP2ETe8q3Zm0aIiKWJyp85x.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/100074-biohackers/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
       }
     },
     {
@@ -1477,88 +1581,6 @@
         "mediathek": "ORF"
       },
       "url": "https://on.orf.at/video/10559273/unsere-muetter-unsere-vaeter-ein-anderes-land-3"
-    },
-    {
-      "tmdb_id": 153642,
-      "title": "Die Discounter",
-      "type": "tv",
-      "overview": "Zwischen den Regalen vom Feinkost Kosinski in Hamburg-Altona wird nicht nur eingekauft; es wird gevögelt, gefeiert, gefetzt, verliebt, sich gehasst und zwischendurch wird auch ein bisschen gearbeitet.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "mockumentary"
-      ],
-      "rating": 7.611,
-      "vote_count": 81,
-      "original_language": "de",
-      "poster_path": "/fIn8U6sMTmP4qjYYeDoBLHDjQ7P.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/153642-die-discounter/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 51488,
-      "title": "Der Tatortreiniger",
-      "type": "tv",
-      "overview": "Heiko „Schotty“ Schotte, ist Gebäudereiniger (mit Spezialisierung zum Tatortreiniger) der Spuren des Ablebens von Menschen an Tatorten beseitigt.",
-      "genres": [
-        "Komödie",
-        "Krimi"
-      ],
-      "keywords": [
-        "slapstick comedy",
-        "crime scene",
-        "stereotype",
-        "cleaning service"
-      ],
-      "rating": 8.166,
-      "vote_count": 157,
-      "original_language": "de",
-      "poster_path": "/e5UpVIBWuw34CX8GxGlQWewJWVB.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/51488-der-tatortreiniger/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": 100074,
-      "title": "Biohackers",
-      "type": "tv",
-      "overview": "Mia beginnt ein Medizinstudium, um das Vertrauen einer Dozentin zu gewinnen, mit der sie ein dunkles Geheimnis verbindet, und wird in illegale Genexperimente verwickelt.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "keywords": [
-        "biotechnology",
-        "genetics",
-        "revenge",
-        "villainess",
-        "university",
-        "genetic engineering",
-        "medical student",
-        "vengeance",
-        "biohacker",
-        "suspenseful"
-      ],
-      "rating": 7.198,
-      "vote_count": 411,
-      "original_language": "de",
-      "poster_path": "/xjcOhP2ETe8q3Zm0aIiKWJyp85x.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/100074-biohackers/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
     },
     {
       "tmdb_id": 76652,
@@ -1617,20 +1639,23 @@
       }
     },
     {
-      "tmdb_id": 214088,
-      "title": "Totenfrau",
+      "tmdb_id": 229221,
+      "title": "Liebes Kind",
       "type": "tv",
-      "overview": "Brünhilde Blum betreibt ein Bestattungsunternehmen in einem Skiort in der Nähe von Innsbruck und führt mit ihrem Ehemann Mark und ihren beiden Kindern Tim und Nela ein glückliches Familienleben. Mark arbeitet bei der Kriminalpolizei in Innsbruck.\n\nIhr Familienglück wird zerstört, nachdem Mark vor den Augen von Brünhilde auf seinem Motorrad von einem Auto angefahren wird und bald darauf im Krankenhaus seinen Verletzungen erliegt. Die andere am Unfall beteiligte Person begeht Fahrerflucht. Einige Zeit später findet sie heraus, dass es sich bei dem vermeintlichen Unfall tatsächlich um Mord gehandelt haben dürfte. Brünhilde stellt weitere Nachforschungen an, begibt sich damit aber selbst in Gefahr.",
+      "overview": "Lena lebt mit den beiden Kindern Hannah und Jonathan völlig isoliert in einem hochgesicherten Haus. Zu exakt vorgeschriebenen Zeiten nehmen sie ihre Mahlzeiten ein, gehen auf Toilette und ins Bett. Sobald er den Raum betritt, stellen sie sich auf und zeigen ihre Hände vor. Sie tun alles, was er sagt. Bis der jungen Frau die Flucht gelingt. Nach einem Autounfall wird sie schwerverletzt in Begleitung von Hannah ins Krankenhaus eingeliefert.",
       "genres": [
+        "Krimi",
         "Drama",
-        "Krimi"
+        "Mystery"
       ],
-      "keywords": [],
-      "rating": 7,
-      "vote_count": 161,
+      "keywords": [
+        "miniseries"
+      ],
+      "rating": 7.318,
+      "vote_count": 417,
       "original_language": "de",
-      "poster_path": "/fp0iD9bPIYt1ryhejti008zRLWL.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/214088-totenfrau/watch?locale=DE",
+      "poster_path": "/cH9Oh59kTq8cZoa0OyjcBrjus4m.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/229221-liebes-kind/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -1668,23 +1693,48 @@
       }
     },
     {
-      "tmdb_id": 229221,
-      "title": "Liebes Kind",
+      "tmdb_id": 214088,
+      "title": "Totenfrau",
       "type": "tv",
-      "overview": "Lena lebt mit den beiden Kindern Hannah und Jonathan völlig isoliert in einem hochgesicherten Haus. Zu exakt vorgeschriebenen Zeiten nehmen sie ihre Mahlzeiten ein, gehen auf Toilette und ins Bett. Sobald er den Raum betritt, stellen sie sich auf und zeigen ihre Hände vor. Sie tun alles, was er sagt. Bis der jungen Frau die Flucht gelingt. Nach einem Autounfall wird sie schwerverletzt in Begleitung von Hannah ins Krankenhaus eingeliefert.",
+      "overview": "Brünhilde Blum betreibt ein Bestattungsunternehmen in einem Skiort in der Nähe von Innsbruck und führt mit ihrem Ehemann Mark und ihren beiden Kindern Tim und Nela ein glückliches Familienleben. Mark arbeitet bei der Kriminalpolizei in Innsbruck.\n\nIhr Familienglück wird zerstört, nachdem Mark vor den Augen von Brünhilde auf seinem Motorrad von einem Auto angefahren wird und bald darauf im Krankenhaus seinen Verletzungen erliegt. Die andere am Unfall beteiligte Person begeht Fahrerflucht. Einige Zeit später findet sie heraus, dass es sich bei dem vermeintlichen Unfall tatsächlich um Mord gehandelt haben dürfte. Brünhilde stellt weitere Nachforschungen an, begibt sich damit aber selbst in Gefahr.",
       "genres": [
-        "Krimi",
         "Drama",
-        "Mystery"
+        "Krimi"
+      ],
+      "keywords": [],
+      "rating": 7,
+      "vote_count": 161,
+      "original_language": "de",
+      "poster_path": "/fp0iD9bPIYt1ryhejti008zRLWL.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/214088-totenfrau/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 133357,
+      "title": "The Billion Dollar Code",
+      "type": "tv",
+      "overview": "Ein Künstler-Hacker-Duo im Berlin der 1990er schuf einen neuen Blickwinkel auf die Welt. Jahre später verklagen die beiden Google für die Verletzung ihres Patentrechts.",
+      "genres": [
+        "Drama"
       ],
       "keywords": [
-        "miniseries"
+        "hacker",
+        "based on true story",
+        "justice",
+        "courtroom",
+        "cybersecurity",
+        "1990s",
+        "google"
       ],
-      "rating": 7.318,
-      "vote_count": 417,
+      "rating": 7.84,
+      "vote_count": 219,
       "original_language": "de",
-      "poster_path": "/cH9Oh59kTq8cZoa0OyjcBrjus4m.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/229221-liebes-kind/watch?locale=DE",
+      "poster_path": "/wuvs7Qk0V5h2LqXzoQE5JLC6BZO.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/133357-the-billion-dollar-code/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -1714,34 +1764,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": 133357,
-      "title": "The Billion Dollar Code",
-      "type": "tv",
-      "overview": "Ein Künstler-Hacker-Duo im Berlin der 1990er schuf einen neuen Blickwinkel auf die Welt. Jahre später verklagen die beiden Google für die Verletzung ihres Patentrechts.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "hacker",
-        "based on true story",
-        "justice",
-        "courtroom",
-        "cybersecurity",
-        "1990s",
-        "google"
-      ],
-      "rating": 7.84,
-      "vote_count": 219,
-      "original_language": "de",
-      "poster_path": "/wuvs7Qk0V5h2LqXzoQE5JLC6BZO.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/133357-the-billion-dollar-code/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
       }
     },
     {
@@ -1905,7 +1927,7 @@
         "female mechanic",
         "amalfi coast"
       ],
-      "rating": 7.571,
+      "rating": 7.6,
       "vote_count": 190,
       "original_language": "de",
       "poster_path": "/o1amTBOej7F2wdrTSKzGE6eG2CT.jpg",
@@ -1944,7 +1966,7 @@
         "war epic"
       ],
       "rating": 7.739,
-      "vote_count": 5096,
+      "vote_count": 5097,
       "original_language": "de",
       "poster_path": "/sNsmI4vQ1A6VG52dquTFx8oNTWk.jpg",
       "justwatch": "https://www.themoviedb.org/movie/49046-im-westen-nichts-neues/watch?locale=DE",
@@ -1982,8 +2004,8 @@
         "battle of the atlantic",
         "confined spaces"
       ],
-      "rating": 8.09,
-      "vote_count": 2719,
+      "rating": 8.091,
+      "vote_count": 2720,
       "original_language": "de",
       "poster_path": "/arqCQXHqgzZG2m5111FV4nA13RN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/387-das-boot/watch?locale=DE",
@@ -2103,38 +2125,6 @@
       }
     },
     {
-      "tmdb_id": 9589,
-      "title": "Christiane F. - Wir Kinder vom Bahnhof Zoo",
-      "type": "movie",
-      "overview": "Vom Hasch kam sie zum Heroin. Die Sucht zwang sie auf den Strich zu gehen. Sie erlebte den Himmel und sie erlebte die Hölle. Christiane F.. Mit 14 Jahren hatte sie schon alles durchgemacht, was in der Szene los war. Mit 15 Jahren war sie am Ende. Rauschgift, die Droge, die vermeintlich \"Freiheit\" verschafft, bietet letztendlich doch nur Siechtum und Tod. Christiane F. schaffte den Ausstieg aus der Szene. Viele andere aber bleiben zurück und setzen sich eines Tages den letzten, den \"goldenen Schuß\". Sie sind noch Kinder und haben doch schon ihre ganze Zukunft verspielt.",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "berlin, germany",
-        "heroin",
-        "junkie",
-        "prostitution",
-        "illegal drugs",
-        "dramatic",
-        "critical",
-        "intense",
-        "complicated",
-        "informative"
-      ],
-      "rating": 7.3,
-      "vote_count": 1501,
-      "original_language": "de",
-      "poster_path": "/497I3rEvkmLx0ZTLFKlvEZxNzag.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/9589-christiane-f-wir-kinder-vom-bahnhof-zoo/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      },
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzMTAxOTk"
-    },
-    {
       "tmdb_id": 11101,
       "title": "Stalingrad",
       "type": "movie",
@@ -2165,6 +2155,38 @@
         "mediathek": "ARD"
       },
       "url": "https://www.ardmediathek.de/video/Y3JpZDovL3JiYl9iYjE1NTE5YS1mMDM2LTQzMTUtYTg3Ni1jNTNlYWMzOGQ2MzFfcHVibGljYXRpb24"
+    },
+    {
+      "tmdb_id": 9589,
+      "title": "Christiane F. - Wir Kinder vom Bahnhof Zoo",
+      "type": "movie",
+      "overview": "Vom Hasch kam sie zum Heroin. Die Sucht zwang sie auf den Strich zu gehen. Sie erlebte den Himmel und sie erlebte die Hölle. Christiane F.. Mit 14 Jahren hatte sie schon alles durchgemacht, was in der Szene los war. Mit 15 Jahren war sie am Ende. Rauschgift, die Droge, die vermeintlich \"Freiheit\" verschafft, bietet letztendlich doch nur Siechtum und Tod. Christiane F. schaffte den Ausstieg aus der Szene. Viele andere aber bleiben zurück und setzen sich eines Tages den letzten, den \"goldenen Schuß\". Sie sind noch Kinder und haben doch schon ihre ganze Zukunft verspielt.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "berlin, germany",
+        "heroin",
+        "junkie",
+        "prostitution",
+        "illegal drugs",
+        "dramatic",
+        "critical",
+        "intense",
+        "complicated",
+        "informative"
+      ],
+      "rating": 7.349,
+      "vote_count": 1502,
+      "original_language": "de",
+      "poster_path": "/497I3rEvkmLx0ZTLFKlvEZxNzag.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/9589-christiane-f-wir-kinder-vom-bahnhof-zoo/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
+      },
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzMTAxOTk"
     },
     {
       "tmdb_id": 458,
@@ -2272,14 +2294,48 @@
         "irreverent",
         "sharp"
       ],
-      "rating": 8.245,
-      "vote_count": 2535,
+      "rating": 8.2,
+      "vote_count": 2536,
       "original_language": "en",
       "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1400-seinfeld/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 18165,
+      "title": "Vampire Diaries",
+      "type": "tv",
+      "overview": "Die Highschool-Schülerin Elena Gilbert hat ihre Eltern bei einem Autounfall verloren. Ihre Tante Jenna Sommers, die jüngere Schwester der Mutter, ist nach Mystic Falls gekommen, um sich um sie und ihren jüngeren Bruder Jeremy zu kümmern. Als der neue Mitschüler Stefan Salvatore auf der Bildfläche erscheint, weckt er sofort Elenas Interesse. Sie ahnt nicht, dass es sich bei Stefan um einen bereits jahrhundertealten Vampir handelt. Als dann noch Stefans älterer Bruder Damon auftaucht, der von Elena ebenfalls angezogen ist, überschlagen sich die Ereignisse. Stefan wird misstrauisch, denn er weiß, dass Damon nichts Gutes im Sinn hat. Elena wird in eine Welt hineingeworfen, von deren Existenz sie bislang nichts geahnt hat.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "love triangle",
+        "witch",
+        "based on novel or book",
+        "vampire",
+        "supernatural",
+        "eternal youth",
+        "werewolf",
+        "supernatural creature",
+        "doppelgänger",
+        "eternal love",
+        "interspecies romance",
+        "based on young adult novel"
+      ],
+      "rating": 8.3,
+      "vote_count": 9868,
+      "original_language": "en",
+      "poster_path": "/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/18165-the-vampire-diaries/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -2327,36 +2383,31 @@
       }
     },
     {
-      "tmdb_id": 18165,
-      "title": "Vampire Diaries",
+      "tmdb_id": 2316,
+      "title": "The Office",
       "type": "tv",
-      "overview": "Die Highschool-Schülerin Elena Gilbert hat ihre Eltern bei einem Autounfall verloren. Ihre Tante Jenna Sommers, die jüngere Schwester der Mutter, ist nach Mystic Falls gekommen, um sich um sie und ihren jüngeren Bruder Jeremy zu kümmern. Als der neue Mitschüler Stefan Salvatore auf der Bildfläche erscheint, weckt er sofort Elenas Interesse. Sie ahnt nicht, dass es sich bei Stefan um einen bereits jahrhundertealten Vampir handelt. Als dann noch Stefans älterer Bruder Damon auftaucht, der von Elena ebenfalls angezogen ist, überschlagen sich die Ereignisse. Stefan wird misstrauisch, denn er weiß, dass Damon nichts Gutes im Sinn hat. Elena wird in eine Welt hineingeworfen, von deren Existenz sie bislang nichts geahnt hat.",
+      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Komödie"
       ],
       "keywords": [
-        "love triangle",
-        "witch",
-        "based on novel or book",
-        "vampire",
-        "supernatural",
-        "eternal youth",
-        "werewolf",
-        "supernatural creature",
-        "doppelgänger",
-        "eternal love",
-        "interspecies romance",
-        "based on young adult novel"
+        "office",
+        "work",
+        "boss",
+        "remake",
+        "employer employee relationship",
+        "sitcom",
+        "employment",
+        "workplace comedy"
       ],
-      "rating": 8.3,
-      "vote_count": 9867,
+      "rating": 8.581,
+      "vote_count": 5756,
       "original_language": "en",
-      "poster_path": "/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/18165-the-vampire-diaries/watch?locale=DE",
+      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
-        "prime": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -2390,43 +2441,14 @@
         "excited",
         "tortured genius"
       ],
-      "rating": 8.557,
-      "vote_count": 8063,
+      "rating": 8.556,
+      "vote_count": 8065,
       "original_language": "en",
       "poster_path": "/tS3c86kDSlaSUDbjpGpxrQdXsx2.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1408-house/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 2316,
-      "title": "The Office",
-      "type": "tv",
-      "overview": "In der Papiergroßhandelsfirma Dunder Mifflin herrscht der alltägliche Bürowahnsinn. Verkaufsleiter Michael Scott hält sich für einen lustigen Entertainer und den besten Chef der Welt. Für weitere Egokrämpfe sorgt der pedantische Nerd Dwight Schrute, der um Michaels Posten buhlt. Zum bunten Büro-Team gehören u. a. der talentierte wie unterforderte Jim Halpert, die scheue Sekretärin Pam Beesly, der übermotivierte Ryan Howard sowie der spätere Regionalmanager Andy Bernard und die ehrgeizige Karrierefrau Karen Filippelli. Zusammen sabotieren sie die Langeweile und Arbeitspflicht des lästigen Alltags, der im fröhlichen Chaos versinkt.",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "office",
-        "work",
-        "boss",
-        "remake",
-        "employer employee relationship",
-        "sitcom",
-        "employment",
-        "workplace comedy"
-      ],
-      "rating": 8.58,
-      "vote_count": 5752,
-      "original_language": "en",
-      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/2316-the-office/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -2453,13 +2475,77 @@
         "cheerful"
       ],
       "rating": 7.984,
-      "vote_count": 2316,
+      "vote_count": 2317,
       "original_language": "ja",
       "poster_path": "/uoBwsiZNyOFDBh9WdDhpxc2JERM.jpg",
       "justwatch": "https://www.themoviedb.org/tv/60572-pokettomonsuta/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 79744,
+      "title": "The Rookie",
+      "type": "tv",
+      "overview": "In einem Alter, in dem sich andere zur Ruhe setzen wollen, tauscht John Nolan das beschauliche Kleinstadtleben gegen einen Neuanfang in Los Angeles ein: Er möchte seinen Lebenstraum verwirklichen und als Polizist arbeiten. Inmitten von Anwärtern in ihren 20ern muss sich Nolan nun als ältester Rookie des LAPD bewähren.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Komödie"
+      ],
+      "keywords": [
+        "police chase",
+        "los angeles, california",
+        "police officer",
+        "police detective",
+        "street crime",
+        "lapd",
+        "police training",
+        "crime investigation",
+        "dramedy",
+        "police department",
+        "procedural",
+        "police drama",
+        "cautionary",
+        "dramatic"
+      ],
+      "rating": 8.532,
+      "vote_count": 3633,
+      "original_language": "en",
+      "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": 4588,
+      "title": "Emergency Room – Die Notaufnahme",
+      "type": "tv",
+      "overview": "Die Notaufnahme eines städtischen Krankenhauses ist Schauplatz dieser packenden Serie. Sekundenschnell zu treffende Entscheidungen, Freude über gelungene Rettungsmaßnahmen und Trauer über vergebliche Versuche - der Alltag setzt den Ärzten und Schwestern zu. Die Arbeit unter hoher seelischer Anspannung beeinflusst auch ihr Privatleben, doch jeder verarbeitet den Druck auf seine Weise ...",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "chicago, illinois",
+        "hospital",
+        "doctor",
+        "surgical operation",
+        "emergency room",
+        "medical drama"
+      ],
+      "rating": 7.8,
+      "vote_count": 994,
+      "original_language": "en",
+      "poster_path": "/xbkzVdndgPogaF6EBNvKrAeAsJO.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/4588-er/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -2505,26 +2591,143 @@
       }
     },
     {
-      "tmdb_id": 4588,
-      "title": "Emergency Room – Die Notaufnahme",
+      "tmdb_id": 65494,
+      "title": "The Crown",
       "type": "tv",
-      "overview": "Die Notaufnahme eines städtischen Krankenhauses ist Schauplatz dieser packenden Serie. Sekundenschnell zu treffende Entscheidungen, Freude über gelungene Rettungsmaßnahmen und Trauer über vergebliche Versuche - der Alltag setzt den Ärzten und Schwestern zu. Die Arbeit unter hoher seelischer Anspannung beeinflusst auch ihr Privatleben, doch jeder verarbeitet den Druck auf seine Weise ...",
+      "overview": "Die politischen Rivalitäten und Romanzen während der Regentschaft von Elizabeth II. sowie die Ereignisse, die die 2. Hälfte des 20. Jh. prägten, sind Thema dieser Serie.",
       "genres": [
         "Drama"
       ],
       "keywords": [
-        "chicago, illinois",
-        "hospital",
-        "doctor",
-        "surgical operation",
-        "emergency room",
-        "medical drama"
+        "england",
+        "queen",
+        "prince",
+        "dynasty",
+        "royal family",
+        "princess",
+        "based on true story",
+        "royalty",
+        "based on play or musical",
+        "british politics",
+        "british history",
+        "palace intrigue",
+        "historical drama",
+        "thoughtful",
+        "british royal family",
+        "british monarchy",
+        "political",
+        "power",
+        "intimate"
       ],
-      "rating": 7.8,
-      "vote_count": 994,
+      "rating": 8.18,
+      "vote_count": 2487,
       "original_language": "en",
-      "poster_path": "/xbkzVdndgPogaF6EBNvKrAeAsJO.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/4588-er/watch?locale=DE",
+      "poster_path": "/1M876KPjulVwppEpldhdc8V4o68.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/65494-the-crown/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 194766,
+      "title": "Der Sommer, als ich schön wurde",
+      "type": "tv",
+      "overview": "Belly Conklin wird bald 16 und ist auf dem Weg zu ihrem Lieblingsort auf der Welt, Cousins Beach, um den Sommer mit ihrer Familie und den Fishers zu verbringen. Belly ist im letzten Jahr sehr erwachsen geworden, und sie spürt, dass dieser Sommer anders sein wird als all die Sommer zuvor.",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "love triangle",
+        "based on novel or book",
+        "friendship",
+        "romance",
+        "cancer",
+        "coming of age",
+        "female protagonist",
+        "family",
+        "teenage romance",
+        "teen drama",
+        "summer romance",
+        "based on young adult novel"
+      ],
+      "rating": 8,
+      "vote_count": 1166,
+      "original_language": "en",
+      "poster_path": "/keXRM5UccYbolBbvndx1hTWsOVi.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": "ZDF"
+      }
+    },
+    {
+      "tmdb_id": 1668,
+      "title": "Friends",
+      "type": "tv",
+      "overview": "Ross, Rachel,  Monica,  Chandler und Joey sind beste Freunde. Ob bei regelmäßigen Treffen im Café Central Perk oder in der WG mit den lilafarbenen Wänden, gemeinsam wird getratscht, gestritten und gelacht. Dabei ergeben sich im Laufe der Zeit immer wieder auch amouröse Verbindungen in und außerhalb der Gruppe, die zu Konflikten, aber auch zu herrlich romantischen Momenten führen. ",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "new york city",
+        "roommates",
+        "friendship",
+        "cafe",
+        "apartment building",
+        "group of friends",
+        "manhattan, new york city",
+        "sitcom",
+        "young adult",
+        "calm",
+        "searching for love",
+        "apartment",
+        "casual",
+        "best friends",
+        "joyful",
+        "sarcastic"
+      ],
+      "rating": 8.405,
+      "vote_count": 9627,
+      "original_language": "en",
+      "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1668-friends/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 69740,
+      "title": "Ozark",
+      "type": "tv",
+      "overview": "Ein Finanzberater zieht mit seiner Familie aus Chicago in die Ozarks in Missouri. Im Kampf gegen einen Drogenbaron muss er in fünf Jahren 500 Mio. US-Dollar waschen.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "money laundering",
+        "investigation",
+        "missouri",
+        "drug cartel",
+        "biting",
+        "kingpin",
+        "ozarks",
+        "bearer bonds",
+        "financial advisor",
+        "fbi agent",
+        "financial investor",
+        "bold"
+      ],
+      "rating": 8.192,
+      "vote_count": 3014,
+      "original_language": "en",
+      "poster_path": "/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/69740-ozark/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -2566,6 +2769,34 @@
       }
     },
     {
+      "tmdb_id": 1911,
+      "title": "Bones - Die Knochenjägerin",
+      "type": "tv",
+      "overview": "Dr. Temperance Brennan ist eine forensische Anthropologin und arbeitet am Jeffersonian Institut. Wegen ihrer unglaublichen Fähigkeit, Hinweise auf Opfer und Täter in den Überresten und Knochen der Leichen zu finden, wird sie von der Strafverfolgung engagiert. Zusammen mit dem ehemaligen Scharfschützen, Special Agent Seeley Booth, macht sie sich an die Arbeit um Verbrechen aufzuklären.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "washington dc, usa",
+        "fbi",
+        "forensic science",
+        "murder investigation",
+        "crime investigation",
+        "forensic archaeology"
+      ],
+      "rating": 8.166,
+      "vote_count": 3647,
+      "original_language": "en",
+      "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1911-bones/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
       "tmdb_id": 108978,
       "title": "Reacher",
       "type": "tv",
@@ -2589,7 +2820,7 @@
         "commanding"
       ],
       "rating": 8.127,
-      "vote_count": 3623,
+      "vote_count": 3624,
       "original_language": "en",
       "poster_path": "/n5qHxX9OybwH5EFfa5DEeXKFCCQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/108978-reacher/watch?locale=DE",
@@ -2600,64 +2831,75 @@
       }
     },
     {
-      "tmdb_id": 79744,
-      "title": "The Rookie",
+      "tmdb_id": 67744,
+      "title": "MINDHUNTER",
       "type": "tv",
-      "overview": "In einem Alter, in dem sich andere zur Ruhe setzen wollen, tauscht John Nolan das beschauliche Kleinstadtleben gegen einen Neuanfang in Los Angeles ein: Er möchte seinen Lebenstraum verwirklichen und als Polizist arbeiten. Inmitten von Anwärtern in ihren 20ern muss sich Nolan nun als ältester Rookie des LAPD bewähren.",
+      "overview": "Ein Agent einer FBI-Einheit für Serienverbrecher entwickelt bei der Jagd auf berüchtigte Serienmörder und Vergewaltiger komplexe Profiling-Techniken.",
       "genres": [
-        "Krimi",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "prison",
+        "based on novel or book",
+        "1970s",
+        "fbi",
+        "psychology",
+        "interview",
+        "psychopath",
+        "serial killer",
+        "murderer",
+        "true crime",
+        "rapist",
+        "police investigation",
+        "virginia",
+        "mysterious",
+        "quantico",
+        "complex",
+        "police profiling",
+        "dreary",
+        "police procedural",
+        "psychological",
+        "thriller",
+        "psychological profiling"
+      ],
+      "rating": 8.146,
+      "vote_count": 3230,
+      "original_language": "en",
+      "poster_path": "/mO0Q5Ly87qlP4U5xCUx1ENk2UCG.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/67744-mindhunter/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 34307,
+      "title": "Shameless - Nicht ganz nüchtern",
+      "type": "tv",
+      "overview": "Was für eine Familie! Frank Gallagher hat keine Frau mehr, dafür aber sechs Kinder – und jede Menge Probleme. Seine knapp bemessene Invalidenrente trägt er in die Kneipe seines besten Freundes Kevin, wenn er nicht gerade einer neuen Flamme nachstellt. Seinen bezaubernden Nachwuchs überlässt er derweil weitgehend sich selbst. Die Kleinen kommen erstaunlich gut zurecht, vor allem seine älteste Tochter Fiona kümmert sich nicht nur rührend um ihre Geschwister, sondern hält die Familie auch mit allerlei Nebenjobs über Wasser. Wenn ein Tag bei den Gallaghers mal ohne kleine oder größere Katastrophen vergeht, grenzt das trotzdem manchmal an ein Wunder.",
+      "genres": [
         "Drama",
         "Komödie"
       ],
       "keywords": [
-        "police chase",
-        "los angeles, california",
-        "police officer",
-        "police detective",
-        "street crime",
-        "lapd",
-        "police training",
-        "crime investigation",
-        "dramedy",
-        "police department",
-        "procedural",
-        "police drama",
-        "cautionary",
-        "dramatic"
-      ],
-      "rating": 8.532,
-      "vote_count": 3632,
-      "original_language": "en",
-      "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": 1911,
-      "title": "Bones - Die Knochenjägerin",
-      "type": "tv",
-      "overview": "Dr. Temperance Brennan ist eine forensische Anthropologin und arbeitet am Jeffersonian Institut. Wegen ihrer unglaublichen Fähigkeit, Hinweise auf Opfer und Täter in den Überresten und Knochen der Leichen zu finden, wird sie von der Strafverfolgung engagiert. Zusammen mit dem ehemaligen Scharfschützen, Special Agent Seeley Booth, macht sie sich an die Arbeit um Verbrechen aufzuklären.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "washington dc, usa",
-        "fbi",
-        "forensic science",
-        "murder investigation",
-        "crime investigation",
-        "forensic archaeology"
+        "sibling relationship",
+        "chicago, illinois",
+        "single parent",
+        "self-destruction",
+        "big family",
+        "remake",
+        "dysfunctional family",
+        "drugs",
+        "single father",
+        "alcoholic father"
       ],
       "rating": 8.166,
-      "vote_count": 3647,
+      "vote_count": 3604,
       "original_language": "en",
-      "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1911-bones/watch?locale=DE",
+      "poster_path": "/Yi3WVT6hOkPahOwwvmLmif1jhs.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
@@ -2687,46 +2929,14 @@
         "fantasy",
         "comedy"
       ],
-      "rating": 8.072,
-      "vote_count": 4721,
+      "rating": 8.1,
+      "vote_count": 4722,
       "original_language": "fr",
       "poster_path": "/2gIfJXgcz6N2wgOZ4qXoNKh0qFZ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 34307,
-      "title": "Shameless - Nicht ganz nüchtern",
-      "type": "tv",
-      "overview": "Was für eine Familie! Frank Gallagher hat keine Frau mehr, dafür aber sechs Kinder – und jede Menge Probleme. Seine knapp bemessene Invalidenrente trägt er in die Kneipe seines besten Freundes Kevin, wenn er nicht gerade einer neuen Flamme nachstellt. Seinen bezaubernden Nachwuchs überlässt er derweil weitgehend sich selbst. Die Kleinen kommen erstaunlich gut zurecht, vor allem seine älteste Tochter Fiona kümmert sich nicht nur rührend um ihre Geschwister, sondern hält die Familie auch mit allerlei Nebenjobs über Wasser. Wenn ein Tag bei den Gallaghers mal ohne kleine oder größere Katastrophen vergeht, grenzt das trotzdem manchmal an ein Wunder.",
-      "genres": [
-        "Drama",
-        "Komödie"
-      ],
-      "keywords": [
-        "sibling relationship",
-        "chicago, illinois",
-        "single parent",
-        "self-destruction",
-        "big family",
-        "remake",
-        "dysfunctional family",
-        "drugs",
-        "single father",
-        "alcoholic father"
-      ],
-      "rating": 8.166,
-      "vote_count": 3603,
-      "original_language": "en",
-      "poster_path": "/Yi3WVT6hOkPahOwwvmLmif1jhs.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -2783,38 +2993,10 @@
         "horror"
       ],
       "rating": 8.489,
-      "vote_count": 4470,
+      "vote_count": 4471,
       "original_language": "en",
       "poster_path": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "justwatch": "https://www.themoviedb.org/tv/124364-from/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 32692,
-      "title": "Blue Bloods",
-      "type": "tv",
-      "overview": "Familie Reagan teilt eine berufliche Leidenschaft: Großvater Henry ist der ehemalige Polizeichef New Yorks, Frank ist in die Fußstapfen seines Vaters getreten, und auch die dritte Generation der Reagans hat sich der Bekämpfung der Kriminalität in New York verschrieben. Während Danny für seine unkonventionellen Ermittlungsmethoden bekannt ist, versucht Polizeineuling Jamie, den Mord an seinem Bruder Joe aufzuklären.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "new york city",
-        "police",
-        "police station",
-        "police commissioner",
-        "police procedural",
-        "inspirational"
-      ],
-      "rating": 7.792,
-      "vote_count": 1050,
-      "original_language": "en",
-      "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/32692-blue-bloods/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -2836,8 +3018,8 @@
         "spin off",
         "crime investigation"
       ],
-      "rating": 8.421,
-      "vote_count": 2658,
+      "rating": 8.42,
+      "vote_count": 2659,
       "original_language": "en",
       "poster_path": "/xjaAEVaZEI8qmchnJmfhNdXDuuv.jpg",
       "justwatch": "https://www.themoviedb.org/tv/58841-chicago-p-d/watch?locale=DE",
@@ -2872,77 +3054,6 @@
       "providers": {
         "netflix": null,
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "type": "tv",
-      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "magic",
-        "vampire",
-        "based on manga",
-        "adventurer",
-        "globetrotting",
-        "shounen",
-        "anime",
-        "muscles",
-        "supernatural power",
-        "bizarre",
-        "adventure"
-      ],
-      "rating": 8.6,
-      "vote_count": 1714,
-      "original_language": "ja",
-      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/45790-jiyojiyono-qi-miao-na-mao-xian/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1668,
-      "title": "Friends",
-      "type": "tv",
-      "overview": "Ross, Rachel,  Monica,  Chandler und Joey sind beste Freunde. Ob bei regelmäßigen Treffen im Café Central Perk oder in der WG mit den lilafarbenen Wänden, gemeinsam wird getratscht, gestritten und gelacht. Dabei ergeben sich im Laufe der Zeit immer wieder auch amouröse Verbindungen in und außerhalb der Gruppe, die zu Konflikten, aber auch zu herrlich romantischen Momenten führen. ",
-      "genres": [
-        "Komödie"
-      ],
-      "keywords": [
-        "new york city",
-        "roommates",
-        "friendship",
-        "cafe",
-        "apartment building",
-        "group of friends",
-        "manhattan, new york city",
-        "sitcom",
-        "young adult",
-        "calm",
-        "searching for love",
-        "apartment",
-        "casual",
-        "best friends",
-        "joyful",
-        "sarcastic"
-      ],
-      "rating": 8.405,
-      "vote_count": 9626,
-      "original_language": "en",
-      "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1668-friends/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -2984,8 +3095,8 @@
         "thriller",
         "violent"
       ],
-      "rating": 9,
-      "vote_count": 19174,
+      "rating": 8.96,
+      "vote_count": 19179,
       "original_language": "en",
       "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "justwatch": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=DE",
@@ -3013,14 +3124,103 @@
         "super power",
         "origin story"
       ],
-      "rating": 8.188,
-      "vote_count": 4681,
+      "rating": 8.189,
+      "vote_count": 4684,
       "original_language": "en",
       "poster_path": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
       "justwatch": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "type": "tv",
+      "overview": "Im England des Jahres 1880 nimmt der Adlige George Joestar seinen neuen Adoptivsohn bei sich auf: den jungen Dio Brando, dessen Vater Georges Leben vor 12 Jahren gerettet hat. Doch statt friedlich in seinem neuen Heim einzuziehen, möchte der in Armut großgewordene Dio die Joestar-Familie zerstören und ihren Status für sich gewinnen. Was als simple Fehde mit Georges Sohn Jonathan beginnt, entwickelt sich bald zu einem Konflikt, welcher weit über 100 Jahre andauert und sämtliche Generationen der Joestars in den Kampf gegen Vampire, aztekische Gottheiten, Nazis und gewitzte Serienmörder schickt.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "magic",
+        "vampire",
+        "based on manga",
+        "adventurer",
+        "globetrotting",
+        "shounen",
+        "anime",
+        "muscles",
+        "supernatural power",
+        "bizarre",
+        "adventure"
+      ],
+      "rating": 8.6,
+      "vote_count": 1714,
+      "original_language": "ja",
+      "poster_path": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/45790-jiyojiyono-qi-miao-na-mao-xian/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 32692,
+      "title": "Blue Bloods",
+      "type": "tv",
+      "overview": "Familie Reagan teilt eine berufliche Leidenschaft: Großvater Henry ist der ehemalige Polizeichef New Yorks, Frank ist in die Fußstapfen seines Vaters getreten, und auch die dritte Generation der Reagans hat sich der Bekämpfung der Kriminalität in New York verschrieben. Während Danny für seine unkonventionellen Ermittlungsmethoden bekannt ist, versucht Polizeineuling Jamie, den Mord an seinem Bruder Joe aufzuklären.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "new york city",
+        "police",
+        "police station",
+        "police commissioner",
+        "police procedural",
+        "inspirational"
+      ],
+      "rating": 7.794,
+      "vote_count": 1051,
+      "original_language": "en",
+      "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/32692-blue-bloods/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 32798,
+      "title": "Hawaii Five-0",
+      "type": "tv",
+      "overview": "Im Mittelpunkt der Serie steht der hochdekorierte ehemalige Marineoffizier Steve McGarrett, der von der Gouverneurin von Hawaii mit der Bildung einer Sondereinheit zur Bekämpfung des organisierten Verbrechens beauftragt wird. Er rekrutiert den ehemaligen Polizisten Chin Ho Kelly, der nach ungerechtfertigten Bestechungsvorwürfen die Polizei verlassen musste, den Polizisten Danny \"Danno\" Williams, der seiner geschiedenen Frau und deren Tochter von New Jersey nach Hawaii gefolgt ist, und die junge Polizistin Kona \"Kono\" Kalakaua, die gerade ihre Ausbildung beendet hat und die Cousine von Chin ist. Sie nennen sich Five-0 und arbeiten gemeinsam an einer Vielzahl unterschiedlicher Kriminalfälle.",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "hawaii",
+        "remake",
+        "task force",
+        "criminal investigation"
+      ],
+      "rating": 7.733,
+      "vote_count": 1930,
+      "original_language": "en",
+      "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/32798-hawaii-five-0/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -3050,7 +3250,7 @@
         "spaceship"
       ],
       "rating": 8.679,
-      "vote_count": 11621,
+      "vote_count": 11622,
       "original_language": "en",
       "poster_path": "/kKsdvIOfWhqw5ZfAepi5EZqhrsP.jpg",
       "justwatch": "https://www.themoviedb.org/tv/60625-rick-and-morty/watch?locale=DE",
@@ -3061,29 +3261,32 @@
       }
     },
     {
-      "tmdb_id": 32798,
-      "title": "Hawaii Five-0",
+      "tmdb_id": 1402,
+      "title": "The Walking Dead",
       "type": "tv",
-      "overview": "Im Mittelpunkt der Serie steht der hochdekorierte ehemalige Marineoffizier Steve McGarrett, der von der Gouverneurin von Hawaii mit der Bildung einer Sondereinheit zur Bekämpfung des organisierten Verbrechens beauftragt wird. Er rekrutiert den ehemaligen Polizisten Chin Ho Kelly, der nach ungerechtfertigten Bestechungsvorwürfen die Polizei verlassen musste, den Polizisten Danny \"Danno\" Williams, der seiner geschiedenen Frau und deren Tochter von New Jersey nach Hawaii gefolgt ist, und die junge Polizistin Kona \"Kono\" Kalakaua, die gerade ihre Ausbildung beendet hat und die Cousine von Chin ist. Sie nennen sich Five-0 und arbeiten gemeinsam an einer Vielzahl unterschiedlicher Kriminalfälle.",
+      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
       "genres": [
-        "Krimi",
+        "Action & Adventure",
         "Drama",
-        "Action & Adventure"
+        "Sci-Fi & Fantasy"
       ],
       "keywords": [
-        "hawaii",
-        "remake",
-        "task force",
-        "criminal investigation"
+        "post-apocalyptic future",
+        "gore",
+        "undead",
+        "survival",
+        "zombie",
+        "based on graphic novel",
+        "horror"
       ],
-      "rating": 7.732,
-      "vote_count": 1929,
+      "rating": 8.1,
+      "vote_count": 18398,
       "original_language": "en",
-      "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/32798-hawaii-five-0/watch?locale=DE",
+      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -3128,36 +3331,6 @@
       }
     },
     {
-      "tmdb_id": 1402,
-      "title": "The Walking Dead",
-      "type": "tv",
-      "overview": "Nach einer weltweiten Zombie-Apokalypse sucht eine Gruppe Überlebender, unter Führung des Sheriffs Rick Grimes, nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann.",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "keywords": [
-        "post-apocalyptic future",
-        "gore",
-        "undead",
-        "survival",
-        "zombie",
-        "based on graphic novel",
-        "horror"
-      ],
-      "rating": 8.076,
-      "vote_count": 18398,
-      "original_language": "en",
-      "poster_path": "/7J5sJONPZuyNH9SuLYi4XvVUujk.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/1402-the-walking-dead/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
       "tmdb_id": 4087,
       "title": "Akte X - Die unheimlichen Fälle des FBI",
       "type": "tv",
@@ -3184,7 +3357,7 @@
         "fbi agent"
       ],
       "rating": 8.367,
-      "vote_count": 3802,
+      "vote_count": 3804,
       "original_language": "en",
       "poster_path": "/qouWZKZ1ygWkvqSgMQOMDei1kFX.jpg",
       "justwatch": "https://www.themoviedb.org/tv/4087-the-x-files/watch?locale=DE",
@@ -3212,7 +3385,7 @@
         "courtroom drama"
       ],
       "rating": 8.221,
-      "vote_count": 6053,
+      "vote_count": 6054,
       "original_language": "en",
       "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
       "justwatch": "https://www.themoviedb.org/tv/37680-suits/watch?locale=DE",
@@ -3220,42 +3393,6 @@
         "netflix": "flatrate",
         "prime": "flatrate",
         "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": 80748,
-      "title": "FBI",
-      "type": "tv",
-      "overview": "Die Agenten des New Yorker Büro des FBI arbeiten rund um die Uhr daran, die Stadt und ihr Land vor Terror, organisiertem Verbrechen und fremden Spionen zu beschützen. Unter der Leitung von Special Agent in Charge Dana Mosier setzt sich ihr Team aus verschiedenen Spezialisten mit einzigartigen Fähigkeiten zusammen.",
-      "genres": [
-        "Krimi",
-        "Action & Adventure",
-        "Drama"
-      ],
-      "keywords": [
-        "new york city",
-        "fbi",
-        "investigation",
-        "gunfight",
-        "foot chase",
-        "criminal investigation",
-        "gun shooting",
-        "special agent",
-        "police procedural",
-        "fbi agent",
-        "federal crime",
-        "crime",
-        "fbi operation"
-      ],
-      "rating": 7.916,
-      "vote_count": 975,
-      "original_language": "en",
-      "poster_path": "/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/80748-fbi/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
       }
     },
     {
@@ -3283,13 +3420,49 @@
         "based on tv series",
         "dramatic"
       ],
-      "rating": 8.021,
-      "vote_count": 1623,
+      "rating": 8.022,
+      "vote_count": 1624,
       "original_language": "en",
       "poster_path": "/5XRG2Mw87Jl0Sx9oomZH2BgI4Qu.jpg",
       "justwatch": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 80748,
+      "title": "FBI",
+      "type": "tv",
+      "overview": "Die Agenten des New Yorker Büro des FBI arbeiten rund um die Uhr daran, die Stadt und ihr Land vor Terror, organisiertem Verbrechen und fremden Spionen zu beschützen. Unter der Leitung von Special Agent in Charge Dana Mosier setzt sich ihr Team aus verschiedenen Spezialisten mit einzigartigen Fähigkeiten zusammen.",
+      "genres": [
+        "Krimi",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "keywords": [
+        "new york city",
+        "fbi",
+        "investigation",
+        "gunfight",
+        "foot chase",
+        "criminal investigation",
+        "gun shooting",
+        "special agent",
+        "police procedural",
+        "fbi agent",
+        "federal crime",
+        "crime",
+        "fbi operation"
+      ],
+      "rating": 7.918,
+      "vote_count": 976,
+      "original_language": "en",
+      "poster_path": "/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/80748-fbi/watch?locale=DE",
+      "providers": {
+        "netflix": null,
         "prime": "flatrate",
         "mediathek": null
       }
@@ -3323,43 +3496,11 @@
         "horror",
         "depressing"
       ],
-      "rating": 8.5,
-      "vote_count": 22183,
+      "rating": 8.54,
+      "vote_count": 22186,
       "original_language": "en",
       "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "justwatch": "https://www.themoviedb.org/tv/66732-stranger-things/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 4629,
-      "title": "Stargate",
-      "type": "tv",
-      "overview": "Die Fortsetzung des Films \"Stargate\" von 1994, beschreibt die weiteren Abenteuer des SGC (Stargate Command). Es stellt sich heraus, dass der Goa'uld Ra nur einer von vielen außerirdischen Herrschern war, der das Stargate zur Eroberung des Universum benutzte. Nach der vollständigen Entschlüsslung des Stargates, können nun Reisen ins ganze Universum unternommen werden. Das Militär sendet SG-Teams um diese neuen Welten zu erforschen, um neue Technologien zu entdecken und sich den Goa'uld zu stellen. Die Charakter Jack O'Neill and Daniel Jackson aus dem Film sind teil von SG-1. Begleitet werden sie von Sam Carter, einer Wissenschaftlerin, und Teal'c, einem Jaffa, der davon überzeugt ist, dass die Goa'uld keine Götter sind.",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "keywords": [
-        "wormhole",
-        "space travel",
-        "space",
-        "travel",
-        "alien",
-        "alien planet",
-        "military",
-        "distant  planet",
-        "secret military program",
-        "advanced ancient civilization"
-      ],
-      "rating": 8.26,
-      "vote_count": 1947,
-      "original_language": "en",
-      "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/4629-stargate-sg-1/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -3390,11 +3531,41 @@
         "elemental powers",
         "cheerful"
       ],
-      "rating": 7.976,
-      "vote_count": 804,
+      "rating": 7.979,
+      "vote_count": 805,
       "original_language": "en",
       "poster_path": "/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
       "justwatch": "https://www.themoviedb.org/tv/38693-ninjago-masters-of-spinjitzu/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 82104,
+      "title": "The Order",
+      "type": "tv",
+      "overview": "Um den Tod seiner Mutter zu rächen, tritt ein Student einem Geheimorden bei und gerät dabei in einem Krieg zwischen Werwölfen und dunkler Magie.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "keywords": [
+        "witch",
+        "magic",
+        "werewolf",
+        "teen drama",
+        "college student",
+        "supernatural power",
+        "dramatic"
+      ],
+      "rating": 7.597,
+      "vote_count": 954,
+      "original_language": "en",
+      "poster_path": "/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/82104-the-order/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -3430,48 +3601,6 @@
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 60059,
-      "title": "Better Call Saul",
-      "type": "tv",
-      "overview": "Jimmy McGill ist ein erfolgloser und schlecht verdienender Pflichtanwalt in Albuquerque, der seine Fälle meist unter ethischen Ansprüchen behandelt. Jimmy übt diesen Job jedoch nur noch aus, da er sich um seinen älteren Bruder Chuck, der einen psychischen Zusammenbruch erlitten hat, sorgen muss. Aus Geldmangel lässt er sich zu unsauberen Methoden hinreißen und gerät so selbst in Konflikt mit dem Gesetz.",
-      "genres": [
-        "Krimi",
-        "Drama"
-      ],
-      "keywords": [
-        "new mexico",
-        "moral conflict",
-        "crooked lawyer",
-        "prequel",
-        "romance",
-        "dark comedy",
-        "family relationships",
-        "tragedy",
-        "lawyer",
-        "brother against brother",
-        "spin off",
-        "neo-western",
-        "albuquerque, new mexico",
-        "criminal lawyer",
-        "fall from grace",
-        "neo-noir",
-        "mexican cartel",
-        "legal drama",
-        "gritty",
-        "offbeat"
-      ],
-      "rating": 8.7,
-      "vote_count": 7122,
-      "original_language": "en",
-      "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/60059-better-call-saul/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -3520,8 +3649,8 @@
         "enraged",
         "exhilarated"
       ],
-      "rating": 8.6,
-      "vote_count": 4753,
+      "rating": 8.575,
+      "vote_count": 4755,
       "original_language": "ja",
       "poster_path": "/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg",
       "justwatch": "https://www.themoviedb.org/tv/95479-zhou-shu-hui-zhan/watch?locale=DE",
@@ -3532,36 +3661,76 @@
       }
     },
     {
-      "tmdb_id": 76479,
-      "title": "The Boys",
+      "tmdb_id": 4629,
+      "title": "Stargate",
       "type": "tv",
-      "overview": "Eine ehrfurchtslose Interpretation dessen, was passiert, wenn Superhelden, die berühmt sind wie Stars, einflussreich sind wie Politiker und verehrt werden wie Götter, ihre Superkräfte missbrauchen, anstatt Gutes zu tun. Die Machtlosen stellen sich gegen die Übermächtigen, als The Boys versuchen, die Wahrheit über \"The Seven\" und Vought dahinter ans Licht zu bringen.",
+      "overview": "Die Fortsetzung des Films \"Stargate\" von 1994, beschreibt die weiteren Abenteuer des SGC (Stargate Command). Es stellt sich heraus, dass der Goa'uld Ra nur einer von vielen außerirdischen Herrschern war, der das Stargate zur Eroberung des Universum benutzte. Nach der vollständigen Entschlüsslung des Stargates, können nun Reisen ins ganze Universum unternommen werden. Das Militär sendet SG-Teams um diese neuen Welten zu erforschen, um neue Technologien zu entdecken und sich den Goa'uld zu stellen. Die Charakter Jack O'Neill and Daniel Jackson aus dem Film sind teil von SG-1. Begleitet werden sie von Sam Carter, einer Wissenschaftlerin, und Teal'c, einem Jaffa, der davon überzeugt ist, dass die Goa'uld keine Götter sind.",
       "genres": [
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
       "keywords": [
-        "corruption",
-        "satire",
-        "superhero",
-        "based on comic",
-        "gore",
-        "tragedy",
-        "evil corporation",
-        "super power",
-        "superhero team",
-        "misandry",
-        "violence",
-        "hilarious"
+        "wormhole",
+        "space travel",
+        "space",
+        "travel",
+        "alien",
+        "alien planet",
+        "military",
+        "distant  planet",
+        "secret military program",
+        "advanced ancient civilization"
       ],
-      "rating": 8.4,
-      "vote_count": 13703,
+      "rating": 8.261,
+      "vote_count": 1947,
       "original_language": "en",
-      "poster_path": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/76479-the-boys/watch?locale=DE",
+      "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/4629-stargate-sg-1/watch?locale=DE",
       "providers": {
-        "netflix": null,
-        "prime": "flatrate",
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 60059,
+      "title": "Better Call Saul",
+      "type": "tv",
+      "overview": "Jimmy McGill ist ein erfolgloser und schlecht verdienender Pflichtanwalt in Albuquerque, der seine Fälle meist unter ethischen Ansprüchen behandelt. Jimmy übt diesen Job jedoch nur noch aus, da er sich um seinen älteren Bruder Chuck, der einen psychischen Zusammenbruch erlitten hat, sorgen muss. Aus Geldmangel lässt er sich zu unsauberen Methoden hinreißen und gerät so selbst in Konflikt mit dem Gesetz.",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "keywords": [
+        "new mexico",
+        "moral conflict",
+        "crooked lawyer",
+        "prequel",
+        "romance",
+        "dark comedy",
+        "family relationships",
+        "tragedy",
+        "lawyer",
+        "brother against brother",
+        "spin off",
+        "neo-western",
+        "albuquerque, new mexico",
+        "criminal lawyer",
+        "fall from grace",
+        "neo-noir",
+        "mexican cartel",
+        "legal drama",
+        "gritty",
+        "offbeat"
+      ],
+      "rating": 8.7,
+      "vote_count": 7124,
+      "original_language": "en",
+      "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/60059-better-call-saul/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -3596,7 +3765,7 @@
         "ancient china",
         "based on light novel"
       ],
-      "rating": 8.669,
+      "rating": 8.668,
       "vote_count": 717,
       "original_language": "ja",
       "poster_path": "/6Ph6TDAUYPTYMXp7PhpIrcWxstn.jpg",
@@ -3630,8 +3799,8 @@
         "single mother",
         "mother daughter relationship"
       ],
-      "rating": 7.867,
-      "vote_count": 1348,
+      "rating": 7.865,
+      "vote_count": 1349,
       "original_language": "en",
       "poster_path": "/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
       "justwatch": "https://www.themoviedb.org/tv/4586-gilmore-girls/watch?locale=DE",
@@ -3670,8 +3839,8 @@
         "amused",
         "empathetic"
       ],
-      "rating": 8.019,
-      "vote_count": 3170,
+      "rating": 8.018,
+      "vote_count": 3171,
       "original_language": "en",
       "poster_path": "/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
       "justwatch": "https://www.themoviedb.org/tv/71728-young-sheldon/watch?locale=DE",
@@ -3714,7 +3883,7 @@
         "violent"
       ],
       "rating": 8.103,
-      "vote_count": 8044,
+      "vote_count": 8045,
       "original_language": "en",
       "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
       "justwatch": "https://www.themoviedb.org/tv/44217-vikings/watch?locale=DE",
@@ -3754,66 +3923,10 @@
         "enthusiastic"
       ],
       "rating": 8.528,
-      "vote_count": 8865,
+      "vote_count": 8866,
       "original_language": "ja",
       "poster_path": "/qOxedwaJzdms2alAmIEHEnDeDzg.jpg",
       "justwatch": "https://www.themoviedb.org/tv/31910-naruto-ji-feng-yun/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 120911,
-      "title": "The Terminal List – Die Abschussliste",
-      "type": "tv",
-      "overview": "Lt. Commander James Reece sinnt auf Rache, als er die mysteriösen Kräfte untersucht, die hinter dem Mord an seinem gesamten Zug stecken. Frei von der Kommandostruktur des Militärs wendet Reece die Lektionen an, die er in fast zwei Jahrzehnten Kriegsführung gelernt hat, um die Verantwortlichen zur Strecke zu bringen.",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "keywords": [
-        "central intelligence agency (cia)",
-        "based on novel or book",
-        "war veteran",
-        "u.s. navy seal",
-        "government conspiracy",
-        "spy thriller",
-        "vengeance",
-        "direct"
-      ],
-      "rating": 7.989,
-      "vote_count": 1359,
-      "original_language": "en",
-      "poster_path": "/unrIQnCLVtImAy9r58r0VqPMHfx.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/120911-the-terminal-list/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 269,
-      "title": "One Tree Hill",
-      "type": "tv",
-      "overview": "Tree Hill ist eine Kleinstadt. Vielleicht zu klein für die Halbbrüder Lucas und Nathan Scott, die außer ihrem Vater nicht viel gemein haben. Nathan ist der privilegierte Stammhalter, Lucas der uneheliche Sohn und Außenseiter – jetzt spielen sie beide im selben Highschool-Basketballteam.  Im Mittelpunkt der schicksalhaften Beziehung von Lucas und Nathan stehen die sportlichen Herausforderungen ebenso wie die Herzenangelegenheiten",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "sibling relationship",
-        "high school",
-        "basketball",
-        "teenage romance",
-        "teen drama"
-      ],
-      "rating": 7.8,
-      "vote_count": 643,
-      "original_language": "en",
-      "poster_path": "/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/269-one-tree-hill/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
@@ -3851,13 +3964,73 @@
         "adventure"
       ],
       "rating": 8.36,
-      "vote_count": 6202,
+      "vote_count": 6203,
       "original_language": "ja",
       "poster_path": "/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
       "justwatch": "https://www.themoviedb.org/tv/46260-naruto/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 269,
+      "title": "One Tree Hill",
+      "type": "tv",
+      "overview": "Tree Hill ist eine Kleinstadt. Vielleicht zu klein für die Halbbrüder Lucas und Nathan Scott, die außer ihrem Vater nicht viel gemein haben. Nathan ist der privilegierte Stammhalter, Lucas der uneheliche Sohn und Außenseiter – jetzt spielen sie beide im selben Highschool-Basketballteam.  Im Mittelpunkt der schicksalhaften Beziehung von Lucas und Nathan stehen die sportlichen Herausforderungen ebenso wie die Herzenangelegenheiten",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "sibling relationship",
+        "high school",
+        "basketball",
+        "teenage romance",
+        "teen drama"
+      ],
+      "rating": 7.8,
+      "vote_count": 643,
+      "original_language": "en",
+      "poster_path": "/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/269-one-tree-hill/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 76479,
+      "title": "The Boys",
+      "type": "tv",
+      "overview": "Eine ehrfurchtslose Interpretation dessen, was passiert, wenn Superhelden, die berühmt sind wie Stars, einflussreich sind wie Politiker und verehrt werden wie Götter, ihre Superkräfte missbrauchen, anstatt Gutes zu tun. Die Machtlosen stellen sich gegen die Übermächtigen, als The Boys versuchen, die Wahrheit über \"The Seven\" und Vought dahinter ans Licht zu bringen.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "keywords": [
+        "corruption",
+        "satire",
+        "superhero",
+        "based on comic",
+        "gore",
+        "tragedy",
+        "evil corporation",
+        "super power",
+        "superhero team",
+        "misandry",
+        "violence",
+        "hilarious"
+      ],
+      "rating": 8.422,
+      "vote_count": 13705,
+      "original_language": "en",
+      "poster_path": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/76479-the-boys/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -3888,103 +4061,39 @@
       }
     },
     {
-      "tmdb_id": 65494,
-      "title": "The Crown",
-      "type": "tv",
-      "overview": "Die politischen Rivalitäten und Romanzen während der Regentschaft von Elizabeth II. sowie die Ereignisse, die die 2. Hälfte des 20. Jh. prägten, sind Thema dieser Serie.",
+      "tmdb_id": 687163,
+      "title": "Der Astronaut – Project Hail Mary",
+      "type": "movie",
+      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
       "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "england",
-        "queen",
-        "prince",
-        "dynasty",
-        "royal family",
-        "princess",
-        "based on true story",
-        "royalty",
-        "based on play or musical",
-        "british politics",
-        "british history",
-        "palace intrigue",
-        "historical drama",
-        "thoughtful",
-        "british royal family",
-        "british monarchy",
-        "political",
-        "power",
-        "intimate"
-      ],
-      "rating": 8.2,
-      "vote_count": 2486,
-      "original_language": "en",
-      "poster_path": "/1M876KPjulVwppEpldhdc8V4o68.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/65494-the-crown/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 4556,
-      "title": "Scrubs – Die Anfänger",
-      "type": "tv",
-      "overview": "Der junge Mediziner John “J.D.” Dorian schlägt sich mit seinen Kollegen durch den chaotisch-skurrilen Krankenhausalltag. Dabei werden die jungen Ärzte von ihrem bösartigen Chef Dr. Kelso und dem hinterhältigen Hausmeister geplagt. Doch nicht nur der Job hält die Mediziner auf Trab – auch ihr Privatleben gerät immer wieder in Turbulenzen.",
-      "genres": [
-        "Komödie"
+        "Science Fiction",
+        "Abenteuer"
       ],
       "keywords": [
         "friendship",
-        "hospital",
-        "doctor",
-        "medical student",
-        "mental hospital",
-        "sitcom",
-        "dramedy",
-        "medical drama",
-        "workplace comedy"
-      ],
-      "rating": 8.153,
-      "vote_count": 323,
-      "original_language": "en",
-      "poster_path": "/z5Gd7XrweDeuxZohZWMHPMEM4h9.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/4556-scrubs/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 48866,
-      "title": "The 100",
-      "type": "tv",
-      "overview": "Vor 97 Jahren wurde der Planet Erde bei einer nuklearen Katastrophe fast vollständig zerstört und die gesamte Menschheit ausgelöscht – bis auf 400 Bewohner internationaler Raumstationen. Nun wurde bereits die dritte Generation geboren, was die Mitgliederzahl auf 2.700 anwachsen lässt und somit zur Ressourcenknappheit führt. Drakonische Maßnahmen sind die Folge, und so werden 100 jugendliche Sträflinge zurück auf die Erde verbannt um zu testen, ob diese mittlerweile wieder bewohnbar ist …",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Drama",
-        "Krimi"
-      ],
-      "keywords": [
+        "coma",
         "based on novel or book",
-        "self-discovery",
-        "space colony",
+        "bravery",
+        "sun",
+        "language barrier",
         "space travel",
-        "post-apocalyptic future",
+        "space mission",
+        "alien",
         "space",
-        "survival",
-        "apocalypse",
-        "nuclear catastrophe",
-        "based on young adult novel"
+        "memory loss",
+        "suicide mission",
+        "astronaut",
+        "scientist",
+        "science teacher",
+        "save the planet",
+        "spaceship",
+        "interspecies friendship"
       ],
-      "rating": 7.875,
-      "vote_count": 8901,
+      "rating": 8.6,
+      "vote_count": 9011,
       "original_language": "en",
-      "poster_path": "/f8SQDuoCrBChfCw3tKEsyoqmqoY.jpg",
-      "justwatch": "https://www.themoviedb.org/tv/48866-the-100/watch?locale=DE",
+      "poster_path": "/qUraey7aJVaqx6NhlXl5Q7Z1rEX.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -4025,8 +4134,8 @@
         "tokusatsu",
         "intense"
       ],
-      "rating": 7.63,
-      "vote_count": 3736,
+      "rating": 7.6,
+      "vote_count": 3741,
       "original_language": "ja",
       "poster_path": "/qLDYv9VSHEL7Jvo248bM2wXhR6p.jpg",
       "justwatch": "https://www.themoviedb.org/movie/940721-gojira-1-0/watch?locale=DE",
@@ -4070,7 +4179,7 @@
         "melodramatic"
       ],
       "rating": 8.1,
-      "vote_count": 9042,
+      "vote_count": 9047,
       "original_language": "en",
       "poster_path": "/zYLP7Uiqz6XqoiQLAu4XQ6DRUMz.jpg",
       "justwatch": "https://www.themoviedb.org/movie/693134-dune-part-two/watch?locale=DE",
@@ -4108,7 +4217,7 @@
         "dream"
       ],
       "rating": 8.373,
-      "vote_count": 40809,
+      "vote_count": 40812,
       "original_language": "en",
       "poster_path": "/t5WUY5ZSxwVIVExaMZmmIj88BKA.jpg",
       "justwatch": "https://www.themoviedb.org/movie/27205-inception/watch?locale=DE",
@@ -4149,7 +4258,7 @@
         "bold"
       ],
       "rating": 8.54,
-      "vote_count": 37466,
+      "vote_count": 37468,
       "original_language": "en",
       "poster_path": "/z1DfRQf2CgnROyhVZ6ch8FbWt71.jpg",
       "justwatch": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=DE",
@@ -4184,7 +4293,7 @@
         "anime"
       ],
       "rating": 8.537,
-      "vote_count": 19273,
+      "vote_count": 19276,
       "original_language": "ja",
       "poster_path": "/wWNLsGvKqhi6cNWul0uvhqbQ4kl.jpg",
       "justwatch": "https://www.themoviedb.org/movie/129-qian-to-qian-xun-no-shen-yin-shi/watch?locale=DE",
@@ -4235,7 +4344,7 @@
         "giant creature"
       ],
       "rating": 7.786,
-      "vote_count": 16025,
+      "vote_count": 16030,
       "original_language": "en",
       "poster_path": "/34Hr4bEzF30jd6sEvI4HihEUEI8.jpg",
       "justwatch": "https://www.themoviedb.org/movie/438631-dune/watch?locale=DE",
@@ -4282,50 +4391,10 @@
         "teen fantasy"
       ],
       "rating": 7.905,
-      "vote_count": 30679,
+      "vote_count": 30683,
       "original_language": "en",
       "poster_path": "/nKspzM3rVJASkT4CvZvuj9KDT7l.jpg",
       "justwatch": "https://www.themoviedb.org/movie/671-harry-potter-and-the-philosopher-s-stone/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1366,
-      "title": "Rocky",
-      "type": "movie",
-      "overview": "Rocky Balboa ist ein begnadeter Boxer. Doch der Weg zum Ruhm und dem großen Geld blieb ihm immer verwehrt. Als armer Geldeintreiber muss er ein schäbiges Dasein fristen. Da geschieht das Unglaubliche: Der Amateurboxer erhält die Möglichkeit, gegen den Schwergewichtsweltmeister Apollo Creed anzutreten. Was als PR-Gag geplant ist, entpuppt sich als brutaler und gnadenloser Kampf, denn der ehrgeizige Rocky will sich die Chance seines Lebens von niemandem nehmen lassen …",
-      "genres": [
-        "Drama"
-      ],
-      "keywords": [
-        "underdog",
-        "philadelphia, pennsylvania",
-        "transporter",
-        "love of one's life",
-        "italian american",
-        "sports",
-        "fight",
-        "independence",
-        "publicity",
-        "boxer",
-        "training",
-        "lovers",
-        "world champion",
-        "victory",
-        "surprise",
-        "boxing",
-        "inspirational",
-        "empathetic",
-        "hopeful"
-      ],
-      "rating": 7.8,
-      "vote_count": 9132,
-      "original_language": "en",
-      "poster_path": "/1mcJmdbRLusxhoSGjFI3pbEboXt.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -4355,8 +4424,8 @@
         "taisho period",
         "trilogy"
       ],
-      "rating": 8.8,
-      "vote_count": 2403,
+      "rating": 8.801,
+      "vote_count": 2404,
       "original_language": "ja",
       "poster_path": "/cqlahADJmDdqQvLAPuEYD6EKPAN.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=DE",
@@ -4411,12 +4480,52 @@
         "hobbit"
       ],
       "rating": 8.452,
-      "vote_count": 28947,
+      "vote_count": 28951,
       "original_language": "en",
       "poster_path": "/k6lw7hhaMDzJ170bfZfBbnipxcW.jpg",
       "justwatch": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1366,
+      "title": "Rocky",
+      "type": "movie",
+      "overview": "Rocky Balboa ist ein begnadeter Boxer. Doch der Weg zum Ruhm und dem großen Geld blieb ihm immer verwehrt. Als armer Geldeintreiber muss er ein schäbiges Dasein fristen. Da geschieht das Unglaubliche: Der Amateurboxer erhält die Möglichkeit, gegen den Schwergewichtsweltmeister Apollo Creed anzutreten. Was als PR-Gag geplant ist, entpuppt sich als brutaler und gnadenloser Kampf, denn der ehrgeizige Rocky will sich die Chance seines Lebens von niemandem nehmen lassen …",
+      "genres": [
+        "Drama"
+      ],
+      "keywords": [
+        "underdog",
+        "philadelphia, pennsylvania",
+        "transporter",
+        "love of one's life",
+        "italian american",
+        "sports",
+        "fight",
+        "independence",
+        "publicity",
+        "boxer",
+        "training",
+        "lovers",
+        "world champion",
+        "victory",
+        "surprise",
+        "boxing",
+        "inspirational",
+        "empathetic",
+        "hopeful"
+      ],
+      "rating": 7.804,
+      "vote_count": 9134,
+      "original_language": "en",
+      "poster_path": "/1mcJmdbRLusxhoSGjFI3pbEboXt.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=DE",
+      "providers": {
+        "netflix": null,
         "prime": "flatrate",
         "mediathek": null
       }
@@ -4459,7 +4568,7 @@
         "gloomy"
       ],
       "rating": 7.675,
-      "vote_count": 12948,
+      "vote_count": 12951,
       "original_language": "en",
       "poster_path": "/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg",
       "justwatch": "https://www.themoviedb.org/movie/414906-the-batman/watch?locale=DE",
@@ -4495,7 +4604,7 @@
         "self destructiveness"
       ],
       "rating": 8.437,
-      "vote_count": 33418,
+      "vote_count": 33420,
       "original_language": "en",
       "poster_path": "/5sLBZtBzmL9Xd5MdGyqymgM9kPY.jpg",
       "justwatch": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=DE",
@@ -4568,8 +4677,8 @@
         "epic fantasy",
         "hobbit"
       ],
-      "rating": 8.508,
-      "vote_count": 27895,
+      "rating": 8.509,
+      "vote_count": 27899,
       "original_language": "en",
       "poster_path": "/uFjlP9U9UOZAzGB25HUtmlEpXbc.jpg",
       "justwatch": "https://www.themoviedb.org/movie/122-the-lord-of-the-rings-the-return-of-the-king/watch?locale=DE",
@@ -4605,7 +4714,7 @@
         "teen fantasy"
       ],
       "rating": 7.8,
-      "vote_count": 22987,
+      "vote_count": 22990,
       "original_language": "en",
       "poster_path": "/y3n0fN5uL417gd6LVtReKbYowIt.jpg",
       "justwatch": "https://www.themoviedb.org/movie/674-harry-potter-and-the-goblet-of-fire/watch?locale=DE",
@@ -4645,7 +4754,7 @@
         "adventure"
       ],
       "rating": 8.391,
-      "vote_count": 11697,
+      "vote_count": 11699,
       "original_language": "ja",
       "poster_path": "/tXB5bdKfLI3XGrmJqaEh0kTKmH6.jpg",
       "justwatch": "https://www.themoviedb.org/movie/4935-hauruno-dong-ku-cheng/watch?locale=DE",
@@ -4691,7 +4800,7 @@
         "teen fantasy"
       ],
       "rating": 7.7,
-      "vote_count": 21092,
+      "vote_count": 21094,
       "original_language": "en",
       "poster_path": "/lwkSGuc2A6G69UtGotpADTaK6vQ.jpg",
       "justwatch": "https://www.themoviedb.org/movie/12444-harry-potter-and-the-deathly-hallows-part-1/watch?locale=DE",
@@ -4729,13 +4838,59 @@
         "slow burn"
       ],
       "rating": 7.615,
-      "vote_count": 16069,
+      "vote_count": 16075,
       "original_language": "en",
       "poster_path": "/xJBwhH1oquzufluJhcENpuHp0im.jpg",
       "justwatch": "https://www.themoviedb.org/movie/335984-blade-runner-2049/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 672,
+      "title": "Harry Potter und die Kammer des Schreckens",
+      "type": "movie",
+      "overview": "Harry Potter könnte sich schönere Sommerferien vorstellen: Einerseits erträgt er nur schwer den herrischen Ton im Haus von Tante Petunia und Onkel Vernon Dursley, denen seine Zauberkunst nicht geheuer ist, andererseits haben ihn seine besten Freunde Ron Weasley und Hermine Granger offenbar vergessen, denn sie beantworten keinen seiner Briefe. Plötzlich taucht der geheimnisvolle Haus-Elf Dobby in Harrys Schlafzimmer auf und warnt ihn: Falls Harry nach Hogwarts zurückkehrt, schwebt er in großer Gefahr. Dobby will den jungen Gryffindor unbedingt davon abhalten, weiter auf die Schule für Hexerei und Zauberei zu gehen – deswegen hat er dafür gesorgt, dass Rons und Hermines Briefe nicht ankommen. Doch was der boshafte Elf auch anstellt – Harry lässt sich nicht beirren.",
+      "genres": [
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "keywords": [
+        "witch",
+        "flying car",
+        "based on novel or book",
+        "elves",
+        "magic",
+        "sword",
+        "diary",
+        "child hero",
+        "school of witchcraft",
+        "giant spider",
+        "black magic",
+        "giant snake",
+        "sequel",
+        "ghost",
+        "nostalgic",
+        "child driving car",
+        "wizard",
+        "aftercreditsstinger",
+        "complex",
+        "based on young adult novel",
+        "admiring",
+        "amused",
+        "teen fantasy",
+        "supernatural mystery"
+      ],
+      "rating": 7.7,
+      "vote_count": 24453,
+      "original_language": "en",
+      "poster_path": "/eZy8E8F85DXZX3yFk2bYzMNYJKG.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/672-harry-potter-and-the-chamber-of-secrets/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -4778,57 +4933,11 @@
         "enchant",
         "teen fantasy"
       ],
-      "rating": 8,
-      "vote_count": 24033,
+      "rating": 8.015,
+      "vote_count": 24036,
       "original_language": "en",
       "poster_path": "/ea3aGUyIFhvd4EqZKX5TkWzd9ml.jpg",
       "justwatch": "https://www.themoviedb.org/movie/673-harry-potter-and-the-prisoner-of-azkaban/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 672,
-      "title": "Harry Potter und die Kammer des Schreckens",
-      "type": "movie",
-      "overview": "Harry Potter könnte sich schönere Sommerferien vorstellen: Einerseits erträgt er nur schwer den herrischen Ton im Haus von Tante Petunia und Onkel Vernon Dursley, denen seine Zauberkunst nicht geheuer ist, andererseits haben ihn seine besten Freunde Ron Weasley und Hermine Granger offenbar vergessen, denn sie beantworten keinen seiner Briefe. Plötzlich taucht der geheimnisvolle Haus-Elf Dobby in Harrys Schlafzimmer auf und warnt ihn: Falls Harry nach Hogwarts zurückkehrt, schwebt er in großer Gefahr. Dobby will den jungen Gryffindor unbedingt davon abhalten, weiter auf die Schule für Hexerei und Zauberei zu gehen – deswegen hat er dafür gesorgt, dass Rons und Hermines Briefe nicht ankommen. Doch was der boshafte Elf auch anstellt – Harry lässt sich nicht beirren.",
-      "genres": [
-        "Abenteuer",
-        "Fantasy"
-      ],
-      "keywords": [
-        "witch",
-        "flying car",
-        "based on novel or book",
-        "elves",
-        "magic",
-        "sword",
-        "diary",
-        "child hero",
-        "school of witchcraft",
-        "giant spider",
-        "black magic",
-        "giant snake",
-        "sequel",
-        "ghost",
-        "nostalgic",
-        "child driving car",
-        "wizard",
-        "aftercreditsstinger",
-        "complex",
-        "based on young adult novel",
-        "admiring",
-        "amused",
-        "teen fantasy",
-        "supernatural mystery"
-      ],
-      "rating": 7.7,
-      "vote_count": 24450,
-      "original_language": "en",
-      "poster_path": "/eZy8E8F85DXZX3yFk2bYzMNYJKG.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/672-harry-potter-and-the-chamber-of-secrets/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -4864,14 +4973,68 @@
         "intense action thriller",
         "siege situation"
       ],
-      "rating": 7.688,
-      "vote_count": 2056,
+      "rating": 7.683,
+      "vote_count": 2061,
       "original_language": "en",
       "poster_path": "/fz8fhY5xuE6NenYDuBsHbB7wUdj.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1290821-shelter/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 803796,
+      "title": "KPop Demon Hunters",
+      "type": "movie",
+      "overview": "Wenn die K-Pop-Superstars Rumi, Mira und Zoey nicht gerade vor ausverkauften Stadien auftreten, setzen sie ihre geheimen Kräfte gegen übernatürliche Bedrohungen ein.",
+      "genres": [
+        "Fantasy",
+        "Musik",
+        "Komödie",
+        "Animation"
+      ],
+      "keywords": [
+        "double life",
+        "loyalty",
+        "supernatural",
+        "musical",
+        "female friendship",
+        "female protagonist",
+        "demon",
+        "self-doubt",
+        "sing-along",
+        "girl power",
+        "duringcreditsstinger",
+        "demon hunter",
+        "girl group",
+        "boy band",
+        "fandom",
+        "k-pop",
+        "chibi",
+        "action comedy",
+        "found family",
+        "south korea",
+        "korean",
+        "3d animation",
+        "half demon",
+        "save the world",
+        "self-redemption",
+        "ramen noodles",
+        "k-pop group",
+        "trio",
+        "hidden secret",
+        "animesque"
+      ],
+      "rating": 7.965,
+      "vote_count": 3387,
+      "original_language": "en",
+      "poster_path": "/3Ps8dRYdD4kcJQACirB2Vfqs01c.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -4921,105 +5084,13 @@
         "hobbit"
       ],
       "rating": 8.434,
-      "vote_count": 25049,
+      "vote_count": 25052,
       "original_language": "en",
       "poster_path": "/tgBCeAjPwXeUaf8LsRL0LzBIcdR.jpg",
       "justwatch": "https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": "flatrate",
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1007757,
-      "title": "Swapped – Getauscht",
-      "type": "movie",
-      "overview": "Ein winziger Waldbewohner und ein majestätischer Vogel tauschen plötzlich die Körper und müssen gemeinsam das wildeste Abenteuer ihres Lebens überstehen.",
-      "genres": [
-        "Abenteuer",
-        "Animation",
-        "Familie",
-        "Fantasy"
-      ],
-      "keywords": [
-        "wolf",
-        "buddy",
-        "body swap",
-        "forest fire",
-        "zealous",
-        "woodlands",
-        "forest lore",
-        "bird",
-        "3d animation",
-        "admiring",
-        "ambivalent",
-        "bewildered",
-        "enchant",
-        "animal adventure"
-      ],
-      "rating": 8.827,
-      "vote_count": 2310,
-      "original_language": "en",
-      "poster_path": "/4yhSZS01r0hrGI9guzKjhmXKUgB.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1007757-swapped/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 803796,
-      "title": "KPop Demon Hunters",
-      "type": "movie",
-      "overview": "Wenn die K-Pop-Superstars Rumi, Mira und Zoey nicht gerade vor ausverkauften Stadien auftreten, setzen sie ihre geheimen Kräfte gegen übernatürliche Bedrohungen ein.",
-      "genres": [
-        "Fantasy",
-        "Musik",
-        "Komödie",
-        "Animation"
-      ],
-      "keywords": [
-        "double life",
-        "loyalty",
-        "supernatural",
-        "musical",
-        "female friendship",
-        "female protagonist",
-        "demon",
-        "self-doubt",
-        "sing-along",
-        "girl power",
-        "duringcreditsstinger",
-        "demon hunter",
-        "girl group",
-        "boy band",
-        "fandom",
-        "k-pop",
-        "chibi",
-        "action comedy",
-        "found family",
-        "south korea",
-        "korean",
-        "3d animation",
-        "half demon",
-        "save the world",
-        "self-redemption",
-        "ramen noodles",
-        "k-pop group",
-        "trio",
-        "hidden secret",
-        "animesque"
-      ],
-      "rating": 7.966,
-      "vote_count": 3385,
-      "original_language": "en",
-      "poster_path": "/3Ps8dRYdD4kcJQACirB2Vfqs01c.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
         "mediathek": null
       }
     },
@@ -5055,13 +5126,51 @@
         "teen fantasy"
       ],
       "rating": 8.1,
-      "vote_count": 22788,
+      "vote_count": 22790,
       "original_language": "en",
       "poster_path": "/AmcYjc7HtNGnelhCU2YYbbVdtBH.jpg",
       "justwatch": "https://www.themoviedb.org/movie/12445-harry-potter-and-the-deathly-hallows-part-2/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1007757,
+      "title": "Swapped – Getauscht",
+      "type": "movie",
+      "overview": "Ein winziger Waldbewohner und ein majestätischer Vogel tauschen plötzlich die Körper und müssen gemeinsam das wildeste Abenteuer ihres Lebens überstehen.",
+      "genres": [
+        "Abenteuer",
+        "Animation",
+        "Familie",
+        "Fantasy"
+      ],
+      "keywords": [
+        "wolf",
+        "buddy",
+        "body swap",
+        "forest fire",
+        "zealous",
+        "woodlands",
+        "forest lore",
+        "bird",
+        "3d animation",
+        "admiring",
+        "ambivalent",
+        "bewildered",
+        "enchant",
+        "animal adventure"
+      ],
+      "rating": 8.827,
+      "vote_count": 2311,
+      "original_language": "en",
+      "poster_path": "/4yhSZS01r0hrGI9guzKjhmXKUgB.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1007757-swapped/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
         "mediathek": null
       }
     },
@@ -5092,14 +5201,66 @@
         "veteran soldier",
         "remote outpost"
       ],
-      "rating": 7.51,
-      "vote_count": 2756,
+      "rating": 7.509,
+      "vote_count": 2758,
       "original_language": "en",
       "poster_path": "/sNnIZ06lIU8TnnlOT7tK87C9bPj.jpg",
       "justwatch": "https://www.themoviedb.org/movie/1265609-war-machine/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 98,
+      "title": "Gladiator",
+      "type": "movie",
+      "overview": "Der gefeierte römische Feldherr Maximus wird vom sterbenden Kaiser Marcus Aurelius gebeten, seine Nachfolge anzutreten. Um dies zu verhindern, tötet Aurelius’ Sohn seinen Vater und ordnet die Exekution von Maximus und seiner Familie an. Maximus gelingt die Flucht. Verwundet wird er von einem Sklavenhändler gefangen genommen und muss sich fortan als Gladiator beweisen. Als Kampfmaschine hat er schließlich nur noch ein Ziel: Rache an seinem Peiniger zu nehmen …",
+      "genres": [
+        "Action",
+        "Drama",
+        "Abenteuer"
+      ],
+      "keywords": [
+        "gladiator",
+        "rome, italy",
+        "arena",
+        "senate",
+        "roman empire",
+        "parent child relationship",
+        "emperor",
+        "slavery",
+        "ancient rome",
+        "revenge",
+        "battlefield",
+        "slave auction",
+        "historical fiction",
+        "ancient world",
+        "period drama",
+        "combat",
+        "chariot",
+        "philosopher",
+        "aggressive",
+        "grim",
+        "barbarian horde",
+        "2nd century",
+        "successor",
+        "commodus",
+        "maximus",
+        "antiquity",
+        "intense",
+        "vibrant",
+        "gladiador"
+      ],
+      "rating": 8.234,
+      "vote_count": 21930,
+      "original_language": "en",
+      "poster_path": "/32wJunadteAxUkXnbQ1lHjjp5pa.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/98-gladiator/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -5135,7 +5296,7 @@
         "teen fantasy"
       ],
       "rating": 7.7,
-      "vote_count": 21488,
+      "vote_count": 21490,
       "original_language": "en",
       "poster_path": "/bQNaLipvCgPvbXnyrJcGVOQyifD.jpg",
       "justwatch": "https://www.themoviedb.org/movie/767-harry-potter-and-the-half-blood-prince/watch?locale=DE",
@@ -5182,7 +5343,7 @@
         "teen fantasy"
       ],
       "rating": 7.7,
-      "vote_count": 21527,
+      "vote_count": 21528,
       "original_language": "en",
       "poster_path": "/4Hg0ut5IcaTVGa4OR5Rhjak6R7H.jpg",
       "justwatch": "https://www.themoviedb.org/movie/675-harry-potter-and-the-order-of-the-phoenix/watch?locale=DE",
@@ -5193,51 +5354,39 @@
       }
     },
     {
-      "tmdb_id": 98,
-      "title": "Gladiator",
+      "tmdb_id": 36557,
+      "title": "James Bond 007 - Casino Royale",
       "type": "movie",
-      "overview": "Der gefeierte römische Feldherr Maximus wird vom sterbenden Kaiser Marcus Aurelius gebeten, seine Nachfolge anzutreten. Um dies zu verhindern, tötet Aurelius’ Sohn seinen Vater und ordnet die Exekution von Maximus und seiner Familie an. Maximus gelingt die Flucht. Verwundet wird er von einem Sklavenhändler gefangen genommen und muss sich fortan als Gladiator beweisen. Als Kampfmaschine hat er schließlich nur noch ein Ziel: Rache an seinem Peiniger zu nehmen …",
+      "overview": "Sein erster Auftrag, nachdem er die Lizenz zum Töten erhalten hat, führt den MI6-Agenten James Bond nach Madagaskar, wo er auf den Terroristen Mollaka angesetzt wird. Zwar verläuft nicht alles nach Plan, doch als Bond auf eigene Faust weiter ermittelt, kommt er auf die Spur von Le Chiffre, dem Bankier einer weltweit operierenden Terror-Organisation. Dieser plant, das Vermögen seiner Organisation durch ein illegales Pokerspiel im „Casino Royale“ in Montenegro um ein Vielfaches zu erhöhen, wofür natürlich auch ein hoher Einsatz nötig ist. Der MI6 sieht daher die Chance, die Terroristen in den finanziellen Ruin zu treiben und beauftragt James Bond, die Pläne von Le Chiffre zunichte zu machen.",
       "genres": [
+        "Abenteuer",
         "Action",
-        "Drama",
-        "Abenteuer"
+        "Thriller"
       ],
       "keywords": [
-        "gladiator",
-        "rome, italy",
-        "arena",
-        "senate",
-        "roman empire",
-        "parent child relationship",
-        "emperor",
-        "slavery",
-        "ancient rome",
-        "revenge",
-        "battlefield",
-        "slave auction",
-        "historical fiction",
-        "ancient world",
-        "period drama",
-        "combat",
-        "chariot",
-        "philosopher",
-        "aggressive",
-        "grim",
-        "barbarian horde",
-        "2nd century",
-        "successor",
-        "commodus",
-        "maximus",
-        "antiquity",
-        "intense",
-        "vibrant",
-        "gladiador"
+        "banker",
+        "casino",
+        "based on novel or book",
+        "poker",
+        "italy",
+        "spy",
+        "money",
+        "torture",
+        "terrorism",
+        "mi6",
+        "british secret service",
+        "montenegro",
+        "dramatic",
+        "suspenseful",
+        "action",
+        "adventure",
+        "earnest"
       ],
-      "rating": 8.234,
-      "vote_count": 21927,
+      "rating": 7.581,
+      "vote_count": 12265,
       "original_language": "en",
-      "poster_path": "/32wJunadteAxUkXnbQ1lHjjp5pa.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/98-gladiator/watch?locale=DE",
+      "poster_path": "/uvigE215SzXdsEFPN0XRFR9RPiA.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/36557-casino-royale/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -5282,53 +5431,13 @@
         "bold"
       ],
       "rating": 7.781,
-      "vote_count": 19626,
+      "vote_count": 19627,
       "original_language": "en",
       "poster_path": "/tpRAuDh3V7TOMepHlwGsXSgmqlA.jpg",
       "justwatch": "https://www.themoviedb.org/movie/808-shrek/watch?locale=DE",
       "providers": {
         "netflix": "flatrate",
         "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 36557,
-      "title": "James Bond 007 - Casino Royale",
-      "type": "movie",
-      "overview": "Sein erster Auftrag, nachdem er die Lizenz zum Töten erhalten hat, führt den MI6-Agenten James Bond nach Madagaskar, wo er auf den Terroristen Mollaka angesetzt wird. Zwar verläuft nicht alles nach Plan, doch als Bond auf eigene Faust weiter ermittelt, kommt er auf die Spur von Le Chiffre, dem Bankier einer weltweit operierenden Terror-Organisation. Dieser plant, das Vermögen seiner Organisation durch ein illegales Pokerspiel im „Casino Royale“ in Montenegro um ein Vielfaches zu erhöhen, wofür natürlich auch ein hoher Einsatz nötig ist. Der MI6 sieht daher die Chance, die Terroristen in den finanziellen Ruin zu treiben und beauftragt James Bond, die Pläne von Le Chiffre zunichte zu machen.",
-      "genres": [
-        "Abenteuer",
-        "Action",
-        "Thriller"
-      ],
-      "keywords": [
-        "banker",
-        "casino",
-        "based on novel or book",
-        "poker",
-        "italy",
-        "spy",
-        "money",
-        "torture",
-        "terrorism",
-        "mi6",
-        "british secret service",
-        "montenegro",
-        "dramatic",
-        "suspenseful",
-        "action",
-        "adventure",
-        "earnest"
-      ],
-      "rating": 7.581,
-      "vote_count": 12263,
-      "original_language": "en",
-      "poster_path": "/uvigE215SzXdsEFPN0XRFR9RPiA.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/36557-casino-royale/watch?locale=DE",
-      "providers": {
-        "netflix": null,
-        "prime": "flatrate",
         "mediathek": null
       }
     },
@@ -5368,7 +5477,7 @@
         "adventure"
       ],
       "rating": 8.322,
-      "vote_count": 9488,
+      "vote_count": 9489,
       "original_language": "ja",
       "poster_path": "/vFRKcH8zDqEx4nUnm0cs5lh5wwj.jpg",
       "justwatch": "https://www.themoviedb.org/movie/128-mononoke-ji/watch?locale=DE",
@@ -5379,33 +5488,36 @@
       }
     },
     {
-      "tmdb_id": 1010581,
-      "title": "Culpa Mia - Meine Schuld",
+      "tmdb_id": 370172,
+      "title": "James Bond 007 - Keine Zeit zu sterben",
       "type": "movie",
-      "overview": "Noah muss ihre Stadt, ihren Freund und ihre Freunde hinter sich lassen und in die Villa des neuen reichen Ehemanns ihrer Mutter ziehen. Dort lernt sie Nick, ihren neuen Stiefbruder, kennen. Sie verlieben sich heimlich unsterblich ineinander.",
+      "overview": "James Bond hat seine Lizenz zum Töten im Auftrag des britischen Geheimdienstes abgegeben und genießt seinen Ruhestand in Jamaika. Die friedliche Zeit nimmt ein unerwartetes Ende, als sein alter CIA-Kollege Felix Leiter auftaucht und ihn um Hilfe bittet. Ein bedeutender Wissenschaftler ist entführt worden und muss so schnell wie möglich gefunden werden. Was als simple Rettungsmission beginnt, erreicht bald einen bedrohlichen Wendepunkt, denn Bond kommt einem geheimnisvollen Gegenspieler auf die Spur, der im Besitz einer brandgefährlichen neuen Technologie ist.",
       "genres": [
-        "Drama",
-        "Liebesfilm",
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Abenteuer"
       ],
       "keywords": [
-        "first time",
-        "forbidden love",
-        "stepbrother",
-        "female protagonist",
-        "underage sex",
-        "stepsister",
-        "based on young adult novel",
-        "enemies to lovers",
-        "passion and romance",
-        "car",
-        "step-sibling romance"
+        "biological weapon",
+        "based on novel or book",
+        "parent child relationship",
+        "forgiveness",
+        "poison",
+        "spy",
+        "mi6",
+        "family",
+        "british secret service",
+        "parents",
+        "global threat",
+        "somber",
+        "nanobots",
+        "bold"
       ],
-      "rating": 7.716,
-      "vote_count": 4242,
-      "original_language": "es",
-      "poster_path": "/slzaPwGjl1eejJQYDVykq3UWK9M.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1010581-culpa-mia/watch?locale=DE",
+      "rating": 7.335,
+      "vote_count": 7598,
+      "original_language": "en",
+      "poster_path": "/bqq2dlwWAm5O5RVPGHVwwxhESK1.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/370172-no-time-to-die/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -5413,137 +5525,46 @@
       }
     },
     {
-      "tmdb_id": 8392,
-      "title": "Mein Nachbar Totoro",
+      "tmdb_id": 122917,
+      "title": "Der Hobbit - Die Schlacht der fünf Heere",
       "type": "movie",
-      "overview": "Die 8-jährige Satsuki und ihre kleine Schwester Mei ziehen mit ihrem Vater, einem Universitätsprofessor, auf das Land. Sie wollen in der Nähe ihrer Mutter sein, die sich in einem nahe gelegenen Krankenhaus von einer schweren Krankheit erholt. Ihr neues Zuhause ist ein altes Bauernhaus, das einige Zeit unbewohnt war. Beim Spielen auf dem Hof entdeckt die kleine Mei eines Tages ein winziges Wesen mit einem Sack, das Eicheln sammelt. Sie folgt ihm in den Wald und klettert durch das Gestrüpp. Plötzlich fällt sie in ein Loch im Stamm eines riesigen Baumes. Am Ende des Loches trifft sie auf den fest schlafenden Totoro, eine riesige fellige Kreatur, die fast so groß ist wie ein kleines Haus. Die Kinder freunden sich schnell mit dem magischen Wesen an und erleben gemeinsam mit ihm viele tolle Abenteuer.",
+      "overview": "Nachdem Smaug besiegt wurde, sitzt Thorin endlich auf dem Zwergenthron und hat sein Reich wieder. Doch der Kampf gegen den Drachen hat Spuren hinterlassen. Die Stadt Esgaroth wurde zerstört, ihre Bewohner sind nun obdachlos. Doch Thorin verweigert jede Hilfe genauso wie die Rückgabe von Teilen des Schatzes, die Smaug gestohlen hatte. Hobbit Bilbo versucht zwischen Zwergen, Elben und den Bürgern zu vermitteln, doch vergeblich. Thorin hält ihn für einen Verräter und auch Gandalf kann nichts mehr ausrichten. Es wird aufgerüstet und bald stehen sich die Armeen gegenüber…",
       "genres": [
-        "Fantasy",
-        "Animation",
-        "Familie"
-      ],
-      "keywords": [
-        "mother",
-        "sibling relationship",
-        "village",
-        "leave",
-        "rural area",
-        "hospital",
-        "new neighbor",
-        "new home",
-        "super power",
-        "nostalgic",
-        "magical creature",
-        "anime",
-        "sick mother",
-        "whimsical",
-        "magical realism",
-        "rural japan"
-      ],
-      "rating": 8.07,
-      "vote_count": 9276,
-      "original_language": "ja",
-      "poster_path": "/bPBYikmzC8vP1Njdm6iUQv8eTKD.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/8392-tonarinototoro/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 1233413,
-      "title": "Blood & Sinners",
-      "type": "movie",
-      "overview": "Beim Versuch, ihr von Problemen geplagtes Leben hinter sich zu lassen, kehren Zwillingsbrüder in ihre Heimatstadt zurück, um dort einen Neuanfang zu wagen. Doch schon bald müssen sie feststellen, dass bei ihrer Rückkehr ein noch größeres Übel auf sie wartet.",
-      "genres": [
-        "Horror",
         "Action",
-        "Thriller"
+        "Abenteuer",
+        "Fantasy"
       ],
       "keywords": [
-        "chicago, illinois",
-        "capitalism",
-        "ku klux klan",
-        "musician",
-        "immortality",
-        "vampire",
-        "cousin",
-        "surrealism",
-        "sin",
-        "alcoholism",
-        "vampire hunter (slayer)",
-        "church",
-        "twins",
-        "blunt",
-        "estranged wife",
-        "dual role",
-        "cousin relationship",
-        "death of daughter",
-        "blues music",
-        "aftercreditsstinger",
-        "klansmen",
-        "1990s",
-        "1930s",
-        "salvation",
-        "assimilation",
-        "chinese immigrant",
-        "brother brother relationship",
-        "southern gothic",
-        "afro-descendants",
-        "supernatural horror",
-        "playful",
-        "train station",
-        "mississippi",
-        "frightened"
-      ],
-      "rating": 7.521,
-      "vote_count": 5610,
-      "original_language": "en",
-      "poster_path": "/prlk4Qnuw2cGyc7Plsoqq1ldPsZ.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/1233413-sinners/watch?locale=DE",
-      "providers": {
-        "netflix": "flatrate",
-        "prime": null,
-        "mediathek": null
-      }
-    },
-    {
-      "tmdb_id": 228150,
-      "title": "Herz aus Stahl",
-      "type": "movie",
-      "overview": "April 1945: Die Alliierten starten im Zweiten Weltkrieg ihre finale Offensive gegen Nazi-Deutschland. Ganz vorne dabei ist ein Sherman-Panzer, der von seiner Crew liebevoll \"Fury\" getauft wurde. Angeführt wird die fünfköpfige Truppe vom kampferprobten Sergeant Wardaddy, der den Krieg bestens kennt und schon viele Schlachten geschlagen hat. Immer weiter stoßen er und seine Männer ins feindliche Gebiet vor und finden sich bald in einer gefährlichen Lage wieder. Denn plötzlich sind sie in der Unterzahl, mit dem jungen Norman Ellison ist zudem erst kürzlich ein Rookie zum Team gestoßen. Doch gegen jede Wahrscheinlichkeit wollen die tapferen Männer ein weiteres Mal bestehen und Nazi-Deutschland mitten ins Herz treffen.",
-      "genres": [
-        "Kriegsfilm",
-        "Drama",
-        "Action"
-      ],
-      "keywords": [
-        "hero",
-        "nazi",
-        "ambush",
-        "bravery",
-        "world war ii",
-        "heroism",
-        "tank",
-        "europe",
-        "execution",
+        "gold",
+        "corruption",
+        "based on novel or book",
+        "elves",
+        "dwarf",
+        "mine",
+        "mountain",
+        "sequel",
+        "troll",
+        "dragon",
         "battle",
-        "brutality",
-        "hatred",
-        "tank battle",
-        "1940s",
-        "enclosed space",
-        "beating the odds",
-        "european theatre",
-        "exhilarated",
-        "tanks"
+        "unlikely friendship",
+        "fantasy world",
+        "wizard",
+        "epic battle",
+        "ring",
+        "invisibility",
+        "live action and animation",
+        "high fantasy",
+        "sword and sorcery",
+        "dreary",
+        "good versus evil",
+        "armies",
+        "hobbit"
       ],
-      "rating": 7.546,
-      "vote_count": 13462,
+      "rating": 7.342,
+      "vote_count": 16028,
       "original_language": "en",
-      "poster_path": "/8vctPE05o44k4RnM2HK4sC3uUBW.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/228150-fury/watch?locale=DE",
+      "poster_path": "/mNZ4MxL0KdW9VBMXSAhiiGFDYaa.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/122917-the-hobbit-the-battle-of-the-five-armies/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -5602,7 +5623,7 @@
         "subjective"
       ],
       "rating": 8.2,
-      "vote_count": 19732,
+      "vote_count": 19735,
       "original_language": "en",
       "poster_path": "/gbmXTxJWfI6Fd4C2bJqzgHiXWUU.jpg",
       "justwatch": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=DE",
@@ -5613,46 +5634,75 @@
       }
     },
     {
-      "tmdb_id": 122917,
-      "title": "Der Hobbit - Die Schlacht der fünf Heere",
+      "tmdb_id": 228150,
+      "title": "Herz aus Stahl",
       "type": "movie",
-      "overview": "Nachdem Smaug besiegt wurde, sitzt Thorin endlich auf dem Zwergenthron und hat sein Reich wieder. Doch der Kampf gegen den Drachen hat Spuren hinterlassen. Die Stadt Esgaroth wurde zerstört, ihre Bewohner sind nun obdachlos. Doch Thorin verweigert jede Hilfe genauso wie die Rückgabe von Teilen des Schatzes, die Smaug gestohlen hatte. Hobbit Bilbo versucht zwischen Zwergen, Elben und den Bürgern zu vermitteln, doch vergeblich. Thorin hält ihn für einen Verräter und auch Gandalf kann nichts mehr ausrichten. Es wird aufgerüstet und bald stehen sich die Armeen gegenüber…",
+      "overview": "April 1945: Die Alliierten starten im Zweiten Weltkrieg ihre finale Offensive gegen Nazi-Deutschland. Ganz vorne dabei ist ein Sherman-Panzer, der von seiner Crew liebevoll \"Fury\" getauft wurde. Angeführt wird die fünfköpfige Truppe vom kampferprobten Sergeant Wardaddy, der den Krieg bestens kennt und schon viele Schlachten geschlagen hat. Immer weiter stoßen er und seine Männer ins feindliche Gebiet vor und finden sich bald in einer gefährlichen Lage wieder. Denn plötzlich sind sie in der Unterzahl, mit dem jungen Norman Ellison ist zudem erst kürzlich ein Rookie zum Team gestoßen. Doch gegen jede Wahrscheinlichkeit wollen die tapferen Männer ein weiteres Mal bestehen und Nazi-Deutschland mitten ins Herz treffen.",
       "genres": [
-        "Action",
-        "Abenteuer",
-        "Fantasy"
+        "Kriegsfilm",
+        "Drama",
+        "Action"
       ],
       "keywords": [
-        "gold",
-        "corruption",
-        "based on novel or book",
-        "elves",
-        "dwarf",
-        "mine",
-        "mountain",
-        "sequel",
-        "troll",
-        "dragon",
+        "hero",
+        "nazi",
+        "ambush",
+        "bravery",
+        "world war ii",
+        "heroism",
+        "tank",
+        "europe",
+        "execution",
         "battle",
-        "unlikely friendship",
-        "fantasy world",
-        "wizard",
-        "epic battle",
-        "ring",
-        "invisibility",
-        "live action and animation",
-        "high fantasy",
-        "sword and sorcery",
-        "dreary",
-        "good versus evil",
-        "armies",
-        "hobbit"
+        "brutality",
+        "hatred",
+        "tank battle",
+        "1940s",
+        "enclosed space",
+        "beating the odds",
+        "european theatre",
+        "exhilarated",
+        "tanks"
       ],
-      "rating": 7.342,
-      "vote_count": 16027,
+      "rating": 7.546,
+      "vote_count": 13465,
       "original_language": "en",
-      "poster_path": "/mNZ4MxL0KdW9VBMXSAhiiGFDYaa.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/122917-the-hobbit-the-battle-of-the-five-armies/watch?locale=DE",
+      "poster_path": "/8vctPE05o44k4RnM2HK4sC3uUBW.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/228150-fury/watch?locale=DE",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 1010581,
+      "title": "Culpa Mia - Meine Schuld",
+      "type": "movie",
+      "overview": "Noah muss ihre Stadt, ihren Freund und ihre Freunde hinter sich lassen und in die Villa des neuen reichen Ehemanns ihrer Mutter ziehen. Dort lernt sie Nick, ihren neuen Stiefbruder, kennen. Sie verlieben sich heimlich unsterblich ineinander.",
+      "genres": [
+        "Drama",
+        "Liebesfilm",
+        "Thriller"
+      ],
+      "keywords": [
+        "first time",
+        "forbidden love",
+        "stepbrother",
+        "female protagonist",
+        "underage sex",
+        "stepsister",
+        "based on young adult novel",
+        "enemies to lovers",
+        "passion and romance",
+        "car",
+        "step-sibling romance"
+      ],
+      "rating": 7.714,
+      "vote_count": 4243,
+      "original_language": "es",
+      "poster_path": "/slzaPwGjl1eejJQYDVykq3UWK9M.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1010581-culpa-mia/watch?locale=DE",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
@@ -5691,7 +5741,7 @@
         "tyrannical ruler"
       ],
       "rating": 7.642,
-      "vote_count": 24998,
+      "vote_count": 24999,
       "original_language": "en",
       "poster_path": "/6zI7lI5Usf5z6wXH9KPWvGWvKS7.jpg",
       "justwatch": "https://www.themoviedb.org/movie/76341-mad-max-fury-road/watch?locale=DE",
@@ -5702,40 +5752,213 @@
       }
     },
     {
-      "tmdb_id": 370172,
-      "title": "James Bond 007 - Keine Zeit zu sterben",
+      "tmdb_id": 1233413,
+      "title": "Blood & Sinners",
       "type": "movie",
-      "overview": "James Bond hat seine Lizenz zum Töten im Auftrag des britischen Geheimdienstes abgegeben und genießt seinen Ruhestand in Jamaika. Die friedliche Zeit nimmt ein unerwartetes Ende, als sein alter CIA-Kollege Felix Leiter auftaucht und ihn um Hilfe bittet. Ein bedeutender Wissenschaftler ist entführt worden und muss so schnell wie möglich gefunden werden. Was als simple Rettungsmission beginnt, erreicht bald einen bedrohlichen Wendepunkt, denn Bond kommt einem geheimnisvollen Gegenspieler auf die Spur, der im Besitz einer brandgefährlichen neuen Technologie ist.",
+      "overview": "Beim Versuch, ihr von Problemen geplagtes Leben hinter sich zu lassen, kehren Zwillingsbrüder in ihre Heimatstadt zurück, um dort einen Neuanfang zu wagen. Doch schon bald müssen sie feststellen, dass bei ihrer Rückkehr ein noch größeres Übel auf sie wartet.",
       "genres": [
+        "Horror",
         "Action",
-        "Thriller",
-        "Abenteuer"
+        "Thriller"
       ],
       "keywords": [
-        "biological weapon",
-        "based on novel or book",
-        "parent child relationship",
-        "forgiveness",
-        "poison",
-        "spy",
-        "mi6",
-        "family",
-        "british secret service",
-        "parents",
-        "global threat",
-        "somber",
-        "nanobots",
-        "bold"
+        "chicago, illinois",
+        "capitalism",
+        "ku klux klan",
+        "musician",
+        "immortality",
+        "vampire",
+        "cousin",
+        "surrealism",
+        "sin",
+        "alcoholism",
+        "vampire hunter (slayer)",
+        "church",
+        "twins",
+        "blunt",
+        "estranged wife",
+        "dual role",
+        "cousin relationship",
+        "death of daughter",
+        "blues music",
+        "aftercreditsstinger",
+        "klansmen",
+        "1990s",
+        "1930s",
+        "salvation",
+        "assimilation",
+        "chinese immigrant",
+        "brother brother relationship",
+        "southern gothic",
+        "afro-descendants",
+        "supernatural horror",
+        "playful",
+        "train station",
+        "mississippi",
+        "frightened"
       ],
-      "rating": 7.335,
-      "vote_count": 7597,
+      "rating": 7.522,
+      "vote_count": 5613,
       "original_language": "en",
-      "poster_path": "/bqq2dlwWAm5O5RVPGHVwwxhESK1.jpg",
-      "justwatch": "https://www.themoviedb.org/movie/370172-no-time-to-die/watch?locale=DE",
+      "poster_path": "/prlk4Qnuw2cGyc7Plsoqq1ldPsZ.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/1233413-sinners/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 324786,
+      "title": "Hacksaw Ridge - Die Entscheidung",
+      "type": "movie",
+      "overview": "Die wahre Geschichte über den amerikanischen Army-Sanitäter Desmond T. Doss, der sich im Zweiten Weltkrieg freiwillig als Soldat meldete, aber keine Waffen tragen wollte. Zunächst für seine Weigerung vors Kriegsgericht gestellt, durfte er schließlich doch am Pazifikkrieg teilnehmen. Während eines Angriffes auf seine Einheit wuchs er über sich hinaus und rettete im Kampf um Okinawa ohne fremde Hilfe und unter ständiger Bedrohung durch den Gegner mehr als 75 seiner Kameraden vor dem Tod. Hierfür wurde ihm als erstem Soldaten, der den Dienst an der Waffe verweigerte, die „Medal of Honor“ verliehen.",
+      "genres": [
+        "Drama",
+        "Historie",
+        "Kriegsfilm"
+      ],
+      "keywords": [
+        "japan",
+        "hero",
+        "world war ii",
+        "abusive father",
+        "pacifism",
+        "bible",
+        "gore",
+        "vegetarian",
+        "biography",
+        "based on true story",
+        "okinawa",
+        "conscientious objector",
+        "religion",
+        "soldier",
+        "alcoholic",
+        "war hero",
+        "pacifist",
+        "medic",
+        "us military",
+        "battle of okinawa",
+        "congressional medal of honor",
+        "admiring",
+        "combat medic",
+        "weaponless",
+        "seventh-day adventists"
+      ],
+      "rating": 8.192,
+      "vote_count": 15551,
+      "original_language": "en",
+      "poster_path": "/7E5XUlhcka6iTIFTrA4K7SkM1cd.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/324786-hacksaw-ridge/watch?locale=DE",
+      "providers": {
+        "netflix": "flatrate",
+        "prime": null,
+        "mediathek": null
+      }
+    },
+    {
+      "tmdb_id": 4556,
+      "title": "Scrubs – Die Anfänger",
+      "type": "tv",
+      "overview": "Der junge Mediziner John “J.D.” Dorian schlägt sich mit seinen Kollegen durch den chaotisch-skurrilen Krankenhausalltag. Dabei werden die jungen Ärzte von ihrem bösartigen Chef Dr. Kelso und dem hinterhältigen Hausmeister geplagt. Doch nicht nur der Job hält die Mediziner auf Trab – auch ihr Privatleben gerät immer wieder in Turbulenzen.",
+      "genres": [
+        "Komödie"
+      ],
+      "keywords": [
+        "friendship",
+        "hospital",
+        "doctor",
+        "medical student",
+        "mental hospital",
+        "sitcom",
+        "dramedy",
+        "medical drama",
+        "workplace comedy"
+      ],
+      "rating": 8.15,
+      "vote_count": 324,
+      "poster_path": "/z5Gd7XrweDeuxZohZWMHPMEM4h9.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/4556-scrubs/watch?locale=DE",
+      "original_language": "en",
       "providers": {
         "netflix": null,
         "prime": "flatrate",
         "mediathek": null
+      },
+      "buzz": {
+        "source": "Serienjunkies",
+        "url": "https://www.serienjunkies.de/news/serien/watchlist-blade-runner-2099-scrubs-und-brad-pitt-als-cliff-booth-94602665.html",
+        "mentions": 2
+      }
+    },
+    {
+      "tmdb_id": 60585,
+      "title": "Bosch",
+      "type": "tv",
+      "overview": "Im Mittelpunkt des Procedurals steht Harry Bosch, ein Golfkrieg-Veteran und Detective beim LAPD, wo er für Mord- und Raubfälle zuständig ist, wie wir im ersten Bosch-Roman „The Black Echo“ erfahren. In diesem wird er zur Hollywood-Division versetzt, nachdem er den Hauptverdächtigen der sogenannten Dollmaker-Serienmorde umgebracht hat. Gemeinsam mit seinem Partner Jerry Edgar macht er sich an einen Fall, der den Tod eines Kriegskameraden sowie einen Bankraub verbindet.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Krimi"
+      ],
+      "keywords": [
+        "police",
+        "los angeles, california",
+        "murder investigation",
+        "lapd",
+        "homicide detective",
+        "neo-noir",
+        "murder suspect",
+        "father daughter relationship"
+      ],
+      "rating": 7.926,
+      "vote_count": 784,
+      "poster_path": "/vtacLvdLgW3BNUj8DrC76X39Lfi.jpg",
+      "justwatch": "https://www.themoviedb.org/tv/60585-bosch/watch?locale=DE",
+      "original_language": "en",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Serienjunkies",
+        "url": "https://www.serienjunkies.de/news/serien/southland-realistische-us-polizeiserie-als-tipp-fuer-krimifans-94605658.html",
+        "mentions": 1
+      }
+    },
+    {
+      "tmdb_id": 458991,
+      "title": "Heal",
+      "type": "movie",
+      "overview": "Ein Dokumentarfilm, der uns auf eine wissenschaftliche und spirituelle Reise mitnimmt, auf der wir entdecken, dass der menschliche Körper sich selbst von jeder Krankheit heilen kann, indem er seine Wahrnehmung ändert.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "yoga",
+        "health",
+        "spiritual",
+        "healing process",
+        "healing",
+        "mind alteration",
+        "spiritual teachers",
+        "healing journeys"
+      ],
+      "rating": 7.261,
+      "vote_count": 71,
+      "poster_path": "/cUKnUVQuWjxgjfMU2wzWUwOqEFS.jpg",
+      "justwatch": "https://www.themoviedb.org/movie/458991-heal/watch?locale=DE",
+      "original_language": "en",
+      "providers": {
+        "netflix": null,
+        "prime": "flatrate",
+        "mediathek": null
+      },
+      "buzz": {
+        "source": "Serienjunkies",
+        "url": "https://www.serienjunkies.de/news/serien/bbc-doku-heal-mit-prinzessin-kate-starttermin-und-hintergruende-94604515.html",
+        "mentions": 1
       }
     },
     {
@@ -6061,6 +6284,30 @@
       "original_language": "ga"
     },
     {
+      "tmdb_id": 1000837,
+      "title": "Für immer hier",
+      "type": "movie",
+      "overview": "Rio de Janeiro, Anfang der 1970er Jahre. In einem gemieteten Haus am Strand lebt die Familie Paiva: Vater Rubens, Mutter Eunice und ihre fünf Kinder.  Auch mit der allgegenwärtigen Unterdrückung bewahren sie in ihrem Zuhause eine Atmosphäre der Liebe, des Humors und der Offenheit. Ihre Zuneigung zueinander wird zu einem stillen Akt des Widerstands gegen die Diktatur, die ihr Leben radikal verändert. Als Rubens verschwindet, wird Eunice zur treibenden Kraft, um ihrer Familie eine neue Zukunft aufzubauen. Den Herausforderungen dieser dunklen Zeit begegnet sie mit Mut, Entschlossenheit und dem unerschütterlichen Glauben an ihre Kinder. Diese bewegende Geschichte wirft ein Licht auf die verschwiegenen Kapitel der brasilianischen Geschichte und würdigt die Stärke einer Frau, die trotz widrigster Umstände niemals aufgibt.",
+      "genres": [
+        "Drama",
+        "Historie"
+      ],
+      "keywords": [
+        "Kino - Filme"
+      ],
+      "rating": 7.91,
+      "vote_count": 1224,
+      "poster_path": "/saC3QJopNnyMQ7V8YnRQBIPx24T.jpg",
+      "url": "https://www.arte.tv/de/videos/128668-000-A/fuer-immer-hier/",
+      "duration": 7800,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      },
+      "original_language": "pt"
+    },
+    {
       "tmdb_id": 4620,
       "title": "EUReKA - Die geheime Stadt",
       "type": "tv",
@@ -6109,30 +6356,6 @@
       "original_language": "it"
     },
     {
-      "tmdb_id": 33408,
-      "title": "Das Biest",
-      "type": "movie",
-      "overview": "Als der junge Journalist Nick Eliot in das Haus eines Ehepaars einzieht, in dem das Paar zusammen mit der 14jährigen Tochter lebt, dauert es nicht lange, bis die Kleine sich in ihn verliebt. Als er ihr aber klarmacht, dass er nicht an ihr interessiert ist, zeigt das kleine „Biest“, mit welchen Waffen einer Frau auch sie in ihren jungen Jahren schon kämpfen kann.",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": 6.7,
-      "vote_count": 603,
-      "poster_path": "/jbr4wpy21saxm2S4iGSLXM7B6jY.jpg",
-      "url": "https://www.arte.tv/de/videos/123314-000-A/das-biest/",
-      "duration": 8414,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      },
-      "original_language": "en"
-    },
-    {
       "tmdb_id": 795889,
       "title": "Die Saat",
       "type": "movie",
@@ -6179,31 +6402,6 @@
         "mediathek": "arte"
       },
       "original_language": "fr"
-    },
-    {
-      "tmdb_id": 15196,
-      "title": "Alle Mörder sind schon da",
-      "type": "movie",
-      "overview": "Das weltberühmte Brettspiel Cluedo stand Pate für diese mörderische Komödie. Hat Colonel Mustard den Mord im Arbeitszimmer mit dem Revolver begangen? War es Miss Scarlet im Billard-Zimmer mit einem Strick oder gar Wadsworth, der Butler?",
-      "genres": [
-        "Komödie",
-        "Krimi",
-        "Mystery"
-      ],
-      "keywords": [
-        "Kino - Filme"
-      ],
-      "rating": 7.2,
-      "vote_count": 2132,
-      "poster_path": "/weYd9sj2MD7QtHszwIU1TL8MhC3.jpg",
-      "url": "https://www.arte.tv/de/videos/080085-000-A/alle-moerder-sind-schon-da/",
-      "duration": 5479,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "arte"
-      },
-      "original_language": "en"
     },
     {
       "tmdb_id": null,
@@ -6383,6 +6581,28 @@
     },
     {
       "tmdb_id": null,
+      "title": "Richter und Psychiater, im Herzen zerrissener Familien",
+      "type": "tv",
+      "overview": "Dokumentarfilme von «Play Suisse», die ein Fenster in die anderen Sprachregionen der Schweiz öffnen – in Originalsprache mit deutschen Untertiteln. Es sind Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz: nah dran – und so vielfältig wie das Land.",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Dokumentationen in anderen Landessprachen von Play Suisse"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.srf.ch/play/tv/dokumentationen-in-anderen-landessprachen-von-play-suisse/video/richter-und-psychiater-im-herzen-zerrissener-familien?urn=urn:srf:video:b608a6da-8ccb-46a1-93b7-8b44a5e495d6",
+      "duration": 3141,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "SRF"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "50 Jahre Roland Kaiser – Ein Leben für die Musik",
       "type": "tv",
       "overview": "Roland Kaiser – ein Phänomen. Seit Jahrzehnten begeistert der Sänger ein Riesenpublikum. Der Konzertfilm dokumentiert seinen Auftritt in der ausverkauften Arena in Leipzig im Juli 2024.",
@@ -6395,7 +6615,7 @@
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/dokumentation-104/50-jahre-roland-kaiser--ein-leben-fuer-die-musik-100",
+      "url": "https://www.zdf.de/video/konzerte/50-jahre-roland-kaiser--ein-leben-fuer-die-musik-movie-100/50-jahre-roland-kaiser--ein-leben-fuer-die-musik-100",
       "duration": 7102,
       "providers": {
         "netflix": null,
@@ -6625,24 +6845,46 @@
     },
     {
       "tmdb_id": null,
-      "title": "Mitten in Deutschland: NSU - Die Ermittler - Nur für den Dienstgebrauch",
+      "title": "Lebensgefühl Angeln · Am Wasser zuhause",
       "type": "tv",
-      "overview": "Mitten in Deutschland NSU T3 - Die Ermittler",
+      "overview": "Ein Platz am Ufer, die Rute im Wasser, für einen Moment zählt nur der Augenblick. Für immer mehr junge Menschen ist Angeln weit mehr als ein Hobby. Es steht für Ruhe, Naturerlebnis und Gemeinschaft. Die BR-Dokumentation \"Lebensgefühl Angeln – Am Wasser zuhause\" begleitet Menschen, für die das Leben am Wasser zur Leidenschaft geworden ist, und zeigt, warum besonders junge Menschen das Angeln neu für sich entdecken....",
       "genres": [
         "Dokumentarfilm"
       ],
       "keywords": [
-        "Dokumentationen"
+        "Dokus & Reportagen im BR"
       ],
       "rating": null,
       "vote_count": 0,
       "poster_path": null,
-      "url": "https://www.phoenix.de/sendungen/dokumentationen/mitten-in-deutschland-nsu-a-5244125.html",
-      "duration": 5501,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNldPMDAxNDA5QTA",
+      "duration": 2607,
       "providers": {
         "netflix": null,
         "prime": null,
-        "mediathek": "Phoenix"
+        "mediathek": "ARD"
+      }
+    },
+    {
+      "tmdb_id": null,
+      "title": "Wildesten Weihnachtshäuser - Folge 1: Die defekte Fernsteuerung",
+      "type": "tv",
+      "overview": "Alle Jahre wieder verwandeln wahre Weihnachtsfans in Baden-Württemberg und Rheinland-Pfalz ihre Häuser in funkelnde Winterwunderländer - doch hinter der leuchtenden Kulisse steckt harter Einsatz. In Grünstadt erschaffen Stefan und Manfred Scharffenberger jedes Jahr ein \"Winter Wonderland\" mit rund 150.000 Lichtern. Schon im Herbst beginnen Vater und Sohn mit dem Aufbau, doch kurz vor dem Fest kann ein einziger Defekt alles lahmlegen....",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Doku & Reportage"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNjU5NjI",
+      "duration": 2670,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "ARD"
       }
     },
     {
@@ -6753,72 +6995,6 @@
         "netflix": null,
         "prime": null,
         "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Am Limit: Adrenalin & Leidenschaft - Am Limit - Episode 3",
-      "type": "tv",
-      "overview": "Auf der Piste zählen Hundertstel, daneben Wein, Musik und große Emotionen. Clément Noël bereitet sich auf Val d’Isère vor, Emma Aicher trifft Mikaela Shiffrin und Dominik Paris setzt auf Heavy Metal.",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Sport Dokus"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.zdf.de/video/dokus/am-limit-skistars-hautnah-100/am-limit-skistars-hautnah-episode-3-adrenalin-und-leidenschaft-doku-100",
-      "duration": 2695,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ZDF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Junger Dokumentarfilm: Palace of Youth - Junge Musikszene im Kosovo",
-      "type": "tv",
-      "overview": "Im Kosovo legen junge Musiker*innen einer Nachkriegsgeneration ihre Wut, Träume und Zweifel in die Musik- laut, verletzlich, kompromisslos. Im Herzen von Pristina, der Hauptstadt des Kosovo, wächst eine junge Musikszene, deren Sound von politischer Isolation, Nachkriegserfahrung und digitaler Vernetzung geprägt ist....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "junger dokumentarfilm"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIzNjUyOTE",
-      "duration": 3491,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "30 Jahre Gerhard Polt & die Biermösl Blosn",
-      "type": "tv",
-      "overview": "30 Jahre Gerhard Polt und die Biermösl Blosn: Sie spiegelten, was man im besten Sinn \"bayerisch\" nennt: widerspenstig, anarchisch und doch tief im Bayerischen verwurzelt. \"Man kritisiert nur, wofür es sich lohnt zu kämpfen!\", sagten sie. Dazu gehörte der unbestechliche Blick: Und sie schauten genau hin. Oft zum Verdruss derer, die in ihr Blickfeld gerieten: Politiker, Parteien Institutionen....",
-      "genres": [
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Dokus & Reportagen im BR"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://www.ardmediathek.de/video/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyMldPMDA4OTkyQTA",
-      "duration": 3520,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ARD"
       }
     },
     {
@@ -7175,6 +7351,29 @@
     },
     {
       "tmdb_id": null,
+      "title": "Stolpersteine - Gegen das Vergessen",
+      "type": "tv",
+      "overview": "Mehr als 100.000 Stolpersteine erinnern in über 30 Ländern Europas an die Opfer des Nationalsozialismus. Das Projekt, das in den 1990er Jahren vom deutschen Künstler Gunter Demnig ins Leben gerufen wurde, wächst stetig weiter. Die Dokumentation erzählt von den persönlichen Geschichten hinter den Steinen und Herausforderungen unserer Erinnerungskultur.",
+      "genres": [
+        "Historie",
+        "Dokumentarfilm"
+      ],
+      "keywords": [
+        "Geschichte - Das 20. Jahrhundert"
+      ],
+      "rating": null,
+      "vote_count": 0,
+      "poster_path": null,
+      "url": "https://www.arte.tv/de/videos/120450-000-A/stolpersteine-gegen-das-vergessen/",
+      "duration": 3179,
+      "providers": {
+        "netflix": null,
+        "prime": null,
+        "mediathek": "arte"
+      }
+    },
+    {
+      "tmdb_id": null,
       "title": "U-Boote, Hitlers \"Graue Wölfe\" - Geschehen, neu gesehen. - \"Wahre Geschichte\"",
       "type": "tv",
       "overview": "Die deutsche U-Boot-Flotte hatte noch lange nach dem Ende des Zweiten Weltkriegs den Ruf, nahezu unbesiegbar gewesen zu sein. Tatsächlich waren Hitlers \"Graue Wölfe\" aber eher eine psychologische Waffe. Trotz der versenkten Tonnage der Alliierten konnten die deutschen U-Boote weder den feindlichen Nachschub wirksam unterbinden noch irgendein strategisches Ziel erreichen.",
@@ -7328,29 +7527,6 @@
       "poster_path": null,
       "url": "https://on.orf.at/video/14257686/oesterreich-die-ganze-geschichte-9-10-ein-diener-macht-schluss",
       "duration": 2749,
-      "providers": {
-        "netflix": null,
-        "prime": null,
-        "mediathek": "ORF"
-      }
-    },
-    {
-      "tmdb_id": null,
-      "title": "Österreich - Die ganze Geschichte (8/10): Scheuende Pferde",
-      "type": "tv",
-      "overview": "Die Habsburgermonarchie war ein Reich voller Spannungen. In Bosnien, Böhmen und anderen Regionen wuchs der Wunsch nach nationaler Selbstbestimmung. Attentate und politische Konflikte verschärften die Lage, während der Machtkampf mit Russland den Balkan zum Krisenherd machte. Die Folge zeigt, wie diese Entwicklungen zum Ersten Weltkrieg führten und Europas Landkarte bis heute prägen. Bildquelle: ORF/Clever Contents",
-      "genres": [
-        "Historie",
-        "Dokumentarfilm"
-      ],
-      "keywords": [
-        "Österreich - Die ganze Geschichte Staffel 2"
-      ],
-      "rating": null,
-      "vote_count": 0,
-      "poster_path": null,
-      "url": "https://on.orf.at/video/14257601/oesterreich-die-ganze-geschichte-8-10-scheuende-pferde",
-      "duration": 2715,
       "providers": {
         "netflix": null,
         "prime": null,
